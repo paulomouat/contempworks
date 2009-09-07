@@ -1,0 +1,4018 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+  <composer name="Peter" surname="Ablinger" born="1959" died="">
+    <composition>
+      <name>IEAOV Instrumente und ElektroAkustisch Ortsbezogene Verdichtung</name>
+      <description>f&uuml;r 2 Posaunen und 2 Violoncelli</description>
+      <length>22:29</length>
+      <instrument name="Posaune">
+        <player name="Michael Svoboda"/>
+        <player name="Andrew Digby"/>
+      </instrument>
+      <instrument name="Violoncello">
+        <player name="Gregory Johns"/>
+        <player name="Scott Roller"/>
+      </instrument>
+      <player name="Experimentalstudio der Heinrich-Strobel-Stiftung des S&uuml;dwestfunks Freiburg"/>
+      <instrument name="Musikinformatik und Klangregie">
+        <player name="Kent Clelland"/>
+        <player name="Joachim Haas"/>
+        <player name="Thomas Hummel"/>
+        <player name="Andr&eacute; Richard"/>
+        <player name="Peter Ablinger"/>
+      </instrument>
+      <composed start="1995" end="1997"/>
+      <recorded start="1997"/>
+      <release>Col Legno WWE 3CD 20026</release>
+      <released>1998</released>
+    </composition>
+  </composer>
+  <composer name="Pedro" surname="Amaral" born="1972" died="">
+    <composition>
+      <name>...Textos, Par&aacute;frases, Perspectivas...</name>
+      <description>for piano and 9 instruments</description>
+      <length>19:35</length>
+      <player name="London Sinfonietta"/>
+      <conductor>Pedro Amaral</conductor>
+      <composed start="1994" end="1996"/>
+      <recorded start="2006"/>
+      <release>CGF CD1001</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Spirales</name>
+      <description>for 16 instruments</description>
+      <length>8:28</length>
+      <player name="London Sinfonietta"/>
+      <conductor>Pedro Amaral</conductor>
+      <composed start="1998"/>
+      <recorded start="2006"/>
+      <release>CGF CD1001</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Organa</name>
+      <description>for 8 instruments</description>
+      <length>14:14</length>
+      <player name="London Sinfonietta"/>
+      <conductor>Pedro Amaral</conductor>
+      <composed start="2001"/>
+      <recorded start="2006"/>
+      <release>CGF CD1001</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Paraphrase</name>
+      <description>for 17 instruments</description>
+      <length>18:21</length>
+      <player name="London Sinfonietta"/>
+      <conductor>Pedro Amaral</conductor>
+      <composed start="2006"/>
+      <recorded start="2006"/>
+      <release>CGF CD1001</release>
+      <released>2007</released>
+    </composition>
+  </composer>
+  <composer name="Martin" surname="Amlin" born="1953" died="">
+    <composition>
+      <name>Time's Caravan</name>
+      <length>11:31</length>
+      <player name="John Oliver Chorale"/>
+      <conductor>John Oliver</conductor>
+      <composed start="1988"/>
+      <recorded start="1992"/>
+      <release>Koch 3-7178-2H1</release>
+      <released>1994</released>
+    </composition>
+  </composer>
+  <composer name="Marc" surname="Andr&eacute;" born="1964" died="">
+    <composition>
+      <name>AB II</name>
+      <description>f&uuml;r Kontraba&szlig;klarinette, Violoncello, Cymbalon, Schlagzeug, Klavier und Live-Elektronik</description>
+      <length>24:55</length>
+      <player name="Ensemble Recherche"/>
+      <instrument name="Klangregie">
+        <player name="Andr&eacute; Richard"/>
+      </instrument>
+      <player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+      <composed start="1997"/>
+      <recorded start="1997"/>
+      <release>Col Legno WWE 3CD 20025</release>
+      <released>1998</released>
+    </composition>
+  </composer>
+  <composer name="Georges" surname="Aperghis" born="1945" died="">
+    <composition>
+      <name>Triangle Carr&eacute;</name>
+      <description>pour 4 cordes et 3 percussions</description>
+      <length>22:44</length>
+      <player name="Arditti String Quartet"/>
+      <player name="Trio Le Cercle"/>
+      <composed start="1989"/>
+      <recorded start="1990"/>
+      <release>Montaigne 782002</release>
+      <released>1991</released>
+    </composition>
+  </composer>
+  <composer name="B&uuml;lent" surname="Arel" born="1919" died="">
+    <composition>
+      <name>Stereo Electronic Music No. 2</name>
+      <length>14:18</length>
+      <player name="Columbia-Princeton Electronic Music Center"/>
+      <composed start="1970"/>
+      <recorded start="1970"/>
+      <release>CRI CD611</release>
+      <released>1991</released>
+    </composition>
+  </composer>
+  <composer name="Anneli" surname="Arho" born="1951" died="">
+    <composition>
+      <name>Minos'</name>
+      <length>8:25</length>
+      <instrument name="Cravo">
+        <player name="Jukka Tiensuu"/>
+      </instrument>
+      <composed start="1978"/>
+      <recorded start="?"/>
+      <release>Finlandia FACD 367</release>
+      <released/>
+    </composition>
+  </composer>
+  <composer name="Milton" surname="Babbitt" born="1916" died="">
+    <composition>
+      <name>Philomel</name>
+      <description>for soprano, recorded soprano and electronically synthesized sound</description>
+      <length>18:35</length>
+      <instrument name="Soprano">
+        <player name="Judith Bettina"/>
+      </instrument>
+      <player name="Columbia-Princeton Electronic Music Center"/>
+      <composed start="1963"/>
+      <recorded start="?"/>
+      <release>Neuma 450-74</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Phonemena</name>
+      <description>for soprano and tape</description>
+      <length>4:18</length>
+      <instrument name="Soprano">
+        <player name="Judith Bettina"/>
+      </instrument>
+      <player name="Columbia-Princeton Electronic Music Center"/>
+      <composed start="1969"/>
+      <recorded start="?"/>
+      <release>Neuma 450-74</release>
+      <released>1990</released>
+    </composition>
+  </composer>
+  <composer name="B&eacute;la" surname="Bart&oacute;k" born="1881" died="1945">
+    <composition>
+      <name>Le Prince de bois</name>
+      <description>Op.13 (Sz 60)</description>
+      <length>53:23</length>
+      <instrument name="Xylophone">
+        <player name="Walter Rosenberg"/>
+      </instrument>
+      <player name="New York Philharmonic"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start=""/>
+      <recorded start="1975"/>
+      <release>Sony SM2K61726</release>
+      <released>1999</released>
+    </composition>
+    <composition>
+      <name>Suite de danses</name>
+      <description>(Sz 77)</description>
+      <length>17:46</length>
+      <player name="New York Philharmonic"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start=""/>
+      <recorded start="1972"/>
+      <release>Sony SM2K61726</release>
+      <released>1999</released>
+    </composition>
+    <composition>
+      <name>Concerto pour orchestre</name>
+      <length>37:07</length>
+      <player name="New York Philharmonic"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start=""/>
+      <recorded start="1972"/>
+      <release>Sony SM2K61726</release>
+      <released>1999</released>
+    </composition>
+    <composition score="Y">
+      <name>Musique pour cordes, percussion et c&eacute;lesta</name>
+      <length>29:58</length>
+      <player name="BBC Symphony Orchestra"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start=""/>
+      <recorded start="1967"/>
+      <release>Sony SM2K61726</release>
+      <released>1999</released>
+    </composition>
+  </composer>
+  <composer name="Fran&ccedil;ois" surname="Bayle" born="1932" died="">
+    <composition>
+      <name>Trois r&ecirc;ves d'oiseau</name>
+      <length>9:58</length>
+      <part>
+        <number>1</number>
+        <name>L'oiseau moqueur</name>
+        <length>3:28</length>
+      </part>
+      <part>
+        <number>2</number>
+        <name>L'oiseau triste</name>
+        <length>2:30</length>
+      </part>
+      <part>
+        <number>3</number>
+        <name>L'oiseau zen</name>
+        <length>4:00</length>
+      </part>
+      <player name="INA-GRM, Paris"/>
+      <composed start="1963" end="1971"/>
+      <recorded start="1971"/>
+      <release>Agon PV725001</release>
+      <released>1997</released>
+    </composition>
+    <composition>
+      <name>Vibrations Compos&eacute;es</name>
+      <length>35:58</length>
+      <player name="INA-GRM, Paris"/>
+      <composed start="1973"/>
+      <recorded start="1973"/>
+      <release>Adda MMGCB 0392</release>
+      <released>1992</released>
+    </composition>
+    <composition>
+      <name>Grande Polyphonie</name>
+      <length>36:22</length>
+      <player name="INA-GRM, Paris"/>
+      <composed start="1974"/>
+      <recorded start="1974"/>
+      <release>Adda MMGCB 0392</release>
+      <released>1992</released>
+    </composition>
+    <composition>
+      <name>Son Vitesse-Lumi&egrave;re</name>
+      <length>1:59:23</length>
+      <part>
+        <number>1</number>
+        <name>Grandeur Nature</name>
+        <length>31:49</length>
+      </part>
+      <part>
+        <number>2</number>
+        <name>Paysage, personnage, nuage</name>
+        <length>24:06</length>
+      </part>
+      <part>
+        <number>3</number>
+        <name>Voyage au centre de la t&ecirc;te</name>
+        <length>20:25</length>
+      </part>
+      <part>
+        <number>4</number>
+        <name>Le sommeil d'Euclide</name>
+        <length>20:37</length>
+      </part>
+      <part>
+        <number>5</number>
+        <name>Lumi&egrave;re ralentie</name>
+        <length>21:39</length>
+      </part>
+      <player name="INA-GRM, Paris"/>
+      <composed start="1980" end="1983"/>
+      <recorded start="1983"/>
+      <release>Musidisc 247392</release>
+      <released>1997</released>
+    </composition>
+    <composition>
+      <name>Le Sommeil d'Euclide</name>
+      <length>20:39</length>
+      <player name="INA-GRM, Paris"/>
+      <composed start="1983"/>
+      <recorded start="1983"/>
+      <release>Wergo WER 2023-50</release>
+      <released>1989</released>
+    </composition>
+    <composition>
+      <name>Motion-&Eacute;motion</name>
+      <length>22:01</length>
+      <player name="INA-GRM, Paris"/>
+      <composed start="1985"/>
+      <recorded start="1985"/>
+      <release>Musidisc 292432</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Mimameta</name>
+      <length>11:01</length>
+      <player name="INA-GRM, Paris"/>
+      <composed start="1989"/>
+      <recorded start="1989"/>
+      <release>Agon PV725001</release>
+      <released>1997</released>
+    </composition>
+    <composition>
+      <name>La Main Vide</name>
+      <length>42:41</length>
+      <part>
+        <number>1</number>
+        <name>B&acirc;ton de pluie</name>
+        <length>19:55</length>
+      </part>
+      <part>
+        <number>2</number>
+        <name>La fleur future</name>
+        <length>12:22</length>
+      </part>
+      <part>
+        <number>3</number>
+        <name>Inventions</name>
+        <length>10:05</length>
+      </part>
+      <player name="INA-GRM, Paris"/>
+      <composed start="1993" end="1995"/>
+      <recorded start="1995"/>
+      <release>Musidisc 245542</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>La forme du temps est un cercle</name>
+      <length>59:20</length>
+      <player name="INA-GRM, Paris"/>
+      <composed start="1999" end="2001"/>
+      <recorded start="2001"/>
+      <release>M10 275862</release>
+      <released>2001</released>
+    </composition>
+  </composer>
+  <composer name="Alban" surname="Berg" born="1885" died="1935">
+    <composition>
+      <name>Lyrische Suite</name>
+      <length>27:22</length>
+      <player name="LaSalle Quartett"/>
+      <composed start="?"/>
+      <recorded start="1927" end="1978"/>
+      <release>Col Legno CD1 31901</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>Lyrische Suite</name>
+      <description>Three movements adapted for string orchestra</description>
+      <length>14:57</length>
+      <player name="New York Philharmonic"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1928"/>
+      <recorded start="?"/>
+      <release>Sony</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Der Wein</name>
+      <description>Concert aria for soprano and orchestra</description>
+      <length>12:31</length>
+      <instrument name="Soprano">
+        <player name="Jessie Norman"/>
+      </instrument>
+      <player name="New York Philharmonic"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1929"/>
+      <recorded start="?"/>
+      <release>Sony</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Lulu-Suite</name>
+      <description>for soprano and orchestra</description>
+      <length>30:15</length>
+      <instrument name="Soprano">
+        <player name="Judith Blegen"/>
+      </instrument>
+      <player name="New York Philharmonic"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1934"/>
+      <recorded start="?"/>
+      <release>Sony</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Symphonische St&uuml;cke aus der Oper "Lulu" (Lulu-Suite)</name>
+      <description>for soprano and orchestra</description>
+      <length>34:14</length>
+      <instrument name="Soprano">
+        <player name="Arleen Aug&eacute;r"/>
+      </instrument>
+      <player name="City of Birmingham Symphony Orchestra"/>
+      <conductor>Simon Rattle</conductor>
+      <composed start="1934"/>
+      <recorded start="1988"/>
+      <release>EMI</release>
+      <released>1989</released>
+    </composition>
+  </composer>
+  <composer name="Erik" surname="Bergman" born="1911" died="2006">
+    <composition>
+      <name>Energien</name>
+      <length>4:07</length>
+      <instrument name="Cravo">
+        <player name="Jukka Tiensuu"/>
+      </instrument>
+      <composed start="1970"/>
+      <recorded start="?"/>
+      <release>Finlandia FACD 367</release>
+      <released/>
+    </composition>
+  </composer>
+  <composer name="Luciano" surname="Berio" born="1925" died="2003">
+    <composition>
+      <name>Diff&eacute;rences</name>
+      <description>pour ensemble</description>
+      <length>14:29</length>
+      <player name="Contempoensemble"/>
+      <conductor>Mauro Ceccanti</conductor>
+      <composed start="1958"/>
+      <recorded start="1992"/>
+      <release>Arts 447135-2</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>Quartetto per archi</name>
+      <length>7:38</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1956"/>
+      <recorded start="1992"/>
+      <release>Montaigne 782042</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Quatuor n. 1</name>
+      <description>for string quartet</description>
+      <length>8:26</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1956"/>
+      <recorded start="2002"/>
+      <release>Montaigne 782155</release>
+      <released>2002</released>
+    </composition>
+    <composition score="Y">
+      <name>Thema - Omaggio a Joyce</name>
+      <length>6:12</length>
+      <player name="Studio di Fonologia, RAI"/>
+      <composed start="1958"/>
+      <recorded start="1958"/>
+      <release>BV Haast CD 9109</release>
+      <released/>
+    </composition>
+    <composition score="Y">
+      <name>Sequenza I</name>
+      <description>for flute</description>
+      <length>6:02</length>
+      <instrument name="Flute">
+        <player name="Sophie Cherrier"/>
+      </instrument>
+      <composed start="1958"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Momenti</name>
+      <length>7:11</length>
+      <player name="Studio di Fonologia, RAI"/>
+      <composed start="1960"/>
+      <recorded start="1960"/>
+      <release>BV Haast CD 9109</release>
+      <released/>
+    </composition>
+    <composition>
+      <name>Visage</name>
+      <length>21:04</length>
+      <player name="Studio di Fonologia, RAI"/>
+      <composed start="1961"/>
+      <recorded start="1961"/>
+      <release>BV Haast CD 9109</release>
+      <released/>
+    </composition>
+    <composition>
+      <name>Sequenza II</name>
+      <description>for harp</description>
+      <length>8:18</length>
+      <instrument name="Harp">
+        <player name="Fr&eacute;d&eacute;rique Cambreling"/>
+      </instrument>
+      <composed start="1963"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Sincronie</name>
+      <description>for string quartet</description>
+      <length>18:26</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1963" end="1964"/>
+      <recorded start="2002"/>
+      <release>Montaigne 782155</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Sequenza III</name>
+      <description>for woman's voice</description>
+      <length>8:16</length>
+      <instrument name="Soprano">
+        <player name="Luisa Castellani"/>
+      </instrument>
+      <composed start="1965"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition score="Y">
+      <name>Sequenza V</name>
+      <description>for trombone</description>
+      <length>6:58</length>
+      <instrument name="Trombone">
+        <player name="Benny Sluchin"/>
+      </instrument>
+      <composed start="1965"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Sequenza IV</name>
+      <description>for piano</description>
+      <length>11:06</length>
+      <instrument name="Piano">
+        <player name="Florent Boffard"/>
+      </instrument>
+      <composed start="1966"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Sequenza VI</name>
+      <description>for viola</description>
+      <length>12:13</length>
+      <instrument name="Viola">
+        <player name="Christophe Desjardins"/>
+      </instrument>
+      <composed start="1967"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Chemins II (su "Sequenza VI")</name>
+      <length>12:34</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1967"/>
+      <recorded start="1989"/>
+      <release>Sony SK 45 862</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Sinfonia f&uuml;r acht Stimmen und Orchester</name>
+      <length>32:24</length>
+      <player name="Swingle Singers"/>
+      <player name="SWF-Sinfonieorchester Baden-Baden"/>
+      <conductor>Ernest Bour</conductor>
+      <composed start="1968" end="1969"/>
+      <recorded start="1969"/>
+      <release>Col Legno CD1 31903</release>
+      <released>1996</released>
+    </composition>
+    <composition score="Y">
+      <name>Sequenza VII</name>
+      <description>for oboe</description>
+      <length>6:54</length>
+      <instrument name="Oboe">
+        <player name="L&aacute;szl&oacute; Hadady"/>
+      </instrument>
+      <composed start="1969"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Chemins IV (su "Sequenza VII")</name>
+      <length>9:30</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1975"/>
+      <recorded start="1989"/>
+      <release>Sony SK 45 862</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name> "Points on the curve to find..."</name>
+      <description>for piano and 22 instrumentalists</description>
+      <length>13:33</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1974"/>
+      <recorded start="1989"/>
+      <release>Sony SK 45 862</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Sequenza VIII</name>
+      <description>for violin</description>
+      <length>12:57</length>
+      <instrument name="Violin">
+        <player name="Jeanne-Marie Conquer"/>
+      </instrument>
+      <composed start="1976"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Ritorno degli snovidenia</name>
+      <description>per violoncello e piccola orchestra</description>
+      <length>18:11</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1976"/>
+      <recorded start="1989"/>
+      <release>Sony SK 45 862</release>
+      <released>1990</released>
+    </composition>
+    <composition score="Y">
+      <name>Sequenza IXa</name>
+      <description>for clarinet</description>
+      <length>13:33</length>
+      <instrument name="Clarinet">
+        <player name="Alain Damiens"/>
+      </instrument>
+      <composed start="1980"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Sequenza IXb</name>
+      <description>for saxophone</description>
+      <length>14:19</length>
+      <instrument name="Saxophone">
+        <player name="Christian Wirth"/>
+      </instrument>
+      <composed start="1981"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Corale</name>
+      <description>for solo violin, 2 french horns and string orchestra</description>
+      <length>4:43 (excerpt)</length>
+      <instrument name="Violin">
+        <player name="Maryvonne Le Diz&egrave;s-Richard"/>
+      </instrument>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1981" end="1982"/>
+      <recorded start="1987" end="1988"/>
+      <release> Montaigne 780518</release>
+      <released>1989-94</released>
+    </composition>
+    <composition>
+      <name>Corale (su "Sequenza VIII")</name>
+      <description>per violino, due corni e archi</description>
+      <length>15:55</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1981"/>
+      <recorded start="1989"/>
+      <release>Sony SK 45 862</release>
+      <released>1990</released>
+    </composition>
+    <composition score="Y">
+      <name>Sequenza X</name>
+      <description>for trumpet in C and piano resonance</description>
+      <length>14:03</length>
+      <instrument name="Trumpet">
+        <player name="Gabriele Cassone"/>
+      </instrument>
+      <composed start="1984"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Sequenza XI</name>
+      <description>for guitar</description>
+      <length>15:19</length>
+      <instrument name="Guitar">
+        <player name="Eliot Fisk"/>
+      </instrument>
+      <composed start="1987" end="1988"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Notturno</name>
+      <description>for string quartet</description>
+      <length>25:01</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1993"/>
+      <recorded start="2002"/>
+      <release>Montaigne 782155</release>
+      <released>2002</released>
+    </composition>
+    <composition score="Y">
+      <name>Sequenza XII</name>
+      <description>for bassoon</description>
+      <length>18:31</length>
+      <instrument name="Bassoon">
+        <player name="Pascal Gallois"/>
+      </instrument>
+      <composed start="1995"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Sequenza XIII</name>
+      <description>for accordion "Chanson"</description>
+      <length>8:15</length>
+      <instrument name="Accordion">
+        <player name="Teodoro Anzellotti"/>
+      </instrument>
+      <composed start="1995"/>
+      <recorded start="1994" end="1997"/>
+      <release>Deutsche Grammophon 457038-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Glosse</name>
+      <description>for string quartet</description>
+      <length>9:48</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1997"/>
+      <recorded start="2002"/>
+      <release>Montaigne 782155</release>
+      <released>2002</released>
+    </composition>
+  </composer>
+  <composer name="Antoine" surname="Beuger" born="1955" died="">
+    <composition>
+      <name>Fourth Music for Marcia Hafif (3)</name>
+      <description>f&uuml;r Orchester</description>
+      <length>13:50</length>
+      <player name="SWF-Sinfonieorchester Baden-Baden und Freiburg"/>
+      <conductor>Olaf Henzold</conductor>
+      <composed start="1997"/>
+      <recorded start="1997"/>
+      <release>Col Legno WWE 3CD 20026</release>
+      <released>1998</released>
+    </composition>
+  </composer>
+  <composer name="Konrad" surname="Boehmer" born="1941" died="">
+    <composition>
+      <name>Aspekt</name>
+      <description>for 4-track tape</description>
+      <length>15:13</length>
+      <player name="Institute of Sonology, Utrecht"/>
+      <composed start="1966" end="1968"/>
+      <recorded start="1968"/>
+      <release>BVHaast 9011</release>
+      <released>?</released>
+    </composition>
+    <composition>
+      <name>Cry of this earth</name>
+      <description>for 2-track tape and percussion</description>
+      <length>15:06</length>
+      <instrument name="Percussion">
+        <player name="Chris Shultis"/>
+      </instrument>
+      <composed start="1977" end="1978"/>
+      <recorded start="1984"/>
+      <release>BVHaast 9011</release>
+      <released>?</released>
+    </composition>
+    <composition>
+      <name>Apocalipsis cum figuris</name>
+      <description>for 8-track tape, 2 pianists, 4 percussionists and 3 pop singers</description>
+      <length>37:59</length>
+      <instrument name="Vocals">
+        <player name="Jan Hendriks"/>
+        <player name="Ernst Jansz"/>
+        <player name="Henny Vrienten"/>
+      </instrument>
+      <instrument name="Piano">
+        <player name="Fr&eacute;deric Rzewski"/>
+        <player name="Geoffrey Madge"/>
+      </instrument>
+      <player name="The Hague Percussion Ensemble"/>
+      <conductor>Konrad Boehmer</conductor>
+      <composed start="1984"/>
+      <recorded start="1984"/>
+      <release>BVHaast 9011</release>
+      <released>?</released>
+    </composition>
+  </composer>
+  <composer name="Pierre" surname="Boulez" born="1925" died="">
+    <composition>
+      <name>Notations</name>
+      <description>douze notations pour piano</description>
+      <length>10:43</length>
+      <instrument name="Piano">
+        <player name="Pierre-Laurent Aimard"/>
+      </instrument>
+      <composed start="1945"/>
+      <recorded start="1993"/>
+      <release>Deutsche Grammophon 445833-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Notations</name>
+      <description>pour piano</description>
+      <length>9:18</length>
+      <instrument name="Piano">
+        <player name="Pi-Hsien Chen"/>
+      </instrument>
+      <composed start="1945"/>
+      <recorded start="1985"/>
+      <release>CBS MK 42619</release>
+      <released>1989</released>
+    </composition>
+    <composition>
+      <name>Notations</name>
+      <description>pour orchestre</description>
+      <length>10:09</length>
+      <player name="Orchestre de Paris"/>
+      <conductor>Daniel Baremboim</conductor>
+      <composed start="1945" end="1978"/>
+      <recorded start="1988"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Notations I-IV</name>
+      <description>pour orchestre</description>
+      <length>9:59</length>
+      <player name="Wiener Philharmoniker"/>
+      <conductor>Claudio Abbado</conductor>
+      <composed start="1945" end="1978"/>
+      <recorded start="1988"/>
+      <release>Deutsche Grammophon 429260-2</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Sonatine</name>
+      <description>pour fl&ucirc;te et piano</description>
+      <length>11:27</length>
+      <instrument name="Fl&ucirc;te">
+        <player name="Sophie Cherrier"/>
+      </instrument>
+      <instrument name="Piano">
+        <player name="Pierre-Laurent Aimard"/>
+      </instrument>
+      <composed start="1946"/>
+      <recorded start="1990"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Premi&egrave;re sonate</name>
+      <description>pour piano</description>
+      <length>8:39</length>
+      <instrument name="Piano">
+        <player name="Pierre-Laurent Aimard"/>
+      </instrument>
+      <composed start="1946"/>
+      <recorded start="1990"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Premi&egrave;re sonate</name>
+      <description>pour piano</description>
+      <length>8:50</length>
+      <instrument name="Piano">
+        <player name="Claude Helffer"/>
+      </instrument>
+      <composed start="1946"/>
+      <recorded start="1980"/>
+      <release>Astr&eacute;e Auvidis E7716</release>
+      <released>1986</released>
+    </composition>
+    <composition>
+      <name>Premi&egrave;re sonate</name>
+      <description>pour piano</description>
+      <length>9:44</length>
+      <instrument name="Piano">
+        <player name="Paavali Jumppanen"/>
+      </instrument>
+      <composed start="1946"/>
+      <recorded start="2004"/>
+      <release>Deutsche Grammophon 00289 4775328</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>Le visage nuptial</name>
+      <length>30:00</length>
+      <player name="BBC Symphony Orchestra"/>
+      <instrument name="Soprano">
+        <player name="Phyllis Bryn-Julson"/>
+      </instrument>
+      <instrument name="Alto">
+        <player name="Elizabeth Laurence"/>
+      </instrument>
+      <player name="BBC Singers"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1946" end="1989"/>
+      <recorded start="1989"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Figures, doubles, prismes</name>
+      <length>20:43</length>
+      <player name="BBC Symphony Orchestra"/>
+      <instrument name="Soprano">
+        <player name="Phyllis Bryn-Julson"/>
+      </instrument>
+      <instrument name="Alto">
+        <player name="Elizabeth Laurence"/>
+      </instrument>
+      <player name="BBC Singers"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1947" end="1968"/>
+      <recorded start="1985"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Deuxi&egrave;me sonate</name>
+      <description>pour piano</description>
+      <length>27:47</length>
+      <instrument name="Piano">
+        <player name="Claude Helffer"/>
+      </instrument>
+      <composed start="1948"/>
+      <recorded start="1980"/>
+      <release>Astr&eacute;e Auvidis E7716</release>
+      <released>1986</released>
+    </composition>
+    <composition>
+      <name>Deuxi&egrave;me sonate</name>
+      <description>pour piano</description>
+      <length>31:06</length>
+      <instrument name="Piano">
+        <player name="Paavali Jumppanen"/>
+      </instrument>
+      <composed start="1947" end="1948"/>
+      <recorded start="2004"/>
+      <release>Deutsche Grammophon 00289 4775328</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>Tombeau &agrave; la m&eacute;moire du Prince Max Egon zu F&uuml;rstenberg</name>
+      <description>Un peu profond ruisseau calomni&eacute;e la mort (Mallarm&eacute;)</description>
+      <length>7:18</length>
+      <instrument name="Sopran">
+        <player name="Eva-Maria Rogner"/>
+      </instrument>
+      <player name="Ensemble Domaine Musical Paris"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="?"/>
+      <recorded start="1959"/>
+      <release>Col Legno CD1 31905</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>Polyphonie X</name>
+      <description>f&uuml;r 18 Solo-Instrumente</description>
+      <length>16:36</length>
+      <player name="SWF-Sinfonieorchester Baden-Baden"/>
+      <conductor>Hans Rosbaud</conductor>
+      <composed start="1951"/>
+      <recorded start="1951"/>
+      <release>Col Legno CD1 31908</release>
+      <released>1996</released>
+    </composition>
+    <composition score="Y">
+      <name>Le marteau sans ma&icirc;tre</name>
+      <description>pour ensemble</description>
+      <length>37:22</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1953" end="1955"/>
+      <recorded start="1985"/>
+      <release>CBS MK 42619</release>
+      <released>1989</released>
+    </composition>
+    <composition score="Y">
+      <name>Le marteau sans ma&icirc;tre</name>
+      <description>pour voix d'alto et 6 instruments</description>
+      <length>38:32</length>
+      <instrument name="Mezzo-soprano">
+        <player name="Hilary Summers"/>
+      </instrument>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1953" end="1955"/>
+      <recorded start="2002"/>
+      <release>Deutsche Grammophon 00289 4775327</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>Structures, Livre II</name>
+      <description>pour deux pianos</description>
+      <length>21:04</length>
+      <instrument name="Piano">
+        <player name="Pi-Hsien Chen"/>
+        <player name="Bernard Wambach"/>
+      </instrument>
+      <composed start="1956" end="1961"/>
+      <recorded start="1985"/>
+      <release>CBS MK 42619</release>
+      <released>1989</released>
+    </composition>
+    <composition>
+      <name>Structures, Livre II</name>
+      <description>pour deux pianos</description>
+      <length>22:06</length>
+      <instrument name="Piano">
+        <player name="Pierre-Laurent Aimard"/>
+        <player name="Florent Boffard"/>
+      </instrument>
+      <composed start="1956" end="1961"/>
+      <recorded start="1993"/>
+      <release>Deutsche Grammophon 445833-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Structures, Livre II</name>
+      <description>pour deux pianos</description>
+      <length>34:58</length>
+      <instrument name="Stimme">
+        <player name="Cathy Berberian"/>
+      </instrument>
+      <instrument name="Piano">
+        <player name="Yvonne Loriod"/>
+        <player name="Pierre Boulez"/>
+      </instrument>
+      <player name="Bl&auml;serquintett des SWF"/>
+      <player name="Mitglieder des SWF-Sinfonieorchester Baden-Baden"/>
+      <conductor>Hans Rosbaud</conductor>
+      <composed start="1956" end="1961"/>
+      <recorded start="1961"/>
+      <release>Col Legno CD1 31909</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>Po&eacute;sie pour pouvoir</name>
+      <description>Nach der dichtung von Henri Michaux</description>
+      <length>18:31</length>
+      <instrument name="Sprechstimme auf Tonband">
+        <player name="Michel Bouquet"/>
+      </instrument>
+      <instrument name="Technische Leitung">
+        <player name="Ludwig Heck"/>
+      </instrument>
+      <instrument name="Toningenieure">
+        <player name="Fred B&uuml;rck"/>
+        <player name="Suzanne Vogt"/>
+        <player name="Hans Wurm"/>
+      </instrument>
+      <player name="SWF-Sinfonieorchester Baden-Baden"/>
+      <conductor>Hans Rosbaud, Pierre Boulez</conductor>
+      <composed start="?"/>
+      <recorded start="1958"/>
+      <release>Col Legno CD1 31909</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>Pli selon pli</name>
+      <length>1:09:24</length>
+      <player name="Ensemble Intercontemporain"/>
+      <instrument name="Soprano">
+        <player name="Christine Sch&auml;fer"/>
+      </instrument>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1957" end="1962"/>
+      <recorded start="2001"/>
+      <release>Deutsche Grammophon 289 471 344-2</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Pli selon pli</name>
+      <length>1:08:04</length>
+      <player name="BBC Symphony Orchestra"/>
+      <instrument name="Soprano">
+        <player name="Phyllis Bryn-Julson"/>
+      </instrument>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1957" end="1962"/>
+      <recorded start="1981"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Pli selon pli</name>
+      <length>59:47</length>
+      <player name="BBC Symphony Orchestra"/>
+      <instrument name="Soprano">
+        <player name="Halina Lukomska"/>
+      </instrument>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1957" end="1962"/>
+      <recorded start="1969"/>
+      <release>Sony SMK 68 335</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Soleil des eaux</name>
+      <length>10:12</length>
+      <player name="BBC Symphony Orchestra"/>
+      <instrument name="Soprano">
+        <player name="Phyllis Bryn-Julson"/>
+      </instrument>
+      <instrument name="Alto">
+        <player name="Elizabeth Laurence"/>
+      </instrument>
+      <player name="BBC Singers"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1950" end="1965"/>
+      <recorded start="1989"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Troisi&egrave;me sonate</name>
+      <description>pour piano</description>
+      <length>21:04</length>
+      <instrument name="Piano">
+        <player name="Claude Helffer"/>
+      </instrument>
+      <composed start="1957" end="1958"/>
+      <recorded start="1980"/>
+      <release>Astr&eacute;e Auvidis E7716</release>
+      <released>1986</released>
+    </composition>
+    <composition>
+      <name>Troisi&egrave;me sonate</name>
+      <description>pour piano</description>
+      <length>19:02</length>
+      <instrument name="Piano">
+        <player name="Paavali Jumppanen"/>
+      </instrument>
+      <composed start="1955" end="1957"/>
+      <recorded start="2004"/>
+      <release>Deutsche Grammophon 00289 4775328</release>
+      <released>2005</released>
+    </composition>
+    <composition score="Y">
+      <name>&Eacute;clat</name>
+      <description>for 15 instruments</description>
+      <length>14:34 (excerpts and commentaries)</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1964"/>
+      <recorded>1987-88</recorded>
+      <release>Montaigne 780518</release>
+      <released>1989-94</released>
+    </composition>
+    <composition>
+      <name>Livre pour cordes</name>
+      <length>10:34</length>
+      <player name="Strings of the New Philharmonia Orchestra"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1968"/>
+      <recorded start="1968"/>
+      <release>Sony SMK 68 335</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Cummings ist der Dichter</name>
+      <length>13:22</length>
+      <player name="BBC Singers "/>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1970" end="1986"/>
+      <recorded start="1990"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Cummings ist der Dichter</name>
+      <length>13:22</length>
+      <player name="BBC Singers "/>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1970" end="1986"/>
+      <recorded start="1990"/>
+      <release>Erato 0630-15993-2</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>...explosante-fixe...</name>
+      <length>36:43</length>
+      <instrument name="solo midi flute">
+        <player name="Sophie Cherrier"/>
+      </instrument>
+      <instrument name="flute">
+        <player name="Emmanuelle Oph&egrave;le"/>
+        <player name="Pierre-Andr&eacute; Valade"/>
+      </instrument>
+      <player name="Ensemble InterContemporain"/>
+      <instrument name="IRCAM/Electro-acoustic realization">
+        <player name="Andrew Gerzso"/>
+      </instrument>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1972"/>
+      <recorded start="1994"/>
+      <release>Deutsche Grammophon 445833-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Rituel</name>
+      <description>in memoriam Bruno Maderna</description>
+      <description>pour orchestre, divis&eacute; en huit groupes</description>
+      <length>23:21</length>
+      <player name="Orchestre de Paris"/>
+      <conductor>Daniel Baremboim</conductor>
+      <composed start="1974" end="1975"/>
+      <recorded start="1988"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Messagesquisse</name>
+      <description>pour 7 violoncelles</description>
+      <length>7:11</length>
+      <instrument name="Violoncello solo">
+        <player name="Albert T&eacute;tard"/>
+      </instrument>
+      <instrument name="Violoncello">
+        <player name="Jeanine T&eacute;tard"/>
+        <player name="Hikaru Sato"/>
+        <player name="Pierre Degenne"/>
+        <player name="Guy Besnard"/>
+        <player name="Etienne P&eacute;clard"/>
+        <player name="Jean-Luc Bourre"/>
+      </instrument>
+      <composed start="1976"/>
+      <recorded start="1989"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Rituel</name>
+      <description>in memoriam Bruno Maderna</description>
+      <description>pour orchestre, divis&eacute; en huit groupes</description>
+      <length>25:25</length>
+      <player name="BBC Symphony Orchestra"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1974" end="1975"/>
+      <recorded start="1976"/>
+      <release>Sony SMK 45 832</release>
+      <released>1990</released>
+    </composition>
+    <composition score="Y">
+      <name>&Eacute;clat</name>
+      <description>pour 15 instruments</description>
+      <length>9:41</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1965"/>
+      <recorded start="1981"/>
+      <release>Sony SMK 45 832</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Multiples</name>
+      <description>pour 25 instruments</description>
+      <length>16:59</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1966?" end="inachev&eacute;"/>
+      <recorded start="1981"/>
+      <release>Sony SMK 45 832</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Messagesquisse</name>
+      <description>pour violoncelle solo et 6 violoncelles</description>
+      <length>8:35</length>
+      <instrument name="Violoncello solo">
+        <player name="Jean-Guihen Queyras"/>
+      </instrument>
+      <player name="Ensemble de violoncelles de Paris"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1976" end="1977"/>
+      <recorded start="1999"/>
+      <release>Deutsche Grammophon 463475-2</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>R&eacute;pons</name>
+      <length>42:31</length>
+      <player name="Ensemble InterContemporain"/>
+      <instrument name="Assistant musical">
+        <player name="Andrew Gerzso"/>
+      </instrument>
+      <player name="Oeuvre r&eacute;alis&eacute;e &agrave; l'IRCAM"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1981" end="1984"/>
+      <recorded start="1996"/>
+      <release>Deutsche Grammophon 457605-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>D&eacute;rive</name>
+      <description>pour fl&ucirc;te, clarinette en la, violon, violoncelle, vibraphone et piano</description>
+      <length>6:07</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1984"/>
+      <recorded start="1990"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>D&eacute;rive 1</name>
+      <description>pour 6 instruments</description>
+      <length>5:47</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1984"/>
+      <recorded start="2002"/>
+      <release>Deutsche Grammophon 00289 4775327</release>
+      <released>2005</released>
+    </composition>
+    <composition score="Y">
+      <name>Dialogue de l'ombre double</name>
+      <description>Version aux chiffres romains</description>
+      <length>17:42</length>
+      <instrument name="Clarinette">
+        <player name="Alain Damiens"/>
+      </instrument>
+      <instrument name="Assistant musical">
+        <player name="Andrew Gerzso"/>
+      </instrument>
+      <player name="Oeuvre r&eacute;alis&eacute;e &agrave; l'IRCAM"/>
+      <composed start="1982" end="1985"/>
+      <recorded start="1990"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Dialogue de l'ombre double</name>
+      <length>18:13</length>
+      <instrument name="Clarinette">
+        <player name="Alain Damiens"/>
+      </instrument>
+      <instrument name="Assistant musical">
+        <player name="Andrew Gerzso"/>
+      </instrument>
+      <player name="Oeuvre r&eacute;alis&eacute;e &agrave; l'IRCAM"/>
+      <composed start="1985"/>
+      <recorded start="1996"/>
+      <release>Deutsche Grammophon 457605-2</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>M&eacute;moriale (...explosante-fixe... originel)</name>
+      <description>pour fl&ucirc;te solo et huit instruments</description>
+      <length>5:04</length>
+      <instrument name="Fl&ucirc;te">
+        <player name="Sophie Cherrier"/>
+      </instrument>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1985"/>
+      <recorded start="1990"/>
+      <release>Erato 4509-98495-2</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>D&eacute;rive 2</name>
+      <description>pour 11 instruments</description>
+      <length>24:33</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1988" end="2002"/>
+      <recorded start="2002"/>
+      <release>Deutsche Grammophon 00289 4775327</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>Anth&egrave;mes</name>
+      <description>Version f&uuml;r Violine solo, Computer und sechs Lautsprecher</description>
+      <length>21:17</length>
+      <instrument name="Violine">
+        <player name="Hae Sun Kang"/>
+      </instrument>
+      <player name="IRCAM"/>
+      <instrument name="Tonmeister">
+        <player name="Fr&eacute;d&eacute;ric Prin"/>
+      </instrument>
+      <composed start="1991" end="1997"/>
+      <recorded start="1997"/>
+      <release>Col Legno WWE 3CD 20026</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Sur Incises</name>
+      <description>pour trois pianos, trois harpes, trois percussions-claviers</description>
+      <length>37:06</length>
+      <player name="Solistes de l'Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1996" end="1998"/>
+      <recorded start="1999"/>
+      <release>Deutsche Grammophon 463475-2</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Anth&egrave;mes 2</name>
+      <description>pour violon et dispositif el&eacute;ctronique</description>
+      <length>20:27</length>
+      <instrument name="Violon solo">
+        <player name="Hae Sun Kang"/>
+      </instrument>
+      <instrument name="Electroacoustic realization">
+        <player name="Andrew Gerszo"/>
+      </instrument>
+      <composed start="1976" end="1977"/>
+      <recorded start="1999"/>
+      <release>Deutsche Grammophon 463475-2</release>
+      <released>2000</released>
+    </composition>
+  </composer>
+  <composer name="Earle" surname="Brown" born="1926" died="2002">
+    <composition>
+      <name>Music for Violin, Cello &amp; Piano</name>
+      <length>3:04</length>
+      <player name="Ne(x)tworks"/>
+      <composed start="1952"/>
+      <recorded start="2005"/>
+      <release>Mode 179</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Folio</name>
+      <description>Spontaneous realization of various pieces from Folio</description>
+      <length>4:04</length>
+      <instrument name="Trumpet, Percussion, Bass">
+        <player name="Earle Brown"/>
+      </instrument>
+      <composed start="1952"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>November 1952</name>
+      <length>8:13</length>
+      <instrument name="Prepared acoustic guitar, ring modulator, computer, synthi 'A'">
+        <player name="Merzbow"/>
+      </instrument>
+      <composed start="1952"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>November 1952</name>
+      <length>4:04</length>
+      <instrument name="Pianos">
+        <player name="Ron Kuivila"/>
+      </instrument>
+      <composed start="1952"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>December 1952</name>
+      <length>4:30</length>
+      <instrument name="Voice">
+        <player name="Joan La Barbara"/>
+      </instrument>
+      <composed start="1952"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>December 1952</name>
+      <length>1:51</length>
+      <instrument name="Electronics">
+        <player name="Morton Subotnik"/>
+      </instrument>
+      <composed start="1952"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>1953</name>
+      <length>3:56</length>
+      <instrument name="Violin">
+        <player name="Mark Feldman"/>
+      </instrument>
+      <instrument name="Piano">
+        <player name="Sylvie Courvoisier"/>
+      </instrument>
+      <composed start="1953"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>March 1953 (MM 135)</name>
+      <length>0:32</length>
+      <instrument name="Piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1953"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>March 1953 (MM 87)</name>
+      <length>8:34</length>
+      <instrument name="All instruments, Electronics">
+        <player name="Ed Tomney"/>
+      </instrument>
+      <composed start="1953"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>October 1952/March 1953 (MM 87 &amp; 135)</name>
+      <length>2:16</length>
+      <instrument name="Piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1952" end="1953"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>June 1953</name>
+      <length>6:20</length>
+      <instrument name="Laptop electronics">
+        <player name="Ikue Mori"/>
+      </instrument>
+      <instrument name="Piano">
+        <player name="Sylvie Courvoisier"/>
+      </instrument>
+      <composed start="1953"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>June 1953</name>
+      <length>2:13</length>
+      <instrument name="Piano">
+        <player name="Christian Wolff"/>
+      </instrument>
+      <instrument name="Clarinet">
+        <player name="Daniel Goode"/>
+      </instrument>
+      <instrument name="Accordion">
+        <player name="Nora Jacobson"/>
+      </instrument>
+      <instrument name="Fretless Electric Guitar">
+        <player name="Larry Polansky"/>
+      </instrument>
+      <composed start="1953"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>Folio</name>
+      <length>13:24</length>
+      <part>
+        <number>1</number>
+        <name>October 1952 (piano)</name>
+        <length>0:51</length>
+      </part>
+      <part>
+        <number>2</number>
+        <name>November 1952 (voice, 2 violins, viola, cello, saxophone, trumpet, trombone, piano)</name>
+        <length>2:10</length>
+      </part>
+      <part>
+        <number>3</number>
+        <name>December 1952 (voice, saxophone, trumpet)</name>
+        <length>2:03</length>
+      </part>
+      <part>
+        <number>4</number>
+        <name>March 1952 MM=87</name>
+        <length>0:48</length>
+      </part>
+      <part>
+        <number>5</number>
+        <name>March 1952 MM=135 (piano, vibraphone)</name>
+        <length>0:27</length>
+      </part>
+      <part>
+        <number>6</number>
+        <name>March 1953 (piano)</name>
+        <length>1:53</length>
+      </part>
+      <part>
+        <number>7</number>
+        <name>"Trio for Five Dancers" June 1953 (violin, cello, piano)</name>
+        <length>2:44</length>
+      </part>
+      <player name="Ne(x)tworks"/>
+      <composed start="1952" end="1954"/>
+      <recorded start="2005"/>
+      <release>Mode 179</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Octet I</name>
+      <description>for 8-channel tape</description>
+      <length>3:29</length>
+      <composed start="1953"/>
+      <recorded start="2005"/>
+      <release>Mode 179</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Four Systems 1954</name>
+      <length>3:08</length>
+      <instrument name="Tenor Saxophones">
+        <player name="Alex Mincek"/>
+        <player name="Sam Hillmer"/>
+      </instrument>
+      <instrument name="Electric Guitars">
+        <player name="Charlie Looker"/>
+        <player name="Matt Hough"/>
+      </instrument>
+      <instrument name="Drum Sets">
+        <player name="Brad Wentworth"/>
+        <player name="Alex Hoskins"/>
+      </instrument>
+      <composed start="1954"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>Four Systems 1954</name>
+      <length>2:30</length>
+      <instrument name="Trumpet, Effects">
+        <player name="Wadada Leo Smith"/>
+      </instrument>
+      <composed start="1954"/>
+      <recorded start="2006"/>
+      <release>Tzadik TZ 8028</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>Four Systems</name>
+      <description>for piano(s) and/or other instruments or sound-producing media, realization for flute</description>
+      <length>37:32</length>
+      <instrument name="Flute">
+        <player name="Eberhard Blum"/>
+      </instrument>
+      <composed start="1954"/>
+      <recorded start="1994"/>
+      <release>hat ART CD 6147</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>Four Systems</name>
+      <description>realization for voice, 2 violins, viola, cello, saxophone, trumpet, trombone, piano, percussion</description>
+      <length>4:00</length>
+      <player name="Ne(x)tworks"/>
+      <composed start="1954"/>
+      <recorded start="2005"/>
+      <release>Mode 179</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>String Quartet</name>
+      <length>11:38</length>
+      <player name="Ne(x)tworks"/>
+      <composed start="1965"/>
+      <recorded start="2005"/>
+      <release>Mode 179</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Folio II (Version 1)</name>
+      <description>a collection of graphic and concept pieces, realization for flute</description>
+      <length>4:37</length>
+      <instrument name="Flute">
+        <player name="Eberhard Blum"/>
+      </instrument>
+      <composed start="1970" end="1993"/>
+      <recorded start="1994"/>
+      <release>hat ART CD 6147</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>Folio II (Version 2)</name>
+      <description>a collection of graphic and concept pieces, realization for flute</description>
+      <length>4:15</length>
+      <instrument name="Flute">
+        <player name="Eberhard Blum"/>
+      </instrument>
+      <composed start="1970" end="1993"/>
+      <recorded start="1994"/>
+      <release>hat ART CD 6147</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>New Piece</name>
+      <description>for voice, 2 violins, viola, cello, bass, flute, clarinet, bass clarinet, saxophone, trumpet, trombone, 2 pianos, percussion</description>
+      <length>6:24</length>
+      <player name="Ne(x)tworks"/>
+      <composed start="1971"/>
+      <recorded start="2005"/>
+      <release>Mode 179</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>For Neil</name>
+      <description>for violin</description>
+      <length>1:59</length>
+      <player name="Ne(x)tworks"/>
+      <composed start="1975"/>
+      <recorded start="2005"/>
+      <release>Mode 179</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Tracer</name>
+      <description>for ensemble and 4-channel tape</description>
+      <length>13:24</length>
+      <player name="Ne(x)tworks"/>
+      <conductor>Christian Wolff</conductor>
+      <composed start="1985"/>
+      <recorded start="2005"/>
+      <release>Mode 179</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Special Events</name>
+      <description>for cello and piano</description>
+      <length>18:34</length>
+      <player name="Ne(x)tworks"/>
+      <composed start="1999"/>
+      <recorded start="2005"/>
+      <release>Mode 179</release>
+      <released>2007</released>
+    </composition>
+  </composer>
+  <composer name="Herbert" surname="Br&uuml;n" born="1918" died="2000">
+    <composition>
+      <name>Anepigraphe</name>
+      <length>7:42</length>
+      <player name="WDR, K&ouml;ln"/>
+      <composed start="1958"/>
+      <recorded start="1958"/>
+      <release>BVHaast 9106</release>
+      <released>?</released>
+    </composition>
+    <composition>
+      <name>Wayfaring Sounds</name>
+      <length>4:05</length>
+      <composed start="1961"/>
+      <recorded start="1961"/>
+      <release>Siemens</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Dust</name>
+      <length>9:38</length>
+      <composed start="1976"/>
+      <release>EMF CD 00644</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>More Dust</name>
+      <length>12:42</length>
+      <composed start="1977"/>
+      <release>EMF CD 00644</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>More Dust with percussion</name>
+      <length>13:16</length>
+      <player name="Percussion Group Cincinnati"/>
+      <composed start="1977"/>
+      <release>EMF CD 00644</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Dustiny</name>
+      <length>5:38</length>
+      <composed start="1978"/>
+      <release>EMF CD 00644</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>A Mere Ripple</name>
+      <length>11:44</length>
+      <composed start="1979"/>
+      <release>EMF CD 00644</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>U-TURN-TO</name>
+      <length>5:59</length>
+      <composed start="1980"/>
+      <release>EMF CD 00644</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>i toLD You so!</name>
+      <length>12:56</length>
+      <composed start="1981"/>
+      <release>EMF CD 00644</release>
+      <released>1998</released>
+    </composition>
+  </composer>
+  <composer name="Sylvano" surname="Bussotti" born="1931" died="">
+    <composition>
+      <name>Nascosto (nove parti per Pierre Boulez)</name>
+      <description>pour ensemble</description>
+      <length>2:40</length>
+      <player name="Contempoensemble"/>
+      <conductor>Mauro Ceccanti</conductor>
+      <composed start="?"/>
+      <recorded start="1992"/>
+      <release>Arts 447135-2</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>Quartetto Gramsci</name>
+      <description>Reprise pour deux violons, alto et violoncelle (da I semi di Gramsci pour quatuor et orchestre)</description>
+      <length>11:25</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1971"/>
+      <recorded start="1992"/>
+      <release>Montaigne 782042</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Echi Danzanti</name>
+      <description>tratti da &quot;Solo&quot; della Passion Selon Sade per aspa sola e nastro magnetico</description>
+      <length>40:14</length>
+      <instrument name="harp">
+        <player name="Giovanna Reitano"/>
+      </instrument>
+      <instrument name="speaker">
+        <player name="Sylvano Bussotti"/>
+      </instrument>
+      <composed start="2004"/>
+      <recorded start="2005"/>
+      <release>Stradivarius STR 33749</release>
+      <released>2006</released>
+    </composition>
+  </composer>
+  <composer name="John" surname="Cage" born="1912" died="1992">
+    <composition>
+      <name>Three Easy Pieces</name>
+      <description>for piano</description>
+      <length>5:58</length>
+      <part>
+        <number>I</number>
+        <name>Round (for E.P.S.)</name>
+        <length>2:44</length>
+      </part>
+      <part>
+        <number>II</number>
+        <name>Duo (for M.M.)</name>
+        <length>1:24</length>
+      </part>
+      <part>
+        <number>III</number>
+        <name>Infinite Canon (for C.M.)</name>
+        <length>1:50</length>
+      </part>
+      <instrument name="piano">
+        <player name="Hayd&eacute;e Schvartz"/>
+      </instrument>
+      <composed start="1933"/>
+      <recorded start="1995"/>
+      <release>Mode 123</release>
+      <released>2003</released>
+    </composition>
+    <composition>
+      <name>Solo with obbligato accompaniment of two voices in canon, and six short inventions on the subjects of the solo</name>
+      <description>for any 3 or more instruments encompassing the range g below middle c to g one and a half octaves above middle c</description>
+      <length>15:49</length>
+      <player name="Trio Dolce"/>
+      <composed start="1933" end="1934"/>
+      <recorded start="1998"/>
+      <release>Mode 186</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Imaginary Landscape</name>
+      <description>(with Mauricio Kagel)</description>
+      <length>3:34</length>
+      <composed start="1942"/>
+      <recorded start="1942"/>
+      <release>Siemens</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Bacchanale</name>
+      <description>for prepared piano</description>
+      <length>9:28</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1940"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Totem Ancestor</name>
+      <description>for prepared piano</description>
+      <length>2:02</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1942"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Totem Ancestor</name>
+      <description>for prepared piano</description>
+      <length>1:55</length>
+      <instrument name="Prepared Piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1942"/>
+      <recorded start="2001"/>
+      <release>Mode 106</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Jazz Study</name>
+      <description>for piano</description>
+      <length>3:03</length>
+      <instrument name="Piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1942"/>
+      <recorded start="2001"/>
+      <release>Mode 106</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Primitive</name>
+      <description>for prepared piano</description>
+      <length>4:06</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1942"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>In the Name of the Holocaust</name>
+      <description>for prepared piano</description>
+      <length>6:17</length>
+      <part>
+        <number>I</number>
+        <length>4:09</length>
+      </part>
+      <part>
+        <number>II</number>
+        <length>2:08</length>
+      </part>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1942"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>And the Earth Shall Bear Again</name>
+      <description>for prepared piano</description>
+      <length>3:25</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1942"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Our Spring Will Come</name>
+      <description>for prepared piano</description>
+      <length>4:30</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1943"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Ad Lib</name>
+      <description>for piano</description>
+      <length>3:14</length>
+      <instrument name="Piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1943"/>
+      <recorded start="2001"/>
+      <release>Mode 106</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Triple-Paced</name>
+      <description>first version, for piano</description>
+      <length>2:53</length>
+      <part>
+        <number>I</number>
+        <length>1:07</length>
+      </part>
+      <part>
+        <number>II</number>
+        <length>1:01</length>
+      </part>
+      <part>
+        <number>III</number>
+        <length>0:45</length>
+      </part>
+      <instrument name="Piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1943"/>
+      <recorded start="2001"/>
+      <release>Mode 106</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Tossed As It Is Untroubled (Meditation)</name>
+      <description>for prepared piano</description>
+      <length>2:35</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1943"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>A Room</name>
+      <description>for prepared piano</description>
+      <length>2:48</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1943"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>The Perilous Night</name>
+      <description>for prepared piano</description>
+      <length>13:58</length>
+      <part>
+        <number>I</number>
+        <length>2:31</length>
+      </part>
+      <part>
+        <number>II</number>
+        <length>0:51</length>
+      </part>
+      <part>
+        <number>III</number>
+        <length>3:58</length>
+      </part>
+      <part>
+        <number>IV</number>
+        <length>2:22</length>
+      </part>
+      <part>
+        <number>V</number>
+        <length>0:36</length>
+      </part>
+      <part>
+        <number>VI</number>
+        <length>3:40</length>
+      </part>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Triple-Paced</name>
+      <description>second version, for prepared piano</description>
+      <length>2:04</length>
+      <instrument name="Prepared Piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="2001"/>
+      <release>Mode 106</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Spontaneous Earth</name>
+      <description>for prepared piano</description>
+      <length>2:49</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>A Valentine Out of Season</name>
+      <description>for prepared piano</description>
+      <length>3:47</length>
+      <part>
+        <number>I</number>
+        <length>1:38</length>
+      </part>
+      <part>
+        <number>II</number>
+        <length>1:02</length>
+      </part>
+      <part>
+        <number>III</number>
+        <length>1:07</length>
+      </part>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>The Unavailable Memory Of</name>
+      <description>for prepared piano</description>
+      <length>3:19</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Prelude for Meditation</name>
+      <description>for prepared piano</description>
+      <length>1:02</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Root of an Unfocus</name>
+      <description>for prepared piano</description>
+      <length>5:01</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Chess Pieces</name>
+      <description>for piano</description>
+      <length>7:48</length>
+      <instrument name="Piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="2005"/>
+      <release>Mode 158</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>Four Walls</name>
+      <description>for voice and piano</description>
+      <length>1:02:37</length>
+      <instrument name="voice">
+        <player name="Jack Bruce"/>
+      </instrument>
+      <instrument name="piano">
+        <player name="Hayd&eacute;e Schvartz"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="1995"/>
+      <release>Mode 123</release>
+      <released>2003</released>
+    </composition>
+    <composition>
+      <name>Soliloquy</name>
+      <description>for piano</description>
+      <length>3:09</length>
+      <instrument name="piano">
+        <player name="Hayd&eacute;e Schvartz"/>
+      </instrument>
+      <composed start="1944"/>
+      <recorded start="1995"/>
+      <release>Mode 123</release>
+      <released>2003</released>
+    </composition>
+    <composition>
+      <name>Daughters of the Lonesome Isle</name>
+      <description>for prepared piano</description>
+      <length>9:33</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1945"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Mysterious Adventure</name>
+      <description>for prepared piano</description>
+      <length>8:36</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1945"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Sonatas and Interludes</name>
+      <description>for prepared piano</description>
+      <length>59:58</length>
+      <instrument name="Prepared piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1946" end="1948"/>
+      <recorded start="2003"/>
+      <release>Mode 158</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>Sonatas and Interludes</name>
+      <description>for prepared piano</description>
+      <length>1:04:16</length>
+      <instrument name="Prepared piano">
+        <player name="Phillip Vandr&eacute;"/>
+      </instrument>
+      <composed start="1946" end="1948"/>
+      <recorded start="1994"/>
+      <release>Mode 50</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>Music for Marcel Duchamp</name>
+      <description>for prepared piano</description>
+      <length>5:50</length>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1947"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Music for Marcel Duchamp</name>
+      <description>for prepared piano</description>
+      <length>5:45</length>
+      <instrument name="Prepared Piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1947"/>
+      <recorded start="1999"/>
+      <release>Mode 106</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>The Seasons</name>
+      <description>Ballet in One Act</description>
+      <length>18:31</length>
+      <instrument name="piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1947"/>
+      <recorded start="1993"/>
+      <release>Mode 63</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Nocturne</name>
+      <description>for violin and piano</description>
+      <length>3:31</length>
+      <instrument name="violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <instrument name="piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1947"/>
+      <recorded start="1998"/>
+      <release>Mode 100</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Suite for Toy Piano</name>
+      <length>6:54</length>
+      <part>
+        <number>I</number>
+        <length>1:22</length>
+      </part>
+      <part>
+        <number>II</number>
+        <length>1:33</length>
+      </part>
+      <part>
+        <number>III</number>
+        <length>1:22</length>
+      </part>
+      <part>
+        <number>IV</number>
+        <length>1:34</length>
+      </part>
+      <part>
+        <number>V</number>
+        <length>1:03</length>
+      </part>
+      <instrument name="Piano">
+        <player name="Martine Joste"/>
+      </instrument>
+      <composed start="1948"/>
+      <recorded start="2003" end="2004"/>
+      <release>Mode 147</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>String Quartet in Four Parts</name>
+      <length>20:12</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1949" end="1950"/>
+      <recorded start="1989"/>
+      <release>Mode 27</release>
+      <released>1992</released>
+    </composition>
+    <composition>
+      <name>Works of Calder</name>
+      <description>for prepared piano</description>
+      <length>21:10</length>
+      <part>
+        <number>I</number>
+        <name>Prepared Piano</name>
+        <length>5:05</length>
+      </part>
+      <part>
+        <number>II</number>
+        <name>Film soundtrack with narration</name>
+        <length>3:09</length>
+      </part>
+      <part>
+        <number>III</number>
+        <name>Film soundtrack with percussion</name>
+        <length>2:19</length>
+      </part>
+      <part>
+        <number>IV</number>
+        <name>Prepared Piano</name>
+        <length>10:37</length>
+      </part>
+      <instrument name="Narrator">
+        <player name="Burgess Meredith"/>
+      </instrument>
+      <instrument name="Percussion &amp; tape collage">
+        <player name="John Cage"/>
+      </instrument>
+      <instrument name="Prepared Piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1949" end="1950"/>
+      <recorded start="1999"/>
+      <release>Mode 106</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Six Melodies</name>
+      <description>for violin and keyboard</description>
+      <length>12:38</length>
+      <instrument name="violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <instrument name="piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1950"/>
+      <recorded start="1998"/>
+      <release>Mode 100</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Music of Changes</name>
+      <description>Buch I-IV</description>
+      <length>46:40</length>
+      <instrument name="Piano">
+        <player name="Herbert Henck"/>
+      </instrument>
+      <composed start="1951"/>
+      <recorded start="1982"/>
+      <release>Wergo WER 60099-50</release>
+      <released>1988</released>
+    </composition>
+    <composition>
+      <name>Music of Changes</name>
+      <length>43:41</length>
+      <part>
+        <number>I</number>
+        <length>4:04</length>
+      </part>
+      <part>
+        <number>II</number>
+        <length>18:36</length>
+      </part>
+      <part>
+        <number>III</number>
+        <length>10:02</length>
+      </part>
+      <part>
+        <number>IV</number>
+        <length>10:59</length>
+      </part>
+      <instrument name="Piano">
+        <player name="Martine Joste"/>
+      </instrument>
+      <composed start="1951"/>
+      <recorded start="2003" end="2004"/>
+      <release>Mode 147</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>Concerto for Prepared Piano</name>
+      <length>23:40</length>
+      <part>
+        <number>Part 1</number>
+        <length>9:12</length>
+      </part>
+      <part>
+        <number>Part 2</number>
+        <length>9:30</length>
+      </part>
+      <part>
+        <number>Part 3</number>
+        <length>10:02</length>
+      </part>
+      <instrument name="Prepared piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <player name="Callithumpian Consort of New England Conservatory"/>
+      <conductor>Charles Peltz</conductor>
+      <composed start="1951"/>
+      <recorded start="1992"/>
+      <release>Mode 57</release>
+      <released>1997</released>
+    </composition>
+    <composition>
+      <name>Two Pastorales</name>
+      <description>for prepared piano</description>
+      <length>13:16</length>
+      <part>
+        <number>I</number>
+        <length>5:55</length>
+      </part>
+      <part>
+        <number>II</number>
+        <length>7:21</length>
+      </part>
+      <instrument name="Prepared Piano">
+        <player name="Philipp Vandr&eacute;"/>
+      </instrument>
+      <composed start="1951" end="1952"/>
+      <recorded start="2001" end="2002"/>
+      <release>Mode 180/81</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Seven Haiku</name>
+      <length>1:57</length>
+      <part>
+        <number>I</number>
+        <length>0:17</length>
+      </part>
+      <part>
+        <number>II</number>
+        <length>0:19</length>
+      </part>
+      <part>
+        <number>III</number>
+        <length>0:17</length>
+      </part>
+      <part>
+        <number>IV</number>
+        <length>0:16</length>
+      </part>
+      <part>
+        <number>V</number>
+        <length>0:17</length>
+      </part>
+      <part>
+        <number>VI</number>
+        <length>0:16</length>
+      </part>
+      <part>
+        <number>VII</number>
+        <length>0:15</length>
+      </part>
+      <instrument name="Piano">
+        <player name="Martine Joste"/>
+      </instrument>
+      <composed start="1952"/>
+      <recorded start="2003" end="2004"/>
+      <release>Mode 147</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>12'55.6078</name>
+      <description>for two pianists (prepared piano)</description>
+      <length>13:11</length>
+      <instrument name="Klavier">
+        <player name="David Tudor"/>
+      </instrument>
+      <instrument name="Klavier">
+        <player name="John Cage"/>
+      </instrument>
+      <composed start="1954"/>
+      <recorded start="1954"/>
+      <release>Col Legno CD1 31902</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>Winter Music</name>
+      <description>for 20 pianos</description>
+      <length>10:17</length>
+      <player name="The Callithumpian Consort"/>
+      <conductor>Stephen Drury</conductor>
+      <composed start="1957"/>
+      <recorded start="1991"/>
+      <release>Mode 3/6</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Concert for Piano</name>
+      <length>30:05</length>
+      <instrument name="Piano &amp; live electronics">
+        <player name="David Tudor"/>
+      </instrument>
+      <player name="Ensemble Modern"/>
+      <conductor>Ingo Metzmacher</conductor>
+      <composed start="1957" end="1958"/>
+      <recorded start="1992"/>
+      <release>Mode 57</release>
+      <released>1997</released>
+    </composition>
+    <composition>
+      <name>Music Walk</name>
+      <description>for 1 or more pianists, at a single piano, using also radio and/or recordings</description>
+      <length>10:53</length>
+      <instrument name="piano &amp; devices">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1958"/>
+      <recorded start="1993"/>
+      <release>Mode 47</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Indeterminacy</name>
+      <description>Ninety Stories by John Cage, with Music</description>
+      <length>1:30:22</length>
+      <instrument name="Reading">
+        <player name="John Cage"/>
+      </instrument>
+      <instrument name="Piano, Tape">
+        <player name="David Tudor"/>
+      </instrument>
+      <composed start="1959"/>
+      <recorded start="1959"/>
+      <release>Smithsonian/Folkways CD SF 40804/5</release>
+      <released>1992</released>
+    </composition>
+    <composition>
+      <name>Cartridge Music</name>
+      <description>Music for Merce Cunningham</description>
+      <length>18:53</length>
+      <instrument name="Phonograph cartridges and amplified small objects">
+        <player name="Takehisa Kosugi"/>
+        <player name="Michael Pugliese"/>
+        <player name="David Tudor"/>
+      </instrument>
+      <composed start="1960"/>
+      <recorded start="1988"/>
+      <release>Mode 24</release>
+      <released>1991/2008</released>
+    </composition>
+    <composition>
+      <name>Atlas Eclipticalis</name>
+      <description>for orchestra</description>
+      <length>29:44</length>
+      <player name="The Wesleyan Symphony Orchestra"/>
+      <player name="The Hartt Contemporary Players"/>
+      <player name="Arditti String Quartet"/>
+      <conductor>Melvin Strauss</conductor>
+      <composed start="1961"/>
+      <recorded start="1988"/>
+      <release>Mode 3/6</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Atlas Eclipticalis with Winter Music</name>
+      <description>Performance I, Dec/11/83 6:30 pm</description>
+      <length>1:20:00</length>
+      <player name="The New Performance Group"/>
+      <conductor>John Cage</conductor>
+      <composed start="1961"/>
+      <recorded start="1983"/>
+      <release>Mode 3/6</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Atlas Eclipticalis with Winter Music</name>
+      <description>Performance II, Dec/11/83 8:30 pm</description>
+      <length>1:19:59</length>
+      <player name="The New Performance Group"/>
+      <conductor>John Cage</conductor>
+      <composed start="1961"/>
+      <recorded start="1983"/>
+      <release>Mode 3/6</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Klangexperimente</name>
+      <description>(with David Tudor)</description>
+      <length>1:48</length>
+      <composed start="1963"/>
+      <recorded start="1963"/>
+      <release>Siemens</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Variations VII</name>
+      <description>9 Evenings: Theatre &amp; Engineering</description>
+      <length>1:25:00</length>
+      <composed start="1966"/>
+      <recorded start="1966"/>
+      <release>E.A.T. and ARTPIX 978-0-9668010-8-8</release>
+      <released>2008</released>
+    </composition>
+    <composition>
+      <name>HPSCHD</name>
+      <description>(with Lejaren Hiller) for 7 amplified harpsichords and 51 tapes</description>
+      <length>1:05:27</length>
+      <instrument name="Harpsichord">
+        <player name="Robert Conant"/>
+      </instrument>
+      <instrument name="Realization">
+        <player name="Joel Chadabe"/>
+      </instrument>
+      <composed start="1969"/>
+      <recorded start="2000"/>
+      <release>EMF CD 038</release>
+      <released>2003</released>
+    </composition>
+    <composition>
+      <name>Cheap Imitation</name>
+      <length>36:41</length>
+      <instrument name="piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1969"/>
+      <recorded start="1993"/>
+      <release>Mode 63</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Etcetera</name>
+      <length>20:44</length>
+      <player name="Callithumpian Consort of New England Conservatory"/>
+      <conductor>Tamara Brooks, Stephen Drury, Charles Peltz</conductor>
+      <composed start="1973"/>
+      <recorded start="2001"/>
+      <release>Mode 86</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Empty Words</name>
+      <description>with Music for Piano (1952-56)</description>
+      <length>30:06</length>
+      <instrument name="voice">
+        <player name="John Cage"/>
+      </instrument>
+      <instrument name="piano">
+        <player name="Yvar Mikhashoff"/>
+      </instrument>
+      <composed start="1973" end="1974"/>
+      <recorded start="1991"/>
+      <release>Mode 200</release>
+      <released>2009</released>
+    </composition>
+    <composition>
+      <name>Etudes Australes</name>
+      <description>Books I-IV</description>
+      <length>3:24:00</length>
+      <instrument name="Piano">
+        <player name="Steffen Schleiermacher"/>
+      </instrument>
+      <composed start="1974" end="1975"/>
+      <recorded start="2001"/>
+      <release>MDG 613 0795-2</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Apartment House 1776</name>
+      <description>for four vocalists and chamber orchestra</description>
+      <length>25:09</length>
+      <instrument name="Protestant">
+        <player name="Walter Buckingham"/>
+      </instrument>
+      <instrument name="Native American">
+        <player name="Darrell Dunn"/>
+      </instrument>
+      <instrument name="African American">
+        <player name="Semenya McCord"/>
+      </instrument>
+      <instrument name="Sephardi">
+        <player name="Chiam Parchi"/>
+      </instrument>
+      <player name="New England Conservatory Philharmonia"/>
+      <composed start="1976"/>
+      <recorded start="1991"/>
+      <release>Mode 41</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>44 Harmonies from Apartment House 1776</name>
+      <description>Arrangement for string quartet</description>
+      <length>1:43:26</length>
+      <player name="The Arditti String Quartet"/>
+      <composed start="1976"/>
+      <recorded start="2000"/>
+      <release>Mode 144/145</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>Cheap Imitation</name>
+      <description>for violin solo</description>
+      <length>31:52</length>
+      <instrument name="Violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <composed start="1977"/>
+      <recorded start="1999"/>
+      <release>Mode 144/145</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>Freeman Etudes books 1 &amp; 2</name>
+      <length>49:57</length>
+      <instrument name="Violino">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <composed start="1977" end="1980"/>
+      <recorded start="1990"/>
+      <release>Mode 32</release>
+      <released>1993</released>
+    </composition>
+    <composition>
+      <name>Chorals</name>
+      <description>for violin solo</description>
+      <length>4:32</length>
+      <instrument name="Violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <composed start="1978"/>
+      <recorded start="1999"/>
+      <release>Mode 118</release>
+      <released>2003</released>
+    </composition>
+    <composition>
+      <name>Writing for the Second Time Through Finnegans Wake</name>
+      <length>59:39</length>
+      <instrument name="Speaker">
+        <player name="John Cage"/>
+      </instrument>
+      <composed start="1976" end="1979"/>
+      <recorded start="1979"/>
+      <release>Mode 28/29</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Roaratorio</name>
+      <description>An Irish Circus on Finnegans Wake</description>
+      <length>1:00:30</length>
+      <instrument name="Voice">
+        <player name="John Cage"/>
+      </instrument>
+      <instrument name="Singer">
+        <player name="Joe Heaney"/>
+      </instrument>
+      <instrument name="Uillean Pipes">
+        <player name="Seamus Ennis"/>
+      </instrument>
+      <instrument name="Fiddle">
+        <player name="Paddy Glackin"/>
+      </instrument>
+      <instrument name="Flute">
+        <player name="Matt Malloy"/>
+      </instrument>
+      <instrument name="Bodhran">
+        <player name="Peadher Mercier"/>
+        <player name="Mell Mercier"/>
+      </instrument>
+      <composed start="1979"/>
+      <recorded start="1979"/>
+      <release>Mode 28/29</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Laughtears</name>
+      <description>Conversation on Roaratorio</description>
+      <length>30:55</length>
+      <instrument name="Speakers">
+        <player name="John Cage"/>
+        <player name="Klaus Sch&ouml;ning"/>
+      </instrument>
+      <composed start="1979"/>
+      <recorded start="1979"/>
+      <release>Mode 28/29</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Thirty Pieces for String Quartet</name>
+      <length>33:57</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1983"/>
+      <recorded start="1988"/>
+      <release>Mode 17</release>
+      <released>1989</released>
+    </composition>
+    <composition>
+      <name>Ryoanji</name>
+      <description>version for four soloists with orchestra</description>
+      <length>18:05</length>
+      <instrument name="Flute">
+        <player name="Fenwick Smith"/>
+      </instrument>
+      <instrument name="String bass">
+        <player name="Anthony D'Amico"/>
+      </instrument>
+      <instrument name="Oboe">
+        <player name="Michael Miller"/>
+      </instrument>
+      <instrument name="Bass trombone">
+        <player name="Petur Eiriksson"/>
+      </instrument>
+      <player name="Avant-Garde Ensemble of New England Conservatory"/>
+      <conductor>Stephen Drury</conductor>
+      <composed start="1983" end="1985"/>
+      <recorded start="1991"/>
+      <release>Mode 41</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>Music for two</name>
+      <description>for 2 pianos</description>
+      <length>29:57</length>
+      <instrument name="Pianos">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1985"/>
+      <recorded start="1993"/>
+      <release>Mode 47</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>ASLSP</name>
+      <length>18:20</length>
+      <instrument name="piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1985"/>
+      <recorded start="1993"/>
+      <release>Mode 63</release>
+      <released>1998</released>
+    </composition>
+    <composition>
+      <name>Eight Whiskus</name>
+      <description>for violin</description>
+      <length>3:43</length>
+      <instrument name="violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <composed start="1985"/>
+      <recorded start="1999"/>
+      <release>Mode 100</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Etcetera 2/4 Orchestras</name>
+      <length>30:08</length>
+      <player name="New England Conservatory Symphony Orchestra"/>
+      <conductor>Tamara Brooks, Marsha Hassett, Charles Peltz, Laurie K. Redmer</conductor>
+      <composed start="1986"/>
+      <recorded start="2001"/>
+      <release>Mode 86</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>One</name>
+      <description>for piano solo</description>
+      <length>10:00</length>
+      <instrument name="Piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1987"/>
+      <recorded start="1993"/>
+      <release>Mode 47</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Music for Four</name>
+      <description>for string quartet</description>
+      <length>31:20</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1987" end="1988"/>
+      <recorded start="1988"/>
+      <release>Mode 17</release>
+      <released>1989</released>
+    </composition>
+    <composition>
+      <name>Five Stone Wind</name>
+      <description>Music for Merce Cunningham</description>
+      <length>55:02</length>
+      <instrument name="Amplified violin, bamboo flute, live electronics">
+        <player name="Takehisa Kosugi"/>
+      </instrument>
+      <instrument name="9 clay pots and tapes">
+        <player name="Michael Pugliese"/>
+      </instrument>
+      <instrument name="Live electronics">
+        <player name="David Tudor"/>
+      </instrument>
+      <composed start="1988"/>
+      <recorded start="1989"/>
+      <release>Mode 24</release>
+      <released>1991/2008</released>
+    </composition>
+    <composition>
+      <name>Four</name>
+      <description>for string quartet</description>
+      <length>29:58</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1989"/>
+      <recorded start="1989"/>
+      <release>Mode 27</release>
+      <released>1992</released>
+    </composition>
+    <composition>
+      <name>One2</name>
+      <description>for 1-4 pianos, 1 performer</description>
+      <length>18:51</length>
+      <instrument name="Piano">
+        <player name="Margaret Leng Tan"/>
+      </instrument>
+      <composed start="1989"/>
+      <recorded start="2001"/>
+      <release>Mode 106</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>Three</name>
+      <description>for 3 players having a variety of recorders</description>
+      <length>31:49</length>
+      <player name="Trio Dolce"/>
+      <composed start="1989"/>
+      <recorded start="1998"/>
+      <release>Mode 186</release>
+      <released>2007</released>
+    </composition>
+    <composition>
+      <name>Two2</name>
+      <description>for 2 pianos</description>
+      <length>1:14:22</length>
+      <instrument name="Piano">
+        <player name="Rob Haskins"/>
+      </instrument>
+      <instrument name="Piano">
+        <player name="Laurel Karlik Sheehan"/>
+      </instrument>
+      <composed start="1989"/>
+      <recorded start="2001"/>
+      <release>Mode 193</release>
+      <released>2008</released>
+    </composition>
+    <composition>
+      <name>101</name>
+      <description>for large orchestra</description>
+      <length>12:13</length>
+      <player name="New England Conservatory Philharmonia"/>
+      <composed start="1989"/>
+      <recorded start="1991"/>
+      <release>Mode 41</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>Freeman Etudes books 3 &amp; 4</name>
+      <length>51:11</length>
+      <instrument name="Violino">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <composed start="1980" end="1990"/>
+      <recorded start="1993"/>
+      <release>Mode 37</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>Fourteen</name>
+      <length>20:00</length>
+      <instrument name="Bowed piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <player name="Callithumpian Consort of New England Conservatory"/>
+      <conductor>Stephen Drury</conductor>
+      <composed start="1990"/>
+      <recorded start="1994"/>
+      <release>Mode 57</release>
+      <released>1997</released>
+    </composition>
+    <composition>
+      <name>One5</name>
+      <description>for piano solo</description>
+      <length>19:31</length>
+      <instrument name="Piano">
+        <player name="Martine Joste"/>
+      </instrument>
+      <composed start="1990"/>
+      <recorded start="1994"/>
+      <release>Mode 44</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>One6</name>
+      <description>for violin solo</description>
+      <length>46:24</length>
+      <instrument name="Violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <composed start="1990"/>
+      <recorded start="1999"/>
+      <release>Mode 118</release>
+      <released>2003</released>
+    </composition>
+    <composition>
+      <name>Two4</name>
+      <description>for violin and sho</description>
+      <length>30:16</length>
+      <instrument name="Violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <instrument name="Sho">
+        <player name="Mayumi Miyata"/>
+      </instrument>
+      <composed start="1991"/>
+      <recorded start="1994"/>
+      <release>Mode 88</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Two4</name>
+      <description>for violin and piano</description>
+      <length>30:16</length>
+      <instrument name="Violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <instrument name="Piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1991"/>
+      <recorded start="1995"/>
+      <release>Mode 88</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Four3</name>
+      <description>for 12 rainsticks, violin and 2 pianos</description>
+      <description>for Merce Cunningham's dance Beach Birds</description>
+      <length>30:36</length>
+      <instrument name="Violin &amp; rainsticks">
+        <player name="Ami Flammer"/>
+      </instrument>
+      <instrument name="Piano &amp; rainsticks">
+        <player name="Martine Joste"/>
+      </instrument>
+      <instrument name="Piano &amp; rainsticks">
+        <player name="Dominique Alchourroun"/>
+      </instrument>
+      <instrument name="Rainsticks">
+        <player name="Jean Michaut"/>
+      </instrument>
+      <composed start="1991"/>
+      <recorded start="1994"/>
+      <release>Mode 44</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>One5</name>
+      <description>for piano solo</description>
+      <length>20:40</length>
+      <instrument name="Piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1991"/>
+      <recorded start="1993"/>
+      <release>Mode 47</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>One7</name>
+      <description>for any way of producing sounds</description>
+      <length>30:02</length>
+      <instrument name="voice">
+        <player name="John Cage"/>
+      </instrument>
+      <composed start="1991"/>
+      <recorded start="1991"/>
+      <release>Mode 200</release>
+      <released>2009</released>
+    </composition>
+    <composition>
+      <name>One8</name>
+      <description>for solo cello with BACH.bow</description>
+      <length>43:35</length>
+      <instrument name="Cello">
+        <player name="Michael Bach"/>
+      </instrument>
+      <composed start="1991"/>
+      <recorded start="1994"/>
+      <release>Mode 141</release>
+      <released>2004</released>
+    </composition>
+    <composition>
+      <name>One9 with 108</name>
+      <description>for sho and large orchestra</description>
+      <length>43:30</length>
+      <instrument name="Sho">
+        <player name="Mayumi Miyata"/>
+      </instrument>
+      <player name="WDR Sinfonie Orchester K&ouml;ln"/>
+      <composed start="1991"/>
+      <recorded start="2000"/>
+      <release>Mode 108</release>
+      <released>2002</released>
+    </composition>
+    <composition>
+      <name>103</name>
+      <description>for orchestra</description>
+      <length>1:30:00</length>
+      <player name="WDR Sinfonieorchester K&ouml;ln"/>
+      <conductor>Arturo Tamayo</conductor>
+      <composed start="1991"/>
+      <recorded start="1992"/>
+      <release>Mode 174</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>103</name>
+      <description>for orchestra</description>
+      <length>1:30:00</length>
+      <player name="Spoleto Festival Orchestra"/>
+      <conductor>John Kennedy</conductor>
+      <composed start="1991"/>
+      <recorded start="1997"/>
+      <release>Mode 174</release>
+      <released>2006</released>
+    </composition>
+    <composition>
+      <name>Five3</name>
+      <description>for trombone &amp; string quartet</description>
+      <length>39:59</length>
+      <instrument name="Trombone">
+        <player name="Monique Buzzart&eacute;"/>
+      </instrument>
+      <player name="The Arditti String Quartet"/>
+      <composed start="1991"/>
+      <recorded start="1993"/>
+      <release>Mode 75</release>
+      <released>1999</released>
+    </composition>
+    <composition>
+      <name>Two6</name>
+      <description>for violin and piano</description>
+      <length>19:47</length>
+      <instrument name="Violin">
+        <player name="Ami Flammer"/>
+      </instrument>
+      <instrument name="Piano">
+        <player name="Martine Joste"/>
+      </instrument>
+      <composed start="1992"/>
+      <recorded start="1994"/>
+      <release>Mode 44</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Two6</name>
+      <description>for violin and piano</description>
+      <length>19:57</length>
+      <instrument name="violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <instrument name="piano">
+        <player name="Stephen Drury"/>
+      </instrument>
+      <composed start="1992"/>
+      <recorded start="1995"/>
+      <release>Mode 100</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>One10</name>
+      <description>for violin</description>
+      <length>24:36</length>
+      <instrument name="violin">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <composed start="1992"/>
+      <recorded start="1999"/>
+      <release>Mode 100</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>One11</name>
+      <description>for camera person and light</description>
+      <length>1:30:00</length>
+      <composed start="1992"/>
+      <recorded start="1992"/>
+      <release>Mode 174</release>
+      <released>2006</released>
+    </composition>
+  </composer>
+  <composer name="Cornelius" surname="Cardew" born="1936" died="1981">
+    <composition>
+      <name>Treatise</name>
+      <description>for any number of musicians with any instruments</description>
+      <length>2:07:00</length>
+      <player name="The QUaX Ensemble"/>
+      <conductor>Petr Kotik</conductor>
+      <composed start="1963" end="1967"/>
+      <recorded start="1967"/>
+      <release>Mode 205</release>
+      <released>2009</released>
+    </composition>
+  </composer>
+  <composer name="Elliot" surname="Carter" born="1908" died="">
+    <composition>
+      <name>Heart not so heavy as mine</name>
+      <length>4:25</length>
+      <player name="John Oliver Chorale"/>
+      <conductor>John Oliver</conductor>
+      <composed start="1938"/>
+      <recorded start="1992"/>
+      <release>Koch 3-7178-2H1</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>Musicians wrestle everywhere</name>
+      <length>3:11</length>
+      <player name="John Oliver Chorale"/>
+      <conductor>John Oliver</conductor>
+      <composed start="1945"/>
+      <recorded start="1992"/>
+      <release>Koch 3-7178-2H1</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>The Harmony of Morning</name>
+      <length>9:35</length>
+      <player name="John Oliver Chorale"/>
+      <conductor>John Oliver</conductor>
+      <composed start="1945"/>
+      <recorded start="1992"/>
+      <release>Koch 3-7178-2H1</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>Emblems</name>
+      <length>14:30</length>
+      <player name="John Oliver Chorale"/>
+      <conductor>John Oliver</conductor>
+      <composed start="1947"/>
+      <recorded start="1992"/>
+      <release>Koch 3-7178-2H1</release>
+      <released>1994</released>
+    </composition>
+    <composition>
+      <name>A Symphony of Three Orchestras</name>
+      <length>15:41</length>
+      <player name="New York Philharmonic"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1977"/>
+      <recorded start="1977"/>
+      <release>Sony SMK 68 334</release>
+      <released>1995</released>
+    </composition>
+    <composition>
+      <name>Riconoscenza</name>
+      <length>4:10</length>
+      <instrument name="Violino">
+        <player name="Irvine Arditti"/>
+      </instrument>
+      <composed start="1984"/>
+      <recorded start="1989"/>
+      <release>Montaigne 789003</release>
+      <released>1990</released>
+    </composition>
+    <composition>
+      <name>Penthode</name>
+      <description>pour cinq groupes de quatre instruments</description>
+      <length>19:20</length>
+      <player name="Ensemble InterContemporain"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1984" end="1985"/>
+      <recorded start="1987"/>
+      <release>Erato 0630-15993-2</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>Oboenkonzert</name>
+      <length>18:43</length>
+      <instrument name="Oboe">
+        <player name="Heinz Holliger"/>
+      </instrument>
+      <player name="SWF-Sinfonieorchester Baden-Baden"/>
+      <conductor>Michael Gielen</conductor>
+      <composed start="?"/>
+      <recorded start="1988"/>
+      <release>Col Legno CD1 31911</release>
+      <released>1996</released>
+    </composition>
+  </composer>
+  <composer name="Tristram" surname="Cary" born="1925" died="">
+    <composition>
+      <name>Suite - The Japanese Fishermen</name>
+      <description>recreated for stereo tape from 78rpm mono acetate discs</description>
+      <length>5:40</length>
+      <composed start="1955" end="1996"/>
+      <recorded start="1996"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Suite - The Children of Lir</name>
+      <description>for mono tape</description>
+      <length>8:40</length>
+      <composed start="1959" end="1996"/>
+      <recorded start="1996"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>3 4 5</name>
+      <description>A study in limited resources for stereo tape</description>
+      <length>6:52</length>
+      <composed start="1967"/>
+      <recorded start="1967"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Birth is Life is Power is Death is God is...</name>
+      <description>for stereo tape</description>
+      <length>8:46</length>
+      <composed start="1967"/>
+      <recorded start="1967"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Narcissus</name>
+      <description>for flute and two tape recorders</description>
+      <length>8:00</length>
+      <instrument name="Flute">
+        <player name="Douglas Whittaker"/>
+      </instrument>
+      <composed start="1968"/>
+      <recorded start="1968"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Continuum</name>
+      <description>for stereo tape</description>
+      <length>13:26</length>
+      <composed start="1969"/>
+      <recorded start="1969"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Suite - Leviathan '99</name>
+      <description>for stereo tape</description>
+      <length>16:10</length>
+      <composed start="1972"/>
+      <recorded start="1972"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Steam Music</name>
+      <description>for quad tape</description>
+      <length>9:21</length>
+      <composed start="1978"/>
+      <recorded start="1978"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Nonet</name>
+      <description>computer music in four tracks</description>
+      <length>9:03</length>
+      <player name="CCRMA, Stanford University"/>
+      <composed start="1979"/>
+      <recorded start="1979"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Sine City II</name>
+      <description>computer music in stereo</description>
+      <length>6:20</length>
+      <composed start="1979" end="1996"/>
+      <recorded start="1996"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Soft Walls</name>
+      <description>computer music in four tracks</description>
+      <length>7:31</length>
+      <composed start="1980"/>
+      <recorded start="1980"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Three Clockpieces</name>
+      <description>computer music in stereo</description>
+      <length>4:10</length>
+      <part>
+        <number>1</number>
+        <name>Clockpiece 1</name>
+        <length>1:13</length>
+      </part>
+      <part>
+        <number>2</number>
+        <name>Clockpiece 2</name>
+        <length>1:39</length>
+      </part>
+      <part>
+        <number>3</number>
+        <name>Clockpiece 3</name>
+        <length>1:09</length>
+      </part>
+      <composed start="1983" end="1996"/>
+      <recorded start="1996"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Trellises</name>
+      <description>computer music in four tracks</description>
+      <length>12:02</length>
+      <composed start="1984"/>
+      <recorded start="1984"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>Black, White &amp; Rose</name>
+      <description>for marimba, gongs, woodblocks and tape</description>
+      <length>21:47</length>
+      <instrument name="Percussion">
+        <player name="Ryszard Pusz"/>
+      </instrument>
+      <composed start="1991"/>
+      <recorded start="1991"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+    <composition>
+      <name>The Impossible Piano</name>
+      <description>(Homage to CN) for sequencer &amp; sampled piano (7 excerpts)</description>
+      <length>14:37</length>
+      <part>
+        <number>1</number>
+        <name>Counterpoint 4</name>
+        <length>0:39</length>
+      </part>
+      <part>
+        <number>2</number>
+        <name>Counterpoint 5</name>
+        <length>1:34</length>
+      </part>
+      <part>
+        <number>3</number>
+        <name>Counterpoint 6</name>
+        <length>4:52</length>
+      </part>
+      <part>
+        <number>4</number>
+        <name>Power Bounces 1</name>
+        <length>1:00</length>
+      </part>
+      <part>
+        <number>5</number>
+        <name>Power Bounces 4</name>
+        <length>1:54</length>
+      </part>
+      <part>
+        <number>6</number>
+        <name>Cross-Accents 1</name>
+        <length>2:03</length>
+      </part>
+      <part>
+        <number>7</number>
+        <name>Cross-Accents 5</name>
+        <length>2:12</length>
+      </part>
+      <composed start="1994"/>
+      <recorded start="1994"/>
+      <release>Tall Poppies TP139</release>
+      <released>2000</released>
+    </composition>
+  </composer>
+  <composer name="Niccol&ograve;" surname="Castiglioni" born="1932" died="">
+    <composition>
+      <name>Romanze</name>
+      <description>pour quatuor &agrave; cordes</description>
+      <length>8:05</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1990"/>
+      <recorded start="1992"/>
+      <release>Montaigne 782042</release>
+      <released>1995</released>
+    </composition>
+  </composer>
+  <composer name="Friedrich" surname="Cerha" born="1926" died="">
+    <composition>
+      <name>Ein Buch von der Minne</name>
+      <length>13:41</length>
+      <instrument name="Tenor">
+        <player name="Werner Krenn"/>
+      </instrument>
+      <instrument name="Klavier">
+        <player name="Klaus Christian Schuster"/>
+      </instrument>
+      <composed start="1946" end="1964"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD1)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Zehn Rubaijat des Omar Chajjam</name>
+      <description>f&uuml;r gemischten Chor a cappella 1. Buch</description>
+      <length>11:00</length>
+      <player name="ORF Chor"/>
+      <conductor>Erwin Ortner</conductor>
+      <composed start="1949" end="1955"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD1)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Konzert f&uuml;r Klavier und Orchester</name>
+      <length>31:56</length>
+      <instrument name="Klavier">
+        <player name="Thomas Larcher"/>
+      </instrument>
+      <player name="Radio Symphonie Orchester Wien"/>
+      <conductor>Dennis Russell Davies</conductor>
+      <composed start="1951" end="1954"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD1)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Divertimento f&uuml;r 8 Bl&auml;ser und Schlagzeug</name>
+      <description>Hommage &agrave; Strawinsky</description>
+      <length>11:03</length>
+      <player name="Mitglieder des Radio Symphonie Orchesters Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1954"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD1)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Relazioni fragili</name>
+      <description>f&uuml;r Cembalo und Kammerensemble</description>
+      <length>24:28</length>
+      <instrument name="Cembalo">
+        <player name="Florian M&uuml;ller"/>
+      </instrument>
+      <player name="Klangforum Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1956" end="1957"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD2)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Espressioni fondamentali</name>
+      <description>f&uuml;r Orchester</description>
+      <length>16:30</length>
+      <player name="Radio Symphonie Orchester Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1957"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD2)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Mouvements I-III</name>
+      <length>20:28</length>
+      <player name="Klangforum Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1959"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD3)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Intersecazioni</name>
+      <description>f&uuml;r Violine und Orchester</description>
+      <length>28:57</length>
+      <instrument name="Violine">
+        <player name="Ernst Kovacic"/>
+      </instrument>
+      <player name="Radio Symphonie Orchester Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1959" end="1973"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD2)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Fasce</name>
+      <description>f&uuml;r gro&szlig;es Orchester</description>
+      <length>22:32</length>
+      <player name="Radio Symphonie Orchester Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1959" end="1974"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD3)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Spiegel II</name>
+      <description>f&uuml;r 55 Streicher</description>
+      <length>11:27</length>
+      <player name="SWF-Sinfonieorchester Baden-Baden"/>
+      <conductor>Ernest Bour</conductor>
+      <composed start="1960"/>
+      <recorded start="1964"/>
+      <release>Col Legno CD1 31902</release>
+      <released>1996</released>
+    </composition>
+    <composition>
+      <name>Spiegel I, VI, VII</name>
+      <description>f&uuml;r gro&szlig;es Orchester und Tonband</description>
+      <length>32:31</length>
+      <player name="Radio Symphonie Orchester Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1960" end="1961"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD3)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Spiegel I-VII</name>
+      <description>f&uuml;r Gro&szlig;es Orchester und Tonband</description>
+      <length>1:25:21</length>
+      <player name="Radio Symphonie Orchester Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1960" end="1961"/>
+      <recorded start="1996"/>
+      <release>Col Legno WWE 2CD 20006</release>
+      <released>1997</released>
+    </composition>
+    <composition>
+      <name>Netzwerk</name>
+      <description>B&uuml;hnenwerk in 3 Teilen</description>
+      <length>1:39:17</length>
+      <instrument name="Sprecher">
+        <player name="Mircea Mihalache"/>
+        <player name="Harumichi Fujiwara"/>
+        <player name="Neven Belamaric"/>
+        <player name="Wolfgang Dosch"/>
+        <player name="Zelotes Edmund Toliver"/>
+      </instrument>
+      <instrument name="Bariton">
+        <player name="Arthur Korn"/>
+      </instrument>
+      <instrument name="Koloratursopran">
+        <player name="Donna Robin"/>
+      </instrument>
+      <player name="Ensemble &quot;die reihe&quot;"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1962" end="1980"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD5 &amp; 6)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Und Du...</name>
+      <length>39:13</length>
+      <instrument name="Sprecher">
+        <player name="Ernst Meister"/>
+        <player name="Helmut Janatsch"/>
+        <player name="Guido Wieland"/>
+        <player name="G&uuml;nther Anders"/>
+        <player name="Grete Zimmer"/>
+      </instrument>
+      <player name="2 Singstimmen (ORF Chor)"/>
+      <player name="Ensemble &quot;die reihe&quot;"/>
+      <player name="Radio Symphonie Orchester Wien"/>
+      <player name="Elektronik (ORF Technik)"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1963"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD4)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Verzeichnis</name>
+      <description>f&uuml;r 16-stimmigen Chor a cappella</description>
+      <length>9:23</length>
+      <player name="ORF Chor"/>
+      <conductor>Erwin Ortner</conductor>
+      <composed start="1969"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD4)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Langegger Nachtmusik I</name>
+      <description>f&uuml;r Orchester</description>
+      <length>10:00</length>
+      <player name="Ensemble &quot;die reihe&quot;"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1969"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD4)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Baal</name>
+      <description>B&uuml;hnenwerk in 2 Teilen</description>
+      <length>2:43:18</length>
+      <player name="Wiener Philharmoniker"/>
+      <conductor>Christoph von Dohn&aacute;nyi</conductor>
+      <composed start="1974" end="1980"/>
+      <recorded start="1981"/>
+      <release>ORF CD 180 (CD7-9)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Keintate</name>
+      <description>f&uuml;r mittlere Stimme (Chansonnier) und Instrumente nach Wiener Spr&uuml;chen von Ernst Kein</description>
+      <length>48:12</length>
+      <instrument name="Chansonnier">
+        <player name="Heinz Karl Gruber"/>
+      </instrument>
+      <player name="Friedrich Cerha und seine Freunde"/>
+      <composed start="1980" end="1982"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD10)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Eine Art Chansons</name>
+      <description>f&uuml;r einen Chansonnier, Schlagzeug, Klavier und Kontrabass</description>
+      <length>28:25</length>
+      <instrument name="Chansonnier">
+        <player name="Heinz Karl Gruber"/>
+      </instrument>
+      <instrument name="Schlagzeug">
+        <player name="Kurt Prihoda"/>
+      </instrument>
+      <instrument name="Klavier">
+        <player name="Rainer Keuschnig"/>
+      </instrument>
+      <instrument name="Kontrabass">
+        <player name="Josef Pitzek"/>
+      </instrument>
+      <composed start="1985" end="1987"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD10)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Monumentum f&uuml;r Karl Prantl</name>
+      <description>f&uuml;r Gro&szlig;es Orchester</description>
+      <length>20:15</length>
+      <player name="Radio Symphonie Orchester Wien"/>
+      <conductor>Michael Gielen</conductor>
+      <composed start="1988"/>
+      <recorded start="1989"/>
+      <release>Col Legno WWE 2CD 20006</release>
+      <released>1997</released>
+    </composition>
+    <composition>
+      <name>Streichquartett &quot;Maqam&quot;</name>
+      <length>13:45</length>
+      <player name="Cherubini Quartett"/>
+      <composed start="1989"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD11)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>String Quartet No. 1 &quot;Maqam&quot;</name>
+      <length>15:57</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1989"/>
+      <recorded start="1997"/>
+      <release>CPO 999 646-2</release>
+      <released>1999</released>
+    </composition>
+    <composition>
+      <name>Phantasiest&uuml;ck in C.'s Manier</name>
+      <description>f&uuml;r Violoncello und Orchester/Ensemble</description>
+      <length>10:49</length>
+      <instrument name="Violoncello">
+        <player name="Heinrich Schiff"/>
+      </instrument>
+      <player name="Radio-Sinfonieorchester Kattowitz"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1989"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD12)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>String Quartet No. 2</name>
+      <length>18:44</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1989" end="1990"/>
+      <recorded start="1997"/>
+      <release>CPO 999 646-2</release>
+      <released>1999</released>
+    </composition>
+    <composition>
+      <name>Langegger Nachtmusik III</name>
+      <description>f&uuml;r gro&szlig;es Orchester</description>
+      <length>22:44</length>
+      <player name="Radio Symphonie Orchester Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1990" end="1991"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD12)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>String Quartet No. 3</name>
+      <length>18:31</length>
+      <player name="Arditti String Quartet"/>
+      <composed start="1991" end="1992"/>
+      <recorded start="1997"/>
+      <release>CPO 999 646-2</release>
+      <released>1999</released>
+    </composition>
+    <composition>
+      <name>Impulse</name>
+      <description>f&uuml;r Orchester</description>
+      <length>21:49</length>
+      <player name="Wiener Philharmoniker"/>
+      <conductor>Pierre Boulez</conductor>
+      <composed start="1992" end="1993"/>
+      <recorded start="1996"/>
+      <release>ORF CD 180 (CD12)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>F&uuml;r K</name>
+      <description>f&uuml;r Kammerorchester</description>
+      <length>17:24</length>
+      <player name="Klangforum Wien"/>
+      <conductor>Friedrich Cerha</conductor>
+      <composed start="1993"/>
+      <recorded start="1996"/>
+      <release>Col Legno WWE 2CD 20006</release>
+      <released>1997</released>
+    </composition>
+    <composition>
+      <name>Saxophon-Quartett</name>
+      <length>17:45</length>
+      <player name="Wiener Saxophon-Quartett"/>
+      <composed start="1995"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD11)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Acht S&auml;tze nach H&ouml;lderlin-Fragmenten</name>
+      <description>f&uuml;r Streichsextett</description>
+      <length>21:26</length>
+      <player name="Arditti String Quartet"/>
+      <player name="Thomas Kakuska"/>
+      <player name="Valentin Erben"/>
+      <composed start="1995"/>
+      <recorded start="?"/>
+      <release>ORF CD 180 (CD11)</release>
+      <released>2001</released>
+    </composition>
+    <composition>
+      <name>Eight Movements after H&ouml;lderlin Fragments</name>
+      <description>for string sextet</description>
+      <length>24:57</length>
+      <player name="Arditti String Quartet"/>
+      <instrument name="Viola">
+        <player name="Thomas Kakuska"/>
+      </instrument>
+      <instrument name="Violoncello">
+        <player name="Valentin Erben"/>
+      </instrument>
+      <composed start="1995"/>
+      <recorded start="1997"/>
+      <release>CPO 999 646-2</release>
+      <released>1999</released>
+    </composition>
+  </composer>
+  <composer name="Nicola" surname="Cisternino" born="1957" died="">
+    <composition>
+      <name>X&ouml;&ouml;mij</name>
+      <description>for bass voice and UPIC</description>
+      <length>11:57</length>
+      <instrument name="Bass">
+        <player name="Nicholas Isherwood"/>
+      </instrument>
+      <player name="Les Ateliers UPIC, Paris"/>
+      <composed start="1997"/>
+      <recorded start=""/>
+      <release>Mode 98/99</release>
+      <released>2001</released>
+    </composition>
+  </composer>
+  <composer name="Robert" surname="Cohen-Solal" born="" died="">
+    <composition>
+      <name>D&eacute;licieuse Catastrophe</name>
+      <length>11:41</length>
+      <composed start="1970"/>
+      <recorded start="1970"/>
+      <release>NEEMC 05</release>
+      <released>2006</released>
+    </composition>
+  </composer>
+</list>
