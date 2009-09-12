@@ -7,11 +7,11 @@
       <name>IEAOV Instrumente und ElektroAkustisch Ortsbezogene Verdichtung</name>
       <description>f&uuml;r 2 Posaunen und 2 Violoncelli</description>
       <length>22:29</length>
-      <instrument name="Posaunen">
+      <instrument name="Posaune">
         <player name="Michael Svoboda"/>
         <player name="Andrew Digby"/>
       </instrument>
-      <instrument name="Violoncelli">
+      <instrument name="Violoncello">
         <player name="Gregory Johns"/>
         <player name="Scott Roller"/>
       </instrument>
