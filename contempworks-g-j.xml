@@ -470,6 +470,18 @@
   </composer>
   <composer name="G&eacute;rard" surname="Grisey" born="1946" died="1998">
     <composition>
+      <name>Charme</name>
+      <description>pour clarinette</description>
+      <length>5:58</length>
+      <instrument name="clarinet">
+        <player name="Ernesto Molinari"/>
+      </instrument>
+      <composed start="1969"/>
+      <recorded start="2003"/>
+      <release>Kairos 0012502KAI</release>
+      <released>2005</released>
+    </composition>
+    <composition>
       <name>P&eacute;riodes</name>
       <description>pour 7 musiciens</description>
       <description>Cycle Les Espaces Acoustiques, 2</description>
@@ -552,6 +564,16 @@
       <released>1993</released>
     </composition>
     <composition>
+      <name>Tempus ex machina</name>
+      <description>pour six percussionistes</description>
+      <length>22:03</length>
+      <player name="ensemble S"/>
+      <composed start="1979"/>
+      <recorded start="2004"/>
+      <release>Kairos 0012502KAI</release>
+      <released>2005</released>
+    </composition>
+    <composition>
       <name>Transitoires</name>
       <description>pour orchestre</description>
       <description>Cycle Les Espaces Acoustiques, 5</description>
@@ -562,6 +584,32 @@
       <recorded start="1996"/>
       <release>Accord 465 396-2</release>
       <released>2001</released>
+    </composition>
+    <composition>
+      <name>Solo pour deux</name>
+      <description>pour clarinette et trombone</description>
+      <length>15:20</length>
+      <instrument name="clarinet">
+        <player name="Ernesto Molinari"/>
+      </instrument>
+      <instrument name="trombone">
+        <player name="Uwe Dierksen"/>
+      </instrument>
+      <composed start="1981"/>
+      <recorded start="2003"/>
+      <release>Kairos 0012502KAI</release>
+      <released>2005</released>
+    </composition>
+    <composition>
+      <name>Les Chants de l'Amour</name>
+      <description>f&uuml;r 12 Stimmen und Tonband</description>
+      <length>35:23</length>
+      <player name="Schola Heidelberg"/>
+      <conductor>Walter Nu&szlig;baum</conductor>
+      <composed start="1982" end="1984"/>
+      <recorded start="2007"/>
+      <release>Kairos 0012752KAI</release>
+      <released>2008</released>
     </composition>
     <composition>
       <name>Anubis</name>
@@ -586,6 +634,18 @@
       <recorded start="1991" end="1992"/>
       <release>Accord 201952</release>
       <released>1993</released>
+    </composition>
+    <composition>
+      <name>Anubis-Nout</name>
+      <description>deux pi&egrave;ces pour clarinette contrebasse &agrave; la m&eacute;moire de mon ami Claude Vivier, assassin&eacute; en mars 1983</description>
+      <length>12:32</length>
+      <instrument name="clarinet">
+        <player name="Ernesto Molinari"/>
+      </instrument>
+      <composed start="1983"/>
+      <recorded start="2003"/>
+      <release>Kairos 0012502KAI</release>
+      <released>2005</released>
     </composition>
     <composition>
       <name>Epilogue</name>
@@ -622,6 +682,22 @@
       <released>1997</released>
     </composition>
     <composition>
+      <name>Le Temps et l'&Eacute;cume</name>
+      <description>f&uuml;r 4 Schlagzeuger, 2 Synthesizer und Kammerorchester</description>
+      <length>20:27</length>
+      <player name="Ensemble S"/>
+      <instrument name="Synthesizer">
+        <player name="Paulo Alvares"/>
+        <player name="Benjamin Kobler"/>
+      </instrument>
+      <player name="WDR Sinfonieorchester K&ouml;ln"/>
+      <conductor>Emilio Pom&aacute;rico</conductor>
+      <composed start="1988" end="1989"/>
+      <recorded start="2007"/>
+      <release>Kairos 0012752KAI</release>
+      <released>2008</released>
+    </composition>
+    <composition>
       <name>Vortex Temporum</name>
       <description>pour fl&ucirc;te, clarinette, piano, violon, alto et violoncelle</description>
       <length>40:28</length>
@@ -631,6 +707,16 @@
       <recorded start="1996"/>
       <release>Accord 464 292-2</release>
       <released>1997</released>
+    </composition>
+    <composition>
+      <name>St&egrave;le</name>
+      <description>pour deux percussionistes</description>
+      <length>6:28</length>
+      <player name="ensemble S"/>
+      <composed start="1995"/>
+      <recorded start="2004"/>
+      <release>Kairos 0012502KAI</release>
+      <released>2005</released>
     </composition>
     <composition>
       <name>Quatre chants pour franchir le seuil</name>

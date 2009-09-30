@@ -1344,6 +1344,20 @@
       <released>2000</released>
     </composition>
     <composition>
+      <name>Sotto voce - Notturno</name>
+      <description>f&uuml;r Klavier und kleines Orchester</description>
+      <length>17:41</length>
+      <instrument name="Piano">
+        <player name="Nicholas Hodges"/>
+      </instrument>
+      <player name="Luzerner Sinfonieorchester"/>
+      <conductor>John Axelrod</conductor>
+      <composed start="1999"/>
+      <recorded start="2008"/>
+      <release>Kairos 0012952KAI</release>
+      <released>2009</released>
+    </composition>
+    <composition>
       <name>Auf einem anderen Blatt</name>
       <length>4:21</length>
       <instrument name="Piano">
@@ -1365,6 +1379,18 @@
       <recorded start="2003"/>
       <release>Ars Musici AM 1385-2</release>
       <released>2006</released>
+    </composition>
+    <composition>
+      <name>&quot;Concerto&quot; Dithyrambe</name>
+      <description>f&uuml;r Streichquartett und Orchester</description>
+      <length>25:45</length>
+      <player name="Arditti String Quartett"/>
+      <player name="Luzerner Sinfonieorchester"/>
+      <conductor>Jonathan Nott</conductor>
+      <composed start="2000"/>
+      <recorded start="2007"/>
+      <release>Kairos 0012952KAI</release>
+      <released>2009</released>
     </composition>
     <composition>
       <name>String Quartet No. 12</name>
@@ -1396,6 +1422,20 @@
       <release>Col Legno WWE 1CD 20227</release>
       <released>2006</released>
     </composition>
+    <composition>
+      <name>Sotto voce 2 - Capriccio</name>
+      <description>f&uuml;r Klavier und kleines Orchester</description>
+      <length>17:41</length>
+      <instrument name="Piano">
+        <player name="Nicholas Hodges"/>
+      </instrument>
+      <player name="Luzerner Sinfonieorchester"/>
+      <conductor>John Axelrod</conductor>
+      <composed start="2007"/>
+      <recorded start="2008"/>
+      <release>Kairos 0012952KAI</release>
+      <released>2009</released>
+  </composition>
   </composer>
   <composer name="Jean-Claude" surname="Risset" born="1938" died="">
     <composition>
