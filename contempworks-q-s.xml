@@ -3361,6 +3361,20 @@
       <released>2000</released>
     </composition>
     <composition>
+      <name>Lohengrin</name>
+      <description>Azione invisibile per solista, strumenti e voci</description>
+      <length>43:48</length>
+      <instrument name="soprano">
+        <player name="Marianne Pousseur"/>
+      </instrument>
+      <player name="Ensemble Risognanze"/>
+      <conductor>Tito Ceccherini</conductor>
+      <composed start="1984"/>
+      <recorded start="2005"/>
+      <release>Col Legno WWE 1CD 20264</release>
+      <released>2008</released>
+    </composition>
+    <composition>
       <name>Allegoria della notte</name>
       <description>for violin and orchestra</description>
       <length>17:08</length>
@@ -3746,6 +3760,18 @@
       <released>2000</released>
     </composition>
     <composition>
+      <name>Due notturni crudeli</name>
+      <description>per pianoforte</description>
+      <length>9:30</length>
+      <instrument name="piano">
+        <player name="Alfonso Alberti"/>
+      </instrument>
+      <composed start="2001"/>
+      <recorded start="2005"/>
+      <release>Col Legno WWE 1CD 20264</release>
+      <released>2008</released>
+    </composition>
+    <composition>
       <name>Quaderno di strada</name>
       <description>12 canti e un proverbio per baritono e strumenti</description>
       <length>42:27</length>
@@ -3793,6 +3819,17 @@
       <composed start="2005"/>
       <recorded start="2006"/>
       <release>Kairos 0012802KAI</release>
+      <released>2008</released>
+    </composition>
+    <composition>
+      <name>Vento d'ombra</name>
+      <description>per 14 strumenti</description>
+      <length>9:29</length>
+      <player name="Ensemble Risognanze"/>
+      <conductor>Tito Ceccherini</conductor>
+      <composed start="2005"/>
+      <recorded start="2005"/>
+      <release>Col Legno WWE 1CD 20264</release>
       <released>2008</released>
     </composition>
   </composer>
