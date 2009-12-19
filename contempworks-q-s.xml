@@ -520,6 +520,17 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Dis-Kontur</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>21:36</length>
+			<player name="Sinfonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Leif Segerstam</conductor>
+			<composed start="1974"/>
+			<recorded start="1978"/>
+			<release>Col Legno WWE 1CD 20093</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Klavierst&uuml;ck Nr. 4</name>
 			<length>14:37</length>
 			<instrument name="Piano">
@@ -554,6 +565,17 @@
 			<recorded start="1976"/>
 			<release>h&auml;nssler Classic CD 93.202</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Sub-Kontur</name>
+			<description>f&uuml;r Orchester</description>
+			<length>21:36</length>
+			<player name="Sinfonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Sian Edwards</conductor>
+			<composed start="1974" end="1975"/>
+			<recorded start="2004"/>
+			<release>Col Legno WWE 1CD 20093</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Klavierst&uuml;ck Nr. 5</name>
@@ -1117,6 +1139,21 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Frau/Stimme</name>
+			<description>f&uuml;r Sopran und Orchester</description>
+			<length>19:57</length>
+			<instrument name="Sopran">
+				<player name="Isolde Siebert"/>
+				<player name="Carmen Fuggiss"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>h&auml;nssler Classic CD 93.236</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Ins Offene...</name>
 			<description>Zweite Fassung</description>
 			<description>f&uuml;r Orchester </description>
@@ -1260,6 +1297,17 @@
 			<recorded start="1994"/>
 			<release>h&auml;nssler Classic CD 93.227</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Ungemaltes Bild</name>
+			<description>f&uuml;r Orchester</description>
+			<length>15:54</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Friedrich Goldmann</conductor>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>h&auml;nssler Classic CD 93.236</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Gejagte Form</name>
@@ -1436,6 +1484,20 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Unbenannt IV</name>
+			<description>f&uuml;r Orchester mit Orgel</description>
+			<length>21:36</length>
+			<instrument name="Orgel">
+				<player name="Leo van Doeselaar"/>
+			</instrument>
+			<player name="Sinfonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Lothar Zagrosek</conductor>
+			<composed start="2002" end="2003"/>
+			<recorded start="2004"/>
+			<release>Col Legno WWE 1CD 20093</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Quartettstudie</name>
 			<length>13:05</length>
 			<player name="Minguet Quartet"/>
@@ -1456,6 +1518,18 @@
 			<composed start="2007"/>
 			<recorded start="2008"/>
 			<release>Kairos 0012952KAI</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Quid est Deus</name>
+			<description>f&uuml;r Chor und Orchester</description>
+			<length>33:02</length>
+			<player name="SWR Vokalensemble"/>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>h&auml;nssler Classic CD 93.236</release>
 			<released>2009</released>
 		</composition>
 	</composer>
@@ -1492,6 +1566,104 @@
 			<recorded start=""/>
 			<release>Mode 98/99</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Half-life</name>
+			<length>6:18</length>
+			<part>
+				<number>I</number>
+				<name>Sonal atoms</name>
+				<length>3:34</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Granules</name>
+				<length>2:44</length>
+			</part>
+			<composed start="1999"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Tenth vortex</name>
+			<length>3:01</length>
+			<composed start="2000"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Sculptor</name>
+			<length>3:13</length>
+			<composed start="2001"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Eleventh vortex</name>
+			<length>4:06</length>
+			<composed start="2001"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Now</name>
+			<length>6:14</length>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Volt air</name>
+			<length>10:08</length>
+			<part>
+				<number>I</number>
+				<length>3:16</length>
+			</part>
+			<part>
+				<number>II</number>
+				<length>2:35</length>
+			</part>
+			<part>
+				<number>III</number>
+				<length>2:15</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<length>2:07</length>
+			</part>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Fluxon</name>
+			<length>3:05</length>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Pictor alpha</name>
+			<length>3:23</length>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Nanomorphosis</name>
+			<length>3:16</length>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Brigitte" surname="Robindor&eacute;" born="1962" died="">
