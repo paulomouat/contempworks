@@ -2765,6 +2765,21 @@
       <released>1998</released>
     </composition>
   </composer>
+  <composer name="Ole-Henrik" surname="Moe" born="1966" died="">
+    <composition>
+      <name>Lenger</name>
+      <description>for string quartet and solo violin</description>
+      <length>13:43</length>
+      <instrument name="Violin">
+        <player name="Ole-Henrik Moe"/>
+      </instrument>
+      <player name="Arditti String Quartet"/>
+      <composed start="2006"/>
+      <recorded start="2006"/>
+      <release>Neos 10724</release>
+      <released>2007</released>
+    </composition>
+  </composer>
   <composer name="Isabel" surname="Mundry" born="1963" died="">
     <composition>
       <name>Gesichter</name>

@@ -358,7 +358,6 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-
 			<name>A roaring flame</name>
 			<description>for female voice and double-bass</description>
 			<length>12:09</length>
@@ -808,6 +807,19 @@
 			<recorded start="1994"/>
 			<release>Montaigne 782056</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Quotidianus</name>
+			<description>for voice and string quartet</description>
+			<length>10:34</length>
+			<instrument name="Voice">
+				<player name="Julio Estrada"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Neos 10724</release>
+			<released>2007</released>
 		</composition>
 	</composer>
 	<composer name="Franco" surname="Evangelisti" born="1926" died="1980">

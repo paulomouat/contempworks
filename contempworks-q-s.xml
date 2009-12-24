@@ -1507,6 +1507,19 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Akt und Tag</name>
+			<description>two studies for soprano and string quartet</description>
+			<length>25:06</length>
+			<instrument name="Soprano">
+				<player name="Claron McFadden"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Neos 10724</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Sotto voce 2 - Capriccio</name>
 			<description>f&uuml;r Klavier und kleines Orchester</description>
 			<length>17:41</length>
