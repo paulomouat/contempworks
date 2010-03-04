@@ -5583,6 +5583,17 @@
 	</composer>
 	<composer name="Igor" surname="Stravinsky" born="1882" died="1971">
 		<composition>
+			<name>P&eacute;trouchka</name>
+			<description>Sc&egrave;nes burlesques en quatre tableaux, version de 1911</description>
+			<length>34:58</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1911"/>
+			<recorded start="1991"/>
+			<release>Deutsche Grammophon 435 769-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Three Japanese Lyrics</name>
 			<description>for soprano and ensemble</description>
 			<length>3:00</length>
@@ -5595,6 +5606,16 @@
 			<recorded start="1987" end="1988"/>
 			<release>Montaigne 780518</release>
 			<released>1989-94</released>
+		</composition>
+		<composition>
+			<name>Le Sacre du Printemps</name>
+			<length>33:29</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start=""/>
+			<recorded start="1991"/>
+			<release>Deutsche Grammophon 435 769-2</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Concertino</name>
