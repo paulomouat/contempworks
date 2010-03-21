@@ -570,6 +570,20 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Chemins I</name>
+			<description>su Sequenza II, for harp and orchestra</description>
+			<length>14:55</length>
+			<instrument name="Harp">
+				<player name="Anna Verkholantseva"/>
+			</instrument>
+			<player name="Vienna Radio Symphony Orchestra"/>
+			<conductor>Martyn Brabbins</conductor>
+			<composed start="1965"/>
+			<recorded start="2007"/>
+			<release>Col Legno WWE 1CD 20281</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>Sequenza IV</name>
 			<description>for piano</description>
 			<length>11:06</length>
@@ -625,6 +639,31 @@
 			<recorded start="1994" end="1997"/>
 			<release>Deutsche Grammophon 457038-2</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Chemins IIb</name>
+			<description>for orchestra</description>
+			<length>10:24</length>
+			<player name="Vienna Radio Symphony Orchestra"/>
+			<conductor>Martyn Brabbins</conductor>
+			<composed start="1970"/>
+			<recorded start="2007"/>
+			<release>Col Legno WWE 1CD 20281</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Concerto</name>
+			<description>for two pianos and orchestra</description>
+			<length>25:38</length>
+			<instrument name="Pianos">
+				<player name="GrauSchumacher Piano Duo"/>
+			</instrument>
+			<player name="Vienna Radio Symphony Orchestra"/>
+			<conductor>Bertrand de Billy</conductor>
+			<composed start="1972" end="1973"/>
+			<recorded start="2007"/>
+			<release>Col Legno WWE 1CD 20281</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Chemins IV (su "Sequenza VII")</name>
@@ -730,6 +769,17 @@
 			<recorded start="1994" end="1997"/>
 			<release>Deutsche Grammophon 457038-2</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Formazioni</name>
+			<description>for orchestra</description>
+			<length>19:42</length>
+			<player name="Vienna Radio Symphony Orchestra"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1986"/>
+			<recorded start="2007"/>
+			<release>Col Legno WWE 1CD 20281</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Sequenza XI</name>
@@ -3346,6 +3396,15 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Elegy</name>
+			<length>4:15</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1943"/>
+			<recorded start="1988"/>
+			<release>Etcetera KTC 2507</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Musicians wrestle everywhere</name>
 			<length>3:11</length>
 			<player name="John Oliver Chorale"/>
@@ -3374,6 +3433,33 @@
 			<recorded start="1992"/>
 			<release>Koch 3-7178-2H1</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 1</name>
+			<length>38:03</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1951"/>
+			<recorded start="1988"/>
+			<release>Etcetera KTC 2507</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 2</name>
+			<length>20:08</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1959"/>
+			<recorded start="1988"/>
+			<release>Etcetera KTC 2507</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 3</name>
+			<length>20:12</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1971"/>
+			<recorded start="1988"/>
+			<release>Etcetera KTC 2507</release>
+			<released>2005</released>
 		</composition>
 		<composition>
 			<name>A Symphony of Three Orchestras</name>
@@ -3406,6 +3492,15 @@
 			<recorded start="1987"/>
 			<release>Erato 0630-15993-2</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 4</name>
+			<length>20:47</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1986"/>
+			<recorded start="1988"/>
+			<release>Etcetera KTC 2507</release>
+			<released>2005</released>
 		</composition>
 		<composition>
 			<name>Oboenkonzert</name>

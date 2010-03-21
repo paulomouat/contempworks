@@ -1717,6 +1717,20 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Germ&aacute;n" surname="Romero" born="1966" died="">
+		<composition>
+			<name>Ramas</name>
+			<description>for amplified solo violin</description>
+			<length>14:24</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>Mode 165</release>
+			<released>2006</released>
+		</composition>
+	</composer>
 	<composer name="Frederic" surname="Rzewski" born="1938" died="">
 		<composition>
 			<name>Scratch Symphony</name>
@@ -4262,6 +4276,20 @@
 			<recorded start="1991"/>
 			<release>Montaigne MO 782033</release>
 			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Rogelio" surname="Sosa" born="1977" died="">
+		<composition>
+			<name>Espasmo fulgor</name>
+			<description>for violin &amp; electronics</description>
+			<length>10:21</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>Mode 165</release>
+			<released>2006</released>
 		</composition>
 	</composer>
 	<composer name="Mathias" surname="Spahlinger" born="1944" died="">
