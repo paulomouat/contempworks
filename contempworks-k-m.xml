@@ -2903,6 +2903,18 @@
 			<release>Col Legno WWE 1CD 20278</release>
 			<released>2008</released>
 		</composition>
+		<composition>
+			<name>Music for checking e-mails</name>
+			<description>for electronics</description>
+			<length>1:52:50</length>
+			<instrument name="Electronics">
+				<player name="Wolfgang Mitterer"/>
+			</instrument>
+			<composed start="2009"/>
+			<recorded start="2009"/>
+			<release>Col Legno WWE 2CD 20289</release>
+			<released>2009</released>
+		</composition>
 	</composer>
 	<composer name="Ole-Henrik" surname="Moe" born="1966" died="">
 		<composition>
