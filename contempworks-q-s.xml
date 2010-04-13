@@ -1765,6 +1765,21 @@
 	</composer>
 	<composer name="Kaija" surname="Saariaho" born="1952" died="">
 		<composition>
+			<name>Laconisme de l'aile</name>
+			<description>for solo flute with optional electronics</description>
+			<length>10:23</length>
+			<instrument name="Flute">
+				<player name="Lesley Olson"/>
+			</instrument>
+			<instrument name="Live electronics">
+				<player name="Thomas Neuhaus"/>
+			</instrument>
+			<composed start="1982"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012412KAI</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Jardin Secret I</name>
 			<description>for computer-generated tape</description>
 			<length>10:38</length>
@@ -1785,17 +1800,31 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Lonh</name>
-			<description>for soprano and electronics</description>
-			<length>15:46</length>
-			<instrument name="Soprano">
-				<player name="Dawn Upshaw"/>
+			<name>Petals</name>
+			<description>for violoncello and electronics ad libitum</description>
+			<length>8:53</length>
+			<instrument name="Violoncello">
+				<player name="Scott Roller"/>
 			</instrument>
-			<player name="IRCAM, Paris"/>
-			<composed start="1996"/>
-			<recorded start=""/>
-			<release>Montaigne MO 782085</release>
-			<released>1999</released>
+			<instrument name="Live electronics">
+				<player name="Thomas Neuhaus"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012412KAI</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Monkey Fingers, Velvet Hand</name>
+			<description>for piano solo</description>
+			<length>2:59</length>
+			<instrument name="Piano">
+				<player name="Susanne Achilles"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012412KAI</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Pr&egrave;s</name>
@@ -1811,7 +1840,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>NoaNoa</name>
+			<name>Noa Noa</name>
 			<description>for flute and electronics</description>
 			<length>8:40</length>
 			<instrument name="Flute">
@@ -1822,6 +1851,21 @@
 			<recorded start=""/>
 			<release>Montaigne MO 782085</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Noa Noa</name>
+			<description>for flute and electronics</description>
+			<length>8:21</length>
+			<instrument name="Flute">
+				<player name="Lesley Olson"/>
+			</instrument>
+			<instrument name="Live electronics">
+				<player name="Thomas Neuhaus"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012412KAI</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Six Japanese Gardens</name>
@@ -1859,6 +1903,115 @@
 			<recorded start=""/>
 			<release>Montaigne MO 782085</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Six Japanese Gardens</name>
+			<description>for percussions and electronics</description>
+			<length>18:33</length>
+			<part>
+				<number>1</number>
+				<name>Tenju-an Garden of Nanzen-ji Temple</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Many pleasures (Garden of Kinkaku-ji)</name>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Dry Mountain Stream</name>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Rock Garden of Ryoan-ji</name>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Moss Garden of the Saiho-ji</name>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Stone Bridges</name>
+			</part>
+			<instrument name="Percussion and live electronics">
+				<player name="Andreas Boettger"/>
+			</instrument>
+			<composed start="1993" end="1995"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012412KAI</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Lonh</name>
+			<description>for soprano and electronics</description>
+			<length>15:46</length>
+			<instrument name="Soprano">
+				<player name="Dawn Upshaw"/>
+			</instrument>
+			<player name="IRCAM, Paris"/>
+			<composed start="1996"/>
+			<recorded start=""/>
+			<release>Montaigne MO 782085</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Spins and Spells</name>
+			<description>for violoncello solo</description>
+			<length>5:58</length>
+			<instrument name="Violoncello">
+				<player name="Scott Roller"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012412KAI</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Mirrors</name>
+			<description>for flute and violoncello, original version</description>
+			<length>3:31</length>
+			<instrument name="Flute">
+				<player name="Lesley Olson"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Scott Roller"/>
+			</instrument>
+			<composed start="1997"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012412KAI</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Mirrors</name>
+			<description>for flute and violoncello, version Lesley Olson</description>
+			<length>3:30</length>
+			<instrument name="Flute">
+				<player name="Lesley Olson"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Scott Roller"/>
+			</instrument>
+			<composed start="1998"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012412KAI</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Cendres</name>
+			<description>for alto flute, violoncello and piano</description>
+			<length>9:02</length>
+			<instrument name="Flute">
+				<player name="Lesley Olson"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Scott Roller"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Susanne Achilles"/>
+			</instrument>
+			<composed start="1998"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012412KAI</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Oskar" surname="Sala" born="1910" died="2002">

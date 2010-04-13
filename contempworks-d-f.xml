@@ -1564,6 +1564,34 @@
 			<released>1991</released>
 		</composition>
 		<composition>
+			<name>Trio</name>
+			<length>1:45:26</length>
+			<instrument name="Violin">
+				<player name="Marc Sabat"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2006"/>
+			<release>Mode 216</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Triadic Memories</name>
+			<length>1:33:48</length>
+			<instrument name="Piano">
+				<player name="Marilyn Nonken"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="2003"/>
+			<release>Mode 136</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Patterns in a chromatic field</name>
 			<length>1:20:42</length>
 			<instrument name="Cello">
