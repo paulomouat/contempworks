@@ -1009,6 +1009,20 @@
 	</composer>
 	<composer name="Morton" surname="Feldman" born="1926" died="1987">
 		<composition>
+			<name>Journey to the End of Night</name>
+			<description>for soprano, flute, clarinet, bass clarinet, bassoon</description>
+			<length>6:50</length>
+			<instrument name="Soprano">
+				<player name="Claron McFadden"/>
+			</instrument>
+			<player name="The Barton Workshop"/>
+			<conductor>James Fulkerson</conductor>
+			<composed start="1949"/>
+			<recorded start="1998" end="2000"/>
+			<release>Mode 107</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Projection I</name>
 			<length>2:56</length>
 			<instrument name="Cello">
@@ -1235,6 +1249,20 @@
 			<recorded start="1996" end="1998"/>
 			<release>Mode 66</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Four Songs to e.e. cummings</name>
+			<description>for soprano, piano, cello</description>
+			<length>3:15</length>
+			<instrument name="Soprano">
+				<player name="Claron McFadden"/>
+			</instrument>
+			<player name="The Barton Workshop"/>
+			<conductor>James Fulkerson</conductor>
+			<composed start="1951"/>
+			<recorded start="1998" end="2000"/>
+			<release>Mode 107</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>Piano Piece</name>
@@ -1472,6 +1500,34 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Intervals</name>
+			<description>for bass-baritone, trombone, cello, percussion</description>
+			<length>9:09</length>
+			<instrument name="Bass-baritone">
+				<player name="Charles van Tassel"/>
+			</instrument>
+			<player name="The Barton Workshop"/>
+			<conductor>James Fulkerson</conductor>
+			<composed start="1961"/>
+			<recorded start="1998" end="2000"/>
+			<release>Mode 107</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>The O'Hara Songs</name>
+			<description>for bass-baritone, chimes, piano, violin, viola, cello</description>
+			<length>8:22</length>
+			<instrument name="Bass-baritone">
+				<player name="Charles van Tassel"/>
+			</instrument>
+			<player name="The Barton Workshop"/>
+			<conductor>James Fulkerson</conductor>
+			<composed start="1962"/>
+			<recorded start="1998" end="2000"/>
+			<release>Mode 107</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Piano Piece (to Philip Guston)</name>
 			<length>3:36</length>
 			<instrument name="Piano">
@@ -1494,13 +1550,65 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Four Instruments</name>
+			<description>for chimes, piano, violin, cello</description>
+			<length>20:42</length>
+			<player name="The Barton Workshop"/>
+			<conductor>James Fulkerson</conductor>
+			<composed start="1965"/>
+			<recorded start="1998" end="2000"/>
+			<release>Mode 107</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>In Search of an Orchestration</name>
 			<length>7:44</length>
 			<player name="The Barton Workshop"/>
 			<conductor>Jos Zwaanenburg</conductor>
 			<composed start="1967"/>
+			<recorded start="2001"/>
 			<release>Mode 146</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Between Categories</name>
+			<description>for 2 chimes, 2 pianos, 2 violins, 2 cellos</description>
+			<length>12:29</length>
+			<player name="The Barton Workshop"/>
+			<conductor>James Fulkerson</conductor>
+			<composed start="1969"/>
+			<recorded start="1998" end="2000"/>
+			<release>Mode 107</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Three Clarinets, Cello and Piano</name>
+			<length>9:33</length>
+			<instrument name="Clarinet">
+				<player name="Carol Robinson"/>
+				<player name="Pierre Dutrieu"/>
+				<player name="Olivier Voize"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Elena Andreyev"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Vincent Letterme"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="2001" end="2002"/>
+			<release>Mode 119</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Three Clarinets, Cello and Piano</name>
+			<length>9:32</length>
+			<player name="The Barton Workshop"/>
+			<conductor>James Fulkerson</conductor>
+			<composed start="1971"/>
+			<recorded start="1998" end="2000"/>
+			<release>Mode 107</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>Rothko Chapel</name>
@@ -1606,6 +1714,21 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Bass Clarinet and Percussion</name>
+			<length>17:30</length>
+			<instrument name="Clarinet">
+				<player name="Carol Robinson"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Fran&ccedil;oise Rivalland"/>
+				<player name="Peppie Wiersma"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="2001" end="2002"/>
+			<release>Mode 119</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>For John Cage</name>
 			<length>1:09:12</length>
 			<instrument name="Violin">
@@ -1618,6 +1741,27 @@
 			<recorded start="1997"/>
 			<release>hat[now]ART 124</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Clarinet and String Quartet</name>
+			<length>42:20</length>
+			<instrument name="Clarinet">
+				<player name="Carol Robinson"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Eiichi Chijiiwa"/>
+				<player name="Nicolas Miribel"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Franck Chevalier"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Pierre Morlet"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="2001" end="2002"/>
+			<release>Mode 119</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>For Philip Guston</name>
