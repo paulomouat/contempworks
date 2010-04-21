@@ -1070,6 +1070,20 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Piece for Violin and Piano</name>
+			<length>1:55</length>
+			<instrument name="Violin">
+				<player name="Marc Sabat"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Stephen Clarke"/>
+			</instrument>
+			<composed start="1950"/>
+			<recorded start="1998"/>
+			<release>Mode 82/83</release>
+			<released>2000</released>
+		</composition>
+		<composition>
 			<name>Music for Jackson Pollock</name>
 			<description>for 2 cellos</description>
 			<length>2:33</length>
@@ -1163,6 +1177,20 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Projection IV</name>
+			<length>5:08</length>
+			<instrument name="Violin">
+				<player name="Marc Sabat"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Stephen Clarke"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1998"/>
+			<release>Mode 82/83</release>
+			<released>2000</released>
+		</composition>
+		<composition>
 			<name>Projection V</name>
 			<length>2:27</length>
 			<player name="The Barton Workshop"/>
@@ -1237,6 +1265,20 @@
 			<recorded start="1996" end="1998"/>
 			<release>Mode 66</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Extensions I</name>
+			<length>5:28</length>
+			<instrument name="Violin">
+				<player name="Marc Sabat"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Stephen Clarke"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1998"/>
+			<release>Mode 82/83</release>
+			<released>2000</released>
 		</composition>
 		<composition>
 			<name>Intermission 3</name>
@@ -1539,6 +1581,20 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Vertical Thoughts II</name>
+			<length>3:04</length>
+			<instrument name="Violin">
+				<player name="Marc Sabat"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Stephen Clarke"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="1998"/>
+			<release>Mode 82/83</release>
+			<released>2000</released>
+		</composition>
+		<composition>
 			<name>Piano Piece</name>
 			<length>8:23</length>
 			<instrument name="Piano">
@@ -1654,6 +1710,20 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Spring of Chosroes</name>
+			<length>15:27</length>
+			<instrument name="Violin">
+				<player name="Marc Sabat"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Stephen Clarke"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1998"/>
+			<release>Mode 82/83</release>
+			<released>2000</released>
+		</composition>
+		<composition>
 			<name>Why Patterns?</name>
 			<length>29:26</length>
 			<player name="The California EAR Unit"/>
@@ -1741,6 +1811,20 @@
 			<recorded start="1997"/>
 			<release>hat[now]ART 124</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>For John Cage</name>
+			<length>1:21:56</length>
+			<instrument name="Violin">
+				<player name="Marc Sabat"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Stephen Clarke"/>
+			</instrument>
+			<composed start="1982"/>
+			<recorded start="1998"/>
+			<release>Mode 82/83</release>
+			<released>2000</released>
 		</composition>
 		<composition>
 			<name>Clarinet and String Quartet</name>
