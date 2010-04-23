@@ -1073,6 +1073,17 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Illusions</name>
+			<length>8:10</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1949" end="1950"/>
+			<recorded start="1995"/>
+			<release>Mode 54</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Projection I</name>
 			<length>2:56</length>
 			<instrument name="Cello">
@@ -1250,6 +1261,41 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Projections</name>
+			<length>19:21</length>
+			<part>
+				<number>I.</number>
+				<name>for cello solo</name>
+				<length>3:42</length>
+			</part>
+			<part>
+				<number>II.</number>
+				<name>for flute, trumpet, violin, cello and piano</name>
+				<length>5:55</length>
+			</part>
+			<part>
+				<number>III.</number>
+				<name>for 2 pianos</name>
+				<length>1:49</length>
+			</part>
+			<part>
+				<number>IV.</number>
+				<name>for violin and piano</name>
+				<length>5:18</length>
+			</part>
+			<part>
+				<number>V.</number>
+				<name>for 3 flutes, 3 cellos, trumpet and 2 pianos</name>
+				<length>2:37</length>
+			</part>
+			<player name="The Turfan Ensemble"/>
+			<conductor>Philipp Vandr&eacute;</conductor>
+			<composed start="1950" end="1951"/>
+			<recorded start="1996" end="1997"/>
+			<release>Mode 103</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Intersection I</name>
 			<length>12:40</length>
 			<player name="The Barton Workshop"/>
@@ -1329,6 +1375,17 @@
 			<recorded start="1998"/>
 			<release>Mode 82/83</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Two Intermissions</name>
+			<length>3:36</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1995"/>
+			<release>Mode 54</release>
+			<released>1996</released>
 		</composition>
 		<composition>
 			<name>Intermission 3</name>
@@ -1479,6 +1536,17 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Extensions 3</name>
+			<length>6:43</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1953"/>
+			<recorded start="1995"/>
+			<release>Mode 54</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Extensions 4</name>
 			<description>for 3 pianos</description>
 			<length>6:32</length>
@@ -1526,6 +1594,17 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Piano Piece 1955</name>
+			<length>2:17</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="1995"/>
+			<release>Mode 54</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Piano Piece (1956 A)</name>
 			<length>3:52</length>
 			<instrument name="Piano">
@@ -1546,6 +1625,16 @@
 			<recorded start="1993"/>
 			<release>hat[now]Art 138</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Two Pieces for Six Instruments</name>
+			<length>3:58</length>
+			<player name="The Turfan Ensemble"/>
+			<conductor>Philipp Vandr&eacute;</conductor>
+			<composed start="1956"/>
+			<recorded start="1996" end="1997"/>
+			<release>Mode 103</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>Last Pieces</name>
@@ -1574,6 +1663,41 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Durations</name>
+			<length>32:08</length>
+			<part>
+				<number>I.</number>
+				<name>for alto flute, violin, cello and piano</name>
+				<length>8:30</length>
+			</part>
+			<part>
+				<number>II.</number>
+				<name>for cello and piano</name>
+				<length>3:24</length>
+			</part>
+			<part>
+				<number>III.</number>
+				<name>for tuba, piano and violin</name>
+				<length>8:31</length>
+			</part>
+			<part>
+				<number>IV.</number>
+				<name>for violin, cello and vibraphone</name>
+				<length>3:39</length>
+			</part>
+			<part>
+				<number>V.</number>
+				<name>for violin, cello, vibraphone, celesta/piano and harp</name>
+				<length>8:04</length>
+			</part>
+			<player name="The Turfan Ensemble"/>
+			<conductor>Philipp Vandr&eacute;</conductor>
+			<composed start="1960"/>
+			<recorded start="1996" end="1997"/>
+			<release>Mode 103</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Out of 'Last Pieces'</name>
 			<length>9:16</length>
 			<player name="The Barton Workshop"/>
@@ -1590,6 +1714,16 @@
 			<composed start="1961"/>
 			<release>Mode 146</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>The Straits of Magellan</name>
+			<length>5:11</length>
+			<player name="The Turfan Ensemble"/>
+			<conductor>Philipp Vandr&eacute;</conductor>
+			<composed start="1961"/>
+			<recorded start="1996" end="1997"/>
+			<release>Mode 103</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>Intervals</name>
@@ -1629,6 +1763,17 @@
 			<recorded start="1993"/>
 			<release>hat[now]Art 138</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Piano Piece (to Philip Guston)</name>
+			<length>3:54</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="1995"/>
+			<release>Mode 54</release>
+			<released>1996</released>
 		</composition>
 		<composition>
 			<name>Vertical Thoughts II</name>
@@ -1758,6 +1903,17 @@
 			<recorded start="2000"/>
 			<release>Col Legno WWE 1CD 20070</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Piano</name>
+			<length>26:33</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1995"/>
+			<release>Mode 54</release>
+			<released>1996</released>
 		</composition>
 		<composition>
 			<name>Spring of Chosroes</name>
@@ -1967,6 +2123,17 @@
 			<recorded start="1999"/>
 			<release>Col Legno WWE 1CD 20070</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Palais de Mari</name>
+			<length>29:40</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1995"/>
+			<release>Mode 54</release>
+			<released>1996</released>
 		</composition>
 	</composer>
 	<composer name="Brian" surname="Ferneyhough" born="1943" died="">
