@@ -358,6 +358,18 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Parjanya-vata</name>
+			<description>for cello solo</description>
+			<length>11:34</length>
+			<instrument name="Cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1997"/>
+			<release>Montaigne MO 782046</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>A roaring flame</name>
 			<description>for female voice and double-bass</description>
 			<length>12:09</length>
@@ -431,6 +443,29 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>String Quartet No. 2</name>
+			<length>17:33</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1992"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782046</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Vernal showers</name>
+			<description>for violin and ensemble</description>
+			<length>13:55</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<player name="Nieuw Ensemble"/>
+			<conductor>Ed Spanjaard</conductor>
+			<composed start="1992"/>
+			<recorded start="1994"/>
+			<release>Montaigne MO 782046</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>black / nebulae</name>
 			<description>for piano duo</description>
 			<length>20:05</length>
@@ -444,6 +479,21 @@
 			<recorded start="2007"/>
 			<release>NMC D131</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Traumwerk</name>
+			<description>for two violins</description>
+			<length>22:18</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Graeme Jennings"/>
+			</instrument>
+			<composed start="1995" end="1996"/>
+			<recorded start="1997"/>
+			<release>Montaigne MO 782046</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>Traumwerk Book III</name>
