@@ -1074,7 +1074,7 @@
 		</composition>
 		<composition>
 			<name>Illusions</name>
-			<length>8:10</length>
+			<length>5:52</length>
 			<instrument name="Piano">
 				<player name="Aki Takahashi"/>
 			</instrument>
@@ -1264,27 +1264,27 @@
 			<name>Projections</name>
 			<length>19:21</length>
 			<part>
-				<number>I.</number>
+				<number>I</number>
 				<name>for cello solo</name>
 				<length>3:42</length>
 			</part>
 			<part>
-				<number>II.</number>
+				<number>II</number>
 				<name>for flute, trumpet, violin, cello and piano</name>
 				<length>5:55</length>
 			</part>
 			<part>
-				<number>III.</number>
+				<number>III</number>
 				<name>for 2 pianos</name>
 				<length>1:49</length>
 			</part>
 			<part>
-				<number>IV.</number>
+				<number>IV</number>
 				<name>for violin and piano</name>
 				<length>5:18</length>
 			</part>
 			<part>
-				<number>V.</number>
+				<number>V</number>
 				<name>for 3 flutes, 3 cellos, trumpet and 2 pianos</name>
 				<length>2:37</length>
 			</part>
@@ -1666,27 +1666,27 @@
 			<name>Durations</name>
 			<length>32:08</length>
 			<part>
-				<number>I.</number>
+				<number>I</number>
 				<name>for alto flute, violin, cello and piano</name>
 				<length>8:30</length>
 			</part>
 			<part>
-				<number>II.</number>
+				<number>II</number>
 				<name>for cello and piano</name>
 				<length>3:24</length>
 			</part>
 			<part>
-				<number>III.</number>
+				<number>III</number>
 				<name>for tuba, piano and violin</name>
 				<length>8:31</length>
 			</part>
 			<part>
-				<number>IV.</number>
+				<number>IV</number>
 				<name>for violin, cello and vibraphone</name>
 				<length>3:39</length>
 			</part>
 			<part>
-				<number>V.</number>
+				<number>V</number>
 				<name>for violin, cello, vibraphone, celesta/piano and harp</name>
 				<length>8:04</length>
 			</part>
