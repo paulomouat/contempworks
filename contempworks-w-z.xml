@@ -1776,6 +1776,20 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Morsima-Amorsima</name>
+			<description>for piano, violin, cello and double-bass</description>
+			<length>10:55</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<player name="Callithumpian Consort"/>
+			<conductor>Stephen Drury</conductor>
+			<composed start="1962"/>
+			<recorded start="2008"/>
+			<release>Mode 217</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Bohor</name>
 			<length>21:36</length>
 			<player name="GRM, Paris"/>
@@ -1783,6 +1797,20 @@
 			<recorded start="1962"/>
 			<release>INA/EMF</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Eonta</name>
+			<description>for piano, 2 trumpets and 3 trombones</description>
+			<length>22:20</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<player name="Callithumpian Consort"/>
+			<conductor>Stephen Drury</conductor>
+			<composed start="1963"/>
+			<recorded start="2009"/>
+			<release>Mode 217</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Eonta</name>
@@ -2312,6 +2340,19 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Akea</name>
+			<description>quintet for piano and strings</description>
+			<length>13:53</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<player name="The JACK Quartet"/>
+			<composed start="1986"/>
+			<recorded start="2008"/>
+			<release>Mode 217</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Horos</name>
 			<length>15:48</length>
 			<player name="Orchestre Philharmonique du Luxembourg"/>
@@ -2487,6 +2528,21 @@
 			<recorded start="1996"/>
 			<release>Mode 58</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Paille in the Wind</name>
+			<description>for piano and cello</description>
+			<length>5:09</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="2007"/>
+			<release>Mode 217</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Ergma</name>
