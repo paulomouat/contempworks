@@ -5299,6 +5299,32 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Prozession</name>
+			<description>Version 27. Juni 1971, 17.30 Uhr (WDR K&ouml;ln)</description>
+			<description>mit Tamtam, Elektrochord, Elektronium, Klavier, Filtern und Reglern</description>
+			<length>35:17</length>
+			<instrument name="Tamtam">
+				<player name="Christoph Caskel"/>
+				<player name="Joachim Krist"/>
+			</instrument>
+			<instrument name="Elektrochord">
+				<player name="P&eacute;ter E&ouml;tv&ouml;s"/>
+			</instrument>
+			<instrument name="Elektronium">
+				<player name="Harald Boj&eacute;"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<instrument name="Filter, Regler, Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1971"/>
+			<release>Stockhausen-Verlag CD11</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Stimmung</name>
 			<description>f&uuml;r 6 Vokalisten</description>
 			<description>Pariser Version</description>
@@ -5515,6 +5541,31 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Ceylon</name>
+			<description>f&uuml;r kleines Ensemble</description>
+			<description>Intuitive Musik aus dem Zyklus &quot;F&uuml;r Kommende Zeiten&quot;</description>
+			<length>22:47</length>
+			<instrument name="Elektronium">
+				<player name="Harald Boj&eacute;"/>
+			</instrument>
+			<instrument name="Persische Kamelschellen, 2 Triangel, Synthesizer">
+				<player name="P&eacute;ter E&ouml;tv&ouml;s"/>
+			</instrument>
+			<instrument name="Moduliertes Klavier">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<instrument name="Tamtam">
+				<player name="Joachim Krist"/>
+			</instrument>
+			<instrument name="Kandy-Trommel">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1975"/>
+			<release>Stockhausen-Verlag CD11</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Mantra</name>
 			<description>f&uuml;r 2 Pianisten</description>
 			<length>1:05:20</length>
@@ -5543,6 +5594,69 @@
 			<recorded start="1971"/>
 			<release>Stockhausen-Verlag CD15</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Sternklang</name>
+			<description>Parkmusik f&uuml;r 5 Gruppen</description>
+			<length>2:10:20</length>
+			<composed start="1969" end="1971"/>
+			<recorded start="1975"/>
+			<release>Stockhausen-Verlag CD18AB</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Trans</name>
+			<description>f&uuml;r Orchester</description>
+			<description>Aufnahme der Urauff&uuml;hrung 16. Oktober 1971</description>
+			<length>28:20</length>
+			<player name="Sinfonie-Orchester des S&uuml;dwestfunks Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>Stockhausen-Verlag CD19</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Trans</name>
+			<description>f&uuml;r Orchester</description>
+			<description>Studioproduktion November 1973</description>
+			<length>26:50</length>
+			<player name="Orchester des Saarl&auml;ndischen Rundfunks"/>
+			<conductor>Hans Zender</conductor>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1974"/>
+			<release>Stockhausen-Verlag CD19</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Ylem</name>
+			<description>f&uuml;r 19 Spieler</description>
+			<description>Londoner Version 1973</description>
+			<length>25:35</length>
+			<player name="London Sinfonietta"/>
+			<conductor>Karlheinz Stockhausen</conductor>
+			<composed start="1972"/>
+			<recorded start="1973"/>
+			<release>Stockhausen-Verlag CD21</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Ylem</name>
+			<description>f&uuml;r 19 Spieler</description>
+			<description>Londoner Version 1973 - andere Version</description>
+			<length>26:00</length>
+			<player name="London Sinfonietta"/>
+			<conductor>Karlheinz Stockhausen</conductor>
+			<composed start="1972"/>
+			<recorded start="1973"/>
+			<release>Stockhausen-Verlag CD21</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Tierkreis</name>
@@ -5750,6 +5864,36 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Mittwochs-Abschied</name>
+			<description>Elektronische und Konkrete Musik</description>
+			<description>vom Mittwoch aus Licht</description>
+			<length>44:16</length>
+			<player name="Studio f&uuml;r Elektronische Musik des WDR K&ouml;ln"/>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>Stockhausen-Verlag CD55</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Bassetsu-Trio</name>
+			<description>f&uuml;r Bassetthorn, Trompete und Posaune</description>
+			<description>vom Mittwoch aus Licht</description>
+			<length>26:03</length>
+			<instrument name="Bassetthorn">
+				<player name="Susanne Stephens"/>
+			</instrument>
+			<instrument name="Trompete">
+				<player name="Marco Blaauw"/>
+			</instrument>
+			<instrument name="Posaune">
+				<player name="Andrew Digby"/>
+			</instrument>
+			<composed start="1997"/>
+			<recorded start="1999"/>
+			<release>Stockhausen-Verlag CD55</release>
+			<released>2000</released>
+		</composition>
+		<composition>
 			<name>Thinki</name>
 			<description>f&uuml;r Fl&ouml;te</description>
 			<length>5:05</length>
@@ -5760,6 +5904,50 @@
 			<recorded start="2000"/>
 			<release>Stockhausen-Verlag CD57</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Mittwochs-Gruss</name>
+			<description>Elektronische Musik vom Mittwoch aus Licht</description>
+			<length>54:00</length>
+			<instrument name="Synthesizer">
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="2003"/>
+			<release>Stockhausen-Verlag CD66</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Freude</name>
+			<description>f&uuml;r 2 Harfen</description>
+			<description>2. Stunde aus Klang</description>
+			<length>39:46</length>
+			<instrument name="Harfen">
+				<player name="Marianne Smit"/>
+				<player name="Esther Kooi"/>
+			</instrument>
+			<composed start="2005"/>
+			<recorded start="2006"/>
+			<release>Stockhausen-Verlag CD84</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Nat&uuml;rliche Dauern</name>
+			<description>f&uuml;r Klavier</description>
+			<description>3. Stunde aus Klang</description>
+			<length>2:18:18</length>
+			<instrument name="Piano">
+				<player name="Frank Gutschmidt"/>
+				<player name="Benjamin Kobler"/>
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<composed start="2005" end="2006"/>
+			<recorded start="2007"/>
+			<release>Stockhausen-Verlag CD85AB</release>
+			<released>2007</released>
 		</composition>
 	</composer>
 	<composer name="Igor" surname="Stravinsky" born="1882" died="1971">
