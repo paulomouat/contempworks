@@ -5677,6 +5677,42 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Michaels Reise</name>
+			<description>Solisten-Version f&uuml;r einen Trompeter, 9 Mitspieler und Klangregisseur</description>
+			<length>49:04</length>
+			<instrument name="Trompete">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<instrument name="1. Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="1. Klarinette">
+				<player name="Ian Stuart"/>
+			</instrument>
+			<instrument name="2. Klarinette, 2. Bassetthorn und Ba&szlig;klarinette">
+				<player name="Lesley Schatzberger"/>
+			</instrument>
+			<instrument name="Posaune und Tenortuba bzw. Euphonium">
+				<player name="Michael Svoboda"/>
+			</instrument>
+			<instrument name="Altfl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<instrument name="Schlagzeug">
+				<player name="Andreas Boettger, Isao Nakamura"/>
+			</instrument>
+			<instrument name="Synthesizer">
+				<player name="Michael Obst, Simon Stockhausen"/>
+			</instrument>
+			<instrument name="Klangregisseur">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1977" end="1978"/>
+			<recorded start="1989"/>
+			<release>ECM 1406</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Zungenspitzentanz</name>
 			<description>f&uuml;r Piccolo-Fl&ouml;te, Euphonium, einen Synthesizer-Spieler, einen Schlagzeuger</description>
 			<length>10:37</length>
