@@ -1507,6 +1507,18 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Vigilia</name>
+			<description>for six voices and ensemble</description>
+			<length>1:01:53</length>
+			<player name="ChorWerk Ruhr"/>
+			<player name="Ensemble Modern"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="2006"/>
+			<recorded start="2009"/>
+			<release>Neos 10817</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Akt und Tag</name>
 			<description>two studies for soprano and string quartet</description>
 			<length>25:06</length>
