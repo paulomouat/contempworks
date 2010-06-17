@@ -5110,6 +5110,25 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Momente</name>
+			<description>f&uuml;r Solosopran, 4 Chorgruppen und 13 Instrumentalisten</description>
+			<description>Version 1998</description>
+			<length>1:46:21</length>
+			<instrument name="Solosopran">
+				<player name="Angela Tunstall"/>
+			</instrument>
+			<player name="WDR Rundfunkchor K&ouml;ln"/>
+			<conductor>Rupert Huber</conductor>
+			<player name="MusikFabrik"/>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1962" end="1969"/>
+			<recorded start="1998"/>
+			<release>Stockhausen-Verlag CD80AB</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Mikrophonie I</name>
 			<description>f&uuml;r Tamtam, zwei Mikrophone, zwei Filter und Regler</description>
 			<length>26:35</length>
@@ -5233,6 +5252,32 @@
 			<recorded start="1973"/>
 			<release>Stockhausen-Verlag CD4</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Solo</name>
+			<description>f&uuml;r Melodie-Instrument mit R&uuml;ckkopplung</description>
+			<description>Version f&uuml;r Fl&ouml;te (1994)</description>
+			<length>17:13</length>
+			<instrument name="Fl&ouml;te">
+				<player name="Dietmar Wiesner"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1995"/>
+			<release>Stockhausen-Verlag CD45</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Solo</name>
+			<description>f&uuml;r Melodie-Instrument mit R&uuml;ckkopplung</description>
+			<description>Version f&uuml;r Synthesizer, Sampler, Sequenzer, 8-Spur-Tonband (1994)</description>
+			<length>17:17</length>
+			<instrument name="Synthesizer">
+				<player name="Simon Stockhausen"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1995"/>
+			<release>Stockhausen-Verlag CD45</release>
+			<released>1995</released>
 		</composition>
 		<composition>
 			<name>Hymnen</name>
@@ -5422,6 +5467,19 @@
 			<recorded start="1995"/>
 			<release>Stockhausen-Verlag CD46AB</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Spiral</name>
+			<description>f&uuml;r einen Solisten</description>
+			<description>Version f&uuml;r Oboe, Stimme, Didjeridoo, Kurzwellen-Empf&auml;nger (1994)</description>
+			<length>20:20</length>
+			<instrument name="Oboe">
+				<player name="Cathy Milliken"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1995"/>
+			<release>Stockhausen-Verlag CD45</release>
+			<released>1995</released>
 		</composition>
 		<composition>
 			<name>Aus den Sieben Tagen</name>
@@ -5689,6 +5747,39 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Harlekin</name>
+			<description>f&uuml;r Klarinette</description>
+			<length>44:06</length>
+			<instrument name="Klarinette">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1978"/>
+			<release>Stockhausen-Verlag CD25</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Der kleine Harlekin</name>
+			<description>f&uuml;r Klarinette</description>
+			<length>9:25</length>
+			<instrument name="Klarinette">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1978"/>
+			<release>Stockhausen-Verlag CD25</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Der Jahreslauf</name>
+			<description>f&uuml;r Orchester und Tonband</description>
+			<length>46:07</length>
+			<composed start="1977"/>
+			<recorded start="1979"/>
+			<release>Stockhausen-Verlag CD29</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Michaels Reise</name>
 			<description>Solisten-Version f&uuml;r einen Trompeter, 9 Mitspieler und Klangregisseur</description>
 			<length>49:04</length>
@@ -5725,6 +5816,70 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Eingang und Formel</name>
+			<description>f&uuml;r Trompete</description>
+			<length>2:31</length>
+			<instrument name="Trompete">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1992"/>
+			<release>Stockhausen-Verlag CD43AB</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Examen</name>
+			<description>f&uuml;r Tenor, Trompete, Bassetthorn, Klavier, Sopran, Ba&szlig;, 2 Sprecher-Mimen</description>
+			<length>25:22</length>
+			<instrument name="Tenor">
+				<player name="Julian Pike"/>
+			</instrument>
+			<instrument name="Trompete">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Majella Stockhausen"/>
+			</instrument>
+			<instrument name="Sopran">
+				<player name="Annette Meriweather"/>
+			</instrument>
+			<instrument name="Ba&szlig;">
+				<player name="Nicholas Isherwood"/>
+			</instrument>
+			<instrument name="Sprecher-Mimen">
+				<player name="Elizabeth Clarke"/>
+				<player name="Alain Louafi"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1990" end="1991"/>
+			<release>Stockhausen-Verlag CD43AB</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Drachenkampf</name>
+			<description>f&uuml;r Trompete, Posaune, Synthesizer-Spieler, Schlagzeuger</description>
+			<length>15:19</length>
+			<instrument name="Trompete">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<instrument name="Posaune">
+				<player name="Michael Svoboda"/>
+			</instrument>
+			<instrument name="Synthesizer-Spieler">
+				<player name="Simon Stockhausen"/>
+			</instrument>
+			<instrument name="Schlagzeuger">
+				<player name="Andreas Boettger"/>
+			</instrument>
+			<composed start="1980" end="1987"/>
+			<recorded start="1993"/>
+			<release>Stockhausen-Verlag CD43AB</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Zungenspitzentanz</name>
 			<description>f&uuml;r Piccolo-Fl&ouml;te, Euphonium, einen Synthesizer-Spieler, einen Schlagzeuger</description>
 			<length>10:37</length>
@@ -5746,6 +5901,33 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Oberlippentanz</name>
+			<description>f&uuml;r Piccolo-Trompete</description>
+			<length>14:19</length>
+			<instrument name="Piccolo-Trompete">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="1993"/>
+			<release>Stockhausen-Verlag CD43AB</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Nasenfl&uuml;geltanz</name>
+			<description>f&uuml;r einen Schlagzeuger und einen Synthesizer-Spieler</description>
+			<length>8:01</length>
+			<instrument name="Schlagzeug">
+				<player name="Stuart Gerber"/>
+			</instrument>
+			<instrument name="Synthesizer">
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<composed start="1983" end="1988"/>
+			<recorded start="2005"/>
+			<release>Stockhausen-Verlag CD79</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Entf&uuml;hrung</name>
 			<description>f&uuml;r Piccolo-Fl&ouml;te</description>
 			<length>12:01</length>
@@ -5756,6 +5938,33 @@
 			<recorded start="1993"/>
 			<release>Stockhausen-Verlag CD57</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Piet&agrave;-Solo</name>
+			<description>f&uuml;r Fl&uuml;gelhorn und Elektronische Musik</description>
+			<length>27:45</length>
+			<instrument name="Fl&uuml;gelhorn">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="1993"/>
+			<release>Stockhausen-Verlag CD43AB</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Piet&agrave;-Duo</name>
+			<description>f&uuml;r Fl&uuml;gelhorn, Sopran und Elektronische Musik</description>
+			<length>28:15</length>
+			<instrument name="Fl&uuml;gelhorn">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<instrument name="Sopran">
+				<player name="Annette Meriweather"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="1993"/>
+			<release>Stockhausen-Verlag CD43AB</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Oktophonie</name>
@@ -5854,6 +6063,21 @@
 			<recorded start="2000"/>
 			<release>Stockhausen-Verlag CD57</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Komet</name>
+			<description>Version f&uuml;r einen Schlagzeuger, Elektronische und Konkrete Musik, Klangregisseur</description>
+			<length>15:46</length>
+			<instrument name="Schlagzeug">
+				<player name="Andreas Boettger"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1994" end="1999"/>
+			<recorded start="2000"/>
+			<release>Stockhausen-Verlag CD79</release>
+			<released>2005</released>
 		</composition>
 		<composition>
 			<name>Klavierst&uuml;ck XVI</name>
@@ -5969,6 +6193,206 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Lichter-Wasser</name>
+			<description>Sonntags-Gruss</description>
+			<description>f&uuml;r Sopran, Tenor und Orchester mit Synthesizer</description>
+			<length>52:07</length>
+			<instrument name="Sopran">
+				<player name="Barbara van den Boom"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Hubert Mayer"/>
+			</instrument>
+			<instrument name="Synthesizer">
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<player name="SWR-Sinfonieorchester Baden-Baden/Freiburg"/>
+			<conductor>Karlheinz Stockhausen</conductor>
+			<composed start="1998" end="1999"/>
+			<recorded start="1999" end="2000"/>
+			<release>Stockhausen-Verlag CD58</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>3x Refrain 2000</name>
+			<description>for piano with 3 wood blocks, sampler-celesta with 3 antique cymbals, vibraphone with 3 cowbells and glockenspiel</description>
+			<length>1:06:06</length>
+			<instrument name="Piano with 3 wood blocks">
+				<player name="Benjamin Kobler"/>
+			</instrument>
+			<instrument name="Sampler-celesta with 3 antique cymbals">
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<instrument name="Vibraphone with 3 cowbells and glockenspiel">
+				<player name="Andreas Boettger"/>
+			</instrument>
+			<instrument name="Sound direction, introduction">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>Stockhausen-Verlag CD62</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Hoch-Zeiten</name>
+			<description>5. Szene vom Sonntag aus Licht</description>
+			<description>f&uuml;r Orchester und Chor</description>
+			<length>1:14:00</length>
+			<instrument name="Synthesizer">
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<player name="WDR Rundfunkchor K&ouml;ln"/>
+			<conductor>Rupert Huber</conductor>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Zsolt Nagy</conductor>
+			<composed start="2001" end="2002"/>
+			<recorded start="2003" end="2004"/>
+			<release>Stockhausen-Verlag CD73</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>D&uuml;fte-Zeichen</name>
+			<description>4. Szene vom Sonntag aus Licht</description>
+			<description>f&uuml;r 7 Singstimmen, Knaben-Stimme, Synthesizer</description>
+			<length>58:00</length>
+			<instrument name="hoher Sopran">
+				<player name="Isolde Siebert"/>
+			</instrument>
+			<instrument name="Sopran">
+				<player name="Ksenija Lukic"/>
+			</instrument>
+			<instrument name="Alt">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="hoher Tenor">
+				<player name="Hubert Mayer"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Bernhard G&auml;rtner"/>
+			</instrument>
+			<instrument name="Bariton">
+				<player name="Jonathan de la Paz Zaens"/>
+			</instrument>
+			<instrument name="Ba&szlig;">
+				<player name="Nicholas Isherwood"/>
+			</instrument>
+			<instrument name="Knaben-Stimme">
+				<player name="Sebastian Kunz"/>
+			</instrument>
+			<instrument name="Synthesizer">
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2003"/>
+			<release>Stockhausen-Verlag CD69</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Licht-Bilder</name>
+			<description>3. Szene vom Sonntag aus Licht</description>
+			<description>f&uuml;r Bassetthorn, Fl&ouml;te mit Ringmodulation, Tenor, Trompete mit Ringmodulation, Synthesizer, Klangregisseur, Licht-Bilder ad lib</description>
+			<length>41:56</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Fl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Hubert Mayer"/>
+			</instrument>
+			<instrument name="Trompete">
+				<player name="Marco Blaauw"/>
+			</instrument>
+			<instrument name="Synthesizer">
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="2002" end="2003"/>
+			<recorded start="2005"/>
+			<release>Stockhausen-Verlag CD68AB</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Licht-Bilder ohne Ringmodulation</name>
+			<description>3. Szene vom Sonntag aus Licht</description>
+			<description>f&uuml;r Bassetthorn, Fl&ouml;te, Tenor, Trompete, Synthesizer, Klangregisseur, Licht-Bilder ad lib</description>
+			<length>41:56</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Fl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Hubert Mayer"/>
+			</instrument>
+			<instrument name="Trompete">
+				<player name="Marco Blaauw"/>
+			</instrument>
+			<instrument name="Synthesizer">
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="2002" end="2003"/>
+			<recorded start="2005"/>
+			<release>Stockhausen-Verlag CD68AB</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Vibra-Elufa</name>
+			<description>f&uuml;r Vibraphone</description>
+			<length>7:22</length>
+			<instrument name="Vibraphone">
+				<player name="Michael Pattmann"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2005"/>
+			<release>Stockhausen-Verlag CD79</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Mittwoch-Formel</name>
+			<description>mit 3 Schlagzeugern (Metall-Holz-Fell)</description>
+			<length>23:35</length>
+			<instrument name="Metall">
+				<player name="Michael Pattmann"/>
+			</instrument>
+			<instrument name="Holz">
+				<player name="Oleg Dziewanowski"/>
+			</instrument>
+			<instrument name="Fell">
+				<player name="Stuart Gerber"/>
+			</instrument>
+			<composed start="2004"/>
+			<recorded start="2005"/>
+			<release>Stockhausen-Verlag CD79</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Klavierst&uuml;ck XVIII</name>
+			<description>Mittwoch-Formel f&uuml;r Elektronisches Klavier</description>
+			<length>12:12</length>
+			<instrument name="Synthesizer">
+				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
+			</instrument>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>Stockhausen-Verlag CD79</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Freude</name>
 			<description>f&uuml;r 2 Harfen</description>
 			<description>2. Stunde aus Klang</description>
@@ -5996,6 +6420,49 @@
 			<recorded start="2007"/>
 			<release>Stockhausen-Verlag CD85AB</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Himmels-T&uuml;r</name>
+			<description>f&uuml;r einen Schlagzeuger und eines kleines M&auml;dchen</description>
+			<description>4. Stunde aus Klang</description>
+			<length>27:27</length>
+			<instrument name="Schlagzeug">
+				<player name="Stuart Gerber"/>
+			</instrument>
+			<composed start="2005"/>
+			<recorded start="2006"/>
+			<release>Stockhausen-Verlag CD86</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>24 T&uuml;rin</name>
+			<description>f&uuml;r T&uuml;r, Rin und Sprechstimme (Deutsch)</description>
+			<length>13:00</length>
+			<instrument name="Schlagzeug">
+				<player name="Stuart Gerber"/>
+			</instrument>
+			<instrument name="Klangregie, Stimme, Realisation">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Stockhausen-Verlag CD86</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>24 T&uuml;rin</name>
+			<description>f&uuml;r T&uuml;r, Rin und Sprechstimme (Englisch)</description>
+			<length>13:00</length>
+			<instrument name="Schlagzeug">
+				<player name="Stuart Gerber"/>
+			</instrument>
+			<instrument name="Klangregie, Stimme, Realisation">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Stockhausen-Verlag CD86</release>
+			<released>2006</released>
 		</composition>
 	</composer>
 	<composer name="Igor" surname="Stravinsky" born="1882" died="1971">
