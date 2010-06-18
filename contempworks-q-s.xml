@@ -2878,7 +2878,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Variations sur une fl&ucirc;te mexicaine</name>
+			<name>Variations sur une fl&ucirc;te mentscaine</name>
 			<length>3:45</length>
 			<player name="GRM, Paris"/>
 			<composed start="1949"/>
@@ -5729,6 +5729,33 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Atmen gibt das Leben</name>
+			<description>Chor-Oper mit Orchester (oder Tonband)</description>
+			<length>49:07</length>
+			<player name="Chor des NDR Hamburg"/>
+			<player name="Sinfonie-Orchester des NDR Hamburg"/>
+			<conductor>Karlheinz Stockhausen</conductor>
+			<composed start="1974" end="1977"/>
+			<recorded start="1979"/>
+			<release>Stockhausen-Verlag CD23</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Laub und Regen</name>
+			<description>f&uuml;r Klarinette und Bratsche</description>
+			<length>10:39</length>
+			<instrument name="Klarinette">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Bratsche">
+				<player name="Joachim Krist"/>
+			</instrument>
+			<composed start="1974"/>
+			<recorded start="1994"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Tierkreis</name>
 			<description>f&uuml;r 12 Spieluhren</description>
 			<length>25:10</length>
@@ -5736,6 +5763,40 @@
 			<recorded start=""/>
 			<release>Stockhausen-Verlag CD24</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Tierkreis</name>
+			<description>f&uuml;r Klarinette und Klavier</description>
+			<length>23:01</length>
+			<instrument name="Klarinette">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Majella Stockhausen"/>
+			</instrument>
+			<composed start="1975" end="1981"/>
+			<recorded start="1982"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Tierkreis</name>
+			<description>Trio-Version</description>
+			<description>f&uuml;r Klarinette, Fl&ouml;te und Piccolo, Trompete und Klavier</description>
+			<length>29:00</length>
+			<instrument name="Klarinette">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Fl&ouml;te und Piccolo">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<instrument name="Trompete und Klavier">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<composed start="1975" end="1983"/>
+			<recorded start="1991"/>
+			<release>Stockhausen-Verlag CD35</release>
+			<released>1993</released>
 		</composition>
 		<composition>
 			<name>Musik im Bauch</name>
@@ -5771,6 +5832,30 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Amour</name>
+			<description>5 St&uuml;cke f&uuml;r Klarinette</description>
+			<length>8:31</length>
+			<instrument name="Klarinette">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1980"/>
+			<release>Stockhausen-Verlag CD27</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Amour</name>
+			<description>f&uuml;r Fl&ouml;te</description>
+			<length>28:52</length>
+			<instrument name="Fl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1976" end="1981"/>
+			<recorded start="1989"/>
+			<release>Stockhausen-Verlag CD28AB</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Der Jahreslauf</name>
 			<description>f&uuml;r Orchester und Tonband</description>
 			<length>46:07</length>
@@ -5778,6 +5863,70 @@
 			<recorded start="1979"/>
 			<release>Stockhausen-Verlag CD29</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Libra</name>
+			<description>f&uuml;r Ba&szlig;klarinette und Elektronische Musik</description>
+			<length>32:15</length>
+			<instrument name="Ba&szlig;klarinette">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Realisation">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1993"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>In Freundschaft</name>
+			<description>f&uuml;r Klarinette</description>
+			<length>14:22</length>
+			<instrument name="Klarinette">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1979"/>
+			<release>Stockhausen-Verlag CD27</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>In Freundschaft</name>
+			<description>f&uuml;r Fl&ouml;te</description>
+			<length>14:47</length>
+			<instrument name="Fl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1989"/>
+			<release>Stockhausen-Verlag CD28AB</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>In Freundschaft</name>
+			<description>f&uuml;r Bassetthorn</description>
+			<length>16:49</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1994"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Piccolo</name>
+			<description>aus Jahreslauf</description>
+			<description>Solo f&uuml;r Piccolo-Fl&ouml;te</description>
+			<length>3:20</length>
+			<instrument name="Piccolo-Fl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1991"/>
+			<release>Stockhausen-Verlag CD28AB</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Michaels Reise</name>
@@ -5814,6 +5963,66 @@
 			<recorded start="1989"/>
 			<release>ECM 1406</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Tanze Luzefa!</name>
+			<description>f&uuml;r Bassetthorn</description>
+			<length>5:38</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1994"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Bijou</name>
+			<description>f&uuml;r Altfl&ouml;te, Ba&szlig;klarinette und Tonband</description>
+			<length>14:11</length>
+			<instrument name="Altfl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<instrument name="Ba&szlig;klarinette">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1978" end="1982"/>
+			<recorded start="1993"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Mondeva</name>
+			<description>f&uuml;r Tenor und Bassetthorn</description>
+			<length>11:20</length>
+			<instrument name="Tenor">
+				<player name="Julian Pike"/>
+			</instrument>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1993"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Mission und Himmelfahrt</name>
+			<description>f&uuml;r Trompete und Bassetthorn</description>
+			<length>18:23</length>
+			<instrument name="Trompete">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1992"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Eingang und Formel</name>
@@ -5880,6 +6089,18 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Traum-Formel</name>
+			<description>f&uuml;r Bassetthorn</description>
+			<length>7:54</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1983"/>
+			<release>Stockhausen-Verlag CD27</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Zungenspitzentanz</name>
 			<description>f&uuml;r Piccolo-Fl&ouml;te, Euphonium, einen Synthesizer-Spieler, einen Schlagzeuger</description>
 			<length>10:37</length>
@@ -5899,6 +6120,43 @@
 			<recorded start="1996"/>
 			<release>Stockhausen-Verlag CD57</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Zungenspitzentanz</name>
+			<description>f&uuml;r Piccolo-Fl&ouml;te</description>
+			<length>9:04</length>
+			<instrument name="Piccolo-Fl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="1989"/>
+			<release>Stockhausen-Verlag CD28AB</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Oberlippentanz</name>
+			<description>f&uuml;r Piccolo-Trompete, Euphonium, 4 H&ouml;rner, 2 Schlagzeuger</description>
+			<length>14:25</length>
+			<instrument name="Piccolo-Trompete">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<instrument name="Euphonium">
+				<player name="Michael Svoboda"/>
+			</instrument>
+			<instrument name="H&ouml;rner">
+				<player name="Gernot Scheibe"/>
+				<player name="Gaby Webster"/>
+				<player name="Ralph Warn&eacute;"/>
+				<player name="Marcie McGaughey"/>
+			</instrument>
+			<instrument name="Schlagzeug">
+				<player name="Robyn Schulkowsky"/>
+				<player name="Mircea Ardeleanu"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="1985"/>
+			<release>Stockhausen-Verlag CD35</release>
+			<released>1993</released>
 		</composition>
 		<composition>
 			<name>Oberlippentanz</name>
@@ -5928,6 +6186,98 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Kathinkas Gesang</name>
+			<description>als Luzifers Requiem</description>
+			<description>f&uuml;r Fl&ouml;te und Elektronische Musik</description>
+			<length>32:40</length>
+			<instrument name="Fl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="1985"/>
+			<release>Stockhausen-Verlag CD28AB</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Evas Spiegel</name>
+			<description>f&uuml;r Bassetthorn</description>
+			<length>2:57</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1989"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Susani</name>
+			<description>f&uuml;r Bassetthorn</description>
+			<length>7:00</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1989"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Ave</name>
+			<description>f&uuml;r Bassetthorn und Altfl&ouml;te</description>
+			<length>23:30</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Altfl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1984" end="1985"/>
+			<recorded start="1989"/>
+			<release>Stockhausen-Verlag CD35</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Susanis Echo</name>
+			<description>f&uuml;r Altfl&ouml;te</description>
+			<length>7:11</length>
+			<instrument name="Altfl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="1991"/>
+			<release>Stockhausen-Verlag CD28AB</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Xi</name>
+			<description>f&uuml;r Bassetthorn</description>
+			<length>8:16</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1989"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Xi</name>
+			<description>mit Mikro-T&ouml;nen</description>
+			<description>Version f&uuml;r Fl&ouml;te</description>
+			<length>6:40</length>
+			<instrument name="Fl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1989"/>
+			<release>Stockhausen-Verlag CD28AB</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Entf&uuml;hrung</name>
 			<description>f&uuml;r Piccolo-Fl&ouml;te</description>
 			<length>12:01</length>
@@ -5938,6 +6288,72 @@
 			<recorded start="1993"/>
 			<release>Stockhausen-Verlag CD57</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Wochenkreis</name>
+			<description>f&uuml;r Bassetthorn und elektronische Tasteninstrumente</description>
+			<length>25:20</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="elektronische Tasteninstrumente">
+				<player name="Simon Stockhausen"/>
+			</instrument>
+			<composed start="1986" end="1988"/>
+			<recorded start="1993"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Flautina</name>
+			<description>f&uuml;r Fl&ouml;te mit Piccolo und Altfl&ouml;te</description>
+			<length>5:50</length>
+			<instrument name="Fl&ouml;te, Piccolo, Altfl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>Stockhausen-Verlag CD28AB</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Ypsilon</name>
+			<description>f&uuml;r Fl&ouml;te</description>
+			<length>9:20</length>
+			<instrument name="Fl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1991"/>
+			<release>Stockhausen-Verlag CD28AB</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Ypsilon</name>
+			<description>f&uuml;r Bassetthorn</description>
+			<length>9:01</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1994"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Sukat</name>
+			<description>f&uuml;r Bassetthorn und Altfl&ouml;te</description>
+			<length>7:22</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<instrument name="Altfl&ouml;te">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1993"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Piet&agrave;-Solo</name>
@@ -6044,6 +6460,18 @@
 			<recorded start="1993"/>
 			<release>Stockhausen-Verlag CD57</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Freia</name>
+			<description>f&uuml;r Bassetthorn</description>
+			<length>7:00</length>
+			<instrument name="Bassetthorn">
+				<player name="Suzanne Stephens"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1994"/>
+			<release>Stockhausen-Verlag CD32ABC</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Elektronische Musik mit Tonszenen vom Freitag aus Licht</name>
