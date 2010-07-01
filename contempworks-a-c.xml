@@ -3738,6 +3738,16 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Concerto f&uuml;r Streichorchester</name>
+			<length>10:33</length>
+			<player name="Radio Symphonieorchester Wien"/>
+			<conductor>Friedrich Cerha</conductor>
+			<composed start="1949"/>
+			<recorded start="1993"/>
+			<release>ORF CD 174</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Zehn Rubaijat des Omar Chajjam</name>
 			<description>f&uuml;r gemischten Chor a cappella 1. Buch</description>
 			<length>11:00</length>
@@ -3747,6 +3757,17 @@
 			<recorded start="?"/>
 			<release>ORF CD 180 (CD1)</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Triptychon</name>
+			<description>Konzertante Musik f&uuml;r Kammerorchester</description>
+			<length>10:20</length>
+			<player name="Radio Symphonieorchester Wien"/>
+			<conductor>Friedrich Cerha</conductor>
+			<composed start="1951"/>
+			<recorded start="1993"/>
+			<release>ORF CD 174</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Konzert f&uuml;r Klavier und Orchester</name>
@@ -3932,6 +3953,17 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Curriculum</name>
+			<description>f&uuml;r Bl&auml;ser</description>
+			<length>17:23</length>
+			<player name="Radio Symphonieorchester Wien"/>
+			<conductor>Friedrich Cerha</conductor>
+			<composed start="1972" end="1973"/>
+			<recorded start="1993"/>
+			<release>ORF CD 174</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Baal</name>
 			<description>B&uuml;hnenwerk in 2 Teilen</description>
 			<length>2:43:18</length>
@@ -4049,6 +4081,17 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Quellen</name>
+			<description>f&uuml;r Ensemble</description>
+			<length>12:43</length>
+			<player name="Radio Symphonieorchester Wien"/>
+			<conductor>Friedrich Cerha</conductor>
+			<composed start="1992"/>
+			<recorded start="1993"/>
+			<release>ORF CD 174</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Impulse</name>
 			<description>f&uuml;r Orchester</description>
 			<length>21:49</length>
@@ -4069,6 +4112,17 @@
 			<recorded start="1996"/>
 			<release>Col Legno WWE 2CD 20006</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>F&uuml;r K</name>
+			<description>f&uuml;r Kammerorchester</description>
+			<length>17:00</length>
+			<player name="Radio Symphonieorchester Wien"/>
+			<conductor>Friedrich Cerha</conductor>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>ORF CD 174</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Saxophon-Quartett</name>
