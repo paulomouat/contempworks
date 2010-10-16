@@ -1902,6 +1902,18 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Nomos Alpha</name>
+			<description>pour violoncelle</description>
+			<length>12:33</length>
+			<instrument name="Violoncelle">
+				<player name="Pierre Strauch"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1990"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Polytope de Montr&eacute;al</name>
 			<description>f&uuml;r Orchester</description>
 			<length>6:18</length>
@@ -2117,6 +2129,17 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Phlegra</name>
+			<description>pour ensemble</description>
+			<length>13:21</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Michel Tabachnik</conductor>
+			<composed start="1975"/>
+			<recorded start="1990"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Mikka &quot;S&quot;</name>
 			<description>for solo violin</description>
 			<length>4:10</length>
@@ -2139,6 +2162,18 @@
 			<recorded start="2008"/>
 			<release>Neos 10707</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Khoai</name>
+			<description>pour clavecin</description>
+			<length>16:47</length>
+			<instrument name="Clavecin">
+				<player name="Elisabeth Chojnacka"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1987"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
 		</composition>
 		<composition>
 			<name>Jonchaies</name>
@@ -2318,6 +2353,21 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Komboi</name>
+			<description>pour clavecin et percussion</description>
+			<length>18:03</length>
+			<instrument name="Clavecin">
+				<player name="Elisabeth Chojnacka"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Sylvio Gualda"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1987"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Tetras</name>
 			<description>for string quartet</description>
 			<length>14:35</length>
@@ -2370,6 +2420,18 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Naama</name>
+			<description>pour clavecin</description>
+			<length>15:26</length>
+			<instrument name="Clavecin">
+				<player name="Elisabeth Chojnacka"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1987"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Thalle&iuml;n</name>
 			<description>for 14 instruments</description>
 			<length>17:44</length>
@@ -2379,6 +2441,17 @@
 			<recorded start="1991"/>
 			<release>Neuma 450-86</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Thalle&iuml;n</name>
+			<description>pour ensemble</description>
+			<length>17:24</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Michel Tabachnik</conductor>
+			<composed start="1984"/>
+			<recorded start="1990"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
 		</composition>
 		<composition>
 			<name>Akea</name>
@@ -2415,6 +2488,43 @@
 			<recorded start="2002"/>
 			<release>Timpani 1C1131</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Jalons</name>
+			<description>pour ensemble</description>
+			<length>14:32</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1986"/>
+			<recorded start="1990"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Keren</name>
+			<description>pour trombone</description>
+			<length>6:34</length>
+			<instrument name="Trombone">
+				<player name="Benny Sluchin"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1991"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>&Agrave; l'&Icirc;le de Gor&eacute;e</name>
+			<description>pour clavecin et ensemble</description>
+			<length>13:34</length>
+			<instrument name="Clavecin">
+				<player name="Elisabeth Chojnacka"/>
+			</instrument>
+			<player name="Ensemble Xenakis"/>
+			<conductor>Huub Kerstens</conductor>
+			<composed start="1986"/>
+			<recorded start="1987"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
 		</composition>
 		<composition>
 			<name>&agrave; R.</name>

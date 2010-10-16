@@ -4187,4 +4187,78 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="George" surname="Crumb" born="1929" died="">
+		<composition>
+			<name>Four Nocturnes (Night Music II)</name>
+			<description>for violin and piano</description>
+			<length>9:20</length>
+			<instrument name="Violin">
+				<player name="Urs Bumbacher"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Viktor M&uuml;ller"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 166</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Eleven Echoes of Autumn (Echoes I)</name>
+			<description>for violin, alto flute, clarinet and piano</description>
+			<length>19:57</length>
+			<instrument name="Violin">
+				<player name="Urs Bumbacher"/>
+			</instrument>
+			<instrument name="Alto flute">
+				<player name="Hans-Peter Frehner"/>
+			</instrument>
+			<instrument name="Clarinet">
+				<player name="Hansruedi Bissegger"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Viktor M&uuml;ller"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 166</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Vox Balaenae</name>
+			<description>for electric flute, electric cello and amplified piano</description>
+			<length>20:51</length>
+			<instrument name="Electric flute">
+				<player name="Hans-Peter Frehner"/>
+			</instrument>
+			<instrument name="Electric cello">
+				<player name="Samuel Brunner"/>
+			</instrument>
+			<instrument name="Amplified piano">
+				<player name="Viktor M&uuml;ller"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 166</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Dream Sequence (Images II)</name>
+			<description>for violin, piano, percussion and glass harmonica</description>
+			<length>13:16</length>
+			<instrument name="Violin">
+				<player name="Urs Bumbacher"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Viktor M&uuml;ller"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Matthias Eser"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 166</release>
+			<released>2006</released>
+		</composition>
+	</composer>
 </list>
