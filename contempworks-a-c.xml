@@ -264,6 +264,48 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Trois r&ecirc;ves d'oiseau</name>
+			<length>10:00</length>
+			<part>
+				<number>1</number>
+				<name>L'oiseau moqueur</name>
+				<length>3:30</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>L'oiseau triste</name>
+				<length>2:30</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>L'oiseau zen</name>
+				<length>3:55</length>
+			</part>
+			<player name="INA-GRM, Paris"/>
+			<composed start="1963" end="1971"/>
+			<recorded start="1971"/>
+			<release>M10 275972</release>
+			<released>2004</released>
+		</composition>		
+		<composition>
+			<name>Espaces inhabitables</name>
+			<length>17:41</length>
+			<player name="INA-GRM, Paris"/>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>M10 275112</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Je&icirc;ta ou murmure des eaux</name>
+			<length>39:50</length>
+			<player name="INA-GRM, Paris"/>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>M10 248122</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Vibrations Compos&eacute;es</name>
 			<length>35:58</length>
 			<player name="INA-GRM, Paris"/>
@@ -280,6 +322,52 @@
 			<recorded start="1974"/>
 			<release>Adda MMGCB 0392</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Camera oscura</name>
+			<length>38:39</length>
+			<part>
+				<number>1</number>
+				<name>Sept pr&eacute;ludes</name>
+				<length>19:54</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Labyrinthe</name>
+				<length>18:45</length>
+			</part>
+			<player name="INA-GRM, Paris"/>
+			<composed start="1976" end="2000"/>
+			<recorded start="2000"/>
+			<release>M10 275112</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Erosph&egrave;re</name>
+			<length>1:09:00</length>
+			<part>
+				<number>1</number>
+				<name>Tremblement de terre tr&egrave;s doux</name>
+				<length>28:00</length>
+				<composed start="1978"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>&Eacute;ros bleu/La fin du bruit/&Eacute;ros rouge</name>
+				<length>16:40</length>
+				<composed start="1979"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>&Eacute;ros noir/Toupie dans le ciel/&Eacute;ros rouge et noir</name>
+				<length>24:00</length>
+				<composed start="1979"/>
+			</part>
+			<player name="INA-GRM, Paris"/>
+			<composed start="1978" end="1980"/>
+			<recorded start="2009"/>
+			<release>Magison vol.20, ISBN 978-2-9532179-1-9</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Son Vitesse-Lumi&egrave;re</name>
@@ -316,6 +404,15 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>L'infini du bruit</name>
+			<length>10:55</length>
+			<player name="INA-GRM, Paris"/>
+			<composed start="1980"/>
+			<recorded start="1999"/>
+			<release>M10 248122</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Le Sommeil d'Euclide</name>
 			<length>20:39</length>
 			<player name="INA-GRM, Paris"/>
@@ -334,6 +431,15 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Je&icirc;ta-retour</name>
+			<length>5:23</length>
+			<player name="INA-GRM, Paris"/>
+			<composed start="1985"/>
+			<recorded start="1999"/>
+			<release>M10 248122</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Mimameta</name>
 			<length>11:01</length>
 			<player name="INA-GRM, Paris"/>
@@ -341,6 +447,49 @@
 			<recorded start="1989"/>
 			<release>Agon PV725001</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Mimam&eacute;ta</name>
+			<description>R&eacute;vision 2004</description>
+			<length>10:46</length>
+			<player name="INA-GRM, Paris"/>
+			<composed start="1989" end="2004"/>
+			<recorded start="2004"/>
+			<release>M10 275972</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Fabulae</name>
+			<length>56:45</length>
+			<part>
+				<number>1</number>
+				<name>...fabula</name>
+				<length>14:28</length>
+				<composed start="1990"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>...onoma</name>
+				<length>15:55</length>
+				<composed start="1990"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>...nota</name>
+				<length>10:18</length>
+				<composed start="1991"/>
+			</part>
+			<part>
+				<number>4</number>
+				<name>...sonora</name>
+				<length>15:37</length>
+				<composed start="1992"/>
+			</part>
+			<player name="INA-GRM, Paris"/>
+			<composed start="1990" end="1992"/>
+			<recorded start="1992"/>
+			<release>M10 244732</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>La Main Vide</name>
@@ -374,6 +523,25 @@
 			<recorded start="2001"/>
 			<release>M10 275862</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>La forme de l'esprit et un papillon</name>
+			<length>35:35</length>
+			<part>
+				<number>1</number>
+				<name>Ombrages et trou&eacute;es</name>
+				<length>22:30</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Couleurs invent&eacute;es</name>
+				<length>13:05</length>
+			</part>
+			<player name="INA-GRM, Paris"/>
+			<composed start="2002" end="2004"/>
+			<recorded start="2004"/>
+			<release>M10 275972</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Alban" surname="Berg" born="1885" died="1935">
