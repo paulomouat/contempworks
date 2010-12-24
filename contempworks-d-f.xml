@@ -2135,6 +2135,17 @@
 			<release>Mode 54</release>
 			<released>1996</released>
 		</composition>
+		<composition>
+			<name>For Samuel Beckett</name>
+			<description>f&uuml;r 23 Spieler</description>
+			<length>54:38</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1987"/>
+			<recorded start="1999"/>
+			<release>Kairos 0012012KAI</release>
+			<released>1999</released>
+		</composition>
 	</composer>
 	<composer name="Brian" surname="Ferneyhough" born="1943" died="">
 		<composition>
