@@ -854,6 +854,26 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Tres piezas para cuarteto</name>
+			<description>String Quartet No. 1</description>
+			<length>15:44</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="1956"/>
+			<recorded start="2010"/>
+			<release>MDG 307 1671-2</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>M&eacute;moires</name>
+			<description>String Quartet No. 2</description>
+			<length>21:41</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="1970"/>
+			<recorded start="2010"/>
+			<release>MDG 307 1671-2</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Variaciones sobre la resonancia de un grito</name>
 			<description>f&uuml;r 11 Instrumente, Tonband und live-elektronische Klangumwandlung</description>
 			<length>26:50</length>
@@ -868,6 +888,16 @@
 			<recorded start="1977"/>
 			<release>Col Legno WWE 3CD 20025</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Espacio de silencio</name>
+			<description>String Quartet No. 7</description>
+			<length>22:50</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="2007"/>
+			<recorded start="2010"/>
+			<release>MDG 307 1671-2</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Bengt" surname="Hambraeus" born="1928" died="">

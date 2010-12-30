@@ -1267,6 +1267,41 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Sonata for solo cello</name>
+			<length>8:08</length>
+			<instrument name="cello">
+				<player name="David Geringas"/>
+			</instrument>
+			<composed start="1948" end="1953"/>
+			<recorded start="2002"/>
+			<release>Teldec 8573-88262-2</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>The Big Turtle Fanfare from The South China Sea</name>
+			<description>for trumpet solo</description>
+			<length>0:39</length>
+			<instrument name="trumpet">
+				<player name="Peter Masseurs"/>
+			</instrument>
+			<composed start="1949"/>
+			<recorded start="2000"/>
+			<release>Teldec 8573-88262-2</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>R&eacute;gi magyar t&aacute;rsas t&aacute;ncok</name>
+			<description>Old hungarian ballroom dances, for flute, clarinet and strings</description>
+			<length>10:26</length>
+			<player name="Asko Ensemble"/>
+			<player name="Sch&ouml;nberg Ensemble"/>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1950"/>
+			<recorded start="2002"/>
+			<release>Teldec 8573-88262-2</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Ballad and Dance</name>
 			<description>for two violins</description>
 			<length>3:22</length>
@@ -1290,6 +1325,18 @@
 			<recorded start="1994"/>
 			<release>Sony SK 62306</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Ballada Si Joc</name>
+			<description>Ballad and dance after romanian folksongs, for school orchestra</description>
+			<length>3:08</length>
+			<player name="Asko Ensemble"/>
+			<player name="Sch&ouml;nberg Ensemble"/>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1950"/>
+			<recorded start="2001"/>
+			<release>Teldec 8573-88262-2</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Ricercare</name>
@@ -1437,6 +1484,58 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Eight pieces from &quot;Musica Ricercata&quot;</name>
+			<description>for Accordion (Bayan), arranged by Max Bonnay</description>
+			<length>18:52</length>
+			<part>
+				<number>I</number>
+				<name>Sostenuto</name>
+				<length>2:38</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Allegro con spirito</name>
+				<length>1:14</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Tempo de valse (poco vivace - &agrave; l'orgue de Barbarie</name>
+				<length>1:53</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Con moto, giusto - Cantabile, molto legato</name>
+				<length>2:57</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Vivace. Energico</name>
+				<length>1:17</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>(B&eacute;la Bart&oacute;k in memoriam) Adagio. Mesto - Allegretto maestoso</name>
+				<length>2:56</length>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>Vivace. Capriccioso</name>
+				<length>1:44</length>
+			</part>
+			<part>
+				<number>VIII</number>
+				<name>(Omaggio a Girolamo Frescobaldi) Andante misurato e tranquillo</name>
+				<length>4:13</length>
+			</part>
+			<instrument name="accordion (bayan)">
+				<player name="Max Bonnay"/>
+			</instrument>
+			<composed start="1950" end="1953"/>
+			<recorded start="1995"/>
+			<release>Teldec 8573-88262-2</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Concert rom&acirc;nesc</name>
 			<description>for Orchestra</description>
 			<length>12:10</length>
@@ -1494,6 +1593,17 @@
 			<recorded start="1958"/>
 			<release>BVHaast 9106</release>
 			<released>?</released>
+		</composition>
+		<composition>
+			<name>Artikulation</name>
+			<description>for tape</description>
+			<description>2-channel mixdown of the original 4-channel tape</description>
+			<length>3:49</length>
+			<player name="WDR, K&ouml;ln"/>
+			<composed start="1958"/>
+			<recorded start="1958" end="2003"/>
+			<release>Teldec 8573-88262-2</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Apparitions</name>
@@ -1615,6 +1725,26 @@
 			<released>1985</released>
 		</composition>
 		<composition>
+			<name>Aventures</name>
+			<description>for 3 singers and 7 instrumentalists</description>
+			<length>10:40</length>
+			<instrument name="soprano">
+				<player name="Sarah Leonard"/>
+			</instrument>
+			<instrument name="mezzo soprano">
+				<player name="Linda Hirst"/>
+			</instrument>
+			<instrument name="baritone">
+				<player name="Omar Ebrahim"/>
+			</instrument>
+			<player name="Sch&ouml;nberg Ensemble"/>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1962"/>
+			<recorded start="2002"/>
+			<release>Teldec 8573-88262-2</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Nouvelles Aventures</name>
 			<description>f&uuml;r 3 S&auml;nger und 7 Instrumentalisten</description>
 			<length>11:46</length>
@@ -1633,6 +1763,26 @@
 			<recorded start="1966"/>
 			<release>Wergo WER 60045-50</release>
 			<released>1985</released>
+		</composition>
+		<composition>
+			<name>Nouvelles Aventures</name>
+			<description>for 3 singers and 7 instrumentalists</description>
+			<length>10:48</length>
+			<instrument name="soprano">
+				<player name="Sarah Leonard"/>
+			</instrument>
+			<instrument name="mezzo soprano">
+				<player name="Linda Hirst"/>
+			</instrument>
+			<instrument name="baritone">
+				<player name="Omar Ebrahim"/>
+			</instrument>
+			<player name="Sch&ouml;nberg Ensemble"/>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1962" end="1965"/>
+			<recorded start="2002"/>
+			<release>Teldec 8573-88262-2</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Requiem</name>
