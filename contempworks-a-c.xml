@@ -178,29 +178,8 @@
 			</instrument>
 			<player name="New York Philharmonic"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
+			<composed start="1917"/>
 			<recorded start="1975"/>
-			<release>Sony SM2K61726</release>
-			<released>1999</released>
-		</composition>
-		<composition>
-			<name>Suite de danses</name>
-			<description>(Sz 77)</description>
-			<length>17:46</length>
-			<player name="New York Philharmonic"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
-			<recorded start="1972"/>
-			<release>Sony SM2K61726</release>
-			<released>1999</released>
-		</composition>
-		<composition>
-			<name>Concerto pour orchestre</name>
-			<length>37:07</length>
-			<player name="New York Philharmonic"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
-			<recorded start="1972"/>
 			<release>Sony SM2K61726</release>
 			<released>1999</released>
 		</composition>
@@ -211,10 +190,31 @@
 			<player name="Chicago Symphony Chorus"/>
 			<player name="Chicago Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
+			<composed start="1918"/>
 			<recorded start="1994"/>
 			<release>Deutsche Grammophon 447 747-2</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Suite de danses</name>
+			<description>(Sz 77)</description>
+			<length>17:46</length>
+			<player name="New York Philharmonic"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1923"/>
+			<recorded start="1972"/>
+			<release>Sony SM2K61726</release>
+			<released>1999</released>
+		</composition>
+		<composition score="Y">
+			<name>Musique pour cordes, percussion et c&eacute;lesta</name>
+			<length>29:58</length>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1936"/>
+			<recorded start="1967"/>
+			<release>Sony SM2K61726</release>
+			<released>1999</released>
 		</composition>
 		<composition score="Y">
 			<name>Music for Strings, Percussion and Celesta</name>
@@ -222,18 +222,18 @@
 			<length>30:24</length>
 			<player name="Chicago Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
+			<composed start="1936"/>
 			<recorded start="1994"/>
 			<release>Deutsche Grammophon 447 747-2</release>
 			<released>1996</released>
 		</composition>
-		<composition score="Y">
-			<name>Musique pour cordes, percussion et c&eacute;lesta</name>
-			<length>29:58</length>
-			<player name="BBC Symphony Orchestra"/>
+		<composition>
+			<name>Concerto pour orchestre</name>
+			<length>37:07</length>
+			<player name="New York Philharmonic"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
-			<recorded start="1967"/>
+			<composed start="1943"/>
+			<recorded start="1972"/>
 			<release>Sony SM2K61726</release>
 			<released>1999</released>
 		</composition>
