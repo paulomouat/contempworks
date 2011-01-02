@@ -1230,20 +1230,6 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Tombeau &agrave; la m&eacute;moire du Prince Max Egon zu F&uuml;rstenberg</name>
-			<description>Un peu profond ruisseau calomni&eacute;e la mort (Mallarm&eacute;)</description>
-			<length>7:18</length>
-			<instrument name="Sopran">
-				<player name="Eva-Maria Rogner"/>
-			</instrument>
-			<player name="Ensemble Domaine Musical Paris"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start="?"/>
-			<recorded start="1959"/>
-			<release>Col Legno CD1 31905</release>
-			<released>1996</released>
-		</composition>
-		<composition>
 			<name>Polyphonie X</name>
 			<description>f&uuml;r 18 Solo-Instrumente</description>
 			<length>16:36</length>
@@ -1341,9 +1327,23 @@
 			</instrument>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud, Pierre Boulez</conductor>
-			<composed start="?"/>
+			<composed start="1958"/>
 			<recorded start="1958"/>
 			<release>Col Legno CD1 31909</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Tombeau &agrave; la m&eacute;moire du Prince Max Egon zu F&uuml;rstenberg</name>
+			<description>Un peu profond ruisseau calomni&eacute;e la mort (Mallarm&eacute;)</description>
+			<length>7:18</length>
+			<instrument name="Sopran">
+				<player name="Eva-Maria Rogner"/>
+			</instrument>
+			<player name="Ensemble Domaine Musical Paris"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1959"/>
+			<recorded start="1959"/>
+			<release>Col Legno CD1 31905</release>
 			<released>1996</released>
 		</composition>
 		<composition>
@@ -2103,17 +2103,6 @@
 	</composer>
 	<composer name="Sylvano" surname="Bussotti" born="1931" died="">
 		<composition>
-			<name>Nascosto (nove parti per Pierre Boulez)</name>
-			<description>pour ensemble</description>
-			<length>2:40</length>
-			<player name="Contempoensemble"/>
-			<conductor>Mauro Ceccanti</conductor>
-			<composed start="?"/>
-			<recorded start="1992"/>
-			<release>Arts 447135-2</release>
-			<released>1994</released>
-		</composition>
-		<composition>
 			<name>Quartetto Gramsci</name>
 			<description>Reprise pour deux violons, alto et violoncelle (da I semi di Gramsci pour quatuor et orchestre)</description>
 			<length>11:25</length>
@@ -2122,6 +2111,17 @@
 			<recorded start="1992"/>
 			<release>Montaigne 782042</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Nascosto (nove parti per Pierre Boulez)</name>
+			<description>pour ensemble</description>
+			<length>2:40</length>
+			<player name="Contempoensemble"/>
+			<conductor>Mauro Ceccanti</conductor>
+			<composed start="1984"/>
+			<recorded start="1992"/>
+			<release>Arts 447135-2</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Echi Danzanti</name>
@@ -3650,6 +3650,23 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Syringa</name>
+			<description>for soprano, baritone and ensemble</description>
+			<length>19:11</length>
+			<instrument name="Soprano">
+				<player name="Lucy Shelton"/>
+			</instrument>
+			<instrument name="Baritone">
+				<player name="Andre Solomon-Glover"/>
+			</instrument>
+			<player name="Ensemble Sospeso"/>
+			<conductor>Jeffrey Milarsky</conductor>
+			<composed start="1978"/>
+			<recorded start="1999"/>
+			<release>Mode 128 DVD</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Riconoscenza</name>
 			<length>4:10</length>
 			<instrument name="Violino">
@@ -3681,17 +3698,82 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Oboenkonzert</name>
+			<name>Oboe Concerto</name>
 			<length>18:43</length>
 			<instrument name="Oboe">
 				<player name="Heinz Holliger"/>
 			</instrument>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Michael Gielen</conductor>
-			<composed start="?"/>
+			<composed start="1986" end="1987"/>
 			<recorded start="1988"/>
 			<release>Col Legno CD1 31911</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Quintet for piano and winds</name>
+			<length>22:08</length>
+			<instrument name="Piano">
+				<player name="Ursula Oppens"/>
+			</instrument>
+			<instrument name="Winds">
+				<player name="Steve Taylor"/>
+				<player name="Charles Niedich"/>
+				<player name="William Purvis"/>
+				<player name="Frank Morelli"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="2000"/>
+			<release>Mode 128 DVD</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Quintet for piano and strings</name>
+			<length>14:56</length>
+			<instrument name="Piano">
+				<player name="Ursula Oppens"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1997"/>
+			<recorded start="1998"/>
+			<release>Mode 128 DVD</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Tempo e tempi</name>
+			<description>for soprano, oboe, clarinet, violin and cello</description>
+			<length>16:06</length>
+			<instrument name="Soprano">
+				<player name="Lucy Shelton"/>
+			</instrument>
+			<player name="Ensemble Sospeso"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1998"/>
+			<recorded start="2001"/>
+			<release>Mode 128 DVD</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Fragment II</name>
+			<description>for string quartet</description>
+			<length>4:31</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1999"/>
+			<recorded start="2000"/>
+			<release>Mode 128 DVD</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Retrouvailles</name>
+			<description>for piano solo</description>
+			<length>1:51</length>
+			<instrument name="Piano">
+				<player name="Ursula Oppens"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>Mode 128 DVD</release>
+			<released>2003</released>
 		</composition>
 	</composer>
 	<composer name="Tristram" surname="Cary" born="1925" died="">
@@ -4419,6 +4501,22 @@
 			<recorded start="1996"/>
 			<release>hat[now] ART 166</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Makrokosmos I &amp; II</name>
+			<description>24 fantasy pieces after the Zodiac</description>
+			<description>for amplified piano</description>
+			<length>1:04:43</length>
+			<instrument name="piano">
+				<player name="Margaret Leng Tan"/>
+			</instrument>
+			<instrument name="whistler">
+				<player name="Alex Nowitz"/>
+			</instrument>
+			<composed start="1972" end="1973"/>
+			<recorded start="2003"/>
+			<release>Mode 142 DVD</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Dream Sequence (Images II)</name>
