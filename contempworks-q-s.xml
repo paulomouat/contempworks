@@ -1418,6 +1418,33 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Deus Passus</name>
+			<description>Passions-St&uuml;cke nach Lukas</description>
+			<length>1:30:21</length>
+			<instrument name="Soprano">
+				<player name="Juliane Banse"/>
+			</instrument>
+			<instrument name="Mezzosoprano">
+				<player name="Iris Vermillion"/>
+			</instrument>
+			<instrument name="Alto">
+				<player name="Cornelia Kallisch"/>
+			</instrument>
+			<instrument name="Tenore">
+				<player name="Christoph Pr&eacute;gardien"/>
+			</instrument>
+			<instrument name="Baritono">
+				<player name="Andreas Schmidt"/>
+			</instrument>
+			<player name="G&auml;chinger Kantorei"/>
+			<player name="Bach-Collegium Stuttgart"/>
+			<conductor>Helmut Rilling</conductor>
+			<composed start="1999" end="2000"/>
+			<recorded start="2000"/>
+			<release>h&auml;nssler Classic CD 98.397</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Auf einem anderen Blatt</name>
 			<length>4:21</length>
 			<instrument name="Piano">
@@ -1556,6 +1583,18 @@
 			<recorded start="2007"/>
 			<release>h&auml;nssler Classic CD 93.236</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Verwandlungen I-IV</name>
+			<description>Musik f&uuml;r Orchester</description>
+			<length>1:00:13</length>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Christian Arming (I-II)</conductor>
+			<conductor>Matthias Pintscher (III-IV)</conductor>
+			<composed start="2002" end="2008"/>
+			<recorded start="2006" end="2008"/>
+			<release>h&auml;nssler Classic CD 93.263</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Jean-Claude" surname="Risset" born="1938" died="">

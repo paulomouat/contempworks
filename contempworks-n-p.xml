@@ -167,6 +167,17 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Cori di Didone</name>
+			<description>per coro misto e percussione</description>
+			<length>9:53</length>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="1958"/>
+			<recorded start="1993"/>
+			<release>h&auml;nssler Classic CD 93.022</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Sar&agrave; dolce tacere</name>
 			<description>for 8 solo voices</description>
 			<length>8:10</length>
@@ -272,6 +283,19 @@
 			<recorded start="2002"/>
 			<release>Col Legno WWE 1SACD 20603</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Da un diario italiano</name>
+			<description>per due cori</description>
+			<length>7:37</length>
+			<player name="WDR Rundfunkchor K&ouml;ln"/>
+			<conductor>Christoph Adt</conductor>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="1963" end="1964"/>
+			<recorded start="2000"/>
+			<release>h&auml;nssler Classic CD 93.022</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>La fabbrica illuminata</name>
@@ -530,6 +554,23 @@
 			<recorded start="2001"/>
 			<release>Col Legno WWE 2SACD 20600</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Das atmende Klarsein</name>
+			<description>per piccolo coro, fiauto basso, live-electronic</description>
+			<length>36:35</length>
+			<instrument name="Bassfl&ouml;te">
+				<player name="Eva Furrer"/>
+			</instrument>
+			<instrument name="Live-Electronik">
+				<player name="Peter B&ouml;hm"/>
+			</instrument>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="1980" end="1983"/>
+			<recorded start="1993"/>
+			<release>h&auml;nssler Classic CD 93.022</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>Io, frammento da Prometeo</name>
@@ -1738,7 +1779,7 @@
 		</composition>
 		<composition>
 			<name>Tabula Rasa</name>
-			<length>26:26</length>
+			<length>26:25</length>
 			<instrument name="Violin">
 				<player name="Gidon Kremer"/>
 			</instrument>
@@ -1750,10 +1791,10 @@
 			</instrument>
 			<player name="Lithuanian Chamber Orchestra"/>
 			<conductor>Saulius Sondeckis</conductor>
-			<composed start="1977?"/>
+			<composed start="1977"/>
 			<recorded start="1977"/>
-			<release>ECM 1275</release>
-			<released>1984</released>
+			<release>ECM 1275 (special edition)</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Cantus in memory of Benjamin Britten</name>
@@ -1762,12 +1803,12 @@
 			<conductor>Dennis Russell Davies</conductor>
 			<composed start="1977?"/>
 			<recorded start="1984"/>
-			<release>ECM 1275</release>
-			<released>1984</released>
+			<release>ECM 1275 (special edition)</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Fratres</name>
-			<length>11:24</length>
+			<length>11:28</length>
 			<instrument name="Violin">
 				<player name="Gidon Kremer"/>
 			</instrument>
@@ -1776,8 +1817,8 @@
 			</instrument>
 			<composed start="1977"/>
 			<recorded start="1983"/>
-			<release>ECM 1275</release>
-			<released>1984</released>
+			<release>ECM 1275 (special edition)</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Summa</name>
@@ -1792,10 +1833,10 @@
 			<name>Fratres</name>
 			<length>11:49</length>
 			<player name="The 12 Cellists of the Berlin Philharmonic Orchestra"/>
-			<composed start="1980?"/>
+			<composed start="1980"/>
 			<recorded start="1984"/>
-			<release>ECM 1275</release>
-			<released>1984</released>
+			<release>ECM 1275 (special edition)</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>De Profundis</name>
