@@ -3081,6 +3081,92 @@
 			<released>2007</released>
 		</composition>
 	</composer>
+	<composer name="Adrian" surname="Moore" born="1969" died="">
+		<composition>
+			<name>Sieve</name>
+			<description>Traces</description>
+			<length>13:14</length>
+			<composed start="1994" end="1995"/>
+			<recorded start="1995"/>
+			<release>empreintes DIGITALes IMED 0053</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Junky</name>
+			<description>Traces</description>
+			<length>12:13</length>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>empreintes DIGITALes IMED 0053</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Dreamarena</name>
+			<description>Traces</description>
+			<length>13:13</length>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>empreintes DIGITALes IMED 0053</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Study in Ink</name>
+			<description>Traces</description>
+			<length>10:22</length>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>empreintes DIGITALes IMED 0053</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Foil-Counterfoil</name>
+			<description>Traces</description>
+			<length>12:20</length>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>empreintes DIGITALes IMED 0053</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Sea of Singularity</name>
+			<description>R&ecirc;ve de l'aube</description>
+			<length>31:48</length>
+			<composed start="2001" end="2003"/>
+			<recorded start="2003"/>
+			<release>empreintes DIGITALes IMED 0684</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Dreaming of the Dawn</name>
+			<description>R&ecirc;ve de l'aube</description>
+			<length>14:01</length>
+			<composed start="2004"/>
+			<recorded start="2004"/>
+			<release>empreintes DIGITALes IMED 0684</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Power Tools</name>
+			<description>R&ecirc;ve de l'aube</description>
+			<length>14:25</length>
+			<composed start="2004"/>
+			<recorded start="2004"/>
+			<release>empreintes DIGITALes IMED 0684</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Piano Piece (for Peter)</name>
+			<description>R&ecirc;ve de l'aube</description>
+			<length>7:19</length>
+			<instrument name="piano">
+				<player name="Peter Hill"/>
+			</instrument>
+			<composed start="2004"/>
+			<recorded start="2004"/>
+			<release>empreintes DIGITALes IMED 0684</release>
+			<released>2006</released>
+		</composition>
+	</composer>
 	<composer name="Isabel" surname="Mundry" born="1963" died="">
 		<composition>
 			<name>Gesichter</name>

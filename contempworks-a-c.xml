@@ -29,6 +29,83 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Mathew" surname="Adkins" born="1972" died="">
+		<composition>
+			<name>Melt</name>
+			<description>Mondes inconnus</description>
+			<length>11:41</length>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Mapping</name>
+			<description>Mondes inconnus</description>
+			<length>14:19</length>
+			<composed start="1995" end="1997"/>
+			<recorded start="1997"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Deepfield</name>
+			<description>Mondes inconnus</description>
+			<length>12:22</length>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Still Time</name>
+			<description>Mondes inconnus</description>
+			<length>8:52</length>
+			<instrument name="flute">
+				<player name="Alejandro Escuer"/>
+			</instrument>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Aerial</name>
+			<description>Mondes inconnus</description>
+			<length>9:40</length>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Symbiont</name>
+			<description>Mondes inconnus</description>
+			<length>9:01</length>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Cortex</name>
+			<description>Mondes inconnus</description>
+			<length>9:05</length>
+			<composed start="2004" end="2005"/>
+			<recorded start="2005"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Silk to Steel</name>
+			<description>Mondes inconnus</description>
+			<length>10:36</length>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+	</composer>
 	<composer name="Pedro" surname="Amaral" born="1972" died="">
 		<composition>
 			<name>...Textos, Par&aacute;frases, Perspectivas...</name>

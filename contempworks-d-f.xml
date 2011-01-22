@@ -181,108 +181,308 @@
 	<composer name="Francis" surname="Dhomont" born="1926" died="">
 		<composition>
 			<name>Sous le regard d'un soleil noir</name>
-			<description>Cycle des profondeurs, 1</description>
+			<description>Cycle des profondeurs</description>
 			<length>51:35</length>
 			<player name="Facult&eacute; de Musique, Universit&eacute; de Montr&eacute;al/Private studio of the composer"/>
 			<composed start="1979" end="1981"/>
-			<recorded start="?"/>
-			<release>empreintes DIGITALes/INA.GRM</release>
+			<recorded start="1981"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9633</release>
 			<released>1996</released>
 		</composition>
 		<composition>
 			<name>Points de fuite</name>
 			<description>Mouvances-M&eacute;taphores</description>
-			<description>1. Cycle de l'errance</description>
+			<description>Cycle de l'errance</description>
 			<length>12:21</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1982"/>
 			<recorded start="1982"/>
-			<release>empreintes DIGITALes/INA.GRM</release>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
 			<released>1991</released>
 		</composition>
 		<composition>
 			<name>...mourir un peu</name>
 			<description>Mouvances-M&eacute;taphores</description>
-			<description>1. Cycle de l'errance</description>
+			<description>Cycle de l'errance</description>
 			<length>44:52</length>
 			<player name="Groupe de Musique Exp&eacute;rimentale de Marseille/Private studio of the composer"/>
 			<composed start="1984"/>
 			<recorded start="1984"/>
-			<release>empreintes DIGITALes/INA.GRM</release>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
 			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Dr&ocirc;les d'oiseaux</name>
+			<description>Jalons</description>
+			<length>14:51</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1985" end="2001"/>
+			<recorded start="2001"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>Sign&eacute; Dionysos</name>
 			<description>Mouvances-M&eacute;taphores</description>
-			<description>2. Les d&eacute;rives du signe</description>
+			<description>Les d&eacute;rives du signe</description>
 			<length>28:22</length>
 			<player name="INA.GRM/Private studio of the composer"/>
 			<composed start="1986" end="1991"/>
 			<recorded start="1991"/>
-			<release>empreintes DIGITALes/INA.GRM</release>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
 			<released>1991</released>
 		</composition>
 		<composition>
 			<name>Chiaroscuro</name>
 			<description>Mouvances-M&eacute;taphores</description>
-			<description>2. Les d&eacute;rives du signe</description>
+			<description>Les d&eacute;rives du signe</description>
 			<length>17:30</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1987"/>
 			<recorded start="1987"/>
-			<release>empreintes DIGITALes/INA.GRM</release>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
 			<released>1991</released>
 		</composition>
 		<composition>
 			<name>M&eacute;t&eacute;ores</name>
 			<description>Mouvances-M&eacute;taphores</description>
-			<description>2. Les d&eacute;rives du signe</description>
+			<description>Les d&eacute;rives du signe</description>
 			<length>12:43</length>
 			<player name="INA.GRM/Private studio of the composer"/>
 			<composed start="1989"/>
 			<recorded start="1989"/>
-			<release>empreintes DIGITALes/INA.GRM</release>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
 			<released>1991</released>
 		</composition>
 		<composition>
 			<name>Novars</name>
 			<description>Mouvances-M&eacute;taphores</description>
-			<description>2. Les d&eacute;rives du signe</description>
+			<description>Les d&eacute;rives du signe</description>
 			<length>19:07</length>
 			<player name="INA.GRM/Private studio of the composer"/>
 			<composed start="1989"/>
 			<recorded start="1989"/>
-			<release>empreintes DIGITALes/INA.GRM</release>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
 			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Novars</name>
+			<description>Cycle du son</description>
+			<length>19:06</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>empreintes DIGITALes IMED 0158</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>Espace/Escape</name>
 			<description>Mouvances-M&eacute;taphores</description>
-			<description>1. Cycle de l'errance</description>
+			<description>Cycle de l'errance</description>
 			<length>19:24</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1989"/>
 			<recorded start="1989"/>
-			<release>empreintes DIGITALes/INA.GRM</release>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
 			<released>1991</released>
 		</composition>
 		<composition>
+			<name>Chroniques de la lumi&egrave;re</name>
+			<description>...et autres utopies</description>
+			<length>29:12</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1989" end="2005"/>
+			<recorded start="2005"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>L'&eacute;lectro</name>
+			<description>Jalons</description>
+			<length>1:06</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1990"/>
+			<recorded start="1990"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Studio de nuit</name>
+			<description>Jalons</description>
+			<length>3:00</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1992"/>
+			<recorded start="1992"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>For&ecirc;t profonde</name>
-			<description>Cycle des profondeurs, 2</description>
+			<description>Cycle des profondeurs</description>
 			<length>58:32</length>
 			<player name="INA-GRM, Studio Syter/Private studio of the composer"/>
 			<composed start="1994" end="1996"/>
-			<recorded start="?"/>
-			<release>empreintes DIGITALes/INA.GRM</release>
+			<recorded start="1996"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9634</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Lettre de Sarajevo</name>
+			<description>Jalons</description>
+			<length>14:38</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1995" end="1996"/>
+			<recorded start="1996"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>Frankenstein Symphony</name>
 			<length>1:03:49</length>
 			<composed start="1996"/>
-			<recorded start="?"/>
+			<recorded start="1996"/>
 			<release>Asphodel 0978</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Objets retrouv&eacute;s</name>
+			<description>Cycle du son</description>
+			<length>5:20</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>empreintes DIGITALes IMED 0158</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>AvatArsSon</name>
+			<description>Cycle du son</description>
+			<length>18:11</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>empreintes DIGITALes IMED 0158</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Phonurgie</name>
+			<description>Cycle du son</description>
+			<length>12:43</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>empreintes DIGITALes IMED 0158</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>En cuerdas</name>
+			<description>Jalons</description>
+			<length>11:25</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Je te salue, vieil oc&eacute;an!</name>
+			<description>...et autres utopies</description>
+			<length>14:54</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1998" end="2004"/>
+			<recorded start="2004"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Les moirures du temps</name>
+			<description>Jalons</description>
+			<length>15:24</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1999" end="2000"/>
+			<recorded start="2000"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Un autre Printemps</name>
+			<description>Jalons</description>
+			<length>6:09</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Vol d'Arondes</name>
+			<description>Jalons</description>
+			<length>11:25</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1999" end="2001"/>
+			<recorded start="2001"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Corps et &acirc;me</name>
+			<description>...et autres utopies</description>
+			<length>7:40</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2001" end="2002"/>
+			<recorded start="2002"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Here and There</name>
+			<description>...et autres utopies</description>
+			<length>10:09</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2003"/>
+			<recorded start="2003"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Voyage-miroir</name>
+			<description>...et autres utopies</description>
+			<length>14:55</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2004"/>
+			<recorded start="2004"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Brief an den Vater</name>
+			<description>&Eacute;tudes pour Kafka</description>
+			<length>17:02</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2005" end="2006"/>
+			<recorded start="2006"/>
+			<release>empreintes DIGITALes IMED 09192</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Premi&egrave;res traces du Choucas</name>
+			<description>&Eacute;tudes pour Kafka</description>
+			<length>15:00</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>empreintes DIGITALes IMED 09192</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>&Agrave; propos de K</name>
+			<description>&Eacute;tudes pour Kafka</description>
+			<length>21:37</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>empreintes DIGITALes IMED 09192</release>
+			<released>2009</released>
 		</composition>
 	</composer>
 	<composer name="James" surname="Dillon" born="1950" died="">
