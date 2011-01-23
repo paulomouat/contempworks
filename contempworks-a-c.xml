@@ -217,6 +217,36 @@
 			<released/>
 		</composition>
 	</composer>
+	<composer name="Ram&oacute;n" surname="Gonzales-Arroyo" born="" died="">
+		<composition>
+			<name>De la distance</name>
+			<description>pour contrebasse et bande magn&eacute;tique</description>
+			<length>6:01</length>
+			<instrument name="contrebasse">
+				<player name="Jean-Pierre Robert"/>
+			</instrument>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Philippe" surname="Arthuys" born="1928" died="">
+		<composition>
+			<name>Bo&icirc;te &agrave; musique</name>
+			<length>2:55</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="1955"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Milton" surname="Babbitt" born="1916" died="">
 		<composition>
 			<name>Philomel</name>
@@ -243,6 +273,32 @@
 			<recorded start="?"/>
 			<release>Neuma 450-74</release>
 			<released>1990</released>
+		</composition>
+	</composer>
+	<composer name="Claude" surname="Ballif" born="1924" died="2004">
+		<composition>
+			<name>Points-Mouvements</name>
+			<length>10:08</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Jean" surname="Barraqu&eacute;" born="1928" died="1973">
+		<composition>
+			<name>&Eacute;tude</name>
+			<length>5:02</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1951" end="1954"/>
+			<recorded start="1954"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="B&eacute;la" surname="Bart&oacute;k" born="1881" died="1945">
@@ -383,6 +439,19 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>It</name>
+			<description>Extrait du chapitre 3 de &quot;L'exp&eacute;rience acoustique&quot;</description>
+			<description>(avec Robert Wyatt)</description>
+			<length>3:38</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1972"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Vibrations Compos&eacute;es</name>
 			<length>35:58</length>
 			<player name="INA-GRM, Paris"/>
@@ -455,6 +524,17 @@
 			<recorded start="1979"/>
 			<release>Magison MGCB e102</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Eros bleu</name>
+			<length>7:40</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1979"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Son Vitesse-Lumi&egrave;re</name>
@@ -543,6 +623,17 @@
 			<composed start="1989" end="2004"/>
 			<recorded start="2004"/>
 			<release>M10 275972</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Mimam&eacute;ta</name>
+			<length>6:36</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>INA C 1034</release>
 			<released>2004</released>
 		</composition>
 		<composition>
@@ -1150,6 +1241,19 @@
 			<released>?</released>
 		</composition>
 	</composer>
+	<composer name="Andr&eacute;" surname="Boucourechliev" born="1925" died="1997">
+		<composition>
+			<name>Texte 2</name>
+			<length>4:36</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="1959"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Pierre" surname="Boulez" born="1925" died="">
 		<composition>
 			<name>Notations</name>
@@ -1316,6 +1420,28 @@
 			<recorded start="1951"/>
 			<release>Col Legno CD1 31908</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>&Eacute;tude I</name>
+			<length>2:25</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1951"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>&Eacute;tude II</name>
+			<length>2:41</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1951"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
 		</composition>
 		<composition score="Y">
 			<name>Le marteau sans ma&icirc;tre</name>
@@ -2113,7 +2239,9 @@
 		<composition>
 			<name>Anepigraphe</name>
 			<length>7:42</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1958"/>
 			<recorded start="1958"/>
 			<release>BVHaast 9106</release>
@@ -2122,6 +2250,9 @@
 		<composition>
 			<name>Wayfaring Sounds</name>
 			<length>4:05</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1961"/>
 			<recorded start="1961"/>
 			<release>Siemens</release>
@@ -2255,8 +2386,14 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Imaginary Landscape</name>
+			<name>Imaginary Landscape No. 3</name>
 			<description>(with Mauricio Kagel)</description>
+			<description>Sechs Schlagzeuger, elektronische Kl&auml;nge</description>
+			<player name="K&ouml;lner Ensemble f&uuml;r Neue Musik"/>
+			<conductor>Mauricio Kagel</conductor>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<length>3:34</length>
 			<composed start="1942"/>
 			<recorded start="1942"/>
@@ -3020,6 +3157,9 @@
 			<name>Klangexperimente</name>
 			<description>(with David Tudor)</description>
 			<length>1:48</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1963"/>
 			<recorded start="1963"/>
 			<release>Siemens</release>
@@ -3626,6 +3766,25 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Edgardo" surname="Canton" born="" died="">
+		<composition>
+			<name>Rengaine &agrave; pleurer (extrait)</name>
+			<length>2:51</length>
+			<instrument name="Texte">
+				<player name="Jean Tardieu"/>
+			</instrument>
+			<instrument name="Chant">
+				<player name="Mouloudji"/>
+			</instrument>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Cornelius" surname="Cardew" born="1936" died="1981">
 		<composition>
 			<name>Treatise</name>
@@ -4045,6 +4204,19 @@
 			<recorded start="1994"/>
 			<release>Tall Poppies TP139</release>
 			<released>2000</released>
+		</composition>
+	</composer>
+	<composer name="Philippe" surname="Carson" born="1936" died="1972">
+		<composition>
+			<name>Phonologie</name>
+			<length>6:53</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Niccol&ograve;" surname="Castiglioni" born="1932" died="">
@@ -4515,6 +4687,17 @@
 		</composition>
 	</composer>
 	<composer name="Robert" surname="Cohen-Solal" born="" died="">
+		<composition>
+			<name>Les Shadoks (version concert)</name>
+			<length>7:58</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1968"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
 		<composition>
 			<name>D&eacute;licieuse Catastrophe</name>
 			<length>11:41</length>

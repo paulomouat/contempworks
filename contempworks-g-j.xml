@@ -14,6 +14,19 @@
 			<released>1991</released>
 		</composition>
 	</composer>
+	<composer name="Yann" surname="Geslin" born="1953" died="">
+		<composition>
+			<name>Variations didactiques, 2eme mouvement</name>
+			<length>5:04</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1981" end="1982"/>
+			<recorded start="1982"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Philip" surname="Glass" born="1937" died="">
 		<composition>
 			<name>Strung out</name>
@@ -420,7 +433,9 @@
 		<composition>
 			<name>Komposition Nr. 5</name>
 			<length>2:32</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1953"/>
 			<recorded start="1953"/>
 			<release>BVHaast 9106</release>
@@ -440,7 +455,9 @@
 		<composition>
 			<name>Komposition Nr. 7</name>
 			<length>1:29</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1955"/>
 			<recorded start="1955"/>
 			<release>BVHaast 9106</release>
@@ -461,7 +478,9 @@
 		<composition>
 			<name>Formanten I-II</name>
 			<length>4:32</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1954"/>
 			<recorded start="1954"/>
 			<release>BVHaast 9106</release>
@@ -904,7 +923,9 @@
 		<composition>
 			<name>Doppelrohr II</name>
 			<length>3:55</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1956"/>
 			<recorded start="1956"/>
 			<release>BVHaast 9106</release>
@@ -1035,6 +1056,17 @@
 			<recorded start="1996"/>
 			<release>hat[now]ART 114</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>L'amen de verre</name>
+			<length>4:46</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="1957"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Liaisons</name>
@@ -1388,6 +1420,19 @@
 			<recorded start="1976" end="77"/>
 			<release>Erdenklang 81032</release>
 			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Andr&eacute; Hodeir" born="1921" died="">
+		<composition>
+			<name>Jazz et jazz</name>
+			<length>3:02</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1951"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="York" surname="H&ouml;ller" born="1944" died="">

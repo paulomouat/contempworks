@@ -2,6 +2,19 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+	<composer name="Akira" surname="Tamba" born="1932" died="">
+		<composition>
+			<name>&Eacute;tude no. 2</name>
+			<length>3:28</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="James" surname="Tenney" born="1934" died="2006">
 		<composition>
 			<name>Poem</name>
@@ -114,12 +127,23 @@
 	</composer>
 	<composer name="Daniel" surname="Teruggi" born="1952" died="">
 		<composition>
+			<name>Instants d'hiver (extrait)</name>
+			<length>7:11</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Gestes de l'&eacute;crit</name>
 			<description>for UPIC</description>
 			<length>11:00</length>
 			<player name="Les Ateliers UPIC, Paris"/>
 			<composed start="1994"/>
-			<recorded start=""/>
+			<recorded start="1994"/>
 			<release>Mode 98/99</release>
 			<released>2001</released>
 		</composition>
@@ -129,7 +153,7 @@
 			<length>22:18</length>
 			<player name="INA/GRM, Paris"/>
 			<composed start="1995"/>
-			<recorded start=""/>
+			<recorded start="1995"/>
 			<release>Agon PV725003</release>
 			<released>1997</released>
 		</composition>
@@ -218,6 +242,19 @@
 			<recorded start="1971"/>
 			<release>CRI CD611</release>
 			<released>1991</released>
+		</composition>
+	</composer>
+	<composer name="Horacio" surname="Vaggione" born="1943" end="">
+		<composition>
+			<name>Ash</name>
+			<length>7:34</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1989" end="1990"/>
+			<recorded start="1990"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Edgar" surname="Var&egrave;se" born="1883" died="1965">
@@ -492,6 +529,17 @@
 			<recorded start="1997"/>
 			<release>Decca 289 460 208-2</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>D&eacute;serts, Interpolation 1</name>
+			<length>3:00</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="1954"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Po&egrave;me &eacute;lectronique</name>

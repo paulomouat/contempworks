@@ -1543,6 +1543,20 @@
 	</composer>
 	<composer name="Bernard" surname="Parmegiani" born="1927" died="">
 		<composition>
+			<name>L'alcool tue</name>
+			<length>4:13</length>
+			<instrument name="voix">
+				<player name="Boris Vian"/>
+			</instrument>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Violostries</name>
 			<length>16:40</length>
 			<instrument name="Violon">
@@ -1598,6 +1612,39 @@
 			<recorded start="1971"/>
 			<release>INA/GRM INA C 1012/1013</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Indicatif Roissy</name>
+			<length>0:07</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Indicatif France Culture</name>
+			<length>1:14</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>La roue Ferris</name>
+			<length>10:48</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>L'&eacute;cran Transparent</name>
@@ -1671,6 +1718,17 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Indicatif &quot;Stade 2&quot;</name>
+			<length>0:26</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Dedans-Dehors</name>
 			<length>22:24</length>
 			<player name="INA/GRM"/>
@@ -1687,6 +1745,17 @@
 			<recorded start="1986"/>
 			<release>INA/GRM INA C 1012/1013</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Exercisme 3 (extrait)</name>
+			<length>6:28</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Rouge-Mort: Thanatos</name>
@@ -1763,6 +1832,19 @@
 			<recorded start="1992" end="2006"/>
 			<release>INA/GRM INA C 2027</release>
 			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Ake" surname="Parmerud" born="1953" died="">
+		<composition>
+			<name>Les objets obscurs (extrait)</name>
+			<length>5:03</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Arvo" surname="P&auml;rt" born="1935" died="">
@@ -2256,9 +2338,23 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Michel" surname="Philippot" born="1925" died="1996">
+		<composition>
+			<name>&Eacute;tude no. 1</name>
+			<length>5:14</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Paul" surname="P&ouml;rtner" born="1925" died="1984">
 		<composition>
-			<name>Schallspielstudie</name>
+			<name>Schallspielstudie 2</name>
+			<description>Stimmen, elektronische ver&auml;nderte Stimmen (Vier Ausschnitte)</description>
 			<length>2:03</length>
 			<part>
 				<number>1</number>
@@ -2280,6 +2376,9 @@
 				<name>Beispiel 4</name>
 				<length>0:43</length>
 			</part>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1965"/>
 			<recorded start="1965"/>
 			<release>Siemens</release>
@@ -2313,8 +2412,11 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Ziele und Aussichten ...</name>
+			<name>Ziele und Aussichten der elektronischen Musik Vortrag mit Klangbeispielen/Ausschnitt</name>
 			<length>1:27</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="?"/>
 			<recorded start="?"/>
 			<release>Siemens</release>
@@ -2323,7 +2425,9 @@
 		<composition>
 			<name>Seismogramme I-II</name>
 			<length>6:18</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1955"/>
 			<recorded start="1955"/>
 			<release>BVHaast 9106</release>

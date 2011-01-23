@@ -2,6 +2,32 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+	<composer name="Gilles" surname="Racot" born="1951" died="">
+		<composition>
+			<name>Anamorph&eacute;es</name>
+			<length>7:21</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1984" end="1985"/>
+			<recorded start="1985"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Subgestuel</name>
+			<description>pour six percussions et support magn&eacute;tique</description>
+			<length>5:23</length>
+			<player name="Les Percussions de Strasbourg"/>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Jo&atilde;o" surname="Rafael" born="1960" died="">
 		<composition>
 			<name>Octeto II</name>
@@ -152,6 +178,32 @@
 			<released>1996</released>
 		</composition>
 	</composer>
+	<composer name="Michel" surname="Redolfi" born="1951" died="">
+		<composition>
+			<name>Appel d'air</name>
+			<length>3:40</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Guy" surname="Reibel" born="1936" died="">
+		<composition>
+			<name>Canon sur une trompe africaine</name>
+			<length>2:57</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Steve" surname="Reich" born="1936" died="">
 		<composition>
 			<name>Four Organs</name>
@@ -292,6 +344,9 @@
 				<name>Nr. 62/2</name>
 				<length>5:43</length>
 			</part>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="?"/>
 			<recorded start="?"/>
 			<release>Siemens</release>
@@ -299,7 +354,12 @@
 		</composition>
 		<composition>
 			<name>Un chien andalu</name>
+			<description>Elektroakustische Musik zum Stummfilm &quot;Un chien andalu&quot; von Salvator Dali und Luis Bunuel</description>
+			<description>Ausschnitt aus Studie 59/I</description>
 			<length>5:56</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1959" end="1975"/>
 			<recorded start="1975"/>
 			<release>Siemens</release>
@@ -307,7 +367,11 @@
 		</composition>
 		<composition>
 			<name>Sendezeichen</name>
+			<description>Vier Kl&auml;nge</description>
 			<length>0:42</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1962"/>
 			<recorded start="1962"/>
 			<release>Siemens</release>
@@ -316,6 +380,9 @@
 		<composition>
 			<name>Titelmusik</name>
 			<length>0:45</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1962"/>
 			<recorded start="1962"/>
 			<release>Siemens</release>
@@ -323,7 +390,17 @@
 		</composition>
 		<composition>
 			<name>Komposition Nr. 2</name>
+			<description>Musik der VariaVision &quot;Unendliche Fahrt&quot;</description>
 			<length>7:11</length>
+			<instrument name="Regie">
+				<player name="Edgar Reitz"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Alexander Kluge"/>
+			</instrument>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1962" end="1965"/>
 			<recorded start="1965"/>
 			<release>Siemens</release>
@@ -331,6 +408,8 @@
 		</composition>
 		<composition>
 			<name>Leonce und Lena</name>
+			<description>(von Georg B&uuml;chner)</description>
+			<description>Sprache, Instrumentalkl&auml;nge, elektronische ver&auml;nderte Sprache, elektronische ver&auml;nderte Instrumentalkl&auml;nge (Zwei St&uuml;cke)</description>
 			<length>2:15</length>
 			<part>
 				<number>1</number>
@@ -342,6 +421,13 @@
 				<name>Nr. 1</name>
 				<length>0:30</length>
 			</part>
+			<player name="M&uuml;ncher Kammerspiele"/>
+			<instrument name="Inszenierung">
+				<player name="Fritz Kortner"/>
+			</instrument>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1963"/>
 			<recorded start="1963"/>
 			<release>Siemens</release>
@@ -349,7 +435,11 @@
 		</composition>
 		<composition>
 			<name>Komposition Nr. 3</name>
+			<description>Elektronische und konkrete Kl&auml;nge, Fran&ccedil;ois Bayle, Alfred Feussner u.a., Stimme</description>
 			<length>6:50</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1965" end="1967"/>
 			<recorded start="1967"/>
 			<release>Siemens</release>
@@ -1599,6 +1689,17 @@
 	</composer>
 	<composer name="Jean-Claude" surname="Risset" born="1938" died="">
 		<composition>
+			<name>Sud</name>
+			<length>5:51</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Saxatile</name>
 			<description>for soprano saxophone and UPIC</description>
 			<length>7:45</length>
@@ -1607,7 +1708,7 @@
 			</instrument>
 			<player name="Les Ateliers UPIC, Paris"/>
 			<composed start="1992"/>
-			<recorded start=""/>
+			<recorded start="1992"/>
 			<release>Mode 98/99</release>
 			<released>2001</released>
 		</composition>
@@ -1766,6 +1867,19 @@
 			<recorded start="1999"/>
 			<release>Etcetera KTC1242</release>
 			<released>2001</released>
+		</composition>
+	</composer>
+	<composer name="Monique" surname="Rollin" born="1927" died="2002">
+		<composition>
+			<name>&Eacute;tude vocale</name>
+			<length>1:12</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Germ&aacute;n" surname="Romero" born="1966" died="">
@@ -2089,6 +2203,69 @@
 			<recorded start=""/>
 			<release>Finlandia FACD 367</release>
 			<released/>
+		</composition>
+	</composer>
+	<composer name="Henri" surname="Sauguet" born="1901" died="1989">
+		<composition>
+			<name>Aspect sentimental</name>
+			<length>7:08</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="1957"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Alain" surname="Savouret" born="1942" died="">
+		<composition>
+			<name>&Eacute;tude aux sons r&eacute;alistes</name>
+			<length>4:09</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Valse molle</name>
+			<length>10:14</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>&Eacute;tude num&eacute;rique</name>
+			<length>6:37</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="1985"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>La complainte du bossu&eacute; (extrait)</name>
+			<description>pour contrebasse, voix de contrebassiste et traitements en temps r&eacute;el</description>
+			<length>9:36</length>
+			<instrument name="contrebasse">
+				<player name="Fr&eacute;d&eacute;ric Stohl"/>
+			</instrument>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Giacinto" surname="Scelsi" born="1905" died="1988">
@@ -2804,7 +2981,7 @@
 			<released>2006</released>
 		</composition>
 	</composer>
-	<composer name="Pierre" surname="Schaeffer" born="1910" died="">
+	<composer name="Pierre" surname="Schaeffer" born="1910" died="1995">
 		<composition>
 			<name>5 &eacute;tudes de Bruits</name>
 			<length>16:12</length>
@@ -2838,6 +3015,17 @@
 			<recorded start="1948"/>
 			<release>Adda 387/INA C 1006-1009</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>&Eacute;tude path&eacute;etique</name>
+			<length>4:05</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1948"/>
+			<recorded start="1948"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>4 &eacute;tudes de Bruits</name>
@@ -3097,7 +3285,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>&eacute;tude aux allures</name>
+			<name>&Eacute;tude aux allures</name>
 			<length>3:28</length>
 			<player name="GRM, Paris"/>
 			<composed start="1958" end="1971"/>
@@ -3106,7 +3294,18 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>&eacute;tude aux sons anim&eacute;s</name>
+			<name>&Eacute;tude aux allures</name>
+			<length>3:31</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1948"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>&Eacute;tude aux sons anim&eacute;s</name>
 			<length>4:12</length>
 			<player name="GRM, Paris"/>
 			<composed start="1958" end="1971"/>
@@ -3115,7 +3314,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>&eacute;tude aux objets</name>
+			<name>&Eacute;tude aux objets</name>
 			<length>17:10</length>
 			<part>
 				<number>1</number>
@@ -3147,6 +3346,17 @@
 			<recorded start="1971"/>
 			<release>Adda 387/INA C 1006-1009</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>&Eacute;tude aux objets, 1er mouvement</name>
+			<length>3:37</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="1959"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Le tri&egrave;dre fertile</name>
@@ -3269,7 +3479,12 @@
 		</composition>
 		<composition>
 			<name>KI-NO</name>
+			<description>Nachtmusik f&uuml;r Projektoren und H&ouml;rer</description>
+			<description>Konkrete Kl&auml;nge und Ger&auml;usche Klangreihung von Josef Anton Riedl</description>
 			<length>6:26</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1963" end="1967"/>
 			<recorded start="1967"/>
 			<release>Siemens</release>
@@ -3517,6 +3732,56 @@
 			<recorded start=""/>
 			<release>Wergo WER 2023-50</release>
 			<released>1989</released>
+		</composition>
+	</composer>
+	<composer name="Jean" surname="Schwarz" born="1939" died="">
+		<composition>
+			<name>Il &eacute;tait une fois</name>
+			<description>pour Carolyn Carson</description>
+			<length>7:41</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Sonal France Culture</name>
+			<length>0:17</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1982"/>
+			<recorded start="1982"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Quatre saisons (Hiver)</name>
+			<length>5:45</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="1983"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Chantakoa</name>
+			<length>4:51</length>
+			<instrument name="clarinette basse">
+				<player name="Michel Portal"/>
+			</instrument>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Salvatore" surname="Sciarrino" born="1947" died="">
@@ -4440,10 +4705,21 @@
 			<name>Wind Chimes</name>
 			<length>15:18</length>
 			<player name="INA.GRM, Paris/University of East Anglia, England"/>
-			<composed start=""/>
-			<recorded start=""/>
+			<composed start="1987"/>
+			<recorded start="1987"/>
 			<release>Wergo WER 2025-2</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Wind Chimes</name>
+			<length>6:47</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Pril" surname="Smiley" born="1943" died="">

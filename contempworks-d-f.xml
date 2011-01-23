@@ -276,6 +276,17 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Novars (extrait)</name>
+			<length>6:50</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Espace/Escape</name>
 			<description>Mouvances-M&eacute;taphores</description>
 			<description>Cycle de l'errance</description>
@@ -803,6 +814,25 @@
 	</composer>
 	<composer name="Denis" surname="Dufour" born="1953" died="">
 		<composition>
+			<name>Pli de perversion 2</name>
+			<description>pour trio instrumental &eacute;lectroacoustique</description>
+			<length>7:12</length>
+			<instrument name="synth&eacute;tiseurs">
+				<player name="Yann Geslin"/>
+				<player name="Denis Dufour"/>
+			</instrument>
+			<instrument name="violon">
+				<player name="Laurent Cuniot"/>
+			</instrument>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Chrysalide</name>
 			<length>28:45</length>
 			<part>
@@ -906,7 +936,9 @@
 			<name>Klang im unbegrenzten Raum</name>
 			<description>mit Robert Beyer</description>
 			<length>10:23</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1952"/>
 			<recorded start="1952"/>
 			<release>BVHaast 9106</release>
@@ -915,7 +947,9 @@
 		<composition>
 			<name>Klangstudie I</name>
 			<length>3:50</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1952"/>
 			<recorded start="1952"/>
 			<release>BVHaast 9106</release>
@@ -925,7 +959,9 @@
 			<name>Klangstudie II</name>
 			<description>mit Robert Beyer</description>
 			<length>4:30</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1952"/>
 			<recorded start="1952"/>
 			<release>BVHaast 9106</release>
@@ -934,7 +970,9 @@
 		<composition>
 			<name>Glockenspiel</name>
 			<length>1:00</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1953"/>
 			<recorded start="1953"/>
 			<release>BVHaast 9106</release>
@@ -1098,7 +1136,9 @@
 		<composition>
 			<name>Incontri di fasce sonore</name>
 			<length>3:20</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1957"/>
 			<recorded start="1957"/>
 			<release>BVHaast 9106</release>
@@ -2726,10 +2766,43 @@
 	</composer>
 	<composer name="Luc" surname="Ferrari" born="1929" died="2005">
 		<composition>
+			<name>&Eacute;tude aux sons tendus</name>
+			<length>2:49</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>&Eacute;tude floue</name>
+			<length>2:18</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>&Eacute;tude aux accidents</name>
+			<length>2:15</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>H&eacute;t&eacute;rozygote</name>
 			<length>26:23</length>
 			<composed start="1963" end="1964"/>
-			<recorded start="?"/>
+			<recorded start="1964"/>
 			<release>BVHaast 9009</release>
 			<released>?</released>
 		</composition>
@@ -2737,7 +2810,7 @@
 			<name>Petite Symphonie Intuitive pour un paysage de printemps</name>
 			<length>25:13</length>
 			<composed start="1973" end="1974"/>
-			<recorded start="?"/>
+			<recorded start="1974"/>
 			<release>BVHaast 9009</release>
 			<released>?</released>
 		</composition>
@@ -2745,7 +2818,7 @@
 			<name>Strathoven</name>
 			<length>3:20</length>
 			<composed start="1987"/>
-			<recorded start="?"/>
+			<recorded start="1987"/>
 			<release>BVHaast 9009</release>
 			<released>?</released>
 		</composition>
@@ -2753,9 +2826,22 @@
 			<name>Presque rien avec filles</name>
 			<length>13:58</length>
 			<composed start="1989"/>
-			<recorded start="?"/>
+			<recorded start="1989"/>
 			<release>BVHaast 9009</release>
 			<released>?</released>
+		</composition>
+	</composer>
+	<composer name="Beatriz" surname="Ferreyra" born="1937" died="">
+		<composition>
+			<name>Mer d'Azov, &eacute;tude aux it&eacute;rations</name>
+			<length>3:36</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="1963"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Silvia" surname="F&oacute;mina" born="1962" died="">

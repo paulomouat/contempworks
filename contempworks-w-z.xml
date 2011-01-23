@@ -1551,7 +1551,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>F. Schubert: &quot;Deutsche Tanze&quot; Transcri&ccedil;&atilde;o para Orquestra de Anton Webern</name>
+			<name>F. Schubert: &quot;Deutsche Tanze&quot; transcription pour orchestre de Anton Webern</name>
 			<length>8:35</length>
 			<player name="Frankfurter Funkorchester"/>
 			<conductor>Anton Webern</conductor>
@@ -1660,6 +1660,17 @@
 			<recorded start="1958"/>
 			<release>INA/EMF</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Concret PH</name>
+			<length>2:39</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Syrmos</name>
@@ -2856,6 +2867,19 @@
 			<recorded start="1992"/>
 			<release>Col Legno WWE 3CD 31860</release>
 			<released>1993</released>
+		</composition>
+	</composer>
+	<composer name="Christian" surname="Zan&eacute;si" born="" died="">
+		<composition>
+			<name>Sonal &quot;voyageurs&quot; RATP</name>
+			<length>0:04</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Hans" surname="Zender" born="1936" died="">

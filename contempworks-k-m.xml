@@ -5,7 +5,11 @@
 	<composer name="Mauricio" surname="Kagel" born="1931" died="">
 		<composition>
 			<name>Antithese</name>
+			<description>Komposition f&uuml;r elektronische und &ouml;ffentliche Kl&auml;nge</description>
 			<length>9:24</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1962"/>
 			<recorded start="1962"/>
 			<release>Siemens</release>
@@ -79,7 +83,7 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>&eacute;tudes 1-3</name>
+			<name>&Eacute;tudes 1-3</name>
 			<description>f&uuml;r gro&szlig;es Orchester</description>
 			<length>25:58</length>
 			<part>
@@ -119,16 +123,32 @@
 		<composition>
 			<name>Eclipse</name>
 			<length>19:47</length>
-			<player name="CCRMA, Stanford University"/>
+			<instrument name="Electroacoustic realisation">
+				<player name="CCRMA, Stanford University"/>
+			</instrument>
 			<composed start="1986"/>
 			<recorded start="1986"/>
 			<release>Wergo WER 2023-50</release>
 			<released>1989</released>
 		</composition>
 	</composer>
+	<composer name="Dieter" surname="Kaufmann" born="1941" died="">
+		<composition>
+			<name>Voyage au paradis</name>
+			<length>3:56</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Milko" surname="Kelemen" born="1924" died="">
 		<composition>
 			<name>Judith</name>
+			<description>Orchesterkl&auml;nge, elektronisch ver&auml;nderte Orchesterkl&auml;nge, elektronische Kl&auml;nge (Zwei Ausschnitte)</description>
 			<length>2:58</length>
 			<part>
 				<number>1</number>
@@ -138,6 +158,11 @@
 				<number>2</number>
 				<length>0:53</length>
 			</part>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<conductor>Milko Kelemen</conductor>
 			<composed start="1966"/>
 			<recorded start="1966"/>
 			<release>Siemens</release>
@@ -148,7 +173,9 @@
 		<composition>
 			<name>Interferenzen</name>
 			<length>4:38</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1955"/>
 			<recorded start="1955"/>
 			<release>BVHaast 9106</release>
@@ -159,7 +186,9 @@
 		<composition>
 			<name>Klangfiguren I</name>
 			<length>4:00</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1955"/>
 			<recorded start="1955"/>
 			<release>BVHaast 9106</release>
@@ -168,7 +197,9 @@
 		<composition>
 			<name>Klangfiguren II</name>
 			<length>10:30</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1955" end="1956"/>
 			<recorded start="1956"/>
 			<release>BVHaast CD 9001/2</release>
@@ -354,7 +385,8 @@
 	</composer>
 	<composer name="Ferdinand" surname="Kriwet" born="1942" died="">
 		<composition>
-			<name>JAJA-H&ouml;rtext</name>
+			<name>JAJA - H&ouml;rtext 2</name>
+			<description>Stimmen, elektronische ver&auml;nderte Stimmen (Zwei Ausschnitte)</description>
 			<length>4:47</length>
 			<part>
 				<number>1</number>
@@ -364,6 +396,9 @@
 				<number>2</number>
 				<length>2:12</length>
 			</part>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
 			<composed start="1965"/>
 			<recorded start="1965"/>
 			<release>Siemens</release>
@@ -637,6 +672,19 @@
 			<recorded start="1993"/>
 			<release>Col Legno CD1 31905</release>
 			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Mireille" surname="Kyrou" born="" died="">
+		<composition>
+			<name>&Eacute;tude 1</name>
+			<length>5:13</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1960"/>
+			<recorded start="1960"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Helmut" surname="Lachenmann" born="1935" died="">
@@ -1569,7 +1617,9 @@
 		<composition>
 			<name>Glissandi</name>
 			<length>7:30</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1957"/>
 			<recorded start="1957"/>
 			<release>BVHaast 9106</release>
@@ -1588,7 +1638,9 @@
 		<composition>
 			<name>Artikulation</name>
 			<length>3:45</length>
-			<player name="WDR, K&ouml;ln"/>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
 			<composed start="1958"/>
 			<recorded start="1958"/>
 			<release>BVHaast 9106</release>
@@ -2412,6 +2464,17 @@
 	</composer>
 	<composer name="Fran&ccedil;ois-Bernard" surname="M&acirc;che" born="1935" died="">
 		<composition>
+			<name>Pr&eacute;lude</name>
+			<length>5:31</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="1959"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Korwar</name>
 			<length>14:49</length>
 			<instrument name="Harpsichord">
@@ -2758,6 +2821,43 @@
 			<released>1997</released>
 		</composition>
 	</composer>
+	<composer name="B&eacute;n&eacute;dict" surname="Maillard" born="" died="">
+		<composition>
+			<name>Affleurements</name>
+			<length>4:25</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1984" end="1985"/>
+			<recorded start="1985"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+	</composer> 
+	<composer name="Ivo" surname="Malec" born="1925" died="">
+		<composition>
+			<name>Reflets</name>
+			<length>2:34</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="1961"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Week-end</name>
+			<length>7:28</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="1992"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Philippe" surname="Manoury" born="1952" died="">
 		<composition>
 			<name>La Partition du ciel et de l'enfer</name>
@@ -2881,6 +2981,17 @@
 			<released>1979</released>
 		</composition>
 		<composition>
+			<name>Timbres-Dur&eacute;es</name>
+			<length>15:05</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>R&eacute;veil des Oiseaux</name>
 			<description>f&uuml;r Klavier und Orchester</description>
 			<length>21:11</length>
@@ -2889,10 +3000,23 @@
 			</instrument>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud</conductor>
-			<composed start="?"/>
+			<composed start="1953"/>
 			<recorded start="1953"/>
 			<release>Col Legno CD1 31911</release>
 			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Darius" surname="Milhaud" born="1892" died="1974">
+		<composition>
+			<name>La rivi&egrave;re endormie</name>
+			<length>7:35</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="1954"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Diego" surname="Minciacchi" born="1955" died="">
@@ -3086,6 +3210,9 @@
 			<name>Sieve</name>
 			<description>Traces</description>
 			<length>13:14</length>
+			<instrument name="Electroacoustic realisation">
+				<player name="Personal studio of Elizabeth Parker at the BBC Radiophonic Workshop"/>
+			</instrument>
 			<composed start="1994" end="1995"/>
 			<recorded start="1995"/>
 			<release>empreintes DIGITALes IMED 0053</release>
@@ -3095,6 +3222,9 @@
 			<name>Junky</name>
 			<description>Traces</description>
 			<length>12:13</length>
+			<instrument name="Electroacoustic realisation">
+				<player name="Electroacoustic Music Studios of the University of Birmingham"/>
+			</instrument>
 			<composed start="1996"/>
 			<recorded start="1996"/>
 			<release>empreintes DIGITALes IMED 0053</release>
@@ -3104,6 +3234,9 @@
 			<name>Dreamarena</name>
 			<description>Traces</description>
 			<length>13:13</length>
+			<instrument name="Electroacoustic realisation">
+				<player name="Electroacoustic Music Studios of the University of Birmingham"/>
+			</instrument>
 			<composed start="1996"/>
 			<recorded start="1996"/>
 			<release>empreintes DIGITALes IMED 0053</release>
@@ -3113,6 +3246,9 @@
 			<name>Study in Ink</name>
 			<description>Traces</description>
 			<length>10:22</length>
+			<instrument name="Electroacoustic realisation">
+				<player name="Electroacoustic Music Studios of the University of Birmingham"/>
+			</instrument>
 			<composed start="1997"/>
 			<recorded start="1997"/>
 			<release>empreintes DIGITALes IMED 0053</release>
@@ -3122,6 +3258,9 @@
 			<name>Foil-Counterfoil</name>
 			<description>Traces</description>
 			<length>12:20</length>
+			<instrument name="Electroacoustic realisation">
+				<player name="Electroacoustic Music Studios of the University of Birmingham"/>
+			</instrument>
 			<composed start="1997"/>
 			<recorded start="1997"/>
 			<release>empreintes DIGITALes IMED 0053</release>
@@ -3131,6 +3270,9 @@
 			<name>Sea of Singularity</name>
 			<description>R&ecirc;ve de l'aube</description>
 			<length>31:48</length>
+			<instrument name="Electroacoustic realisation">
+				<player name="University of Sheffield Sound Studios"/>
+			</instrument>
 			<composed start="2001" end="2003"/>
 			<recorded start="2003"/>
 			<release>empreintes DIGITALes IMED 0684</release>
@@ -3140,6 +3282,9 @@
 			<name>Dreaming of the Dawn</name>
 			<description>R&ecirc;ve de l'aube</description>
 			<length>14:01</length>
+			<instrument name="Electroacoustic realisation">
+				<player name="GRM, Paris"/>
+			</instrument>
 			<composed start="2004"/>
 			<recorded start="2004"/>
 			<release>empreintes DIGITALes IMED 0684</release>
@@ -3149,6 +3294,9 @@
 			<name>Power Tools</name>
 			<description>R&ecirc;ve de l'aube</description>
 			<length>14:25</length>
+			<instrument name="Electroacoustic realisation">
+				<player name="Private studio of the composer"/>
+			</instrument>
 			<composed start="2004"/>
 			<recorded start="2004"/>
 			<release>empreintes DIGITALes IMED 0684</release>
@@ -3160,6 +3308,9 @@
 			<length>7:19</length>
 			<instrument name="piano">
 				<player name="Peter Hill"/>
+			</instrument>
+			<instrument name="Electroacoustic realisation">
+				<player name="Private studio of the composer"/>
 			</instrument>
 			<composed start="2004"/>
 			<recorded start="2004"/>
