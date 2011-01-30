@@ -692,10 +692,50 @@
 			<length>15:48</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
-			<composed start="?"/>
+			<composed start="1970"/>
 			<recorded start="1970"/>
 			<release>Col Legno CD1 31901</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Scardanelli-Zyklus</name>
+			<description>auf texte von Friedrich H&ouml;lderlin</description>
+			<length>2:12:25</length>
+			<part>
+				<number>1</number>
+				<name>Die Jahreszeiten</name>
+				<description>dreimal vier Lieder f&uuml;r Chor a cappella</description>
+				<composed start="1975" end="1978"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>&Uuml;bungen zu Scardanelli</name>
+				<description>f&uuml;r kleines Orchester - Kommentare, Spiegel, Entgegnungen, Marginalien zu den Jahreszeiten</description>
+				<composed start="1975" end="1985"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>(T)air(e)</name>
+				<description>f&uuml;r Fl&ouml;te solo</description>
+				<composed start="1978" end="1983"/>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Turm-Musik</name>
+				<description>f&uuml;r Fl&ouml;te solo, kleines Orchester und Tonband</description>
+				<composed start="1984"/>
+			</part>
+			<instrument name="Fl&ouml;te">
+				<player name="Aur&egrave;le Nicolet"/>
+			</instrument>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Heinz Holliger</conductor>
+			<composed start="1975" end="1985"/>
+			<recorded start="1985" end="1986"/>
+			<release>Cadenza 800 898-900</release>
+			<released>1993</released>
 		</composition>
 	</composer>
 	<composer name="Toshio" surname="Hosokawa" born="1955" died="">

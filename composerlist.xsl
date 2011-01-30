@@ -178,6 +178,7 @@
 			<xsl:value-of select="name"/>
 		</i>
 		<xsl:text> </xsl:text>
+		<xsl:value-of select="description"/>
 		<xsl:apply-templates select="composed"/>
 		<xsl:value-of select="length"/>
 		<br/>

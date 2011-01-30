@@ -4,6 +4,22 @@
 <list>
 	<composer name="Mauricio" surname="Kagel" born="1931" died="">
 		<composition>
+			<name>Improvisation ajout&eacute;e</name>
+			<description>Musik f&uuml;r Orgel</description>
+			<length>12:11</length>
+			<instrument name="Orgel">
+				<player name="Friedemann Herz"/>
+			</instrument>
+			<instrument name="Registranten">
+				<player name="Regina Straten"/>
+				<player name="Stephan Sch&uuml;tze"/>
+			</instrument>
+			<composed start="1961" end="1962"/>
+			<recorded start="1996"/>
+			<release>Aulos AUL 66075</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Antithese</name>
 			<description>Komposition f&uuml;r elektronische und &ouml;ffentliche Kl&auml;nge</description>
 			<length>9:24</length>
@@ -34,6 +50,41 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Phantasie</name>
+			<description>f&uuml;r Orgel mit Obbligati</description>
+			<length>11:23</length>
+			<instrument name="Orgel">
+				<player name="Friedemann Herz"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1996"/>
+			<release>Aulos AUL 66075</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Atem</name>
+			<description>f&uuml;r einen Bl&auml;ser</description>
+			<length>10:31</length>
+			<instrument name="Posaune">
+				<player name="Vinko Globokar"/>
+			</instrument>
+			<composed start="1969" end="1970"/>
+			<recorded start="1996"/>
+			<release>Aulos AUL 66075</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Exotica</name>
+			<description>f&uuml;r au&szlig;ereurop&auml;ische Instrumente</description>
+			<length>37:31</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Mauricio Kagel</conductor>
+			<composed start="1970" end="1971"/>
+			<recorded start="1992"/>
+			<release>Aulos AUL 66099</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Zwei-Mann-Orchester</name>
 			<length>47:13</length>
 			<instrument name="Ein-Mann-Orchester">
@@ -47,6 +98,19 @@
 			<recorded start="1973"/>
 			<release>Col Legno CD1 31904</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Morceau de concours</name>
+			<description>f&uuml;r 2 Trompeter</description>
+			<length>10:08</length>
+			<instrument name="Trompete">
+				<player name="William Forman"/>
+				<player name="Michael Gross"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1996"/>
+			<release>Aulos AUL 66075</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>Vari&eacute;t&eacute;</name>

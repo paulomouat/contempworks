@@ -35,7 +35,7 @@
 >
 <!ELEMENT release (#PCDATA)>
 <!ELEMENT released (#PCDATA)>
-<!ELEMENT part (number | name | length | composed)*>
+<!ELEMENT part (number | name | length | description | composed)*>
 <!ELEMENT number (#PCDATA)>
 
 <!-- (C) International Organization for Standardization 1986
