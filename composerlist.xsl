@@ -5,13 +5,14 @@
 		<xsl:apply-templates select="list"/>
 	</xsl:template>
 	<xsl:template match="list">
-		<table>
-			<tr><td><span class="name_initial"><xsl:value-of select="$initial"/></span></td></tr>
+			<tr>
+				<td><span class="name_initial"><a name="{$initial}"><xsl:value-of select="$initial"/></a></span></td>
+				<td><span><a href="#top">back to top</a></span></td>
+			</tr>
 			<xsl:apply-templates select="composer">
 				<xsl:sort order="ascending" select="@surname"/>
 				<xsl:sort order="ascending" select="@name"/>
 			</xsl:apply-templates>
-		</table>
 	</xsl:template>
 	<xsl:template match="composer">
 		<tr>
@@ -127,6 +128,7 @@
 					</html>
 				</xsl:document>
 			</td>
+			<td></td>
 		</tr>
 	</xsl:template>
 	<xsl:template match="composition">
