@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Horacio" surname="Vaggione" born="1943" end="">
+		<composition>
+			<name>Ash</name>
+			<length>7:34</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1989" end="1990"/>
+			<recorded start="1990"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Edgar" surname="Var&egrave;se" born="1883" died="1965">
+		<composition>
+			<name>Un grand sommeil noir</name>
+			<description>original version</description>
+			<length>2:46</length>
+			<instrument name="Soprano">
+				<player name="Mireille Delunsch"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Fran&ccedil;ois Kerdoncuff"/>
+			</instrument>
+			<composed start="1906"/>
+			<recorded start="1998"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Un grand sommeil noir</name>
+			<description>orchestral version</description>
+			<length>4:08</length>
+			<instrument name="Soprano">
+				<player name="Mireille Delunsch"/>
+			</instrument>
+			<player name="Royal Concertgebouw Orchestra"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1906"/>
+			<recorded start="1998"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Am&eacute;riques</name>
+			<description>pour grande orchestre</description>
+			<length>24:38</length>
+			<player name="Royal Concertgebouw Orchestra"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1918" end="1921"/>
+			<recorded start="1996"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Am&eacute;riques</name>
+			<description>pour grande orchestre</description>
+			<length>24:13</length>
+			<player name="New York Philharmonic"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1918" end="1927"/>
+			<recorded start="1977"/>
+			<release>Sony SMK 45 844</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Am&eacute;riques</name>
+			<description>for large orchestra</description>
+			<length>23:53</length>
+			<player name="Carnegie Mellon Philharmonic"/>
+			<conductor>Juan Pablo Izquierdo</conductor>
+			<composed start="1918" end="1922"/>
+			<recorded start="1995"/>
+			<release>Mode 58</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Offrandes</name>
+			<length>6:49</length>
+			<instrument name="Soprano">
+				<player name="Mireille Delunsch"/>
+			</instrument>
+			<player name="ASKO Ensemble"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1921"/>
+			<recorded start="1996"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Offrandes</name>
+			<description>pour soprano et orchestre de chambre</description>
+			<length>6:40</length>
+			<instrument name="Soprano">
+				<player name="Rachel Yakar"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1921"/>
+			<recorded start="1984"/>
+			<release>Sony SMK 45 844</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Hyperprism</name>
+			<length>4:18</length>
+			<player name="ASKO Ensemble"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1922" end="1923"/>
+			<recorded start="1997"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Octandre</name>
+			<length>6:38</length>
+			<player name="ASKO Ensemble"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1923"/>
+			<recorded start="1997"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Octandre</name>
+			<description>pour fl&ucirc;te, clarinette, hautbois, basson, cor, trompette, trombone et contrebasse</description>
+			<length>6:40</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1923"/>
+			<recorded start="1984"/>
+			<release>Sony SMK 45 844</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Int&eacute;grales</name>
+			<length>10:18</length>
+			<player name="ASKO Ensemble"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1924"/>
+			<recorded start="1996"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Int&eacute;grales</name>
+			<description>pour petit orchestre et batterie</description>
+			<length>10:35</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1924"/>
+			<recorded start="1984"/>
+			<release>Sony SMK 45 844</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Int&eacute;grales</name>
+			<description>for small orchestra and 17 percussion instruments in 4 groups</description>
+			<length>7:06 (excerpt)</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1923" end="1925"/>
+			<recorded start="1987" end="1988"/>
+			<release>Montaigne 780518</release>
+			<released>1989-94</released>
+		</composition>
+		<composition>
+			<name>Arcana</name>
+			<length>18:22</length>
+			<player name="Royal Concertgebouw Orchestra"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1925" end="1927"/>
+			<recorded start="1992"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Arcana</name>
+			<description>pour grande orchestre</description>
+			<length>18:43</length>
+			<player name="New York Philharmonic"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1925" end="1927"/>
+			<recorded start="1977"/>
+			<release>Sony SMK 45 844</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Ionisation</name>
+			<length>5:51</length>
+			<player name="ASKO Ensemble"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1929" end="1931"/>
+			<recorded start="1997"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Ionisation</name>
+			<description>pour 13 percussionistes</description>
+			<length>5:58</length>
+			<player name="New York Philharmonic"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1930" end="1931"/>
+			<recorded start="1977"/>
+			<release>Sony SMK 45 844</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Ionisation</name>
+			<description>for 13 percussionists</description>
+			<length>5:51</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1929" end="1931"/>
+			<recorded start="1987" end="1988"/>
+			<release>Montaigne 780518</release>
+			<released>1989-94</released>
+		</composition>
+		<composition>
+			<name>Ecuatorial</name>
+			<length>11:27</length>
+			<instrument name="Bass">
+				<player name="Kevin Deas"/>
+			</instrument>
+			<player name="ASKO Ensemble"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1932" end="1934"/>
+			<recorded start="1977"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Densit&eacute; 21.5</name>
+			<length>4:05</length>
+			<instrument name="Flute">
+				<player name="Jacques Zoon"/>
+			</instrument>
+			<composed start="1936"/>
+			<recorded start="1997"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Densit&eacute; 21.5</name>
+			<description>pour fl&ucirc;te seule</description>
+			<length>4:12</length>
+			<instrument name="Flute">
+				<player name="Lawrence Beauregard"/>
+			</instrument>
+			<composed start="1936"/>
+			<recorded start="1984"/>
+			<release>Sony SMK 45 844</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Tuning Up</name>
+			<length>5:00</length>
+			<player name="Royal Concertgebouw Orchestra"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1947"/>
+			<recorded start="1998"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Dance for Burgess</name>
+			<length>1:48</length>
+			<player name="ASKO Ensemble"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1949"/>
+			<recorded start="1998"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>D&eacute;serts</name>
+			<description>for orchestra and tape</description>
+			<length>24:18</length>
+			<player name="ASKO Ensemble"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1950" end="1954"/>
+			<recorded start="1997"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>D&eacute;serts, Interpolation 1</name>
+			<length>3:00</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="1954"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Po&egrave;me &eacute;lectronique</name>
+			<length>8:02</length>
+			<composed start="1957" end="1958"/>
+			<recorded start="1958"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Po&egrave;me &eacute;lectronique</name>
+			<length>8:03</length>
+			<player name="Studio Philips, Eindhoven"/>
+			<composed start="1957" end="1958"/>
+			<recorded start="1958"/>
+			<release>Neuma 450-74</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Nocturnal</name>
+			<length>10:25</length>
+			<instrument name="Soprano">
+				<player name="Sarah Leonard"/>
+			</instrument>
+			<player name="Men of the Prague Philharmonic Choir"/>
+			<player name="Royal Concertgebouw Orchestra"/>
+			<conductor>Riccardo Chailly</conductor>
+			<composed start="1961"/>
+			<recorded start="1996"/>
+			<release>Decca 289 460 208-2</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Ant&oacute;nio Pinho" surname="Vargas" born="1951" died="">
+		<composition>
+			<name>Monodia - Quasi unrequiem</name>
+			<description>for string quartet</description>
+			<length>15:15</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1993"/>
+			<recorded start="1999"/>
+			<release>Etcetera KTC1242</release>
+			<released>2001</released>
+		</composition>
+	</composer>
+	<composer name="Peteris" surname="Vasks" born="1946" died="">
+		<composition>
+			<name>Cantabile per archi</name>
+			<length>8:08</length>
+			<player name="Latvijas Nacionalais Simfoniskais Orkestris, Riga"/>
+			<conductor>Pauls Megi</conductor>
+			<composed start="1979"/>
+			<recorded start="1992"/>
+			<release>Wergo WER 6220-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Botschaft</name>
+			<description>f&uuml;r Streichorchester, zwei Klaviere und Schlaginstrumente</description>
+			<length>16:04</length>
+			<player name="Latvijas Nacionalais Simfoniskais Orkestris, Riga"/>
+			<conductor>Pauls Megi</conductor>
+			<composed start="1982"/>
+			<recorded start="1992"/>
+			<release>Wergo WER 6220-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Musica dolorosa</name>
+			<description>f&uuml;r Streichorchester</description>
+			<length>13:00</length>
+			<player name="Latvijas Filharmonijas Kamerorkestris"/>
+			<conductor>Tovijs Lifsics</conductor>
+			<composed start="1983"/>
+			<recorded start="1992"/>
+			<release>Wergo WER 6220-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Symphonie f&uuml;r Streicher &quot;Stimmen&quot;</name>
+			<length>27:14</length>
+			<player name="Latvijas Filharmonijas Kamerorkestris"/>
+			<conductor>Tovijs Lifsics</conductor>
+			<composed start="1991"/>
+			<recorded start="1992"/>
+			<release>Wergo WER 6220-2</release>
+			<released>1993</released>
+		</composition>
+	</composer>
+	<composer name="Hebert" surname="V&aacute;zquez" born="1963" died="">
+		<composition>
+			<name>String Quartet No. 1</name>
+			<length>18:23</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1999"/>
+			<recorded start="2002"/>
+			<release>Mode 165</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+</list>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Tom" surname="Johnson" born="1939" died="">
+		<composition>
+			<name>Rational Melodies</name>
+			<length>50:22</length>
+			<instrument name="Piccolo, Flute, Alto Flute, Bass Flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<composed start="1982"/>
+			<recorded start="1993"/>
+			<release>hatART CD 6133</release>
+			<released>1993</released>
+		</composition>
+	</composer>
+</list>

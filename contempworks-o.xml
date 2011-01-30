@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Jo&atilde;o Pedro" surname="Oliveira" born="1959" died="">
+		<composition>
+			<name>Psalmus</name>
+			<description>electronic music</description>
+			<length>12:46</length>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>Numerica NUM 1011</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Canticum</name>
+			<description>electronic music</description>
+			<length>13:49</length>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>Numerica NUM 1011</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>A Cidade Eterna</name>
+			<description>computer music</description>
+			<length>15:03</length>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>Numerica NUM 1011</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Triptico</name>
+			<description>computer music</description>
+			<length>14:55</length>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Numerica NUM 1011</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Silence to Light</name>
+			<description>electronic music</description>
+			<length>10:18</length>
+			<composed start="1992"/>
+			<recorded start="1992"/>
+			<release>Numerica NUM 1011</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Peregrina&ccedil;&atilde;o</name>
+			<description>for string quartet</description>
+			<length>13:56</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1995"/>
+			<recorded start="1999"/>
+			<release>Etcetera KTC1242</release>
+			<released>2001</released>
+		</composition>
+	</composer>
+	<composer name="Carl" surname="Orff" born="1895" died="1982">
+		<composition>
+			<name>Carmina Burana</name>
+			<length>56:09</length>
+			<instrument name="Sopran">
+				<player name="Gundula Janowitz"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Gerhard Stolze"/>
+			</instrument>
+			<instrument name="Bariton">
+				<player name="Dietrich Fischer-Dieskau"/>
+			</instrument>
+			<player name="Chor des Deutschen Oper Berlin"/>
+			<conductor>Walter Hagen-Groll</conductor>
+			<player name="Orchester des Deutschen Oper Berlin"/>
+			<conductor>Eugen Jochum</conductor>
+			<composed start="1935"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 423 886-2</release>
+			<released>1968</released>
+		</composition>
+	</composer>
+</list>

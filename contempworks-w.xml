@@ -1,0 +1,1564 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Juan Felipe" surname="Waller" born="1971" died="">
+		<composition>
+			<name>De jaque, sal, gala y luna</name>
+			<description>for solo violin</description>
+			<length>7:39</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2002"/>
+			<release>Mode 165</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Anton" surname="Webern" born="1883" died="1945">
+		<composition>
+			<name>2 Pieces for Cello and Piano</name>
+			<length>5:05</length>
+			<instrument name="Cello">
+				<player name="Clemens Hagen"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Oleg Maisenberg"/>
+			</instrument>
+			<composed start="1899"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>3 Poems</name>
+			<length>5:56</length>
+			<part>
+				<number>I</number>
+				<name>Vorfr&uuml;hling: &quot;Leise tritt auf ...&quot;</name>
+				<length>1:21</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Nachtgebet der Braut: &quot;O mein Geliebter&quot;</name>
+				<length>2:40</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Fromm: &quot;Der Mond scheint auf mein Lager&quot;</name>
+				<length>1:55</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1899" end="1903"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>8 Early Lieder</name>
+			<length>15:33</length>
+			<part>
+				<number>I</number>
+				<name>Tief von fern: &quot;Aus des Abends wei&szlig;en Wogen&quot;</name>
+				<length>1:15</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Aufblick: &quot;&Uuml;ber unsre Liebe h&auml;ngt eine tiefe Trauerweide&quot;</name>
+				<length>2:42</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Blumengru&szlig;: &quot;Der Strau&szlig;, den ich gepfl&uuml;cket&quot;</name>
+				<length>1:29</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Bild der Liebe: &quot;Von Wald umgeben&quot;</name>
+				<length>1:37</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Sommerabend: &quot;Du Sommerabend! Heilig, goldnes Licht!&quot;</name>
+				<length>2:35</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>Heiter: &quot;Mein Herz ist wie ein See so weit&quot;</name>
+				<length>1:12</length>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>Der Tod: &quot;Ach, es ist so dunkel in des Todes Kammer&quot;</name>
+				<length>1:08</length>
+			</part>
+			<part>
+				<number>VIII</number>
+				<name>Heimgang in der Fr&uuml;he: &quot;In der D&auml;mmerung&quot;</name>
+				<length>3:35</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1901" end="1904"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>3 Lieder on poems by Ferdinand Avenarius</name>
+			<length>4:31</length>
+			<part>
+				<number>I</number>
+				<name>Gefunden: &quot;Nun wir uns lieben, rauscht mein stolzes Gl&uuml;ck&quot;</name>
+				<length>1:28</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Gebet: &quot;Ertrage du's, la&szlig; schneiden dir den Schmerz&quot;</name>
+				<length>1:32</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Freunde: &quot;Schmerze und Freuden reift jede Stunde&quot;</name>
+				<length>1:31</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1903" end="1904"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Im Sommerwind</name>
+			<description>Idyll for Large Orchestra</description>
+			<length>16:00</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1904"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Slow Movement for String Quartet</name>
+			<length>9:02</length>
+			<player name="Emerson String Quartet"/>
+			<composed start="1905"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>String Quartet</name>
+			<length>15:22</length>
+			<player name="Emerson String Quartet"/>
+			<composed start="1905"/>
+			<recorded start="1993"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Rondo for String Quartet</name>
+			<length>6:44</length>
+			<player name="Emerson String Quartet"/>
+			<composed start="1906"/>
+			<recorded start="1993"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Movement for Piano</name>
+			<length>6:02</length>
+			<instrument name="Piano">
+				<player name="Gianluca Cascioli"/>
+			</instrument>
+			<composed start="1906"/>
+			<recorded start="1995"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Sonata Movement (Rondo) for Piano</name>
+			<length>6:18</length>
+			<instrument name="Piano">
+				<player name="Gianluca Cascioli"/>
+			</instrument>
+			<composed start="1906"/>
+			<recorded start="1995"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Piano quintet</name>
+			<length>13:11</length>
+			<instrument name="Piano">
+				<player name="Pierre-Laurent Aimard"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1907"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>5 Lieder on poems by Richard Dehmel</name>
+			<length>12:20</length>
+			<part>
+				<number>I</number>
+				<name>Ideale Landschaft: &quot;Du hattest einen Glanz auf deiner Stirn&quot;</name>
+				<length>2:20</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Am Ufer: &quot;Die Welt verstummt, dein Blut erklingt&quot;</name>
+				<length>1:34</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Himmelfahrt: &quot;Schwebst du nieder aus den Weiten&quot;</name>
+				<length>2:57</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>N&auml;chtliche Scheu: &quot;Zaghaft vom Gew&ouml;lk ins Land&quot;</name>
+				<length>2:37</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Helle Nacht: &quot;Weich k&uuml;&szlig;t die Zweige der wei&szlig;e Mond&quot;</name>
+				<length>2:52</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1906" end="1908"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Passacaglia, op. 1</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>10:05</length>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1908"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Passacaglia for Orchestra op. 1</name>
+			<length>10:04</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1908"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>&quot;Entflieht auf leichten K&auml;hnen&quot;, op. 2</name>
+			<length>2:32</length>
+			<player name="John Alldis Choir"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1908"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>&quot;Entflieht auf leichten K&auml;hnen&quot; op. 2</name>
+			<description>for mixed choir</description>
+			<length>2:43</length>
+			<player name="BBC Singers"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1908"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>F&uuml;nf Lieder, op. 3</name>
+			<length>5:01</length>
+			<instrument name="Soprano">
+				<player name="Heather Harper"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<composed start="1907" end="1908"/>
+			<recorded start="1970"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>5 Lieder from &quot;Der siebente Ring&quot; by Stefan George op. 3</name>
+			<length>5:40</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Dies ist ein lied&quot;</name>
+				<length>1:08</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>&quot;Im windes-weben&quot;</name>
+				<length>0:41</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;An baches ranft&quot;</name>
+				<length>1:02</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>&quot;Im morgen-taun&quot;</name>
+				<length>1:16</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>&quot;Kahl reckt der baum&quot;</name>
+				<length>1:33</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1907" end="1908"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>F&uuml;nf Lieder, op. 4</name>
+			<length>7:43</length>
+			<instrument name="Soprano">
+				<player name="Heather Harper"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<composed start="1908" end="1909"/>
+			<recorded start="1970"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>5 Lieder on poems by Stefan George op. 4</name>
+			<length>9:27</length>
+			<part>
+				<number>I</number>
+				<name>Eingang: &quot;Welt der gestalten lang lebewohl!&quot;</name>
+				<length>3:13</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>&quot;Noch zwingt mich treue &uuml;ber dir zu wachen&quot;</name>
+				<length>1:42</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;Ja heil und dank dir&quot;</name>
+				<length>2:03</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>&quot;So ich traurig bin&quot;</name>
+				<length>0:59</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>&quot;Ihr tratet zu dem herde&quot;</name>
+				<length>1:30</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1908" end="1909"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>4 Lieder on poems by Stefan George</name>
+			<length>6:56</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Erwachen aus dem tiefsten traumes-schoo&szlig;e&quot;</name>
+				<length>2:44</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Kunfttag I: &quot;Dem bist du kind, dem freund&quot;</name>
+				<length>1:22</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Trauer I: &quot;So wart bis ich dies dir noch k&uuml;nde&quot;</name>
+				<length>1:53</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>&quot;Das lockere saatgefilde lechzet krank&quot;</name>
+				<length>0:57</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1908" end="1909"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>F&uuml;nf S&auml;tze, op. 5</name>
+			<description>f&uuml;r Streichquartett</description>
+			<length>12:10</length>
+			<player name="Juilliard String Quartet"/>
+			<composed start="1909"/>
+			<recorded start="1970"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>F&uuml;nf S&auml;tze, op. 5</name>
+			<description>f&uuml;r Orchester arrangiert</description>
+			<length>9:45</length>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1909"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>5 Movements for String Quartet</name>
+			<length>10:56</length>
+			<player name="Emerson String Quartet"/>
+			<composed start="1909"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>5 Movements op. 5</name>
+			<length>10:36</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1909"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Sechs St&uuml;cke, op. 6</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>11:53</length>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1909" end="1928"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>6 Orchesterst&uuml;cke, op. 6</name>
+			<description>revised version</description>
+			<length>12:29</length>
+			<player name="City of Birmingham Symphony Orchestra"/>
+			<conductor>Simon Rattle</conductor>
+			<composed start="1909" end="1928"/>
+			<recorded start="1988"/>
+			<release>EMI</release>
+			<released>1989</released>
+		</composition>
+		<composition>
+			<name>6 Pieces for Orchestra op. 6</name>
+			<length>11:48</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1909"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Vier St&uuml;cke, op. 7</name>
+			<description>f&uuml;r Geige und Klavier</description>
+			<length>4:51</length>
+			<instrument name="Violin">
+				<player name="Isaac Stern"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<composed start="1910"/>
+			<recorded start="1971"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>4 Pieces for Violin and Piano op. 7</name>
+			<length>4:27</length>
+			<instrument name="Violin">
+				<player name="Gidon Kremer"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Oleg Maisenberg"/>
+			</instrument>
+			<composed start="1910"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Zwei Lieder, op. 8</name>
+			<description>f&uuml;r mittlere Stimme und 8 Instrumente</description>
+			<length>2:08</length>
+			<instrument name="Soprano">
+				<player name="Heather Harper"/>
+			</instrument>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1910"/>
+			<recorded start="1967"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>2 Lieder op. 8</name>
+			<description>for voice and eight instruments</description>
+			<length>2:19</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Du, der ichs nicht sage&quot;</name>
+				<length>1:05</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>&quot;Du machst mich allein&quot;</name>
+				<length>1:14</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Fran&ccedil;oise Pollet"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1910"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Sechs Bagatellen f&uuml;r Streichquartett op. 9</name>
+			<length>4:33</length>
+			<player name="Juilliard String Quartet"/>
+			<composed start="1913"/>
+			<recorded start="1967"/>
+			<release>Col Legno CD1 31907</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Sechs Bagatellen, op. 9</name>
+			<description>f&uuml;r Streichquartett</description>
+			<length>4:10</length>
+			<player name="Juilliard String Quartet"/>
+			<composed start="1913"/>
+			<recorded start="1970"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>6 Bagatelles for String Quartet op. 9</name>
+			<length>3:59</length>
+			<player name="Emerson String Quartet"/>
+			<composed start="1911" end="1913"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>F&uuml;nf St&uuml;cke, op. 10</name>
+			<description>f&uuml;r Orchester</description>
+			<length>3:58</length>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1911" end="1913"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Five Pieces, op. 10</name>
+			<description>for orchestra</description>
+			<length>4:18</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1911" end="1913"/>
+			<recorded start="1987" end="1988"/>
+			<release>Montaigne 780518</release>
+			<released>1989-94</released>
+		</composition>
+		<composition>
+			<name>5 Pieces for Orchestra op. 10</name>
+			<length>4:36</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1913"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>5 Pieces for Orchestra</name>
+			<length>5:54</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1913"/>
+			<recorded start="1996"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>3 Pieces for String Quartet</name>
+			<length>2:32</length>
+			<instrument name="Mezzo-soprano">
+				<player name="Mary Ann McCormick"/>
+			</instrument>
+			<player name="Emerson String Quartet"/>
+			<composed start="1913"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Drei kleine St&uuml;cke, op. 11</name>
+			<description>f&uuml;r Violoncello und Klavier</description>
+			<length>2:12</length>
+			<instrument name="Cello">
+				<player name="Gregor Piatigorsky"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<composed start="1914"/>
+			<recorded start="1972"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>3 Little Pieces for Cello and Piano op. 11</name>
+			<length>2:34</length>
+			<instrument name="Cello">
+				<player name="Clemens Hagen"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Oleg Maisenberg"/>
+			</instrument>
+			<composed start="1914"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Cello Sonata</name>
+			<length>1:43</length>
+			<instrument name="Cello">
+				<player name="Clemens Hagen"/>
+			</instrument>
+			<composed start="1914"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>3 Orchestral Songs</name>
+			<length>5:15</length>
+			<part>
+				<number>I</number>
+				<name>Leise D&uuml;fte: &quot;Leise D&uuml;fte, Bl&uuml;ten so zart&quot;</name>
+				<length>1:43</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Kunfttag III: &quot;Nun wird es wieder Lenz&quot;</name>
+				<length>1:39</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;O sanftes Gl&uuml;hn der Berge&quot;</name>
+				<length>1:53</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1913" end="1914"/>
+			<recorded start="1996"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Vier Lieder, op. 12</name>
+			<description>f&uuml;r Singstimme und Klavier</description>
+			<length>5:05</length>
+			<instrument name="Soprano">
+				<player name="Heather Harper"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<composed start="1915" end="1917"/>
+			<recorded start="1970"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>4 Lieder op. 12</name>
+			<length>6:20</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Der Tag ist vergangen&quot;</name>
+				<length>1:37</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Die geheimnisvolle Fl&ouml;te: &quot;An einem Abend, da die Blumen dufteten&quot;</name>
+				<length>1:53</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;Schien mir's, als ich sah die Sonne&quot;</name>
+				<length>1:58</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Gleich und gleich: &quot;Ein Blumengl&ouml;ckchen&quot;</name>
+				<length>0:52</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1915" end="1917"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Vier Lieder, op. 13</name>
+			<description>f&uuml;r Sopran und Orchester</description>
+			<length>6:54</length>
+			<instrument name="Soprano">
+				<player name="Heather Harper"/>
+			</instrument>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1914" end="1918"/>
+			<recorded start="1967"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>4 Lieder op. 13</name>
+			<description>for voice and orchestra</description>
+			<length>7:03</length>
+			<part>
+				<number>I</number>
+				<name>Wiese im Park: &quot;Wie wird mir zeitlos&quot;</name>
+				<length>2:14</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Die Einsame: &quot;An dunkelblauem Himmel&quot;</name>
+				<length>1:30</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>In der Fremde: &quot;In fremdem Lande lag ich&quot;</name>
+				<length>1:03</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Ein Winterabend: &quot;Wenn der Schnee ans Fenster f&auml;llt&quot;</name>
+				<length>2:16</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Fran&ccedil;oise Pollet"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1914" end="1918"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Sechs Lieder, op. 14</name>
+			<description>f&uuml;r Singstimme und 4 Instrumente</description>
+			<length>7:32</length>
+			<instrument name="Soprano">
+				<player name="Heather Harper"/>
+			</instrument>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1917" end="1921"/>
+			<recorded start="1967"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>6 Lieder op. 14</name>
+			<description>for voice, clarinet, bass clarinet, violin and cello</description>
+			<length>8:12</length>
+			<part>
+				<number>I</number>
+				<name>Die Sonne: &quot;T&auml;gliche kommt die gelbe Sonne&quot;</name>
+				<length>1:42</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Abendland I: &quot;Mond, als tr&auml;te ein Totes&quot;</name>
+				<length>1:27</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Abendland II: &quot;So leise sind die gr&uuml;nen W&auml;lder&quot;</name>
+				<length>1:16</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Abendland IV: &quot;Ihr gro&szlig;en St&auml;dte steinem aufgebaut&quot;</name>
+				<length>1:35</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Nachts: &quot;Die Bl&auml;ue meiner Augen&quot;</name>
+				<length>0:51</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>Gesang einer gefangenen Amsel: &quot;Dunkler Odem im gr&uuml;nen Gezweig&quot;</name>
+				<length>1:21</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Fran&ccedil;oise Pollet"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1917" end="1921"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>F&uuml;nf geistliche Lieder, op. 15</name>
+			<description>f&uuml;r Sopran und 5 Instrumente</description>
+			<length>4:48</length>
+			<instrument name="Soprano">
+				<player name="Halina Lukomska"/>
+			</instrument>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1917" end="1922"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>5 Sacred Songs op. 15</name>
+			<description>for voice, flute, clarinet, bass clarinet, trumpet, harp, violin and viola</description>
+			<length>5:25</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Das Kreuz, das mu&szlig;t' er tragen&quot;</name>
+				<length>0:59</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Morgenlied: &quot;Steht auf, ihr lieben Kinderlein&quot;</name>
+				<length>0:52</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;In Gottes Namen aufstehn&quot;</name>
+				<length>0:59</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>&quot;Mein Weg geht jetzt vor&uuml;ber&quot;</name>
+				<length>0:59</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>&quot;Fahr hin, O Seel', zudeinem Gott&quot;</name>
+				<length>1:36</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1917" end="1922"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>F&uuml;nf Kanons, op. 16</name>
+			<description>f&uuml;r Sopran, Klarinette und Ba&szlig;klarinette</description>
+			<length>3:07</length>
+			<instrument name="Soprano">
+				<player name="Halina Lukomska"/>
+			</instrument>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1923" end="1924"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>5 Canons op. 16</name>
+			<description>for high soprano, clarinet and bass clarinet</description>
+			<length>3:32</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Christus factus est&quot;</name>
+				<length>0:31</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>&quot;Dormi Jesu, mater ridet&quot;</name>
+				<length>1:05</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;Crux fidelis&quot;</name>
+				<length>0:50</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>&quot;Asperges me, Domine&quot;</name>
+				<length>0:37</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>&quot;Crucem tuam adoramus, Domine&quot;</name>
+				<length>0:29</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1923" end="1924"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Kinderst&uuml;ck f&uuml;r Klavier</name>
+			<length>0:48</length>
+			<instrument name="Piano">
+				<player name="Krystian Zimerman"/>
+			</instrument>
+			<composed start="1924"/>
+			<recorded start="1995"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Drei Volkstexte, op. 17</name>
+			<description>f&uuml;r Singstimme und 3 Instrumente</description>
+			<length>2:22</length>
+			<instrument name="Soprano">
+				<player name="Halina Lukomska"/>
+			</instrument>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1924"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>3 Traditional Rhymes op. 17</name>
+			<description>for voice, violin, viola, clarinet and bass clarinet</description>
+			<length>2:37</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Armer S&uuml;nder, du&quot;</name>
+				<length>0:45</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>&quot;Liebste Jungfrau, wir sind dein&quot;</name>
+				<length>1:03</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;Heiland, unsre Missetaten&quot;</name>
+				<length>0:49</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1924"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Drei Lieder, op. 18</name>
+			<description>f&uuml;r Singstimme, Klarinette und Gitarre</description>
+			<length>3:24</length>
+			<instrument name="Soprano">
+				<player name="Halina Lukomska"/>
+			</instrument>
+			<instrument name="Guitar">
+				<player name="John Williams"/>
+			</instrument>
+			<instrument name="Clarinet">
+				<player name="Colin Bradley"/>
+			</instrument>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1925"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>3 Lieder for voice, E flat clarinet and guitar op. 18</name>
+			<length>3:28</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Schatzerl klein&quot;</name>
+				<length>0:45</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Erl&ouml;sung: &quot;Mein Kind, sieh an&quot;</name>
+				<length>1:03</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;Ave Regina coelorum&quot;</name>
+				<length>0:49</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1925"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Movement for String Trio op. post.</name>
+			<length>2:02</length>
+			<player name="Emerson String Quartet"/>
+			<composed start="1925"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Piano Piece</name>
+			<length>1:24</length>
+			<instrument name="Piano">
+				<player name="Krystian Zimerman"/>
+			</instrument>
+			<composed start="1925"/>
+			<recorded start="1995"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Zwei Lieder, op. 19</name>
+			<description>f&uuml;r gemischten Chor und 5 Instrumente</description>
+			<length>2:19</length>
+			<player name="John Alldis Choir"/>
+			<player name="Members of the London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1926"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>2 Lieder op. 19 for mixed choir</name>
+			<description>accompanied by celesta, guitar, violin, clarinet and bass clarinet</description>
+			<length>2:24</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Wei&szlig; wie Lilien&quot;</name>
+				<length>1:23</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>&quot;Ziehn die Schafe&quot;</name>
+				<length>1:01</length>
+			</part>
+			<player name="BBC Singers"/>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1926"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>String Trio op. 20</name>
+			<length>8:49</length>
+			<player name="Emerson String Quartet"/>
+			<composed start="1926" end="1927"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Streichtrio, op. 20</name>
+			<length>9:24</length>
+			<player name="Members of the Juilliard String Quartet"/>
+			<composed start="1927"/>
+			<recorded start="1971"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Symphonie, op. 21</name>
+			<length>9:19</length>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1928"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Symphony op. 21</name>
+			<length>9:38</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1928"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Quartett, op. 22</name>
+			<description>f&uuml;r Geige, Klarinette, Tenorsaxophon und Klavier</description>
+			<length>7:02</length>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Daniel Majeske"/>
+			</instrument>
+			<instrument name="Clarinet">
+				<player name="Robert Marcellus"/>
+			</instrument>
+			<instrument name="Saxophone">
+				<player name="Abraham Weinstein"/>
+			</instrument>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1930"/>
+			<recorded start="1970"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Quartet op. 22</name>
+			<description>for violin, clarinet, tenor saxophone and piano</description>
+			<length>6:18</length>
+			<instrument name="Piano">
+				<player name="Pierre-Laurent Aimard"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1930"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Drei Ges&auml;nge, op. 23</name>
+			<length>6:51</length>
+			<instrument name="Soprano">
+				<player name="Halina Lukomska"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<composed start="1934"/>
+			<recorded start="1970"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>3 Songs from &quot;Viae inviae&quot; by Hildegarde Jone op. 23</name>
+			<length>8:24</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Das dunkle Herz, das in sich lauscht&quot;</name>
+				<length>3:34</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>&quot;Es st&uuml;rzt aus H&ouml;hen Frische&quot;</name>
+				<length>2:02</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;Herr Jesus mein&quot;</name>
+				<length>2:48</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1934"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Konzert, op. 24</name>
+			<description>f&uuml;r 9 Instrumente</description>
+			<length>6:31</length>
+			<player name="Members of the London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1934"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Concerto op. 24</name>
+			<description>for flute, oboe, clarinet, horn, trumpet, trombone, violin, viola and piano</description>
+			<length>6:37</length>
+			<instrument name="Piano">
+				<player name="Pierre-Laurent Aimard"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1934"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Drei Lieder, op. 25</name>
+			<description>f&uuml;r Singstimme und Klavier</description>
+			<length>3:49</length>
+			<instrument name="Soprano">
+				<player name="Halina Lukomska"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<composed start="1934" end="1935"/>
+			<recorded start="1970"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>3 Songs on poems by Hildegarde Jone op. 25</name>
+			<length>4:45</length>
+			<part>
+				<number>I</number>
+				<name>&quot;Wie bin ich froh!&quot;</name>
+				<length>1:05</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>&quot;Des Herzens Purpurvogel fliegt durch Nacht&quot;</name>
+				<length>2:05</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>&quot;Sterne, Ihr silbernen Bienen der Nacht&quot;</name>
+				<length>1:35</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Eric Schneider"/>
+			</instrument>
+			<composed start="1934" end="1935"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>J. S. Bach: Fuga (Ricercata) a 6 voci</name>
+			<description>Arrangement</description>
+			<length>7:11</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1934" end="1935"/>
+			<recorded start="1993"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Franz Schubert: German Dances op. post. D 820</name>
+			<description>Arrangement</description>
+			<length>10:25</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1934" end="1935"/>
+			<recorded start="1993"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>&quot;Das Augenlicht&quot;, op. 26</name>
+			<description>f&uuml;r gemischten Chor und Orchester</description>
+			<length>5:50</length>
+			<player name="John Alldis Choir"/>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1935"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Das Augenlicht op. 26</name>
+			<description>for mixed chorus and orchestra</description>
+			<length>5:38</length>
+			<player name="BBC Singers"/>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1935"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Variationen, op. 27</name>
+			<description>f&uuml;r Klavier</description>
+			<length>5:52</length>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<composed start="1936"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Variations for Piano op. 27</name>
+			<length>1:24</length>
+			<instrument name="Piano">
+				<player name="Krystian Zimerman"/>
+			</instrument>
+			<composed start="1935" end="1936"/>
+			<recorded start="1995"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Streichquartett, op. 28</name>
+			<length>8:35</length>
+			<player name="Juilliard String Quartet"/>
+			<composed start="1937" end="1938"/>
+			<recorded start="1970"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>String Quartet op. 28</name>
+			<length>7:45</length>
+			<player name="Emerson String Quartet"/>
+			<composed start="1936" end="1938"/>
+			<recorded start="1993"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Kantate Nr.1, op. 29</name>
+			<length>7:50</length>
+			<instrument name="Soprano">
+				<player name="Halina Lukomska"/>
+			</instrument>
+			<player name="John Alldis Choir"/>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1938" end="1939"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Cantata No. 1 op. 29</name>
+			<description>for soprano solo, mixed chorus and orchestra</description>
+			<length>8:41</length>
+			<part>
+				<number>I</number>
+				<length>2:17</length>
+				<name>&quot;Z&uuml;ndender Lichtblitz des Lebens&quot;</name>
+			</part>
+			<part>
+				<number>II</number>
+				<length>2:19</length>
+				<name>&quot;Kleiner fl&uuml;gel Ahornsamen&quot;</name>
+			</part>
+			<part>
+				<number>III</number>
+				<length>4:05</length>
+				<name>&quot;T&ouml;nen die seligen Saiten Apolls&quot;</name>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<player name="BBC Singers"/>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1938" end="1939"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Variationen, op. 30</name>
+			<description>f&uuml;r Orchester</description>
+			<length>7:13</length>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1940"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Variations for Orchestra op. 30</name>
+			<length>7:37</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1940"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Kantate Nr.2, op. 31</name>
+			<length>13:54</length>
+			<instrument name="Soprano">
+				<player name="Halina Lukomska"/>
+			</instrument>
+			<instrument name="Baritone">
+				<player name="Barry McDaniel"/>
+			</instrument>
+			<player name="John Alldis Choir"/>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1941" end="1943"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Cantata No. 2 op. 31</name>
+			<description>for soprano solo, bass solo, mixed chorus and orchestra</description>
+			<length>15:27</length>
+			<part>
+				<number>I</number>
+				<length>2:08</length>
+				<name>&quot;Schweigt auch die Welt&quot;</name>
+			</part>
+			<part>
+				<number>II</number>
+				<length>3:49</length>
+				<name>&quot;Sehr tief verhalten innerst Leben&quot;</name>
+			</part>
+			<part>
+				<number>III</number>
+				<length>2:25</length>
+				<name>&quot;Sch&ouml;pfen aus Brunnen des Himmels&quot;</name>
+			</part>
+			<part>
+				<number>IV</number>
+				<length>1:12</length>
+				<name>&quot;Leichteste B&uuml;rden der B&auml;ume&quot;</name>
+			</part>
+			<part>
+				<number>V</number>
+				<length>3:41</length>
+				<name>&quot;Freundselig ist das Wort&quot;</name>
+			</part>
+			<part>
+				<number>VI</number>
+				<length>2:12</length>
+				<name>&quot;Gelockert aus dem Scho&szlig;e&quot;</name>
+			</part>
+			<instrument name="Soprano">
+				<player name="Christiane Oelze"/>
+			</instrument>
+			<instrument name="Bass">
+				<player name="Gerald Finley"/>
+			</instrument>
+			<player name="BBC Singers"/>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1941" end="1943"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 457 637-2</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>J. S. Bach: Fuga Ricercata Nr. 2 aus dem &quot;Musikalischen Opfer&quot;</name>
+			<description>Orquestra&ccedil;&atilde;o de Anton Webern</description>
+			<length>7:01</length>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1935"/>
+			<recorded start="1969"/>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>F. Schubert: &quot;Deutsche Tanze&quot; transcription pour orchestre de Anton Webern</name>
+			<length>8:35</length>
+			<player name="Frankfurter Funkorchester"/>
+			<conductor>Anton Webern</conductor>
+			<composed start="1932"/>
+			<recorded start="1932">(mono)</recorded>
+			<release>Sony SM 3K 45848</release>
+			<released>1991</released>
+		</composition>
+	</composer>
+</list>

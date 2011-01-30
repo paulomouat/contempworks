@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Herbert" surname="Eimert" born="1897" died="1972">
+		<composition>
+			<name>Klang im unbegrenzten Raum</name>
+			<description>mit Robert Beyer</description>
+			<length>10:23</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>BVHaast 9106</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Klangstudie I</name>
+			<length>3:50</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>BVHaast 9106</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Klangstudie II</name>
+			<description>mit Robert Beyer</description>
+			<length>4:30</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>BVHaast 9106</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Glockenspiel</name>
+			<length>1:00</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1953"/>
+			<recorded start="1953"/>
+			<release>BVHaast 9106</release>
+			<released>?</released>
+		</composition>
+	</composer>
+	<composer name="Julio" surname="Estrada" born="1943" died="">
+		<composition>
+			<name>Canto mn&eacute;mico</name>
+			<description>For string quartet</description>
+			<length>5:34</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1973" end="1983"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782056</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Canto oculto</name>
+			<length>6:31</length>
+			<instrument name="Violino">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1989"/>
+			<release>Montaigne 789003</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Canto alterno</name>
+			<description>For solo violoncello</description>
+			<length>8:10</length>
+			<instrument name="Violoncelo">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782056</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>eua-on</name>
+			<description>for UPIC</description>
+			<length>7:44</length>
+			<player name="Les Ateliers UPIC, Paris"/>
+			<composed start="1980"/>
+			<recorded start=""/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>eua-on-ome</name>
+			<description>for orchestra</description>
+			<length>10:42</length>
+			<player name="SWF Orchestra of Baden-Baden"/>
+			<conductor>Olaf Henzold</conductor>
+			<composed start="1995"/>
+			<recorded start=""/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Yuunohui'yei'nahui</name>
+			<description>For violoncello and double-bass</description>
+			<length>9:36</length>
+			<instrument name="Violoncelo">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<instrument name="Contrabaixo">
+				<player name="Stefano Scodanibbio"/>
+			</instrument>
+			<composed start="1983" end="1985"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782056</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Yuunohui'se'ome'yei'nahui</name>
+			<description>For violin, viola concertante, violoncello and double-bass</description>
+			<length>10:29</length>
+			<player name="Arditti String Quartet"/>
+			<instrument name="Contrabaixo">
+				<player name="Stefano Scodanibbio"/>
+			</instrument>
+			<composed start="1983" end="1990"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782056</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Ishini'ioni</name>
+			<description>For string quartet</description>
+			<length>20:29</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1984" end="1990"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782056</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Yuunohui'se</name>
+			<description>For solo violin</description>
+			<length>12:19</length>
+			<instrument name="Violino">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782056</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Miqi'nahual</name>
+			<description>For solo double-bass</description>
+			<length>11:59</length>
+			<instrument name="Contrabaixo">
+				<player name="Stefano Scodanibbio"/>
+			</instrument>
+			<composed start="1995"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782056</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Quotidianus</name>
+			<description>for voice and string quartet</description>
+			<length>10:34</length>
+			<instrument name="Voice">
+				<player name="Julio Estrada"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Neos 10724</release>
+			<released>2007</released>
+		</composition>
+	</composer>
+	<composer name="Franco" surname="Evangelisti" born="1926" died="1980">
+		<composition>
+			<name>Proiezioni sonore</name>
+			<description>strutture per piano solo</description>
+			<length>3:35</length>
+			<instrument name="Piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1955" end="1956"/>
+			<recorded start="1972"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Incontri di fasce sonore</name>
+			<description>composizione elettronica</description>
+			<length>3:24</length>
+			<player name="WDR"/>
+			<composed start="1956" end="1957"/>
+			<recorded start="1957"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Incontri di fasce sonore</name>
+			<length>3:20</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="1957"/>
+			<release>BVHaast 9106</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Aleatorio</name>
+			<description>per quartetto d'archi</description>
+			<length>2:52</length>
+			<player name="Societ&agrave; Cameristica Italiana"/>
+			<composed start="1959"/>
+			<recorded start="1967"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Spazio a 5</name>
+			<description>per quattro grupi di percussioni, voci e accorgimenti elettronici</description>
+			<length>13:06</length>
+			<player name="(players unknown)"/>
+			<composed start="1959" end="1961"/>
+			<recorded start="?"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Random or not Random</name>
+			<description>per orchestra</description>
+			<length>8:16</length>
+			<player name="Orchestra Sinfonica Siciliana"/>
+			<conductor>Gabriele Ferro</conductor>
+			<composed start="1957" end="1962"/>
+			<recorded start="1980"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Cinque strutture</name>
+			<description>per piccola orchestra e nastro magnetico dalla "Die Schachtel"</description>
+			<length>16:58</length>
+			<player name="Orchestra della VI Settimana di Palermo"/>
+			<conductor>Giampiero Taverna</conductor>
+			<composed start="1962" end="1963"/>
+			<recorded start="1968"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Proiezioni sonore</name>
+			<description>strutture per piano solo</description>
+			<length>4:41</length>
+			<instrument name="Piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1955" end="1956"/>
+			<recorded start="1972"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Proiezioni sonore</name>
+			<description>strutture per piano solo</description>
+			<length>4:40</length>
+			<instrument name="Piano">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1955" end="1956"/>
+			<recorded start="1958"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Proporzioni</name>
+			<description>strutture per flauto solo</description>
+			<length>5:51</length>
+			<instrument name="Flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1985"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Aleatorio</name>
+			<description>per quartetto d'archi</description>
+			<length>3:50</length>
+			<player name="LaSalle Quartet"/>
+			<composed start="1959"/>
+			<recorded start="1982"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Quattro fattoriale (4!)</name>
+			<description>piccoli pezzi per pianoforte e violino</description>
+			<length>3:35</length>
+			<instrument name="Piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Wolfgang Marschner"/>
+			</instrument>
+			<composed start="1954" end="1955"/>
+			<recorded start="1957"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Ordini</name>
+			<description>strutture variate per sedici strumenti</description>
+			<length>6:58</length>
+			<player name="Ensemble Strumentale da Camera"/>
+			<conductor>James Demby</conductor>
+			<composed start="1955"/>
+			<recorded start="1993"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Campi integrati n. 2</name>
+			<description>giuoco per nove strumenti</description>
+			<length>6:40</length>
+			<player name="Grupo Spettro Sonoro"/>
+			<conductor>Luca Pfaff</conductor>
+			<composed start="1959" end="1979"/>
+			<recorded start="1979"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Die Schachtel</name>
+			<description>azione mimoscenica per mimi, proiezioni, orchestra da camera su soggetto di Franco Nonnis</description>
+			<length>31:46</length>
+			<player name="Solistenensemble des Orchesters der M&uuml;nchener Kammeroper"/>
+			<conductor>Eberhard Schoener</conductor>
+			<composed start="1962" end="1963"/>
+			<recorded start="1968"/>
+			<release>RZ 1011-12</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+</list>

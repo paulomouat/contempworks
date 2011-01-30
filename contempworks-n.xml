@@ -1,0 +1,1252 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Conlon" surname="Nancarrow" born="1912" died="1997">
+		<composition>
+			<name>Studies for Player Piano</name>
+			<description>Studies Nos. 1-29, 31-37, 40-50, tango?</description>
+			<length>4:36:01</length>
+			<composed start="1947" end="?"/>
+			<recorded start=""/>
+			<release>Wergo Wer 6907 2-Wer 6911 2</release>
+			<released>1999</released>
+		</composition>
+	</composer>
+	<composer name="Iv&aacute;n" surname="Naranjo" born="1977" died="">
+		<composition>
+			<name>Uno</name>
+			<length>13:40</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>Mode 165</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Olga" surname="Neuwirth" born="1968" died="">
+		<composition>
+			<name>Akroate Hadal</name>
+			<description>f&uuml;r Streichquartett</description>
+			<length>12:34</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1995"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012462KAI</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Quasare/Pulsare</name>
+			<description>f&uuml;r Violine und Klavier</description>
+			<length>10:31</length>
+			<instrument name="Violine">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<composed start="1995" end="1996"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012462KAI</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>...?risonanze!...</name>
+			<description>f&uuml;r Viola d'amore</description>
+			<length>9:49</length>
+			<instrument name="Viola d'amore">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="1996" end="1997"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012462KAI</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>...ad auras... in memoriam H.</name>
+			<description>f&uuml;r zwei Violinen und Holztrommel (Getabera)</description>
+			<length>12:24</length>
+			<instrument name="Violine">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Graeme Jennings"/>
+			</instrument>
+			<instrument name="Getabera">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012462KAI</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>settori</name>
+			<description>f&uuml;r Streichquartett</description>
+			<length>5:41</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1999"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012462KAI</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>incidendo/fluido</name>
+			<description>f&uuml;r Klavier und Zuspiel-CD</description>
+			<length>11:33</length>
+			<instrument name="Klavier">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012462KAI</release>
+			<released>2005</released>
+		</composition>
+	</composer>
+	<composer name="Luigi" surname="Nono" born="1924" died="1990">
+		<composition score="Y">
+			<name>Variazioni canoniche</name>
+			<description>sur la s&eacute;rie de l'opus 41 de Sch&ouml;nberg</description>
+			<description>pour orchestre de chambre</description>
+			<length>20:07</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1950"/>
+			<recorded start="1989"/>
+			<release>Astr&eacute;e-Auvidis E 8741</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Due espressioni</name>
+			<description>Musik f&uuml;r Donaueschingen</description>
+			<length>12:00</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Hans Rosbaud</conductor>
+			<composed start="1953"/>
+			<recorded start="1953"/>
+			<release>Col Legno CD1 31908</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Liebeslied</name>
+			<description>f&uuml;r gemischten Chor und Instrumente</description>
+			<length>5:07</length>
+			<player name="Wiener Philharmoniker"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1954"/>
+			<recorded start="1988"/>
+			<release>Deutsche Grammophon 429260-2</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Il canto sospeso</name>
+			<description>f&uuml;r Sopran-, Alt- und Tenor-Solo, gemischten Chor und Orchester</description>
+			<length>37:19</length>
+			<instrument name="Reciters">
+				<player name="Susanne Lothar"/>
+				<player name="Bruno Ganz"/>
+			</instrument>
+			<instrument name="Soprano">
+				<player name="Barbara Bonney"/>
+			</instrument>
+			<instrument name="Mezzo-Soprano">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Marek Torzewski"/>
+			</instrument>
+			<instrument name="Chor">
+				<player name="Rundfunkchor Berlin"/>
+			</instrument>
+			<conductor>Dietrich Knothe</conductor>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1955" end="1956"/>
+			<recorded start="1992"/>
+			<release>Sony SK 53 360</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Cori di Didone</name>
+			<description>per coro misto e percussione</description>
+			<length>9:53</length>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="1958"/>
+			<recorded start="1993"/>
+			<release>h&auml;nssler Classic CD 93.022</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Sar&agrave; dolce tacere</name>
+			<description>for 8 solo voices</description>
+			<length>8:10</length>
+			<player name="Neue Vocalsolisten Stuttgart"/>
+			<composed start="1960"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1SACD 20603</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Intolleranza 1960</name>
+			<description>Handlung in zwei Teilen</description>
+			<length>54:36</length>
+			<player name="Chor der Staatsoper Stuttgart"/>
+			<conductor>Ulrich Eistert</conductor>
+			<player name="Staatsorchester Stuttgart"/>
+			<conductor>Bernhard Kontarsky</conductor>
+			<composed start="1960"/>
+			<recorded start="1961??"/>
+			<release>Teldec 4509-97304-2</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Ha venido, Canciones para Silvia</name>
+			<description>f&uuml;r Sopran solo und sechsstimmingen Sopranchor</description>
+			<length>6:24</length>
+			<instrument name="Sopran">
+				<player name="Barbara Miller"/>
+			</instrument>
+			<player name="Sopranchor der Schola Cantorum, Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1960"/>
+			<recorded start="1968"/>
+			<release>Wergo WER 6038-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>"Ha venido", Canciones para Silvia</name>
+			<description>for solo soprano and 6 ensemble sopranos</description>
+			<length>7:01</length>
+			<player name="Neue Vocalsolisten Stuttgart"/>
+			<composed start="1960"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1SACD 20603</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Omaggio a Vedova</name>
+			<description>f&uuml;r Tonband</description>
+			<length>4:28</length>
+			<composed start="1960"/>
+			<recorded start="1960"/>
+			<release>Wergo WER 6229-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Omaggio a Vedova</name>
+			<description>per nastro a quattro piste</description>
+			<length>4:53</length>
+			<composed start="1960"/>
+			<recorded start="1960"/>
+			<release>Stradivarius STR 57001</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Canti di vita e d'amore</name>
+			<description>Sul Ponte di Hiroshima</description>
+			<description>f&uuml;r Sopran- und Tenor-solo und Orchester</description>
+			<length>17:22</length>
+			<instrument name="Sopran">
+				<player name="Slavka Taskova"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Loren Driscoll"/>
+			</instrument>
+			<player name="Sinfonieorchester des Saarl&auml;ndischen Rundfunks, Saarbr&uuml;cken"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1962"/>
+			<recorded start="?"/>
+			<release>Wergo WER 6229-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Djamila Boupach&agrave;</name>
+			<description>soprano solo from Canti di vita e d'amore: Sul ponte di Hiroshima</description>
+			<length>4:53</length>
+			<instrument name="Soprano">
+				<player name="Sophie Boulin"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start=""/>
+			<release>Mode 87</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Djamila Boupach&agrave;</name>
+			<description>for solo soprano</description>
+			<length>4:23</length>
+			<instrument name="Soprano">
+				<player name="Angelika Luz"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1SACD 20603</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Da un diario italiano</name>
+			<description>per due cori</description>
+			<length>7:37</length>
+			<player name="WDR Rundfunkchor K&ouml;ln"/>
+			<conductor>Christoph Adt</conductor>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="1963" end="1964"/>
+			<recorded start="2000"/>
+			<release>h&auml;nssler Classic CD 93.022</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>La fabbrica illuminata</name>
+			<description>f&uuml;r Stimme und Tonband</description>
+			<length>16:36</length>
+			<instrument name="Sopran">
+				<player name="Carla Henius"/>
+			</instrument>
+			<player name="Chor der RAI Mailand"/>
+			<conductor>Giulio Bertola</conductor>
+			<composed start="1964"/>
+			<recorded start="1966" end="1967"/>
+			<release>Wergo WER 6038-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Musiche di scena per Ermittlung</name>
+			<length>22:12</length>
+			<composed start="1965"/>
+			<recorded start="1965"/>
+			<release>Stradivarius STR 57001</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Ricorda cosa ti hanno fatto in Auschwitz</name>
+			<description>f&uuml;r Stimmen und Tonband</description>
+			<length>11:10</length>
+			<instrument name="Sopran">
+				<player name="Stefania Woytowitz"/>
+			</instrument>
+			<player name="Kinderchor des Piccolo Teatro, Mailand"/>
+			<conductor>Marino Zuccheri</conductor>
+			<composed start="1965"/>
+			<recorded start="1966" end="1967"/>
+			<release>Wergo WER 6038-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Ricorda cosa ti hanno fatto in Auschwitz</name>
+			<length>11:15</length>
+			<composed start="1966"/>
+			<recorded start="1966"/>
+			<release>Stradivarius STR 57001</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Ricorda cosa ti hanno fatto in Auschwitz</name>
+			<description>Trasmissione RAI 21 marzo 1970</description>
+			<length>3:20</length>
+			<composed start="1966"/>
+			<recorded start="1970"/>
+			<release>Stradivarius STR 57001</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>A floresta &egrave; jovem e cheja de vida</name>
+			<description>for soprano, three reciters, B-flat clarinet, copper plates and 8-channel tape</description>
+			<description>Texts assembled by Giovanni Pirelli</description>
+			<length>40:28</length>
+			<instrument name="Soprano solo">
+				<player name="Elisabeth Grard"/>
+			</instrument>
+			<instrument name="Clarinet">
+				<player name="Carol Robinson"/>
+			</instrument>
+			<instrument name="Voices">
+				<player name="Vox Nova"/>
+			</instrument>
+			<instrument name="Sound direction/live mix">
+				<player name="Gerard Pape"/>
+			</instrument>
+			<composed start="1965" end="1966"/>
+			<recorded start=""/>
+			<release>Mode 87</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Per Bastiana</name>
+			<description>Tai-Yang Cheng</description>
+			<description>f&uuml;r Orchester und Tonband</description>
+			<length>15:07</length>
+			<player name="Radio-Symphonie-Orchester, Berlin"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1967"/>
+			<recorded start="?"/>
+			<release>Wergo WER 6229-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Contrappunto dialettico alla mente</name>
+			<description>per nastro magnetico</description>
+			<length>19:51</length>
+			<instrument name="Soprano">
+				<player name="Liliana Poli"/>
+			</instrument>
+			<instrument name="">
+				<player name="Cadigia Bove"/>
+				<player name="Marisa Mazzoni"/>
+			</instrument>
+			<instrument name="Voci">
+				<player name="Elena Vicini"/>
+				<player name="Umberto Troni"/>
+			</instrument>
+			<player name="Coro da camera della RAI, Roma"/>
+			<conductor>Nino Antonellini</conductor>
+			<composed start="1968"/>
+			<recorded start="1970??"/>
+			<release>Deutsche Grammophon 423248-2</release>
+			<released>1988</released>
+		</composition>
+		<composition>
+			<name>Contrappunto dialettico alla mente</name>
+			<length>19:55</length>
+			<composed start="1967" end="1968"/>
+			<recorded start="1968"/>
+			<release>Stradivarius STR 57001</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Contrappunto dialettico alla mente</name>
+			<description>Trasmissione RAI 17 novembre 1968</description>
+			<length>23:56</length>
+			<composed start="1967" end="1968"/>
+			<recorded start="1968"/>
+			<release>Stradivarius STR 57001</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Musiche per Manz&ugrave;</name>
+			<length>17:18</length>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Stradivarius STR 57001</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Como una ola de fuerza y luz</name>
+			<description>per soprano, pianoforte, orchestra e nastro magnetico</description>
+			<length>29:58</length>
+			<instrument name="Soprano">
+				<player name="Slavka Taskova"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Maurizio Pollini"/>
+			</instrument>
+			<player name="Symphonie-Orchester des Bayerischen Rundfunks"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1971" end="1972"/>
+			<recorded start="1973"/>
+			<release>Deutsche Grammophon 423248-2</release>
+			<released>1988</released>
+		</composition>
+		<composition>
+			<name>F&uuml;r Paul Dessau</name>
+			<length>7:07</length>
+			<composed start="1974"/>
+			<recorded start="1974"/>
+			<release>Stradivarius STR 57001</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>...sofferte onde serene...</name>
+			<description>per pianoforte e nastro magnetico</description>
+			<length>13:58</length>
+			<instrument name="Piano">
+				<player name="Maurizio Pollini"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1978"/>
+			<release>Deutsche Grammophon 423248-2</release>
+			<released>1988</released>
+		</composition>
+		<composition>
+			<name>...sofferte onde serene...</name>
+			<description>f&uuml;r Klavier und Zweispur-Tonband</description>
+			<length>13:58</length>
+			<instrument name="Klavier">
+				<player name="Markus Hinterh&auml;user"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Andr&eacute; Richard"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 1CD 31871</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Con Luigi Dallapiccola</name>
+			<description>f&uuml;r sechs Schlagzeuger, vier Pickups, drei Ringmodulatoren und drei Frequenzgeneratoren</description>
+			<length>19:11</length>
+			<instrument name="Schlagzeug">
+				<player name="Bj&ouml;rn Wilker"/>
+				<player name="Robyn Schulkowsky"/>
+				<player name="Lukas Schiske"/>
+				<player name="Charly Fischer"/>
+				<player name="Michael Kinn"/>
+				<player name="Niklas Brommare"/>
+			</instrument>
+			<instrument name="Klangsteuerung">
+				<player name="Peter B&ouml;hm"/>
+			</instrument>
+			<instrument name="Einstudierung">
+				<player name="Robyn Schulkowsky"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 1CD 31871</release>
+			<released>1994</released>
+		</composition>
+		<composition score="Y">
+			<name>Fragmente - Stille, An Diotima</name>
+			<description>f&uuml;r Streichquartett</description>
+			<length>35:51</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1979" end="1980"/>
+			<recorded start="1990"/>
+			<release>Montaigne 789005</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Das atmende Klarsein</name>
+			<description>f&uuml;r kleinen Chor, Ba&szlig;fl&ouml;te, Live-Elektronik und Tonband</description>
+			<length>44:40</length>
+			<player name="Mitglieder des S&uuml;dfunk-Chors Stuttgart"/>
+			<instrument name="Einstudierung">
+				<player name="Rupert Huber"/>
+			</instrument>
+			<instrument name="Ba&szlig;fl&ouml;te">
+				<player name="Eva Furrer"/>
+			</instrument>
+			<instrument name="Klangsteuerung">
+				<player name="Peter B&ouml;hm"/>
+			</instrument>
+			<conductor>Beat Furrer</conductor>
+			<composed start="1980" end="1981"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 1CD 31871</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Das atmende Klarsein</name>
+			<description>for small chorus, bass flute, live electronics and tape</description>
+			<length>38:34</length>
+			<instrument name="Bass flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<player name="Solistenchor Freiburg"/>
+			<instrument name="Sound direction">
+				<player name="Michael Acker"/>
+				<player name="Reinhold Braig"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<conductor>Andr&eacute; Richard</conductor>
+			<composed start="1980" end="1983"/>
+			<recorded start="2001"/>
+			<release>Col Legno WWE 2SACD 20600</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Das atmende Klarsein</name>
+			<description>per piccolo coro, fiauto basso, live-electronic</description>
+			<length>36:35</length>
+			<instrument name="Bassfl&ouml;te">
+				<player name="Eva Furrer"/>
+			</instrument>
+			<instrument name="Live-Electronik">
+				<player name="Peter B&ouml;hm"/>
+			</instrument>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="1980" end="1983"/>
+			<recorded start="1993"/>
+			<release>h&auml;nssler Classic CD 93.022</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Io, frammento da Prometeo</name>
+			<description>for 3 sopranos, small chorus, bass flute, contrabass clarinet and live electronics</description>
+			<length>1:12:33</length>
+			<instrument name="High soprano">
+				<player name="Katia Plaschka"/>
+			</instrument>
+			<instrument name="Sopranos">
+				<player name="Petra Hoffmann"/>
+				<player name="Monika Bair-Ivenz"/>
+			</instrument>
+			<instrument name="Bass flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="Contrabass clarinet">
+				<player name="Ciro Scarponi"/>
+			</instrument>
+			<player name="Solistenchor Freiburg"/>
+			<instrument name="Sound direction">
+				<player name="Michael Acker"/>
+				<player name="Reinhold Braig"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<conductor>Andr&eacute; Richard</conductor>
+			<composed start="1981"/>
+			<recorded start="2001"/>
+			<release>Col Legno WWE 2SACD 20600</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Quando stanno morendo, Diario Polacco 2&ordm;</name>
+			<description>per quattro voci femminili, flauto, violoncello e live electronics</description>
+			<length>33:30</length>
+			<instrument name="">
+				<player name="Ingrid Ade"/>
+				<player name="Monika Bayr-Ivenz"/>
+			</instrument>
+			<instrument name="Soprani">
+				<player name="Monika Brustmann"/>
+			</instrument>
+			<instrument name="Contralto">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="Flauto">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Christine Theus"/>
+			</instrument>
+			<conductor>Roberto Cecconi</conductor>
+			<instrument name="Regia del suono">
+				<player name="Luigi Nono"/>
+				<player name="Hans Peter Haller"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1982"/>
+			<recorded start="1985"/>
+			<release>Ricordi CRMCD 1003</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Quando stanno morendo, Diario Polacco No. 2</name>
+			<description>f&uuml;r 4 Frauenstimmen, Ba&szlig;fl&ouml;te, Violoncello und Live-Elektronik</description>
+			<length>35:34</length>
+			<instrument name="Sopran">
+				<player name="Monika Bair-Ivenz"/>
+				<player name="Petra Hoffman"/>
+				<player name="Elisabeth Rave"/>
+			</instrument>
+			<instrument name="Alt">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="Ba&szlig;fl&ouml;te">
+				<player name="Martin Fahlenbock"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Lukas Fels"/>
+			</instrument>
+			<conductor>Andr&eacute; Richard</conductor>
+			<instrument name="Klangregie">
+				<player name="Hans Peter Haller"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1982"/>
+			<recorded start="1997"/>
+			<release>Col Legno WWE 3CD 20025</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Quando stanno morendo, Diario Polacco n. 2</name>
+			<description>for 4 female voices, bass flute, violoncello and live electronics</description>
+			<length>42:01</length>
+			<composed start="1982"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1SACD 20603</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Guai ai gelidi mostri</name>
+			<description>for flute, clarinet, tuba, two contraltos, viola, cello, double-bass and live electronics</description>
+			<length>43:28</length>
+			<player name="Ensemble Recherche"/>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1983"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782047</release>
+			<released>1995</released>
+		</composition>
+		<composition score="Y">
+			<name>A Carlo Scarpa, architetto, ai suoi infiniti possibili</name>
+			<description>pour orchestre</description>
+			<length>9:40</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1984"/>
+			<recorded start="1989"/>
+			<release>Astr&eacute;e-Auvidis E 8741</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Prometeo - Tragedia dell'ascolto</name>
+			<description>for ensemble, vocal soloists, speakers and live electronics</description>
+			<length>2:13:33</length>
+			<player name="Ensemble Modern"/>
+			<player name="Solistenchor Freiburg"/>
+			<conductor>Ingo Metzmacher, Peter Rundel</conductor>
+			<instrument name="Sound direction">
+				<player name="Andr&eacute; Richard"/>
+				<player name="Hans-Peter Haller"/>
+				<player name="Rudolf Strau&szlig;"/>
+				<player name="Rudolf Breitenfeld"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1984" end="1985"/>
+			<recorded start="1993"/>
+			<release>EMI/Ricordi 5 55209 2</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Prometeo - Tragedia dell'ascolto</name>
+			<description>for singers, speakers, chorus, solo strings, solo winds, glasses, orchestral groups and live electronics</description>
+			<length>2:14:32</length>
+			<player name="Ensemble Recherche"/>
+			<player name="Solistenchor Freiburg"/>
+			<conductor>Peter Hirsch, Kwam&eacute; Ryan</conductor>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<instrument name="Sound direction">
+				<player name="Andr&eacute; Richard"/>
+			</instrument>
+			<composed start="1981" end="1985"/>
+			<recorded start="2003"/>
+			<release>Col Legno WWE 2SACD 20605</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>A Pierre, Dell'Azzurro Silenzio, Inquietum</name>
+			<description>a pi&ugrave; cori, per flauto contrabbasso in Sol, clarinetto contrabasso in Si bemolle e live electronics</description>
+			<length>9:43</length>
+			<instrument name="Flauto">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="Clarinetto">
+				<player name="Ciro Scarponi"/>
+			</instrument>
+			<instrument name="Regia del suono">
+				<player name="Luigi Nono"/>
+				<player name="Hans Peter Haller"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1985"/>
+			<recorded start="1985"/>
+			<release>Ricordi CRMCD 1003</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Omaggio a Gy&ouml;rgy Kurt&aacute;g</name>
+			<description>for contralto, flute, clarinet, tuba and live electronics</description>
+			<length>17:20</length>
+			<player name="Ensemble Recherche"/>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1983" end="1986"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782047</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Donde estas hermano?</name>
+			<description>for 2 sopranos, mezzo soprano and contralto</description>
+			<length>5:19</length>
+			<composed start="1986"/>
+			<recorded start=""/>
+			<release>Mode 87</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>D&oacute;nde est&aacute;s, hermano?</name>
+			<description>for 4 female voices</description>
+			<length>5:33</length>
+			<composed start="1982"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1SACD 20603</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Caminantes... Ayacucho</name>
+			<description>for mezzo-soprano, flute, small and large choir, organ, three orchestral groups and live electronics</description>
+			<length>34:33</length>
+			<instrument name="Mezzo-soprano">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="Flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<player name="Experimentalstudio f&uuml;r akustische Kunst e.V."/>
+			<player name="Solistenchor Freiburg"/>
+			<conductor>Andr&eacute; Richard</conductor>
+			<player name="WDR Rundfunkchor K&ouml;ln"/>
+			<conductor>J&ouml;rg Ritter</conductor>
+			<player name="WDR Sinfonieorchester K&ouml;ln"/>
+			<conductor>Emilio Pom&aacute;rico</conductor>
+			<composed start="1986" end="1987"/>
+			<recorded start="2004"/>
+			<release>Kairos 0012512KAI</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>No hay caminos, hay que caminar... Andrei Tarkovskij</name>
+			<description>pour sept groupes instrumentaux</description>
+			<length>24:00</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1987"/>
+			<recorded start="1989"/>
+			<release>Astr&eacute;e-Auvidis E 8741</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>No hay caminos, hay que caminar... Andrej Tarkowskij</name>
+			<description>for seven orchestral groups</description>
+			<length>24:21</length>
+			<player name="WDR Sinfonieorchester K&ouml;ln"/>
+			<conductor>Emilio Pom&aacute;rico</conductor>
+			<composed start="1987"/>
+			<recorded start="2004"/>
+			<release>Kairos 0012512KAI</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Post-Prae-Ludium</name>
+			<description>f&uuml;r Tuba und Live-Elektronik</description>
+			<length>13:37</length>
+			<instrument name="Tuba">
+				<player name="Giancarlo Schiaffini"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>Col Legno CD1 31907</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Post-Prae-Ludium per Donau</name>
+			<description>per tuba e live electronics</description>
+			<length>13:38</length>
+			<instrument name="Tuba">
+				<player name="Giancarlo Schiaffini"/>
+			</instrument>
+			<instrument name="Live Electronics">
+				<player name="Alvise Vidolin"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1987"/>
+			<recorded start="1991"/>
+			<release>Ricordi CRMCD 1003</release>
+			<released>1991</released>
+		</composition>
+		<composition score="Y">
+			<name>La lontananza nostalgica utopica futura</name>
+			<description>per violino solo e nastro ad otto piste preregistrato</description>
+			<length>59:49</length>
+			<instrument name="Violino">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Proiezione sonora">
+				<player name="Andr&eacute; Richard"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1988"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782004</release>
+			<released>1992</released>
+		</composition>
+		<composition score="Y">
+			<name>La lontananza nostalgica utopica futura</name>
+			<description>per violino solo e nastro ad otto piste preregistrato</description>
+			<length>61:40</length>
+			<instrument name="Violine">
+				<player name="Melise Mellinger"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Salvatore Sciarrino"/>
+			</instrument>
+			<player name="WDR, K&ouml;ln"/>
+			<composed start="1988"/>
+			<recorded start="1991"/>
+			<release>Kairos 0012102KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition score="Y">
+			<name>"Hay que caminar" sognando</name>
+			<description>f&uuml;r zwei Violinen</description>
+			<length>27:40</length>
+			<instrument name="Violino">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Violino">
+				<player name="David Alberman"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1990"/>
+			<release>Montaigne 789005</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>"Hay que caminar" sognando</name>
+			<description>for two violins</description>
+			<length>26:37</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Graeme Jennings"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2004"/>
+			<release>Kairos 0012512KAI</release>
+			<released>2007</released>
+		</composition>
+	</composer>
+	<composer name="Robert" surname="Normandeau" born="1955" died="">
+		<composition>
+			<name>Le cap de la tourmente</name>
+			<length>7:24</length>
+			<composed start="1984" end="1985"/>
+			<recorded start="1985"/>
+			<release>Rephlex CAT 116 CD</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Matrechka</name>
+			<length>13:52</length>
+			<part>
+				<number>1</number>
+				<name>Chaos</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Gris acier</name>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Outremer</name>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Terre de Sienne br&ucirc;l&eacute;e</name>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Bleu de Cobalt</name>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Pourpre</name>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Terre d'Ombre</name>
+			</part>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>Rephlex CAT 116 CD</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>B&eacute;d&eacute;</name>
+			<length>3:00</length>
+			<composed start="1990"/>
+			<recorded start="1990"/>
+			<release>Rephlex CAT 116 CD</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>&Eacute;clats de voix</name>
+			<length>14:45</length>
+			<part>
+				<number>1</number>
+				<name>Play and Rhythm</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Tenderness and Timbre</name>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Anger and Dynamics</name>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Sadness and Space</name>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Joy and Texture</name>
+			</part>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Rephlex CAT 116 CD</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Spleen</name>
+			<length>14:50</length>
+			<part>
+				<number>1</number>
+				<name>Music and Rhythm</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Melancholy and Timbre</name>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Anger and Dynamics</name>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Frustration and Space</name>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Frenzy and Texture</name>
+			</part>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Rephlex CAT 116 CD</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Le renard et la rose</name>
+			<length>14:48</length>
+			<part>
+				<number>1</number>
+				<name>Babillage et rythme</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Nostalgie et timbre</name>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Col&egrave;re et dynamique</name>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Lassitude et espace</name>
+			</part>
+			<part>
+				<number>5</number>
+				<name>S&eacute;r&eacute;nit&eacute; et texture</name>
+			</part>
+			<composed start="1995"/>
+			<recorded start="1995"/>
+			<release>empreintes DIGITALes IMED 9944</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Figures de rh&eacute;torique</name>
+			<description>pour bande et piano</description>
+			<length>13:37</length>
+			<instrument name="Piano">
+				<player name="Jacques Drouin"/>
+			</instrument>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>empreintes DIGITALes IMED 9944</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Venture</name>
+			<length>19:15</length>
+			<part>
+				<number>1</number>
+				<name>Introduction</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Innocence</name>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Stabilit&eacute;</name>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Tension</name>
+			</part>
+			<part>
+				<number>5</number>
+				<name>D&eacute;lire</name>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Violence</name>
+			</part>
+			<part>
+				<number>7</number>
+				<name>S&eacute;r&eacute;nit&eacute;</name>
+			</part>
+			<composed start="1996" end="1998"/>
+			<recorded start="1998"/>
+			<release>empreintes DIGITALes IMED 9944</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Ellipse</name>
+			<length>12:00</length>
+			<composed start="1997" end="1999"/>
+			<recorded start="1999"/>
+			<release>Rephlex CAT 116 CD</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Ellipse</name>
+			<length>11:59</length>
+			<composed start="1997" end="1999"/>
+			<recorded start="1999"/>
+			<release>empreintes DIGITALes IMED 9944</release>
+			<released>1999</released>
+		</composition>
+	</composer>
+	<composer name="Emmanuel" surname="Nunes" born="1941" died="">
+		<composition>
+			<name>Litanies du feu et de la mer I</name>
+			<length>25:28</length>
+			<instrument name="Piano">
+				<player name="Madalena Soveral"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1991"/>
+			<release>Numerica NUM 1007</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Litanies du feu et de la mer II</name>
+			<length>20:55</length>
+			<instrument name="Piano">
+				<player name="Madalena Soveral"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1991"/>
+			<release>Numerica NUM 1007</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Wandlungen</name>
+			<description>F&uuml;nf Passacaglien f&uuml;r 25 Instrumente und Live-Elektronik</description>
+			<length>32:17</length>
+			<player name="Ensemble Modern der Jungen Deutschen Philharmonie"/>
+			<conductor>Ernest Bour</conductor>
+			<instrument name="Klangregie">
+				<player name="Hans Peter Haller"/>
+				<player name="Andr&eacute; Richard"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1985" end="1986"/>
+			<recorded start="1986"/>
+			<release>Col Legno WWE 3CD 20025</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Versus III</name>
+			<description>pour fl&ucirc;te en sol et alto</description>
+			<length>12:57</length>
+			<instrument name="Fl&ucirc;te">
+				<player name="Emmanuelle Oph&egrave;le"/>
+			</instrument>
+			<instrument name="Alto">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1987" end="1990"/>
+			<recorded start="2007"/>
+			<release>Aeon AECD 0756</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Lichtung I</name>
+			<description>pour ensemble et &eacute;lectronique</description>
+			<length>23:20</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Jonathan Nott</conductor>
+			<composed start="1988" end="1991"/>
+			<recorded start="2001"/>
+			<release>Accord IRCAM LC 00280</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Quodlibet</name>
+			<description>for 6 percussionists, 28 instruments and orchestra</description>
+			<length>56:21</length>
+			<player name="Ensemble Modern"/>
+			<player name="Orquestra Gulbenkian Lisboa"/>
+			<conductor>Kasper de Roo, Emilio Pom&aacute;rico</conductor>
+			<composed start="1990" end="1991"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782055</release>
+			<released>1995</released>
+		</composition>
+		<composition score="Y">
+			<name>Machina Mundi</name>
+			<description>for mixed chorus, 4 soloists, orchestra and tape, after Luis de Cam&otilde;es' "Os Lus&iacute;adas"</description>
+			<length>1:07:05</length>
+			<instrument name="Flute">
+				<player name="Pierre-Yves Artaud"/>
+			</instrument>
+			<instrument name="Clarinet">
+				<player name="Ernesto Molinari"/>
+			</instrument>
+			<instrument name="Tuba">
+				<player name="G&eacute;rard Buquet"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Claire Talibart"/>
+			</instrument>
+			<player name="Coro e Orquestra Gulbenkian Lisboa"/>
+			<conductor>Fabrice Bollon</conductor>
+			<composed start="1990" end="1992"/>
+			<recorded start="1992"/>
+			<release>Montaigne 782020</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Lichtung II</name>
+			<description>pour ensemble et &eacute;lectronique</description>
+			<length>30:32</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Jonathan Nott</conductor>
+			<composed start="1994" end="2000"/>
+			<recorded start="2001"/>
+			<release>Accord IRCAM LC 00280</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Improvisation II - Portrait</name>
+			<description>pour alto seul</description>
+			<length>21:44</length>
+			<instrument name="Alto">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2007"/>
+			<release>Aeon AECD 0756</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>La Main noire</name>
+			<description>pour trois altos</description>
+			<length>8:39</length>
+			<instrument name="Alto">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>Aeon AECD 0756</release>
+			<released>2007</released>
+		</composition>
+	</composer>
+</list>

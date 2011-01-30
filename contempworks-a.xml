@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Peter" surname="Ablinger" born="1959" died="">
+		<composition>
+			<name>IEAOV Instrumente und ElektroAkustisch Ortsbezogene Verdichtung</name>
+			<description>f&uuml;r 2 Posaunen und 2 Violoncelli</description>
+			<length>22:29</length>
+			<instrument name="Posaune">
+				<player name="Michael Svoboda"/>
+				<player name="Andrew Digby"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Gregory Johns"/>
+				<player name="Scott Roller"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel-Stiftung des S&uuml;dwestfunks Freiburg"/>
+			<instrument name="Musikinformatik und Klangregie">
+				<player name="Kent Clelland"/>
+				<player name="Joachim Haas"/>
+				<player name="Thomas Hummel"/>
+				<player name="Andr&eacute; Richard"/>
+				<player name="Peter Ablinger"/>
+			</instrument>
+			<composed start="1995" end="1997"/>
+			<recorded start="1997"/>
+			<release>Col Legno WWE 3CD 20026</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Mathew" surname="Adkins" born="1972" died="">
+		<composition>
+			<name>Melt</name>
+			<description>Mondes inconnus</description>
+			<length>11:41</length>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Mapping</name>
+			<description>Mondes inconnus</description>
+			<length>14:19</length>
+			<composed start="1995" end="1997"/>
+			<recorded start="1997"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Deepfield</name>
+			<description>Mondes inconnus</description>
+			<length>12:22</length>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Still Time</name>
+			<description>Mondes inconnus</description>
+			<length>8:52</length>
+			<instrument name="flute">
+				<player name="Alejandro Escuer"/>
+			</instrument>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Aerial</name>
+			<description>Mondes inconnus</description>
+			<length>9:40</length>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Symbiont</name>
+			<description>Mondes inconnus</description>
+			<length>9:01</length>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Cortex</name>
+			<description>Mondes inconnus</description>
+			<length>9:05</length>
+			<composed start="2004" end="2005"/>
+			<recorded start="2005"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Silk to Steel</name>
+			<description>Mondes inconnus</description>
+			<length>10:36</length>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>empreintes DIGITALes IMED 0679</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Pedro" surname="Amaral" born="1972" died="">
+		<composition>
+			<name>...Textos, Par&aacute;frases, Perspectivas...</name>
+			<description>for piano and 9 instruments</description>
+			<length>19:35</length>
+			<player name="London Sinfonietta"/>
+			<conductor>Pedro Amaral</conductor>
+			<composed start="1994" end="1996"/>
+			<recorded start="2006"/>
+			<release>CGF CD1001</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Spirales</name>
+			<description>for 16 instruments</description>
+			<length>8:28</length>
+			<player name="London Sinfonietta"/>
+			<conductor>Pedro Amaral</conductor>
+			<composed start="1998"/>
+			<recorded start="2006"/>
+			<release>CGF CD1001</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Organa</name>
+			<description>for 8 instruments</description>
+			<length>14:14</length>
+			<player name="London Sinfonietta"/>
+			<conductor>Pedro Amaral</conductor>
+			<composed start="2001"/>
+			<recorded start="2006"/>
+			<release>CGF CD1001</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Paraphrase</name>
+			<description>for 17 instruments</description>
+			<length>18:21</length>
+			<player name="London Sinfonietta"/>
+			<conductor>Pedro Amaral</conductor>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>CGF CD1001</release>
+			<released>2007</released>
+		</composition>
+	</composer>
+	<composer name="Martin" surname="Amlin" born="1953" died="">
+		<composition>
+			<name>Time's Caravan</name>
+			<length>11:31</length>
+			<player name="John Oliver Chorale"/>
+			<conductor>John Oliver</conductor>
+			<composed start="1988"/>
+			<recorded start="1992"/>
+			<release>Koch 3-7178-2H1</release>
+			<released>1994</released>
+		</composition>
+	</composer>
+	<composer name="Marc" surname="Andr&eacute;" born="1964" died="">
+		<composition>
+			<name>AB II</name>
+			<description>f&uuml;r Kontraba&szlig;klarinette, Violoncello, Cymbalon, Schlagzeug, Klavier und Live-Elektronik</description>
+			<length>24:55</length>
+			<player name="Ensemble Recherche"/>
+			<instrument name="Klangregie">
+				<player name="Andr&eacute; Richard"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>Col Legno WWE 3CD 20025</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Georges" surname="Aperghis" born="1945" died="">
+		<composition>
+			<name>Triangle Carr&eacute;</name>
+			<description>pour 4 cordes et 3 percussions</description>
+			<length>22:44</length>
+			<player name="Arditti String Quartet"/>
+			<player name="Trio Le Cercle"/>
+			<composed start="1989"/>
+			<recorded start="1990"/>
+			<release>Montaigne 782002</release>
+			<released>1991</released>
+		</composition>
+	</composer>
+	<composer name="B&uuml;lent" surname="Arel" born="1919" died="">
+		<composition>
+			<name>Stereo Electronic Music No. 2</name>
+			<length>14:18</length>
+			<player name="Columbia-Princeton Electronic Music Center"/>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>CRI CD611</release>
+			<released>1991</released>
+		</composition>
+	</composer>
+	<composer name="Anneli" surname="Arho" born="1951" died="">
+		<composition>
+			<name>Minos'</name>
+			<length>8:25</length>
+			<instrument name="Cravo">
+				<player name="Jukka Tiensuu"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="?"/>
+			<release>Finlandia FACD 367</release>
+			<released/>
+		</composition>
+	</composer>
+	<composer name="Ram&oacute;n" surname="Gonzales-Arroyo" born="" died="">
+		<composition>
+			<name>De la distance</name>
+			<description>pour contrebasse et bande magn&eacute;tique</description>
+			<length>6:01</length>
+			<instrument name="contrebasse">
+				<player name="Jean-Pierre Robert"/>
+			</instrument>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Philippe" surname="Arthuys" born="1928" died="">
+		<composition>
+			<name>Bo&icirc;te &agrave; musique</name>
+			<length>2:55</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="1955"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+</list>

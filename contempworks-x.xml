@@ -1,0 +1,1300 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Iannis" surname="Xenakis" born="1922" died="2001">
+		<composition>
+			<name>Metastasis</name>
+			<length>8:55</length>
+			<player name="Orchestre National de l'O.R.T.F."/>
+			<conductor>Maurice Le Roux</conductor>
+			<composed start="1953" end="1954"/>
+			<recorded start="1965"/>
+			<release>Chant du Monde LDC 278368</release>
+			<released/>
+		</composition>
+		<composition>
+			<name>Metastaseis</name>
+			<length>7:35</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1954"/>
+			<recorded start="2006"/>
+			<release>Timpani 1C1113</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Metastaseis</name>
+			<length>8:26</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Hans Rosbaud</conductor>
+			<composed start="1955"/>
+			<recorded start="1955"/>
+			<release>Col Legno CD1 31908</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Pithoprakta</name>
+			<length>9:45</length>
+			<player name="Orchestre National de l'O.R.T.F."/>
+			<conductor>Maurice Le Roux</conductor>
+			<composed start="1955" end="1956"/>
+			<recorded start="1965"/>
+			<release>Chant du Monde LDC 278368</release>
+			<released/>
+		</composition>
+		<composition>
+			<name>Pithoprakta</name>
+			<length>10:35</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1956"/>
+			<recorded start="2006"/>
+			<release>Timpani 1C1113</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>ST/4</name>
+			<description>for string quartet</description>
+			<length>11:11</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1955" end="1962"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>ST/4-1,080262</name>
+			<description>for string quartet</description>
+			<length>12:56</length>
+			<player name="The JACK Quartet"/>
+			<composed start="1956" end="1962"/>
+			<recorded start="2008"/>
+			<release>Mode 209</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Achorripsis</name>
+			<description>f&uuml;r 21 Instrumente</description>
+			<length>5:19</length>
+			<player name="Ensemble Instrumental de Musique Contemporaine de Paris"/>
+			<conductor>Konstantin Simonovich</conductor>
+			<composed start="1956" end="1957"/>
+			<recorded start=""/>
+			<release>RZ 1015-16</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Diamorphoses</name>
+			<length>6:53</length>
+			<player name="GRM, Paris"/>
+			<composed start="1957"/>
+			<recorded start="1957"/>
+			<release>INA/EMF</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Concret PH</name>
+			<length>2:42</length>
+			<player name="GRM, Paris"/>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA/EMF</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Concret PH</name>
+			<length>2:39</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Syrmos</name>
+			<description>for 18 strings</description>
+			<length>11:08</length>
+			<player name="Ensemble Resonanz"/>
+			<composed start="1959"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<release>Mode 152</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Syrmos</name>
+			<description>f&uuml;r 18 Streicher</description>
+			<length>11:38</length>
+			<player name="Ensemble Ars Nova de l'ORTF"/>
+			<conductor>Marius Constant</conductor>
+			<composed start="1965" end="1966"/>
+			<recorded start=""/>
+			<release>RZ 1015-16</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Analogique A+B</name>
+			<description>for 9 strings and tape</description>
+			<length>6:38</length>
+			<player name="Ensemble Resonanz"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="1959"/>
+			<release>Mode 152</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>ST/48-1,240162</name>
+			<description>f&uuml;r Orchester</description>
+			<length>8:22</length>
+			<player name="WDR Sinfonieorchester K&ouml;ln"/>
+			<conductor>Michel Tabachnik</conductor>
+			<composed start="1959" end="1962"/>
+			<recorded start="1974"/>
+			<release>RZ 1015-16</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>ST/48</name>
+			<length>10:40</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1956"/>
+			<recorded start="2006"/>
+			<release>Timpani 1C1113</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Achorripsis</name>
+			<length>6:38</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1957"/>
+			<recorded start="2006"/>
+			<release>Timpani 1C1113</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Syrmos</name>
+			<length>12:16</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1959"/>
+			<recorded start="2006"/>
+			<release>Timpani 1C1113</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>NEG-ALE</name>
+			<description>for piccolo, horn, cello and percussion</description>
+			<length>8:08</length>
+			<composed start="1960"/>
+			<recorded start="?"/>
+			<release>Mode 203</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Orient-Occident</name>
+			<length>10:56</length>
+			<player name="GRM, Paris"/>
+			<composed start="1960"/>
+			<recorded start="1960"/>
+			<release>INA/EMF</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Herma</name>
+			<description>for solo piano</description>
+			<length>7:13</length>
+			<instrument name="Piano">
+				<player name="Claude Helffer"/>
+			</instrument>
+			<composed start="1960" end="1961"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Herma</name>
+			<description>for piano, realised by computer</description>
+			<length>6:39</length>
+			<instrument name="MIDI programming">
+				<player name="Daniel Grossmann"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="2008"/>
+			<release>Neos 10707</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Morsima-Amorsima</name>
+			<description>for piano, violin, cello and double-bass</description>
+			<length>10:55</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<player name="Callithumpian Consort"/>
+			<conductor>Stephen Drury</conductor>
+			<composed start="1962"/>
+			<recorded start="2008"/>
+			<release>Mode 217</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Bohor</name>
+			<length>21:36</length>
+			<player name="GRM, Paris"/>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>INA/EMF</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Eonta</name>
+			<description>for piano solo, 2 trumpets and 2 trombones</description>
+			<length>17:49</length>
+			<instrument name="Piano">
+				<player name="Justin Rubin"/>
+			</instrument>
+			<player name="ST-X Ensemble"/>
+			<conductor>Charles Zachary Bornstein</conductor>
+			<composed start="1962" end="1964"/>
+			<recorded start="1995"/>
+			<release>Mode 53</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Eonta</name>
+			<description>for piano, 2 trumpets and 3 trombones</description>
+			<length>22:20</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<player name="Callithumpian Consort"/>
+			<conductor>Stephen Drury</conductor>
+			<composed start="1963"/>
+			<recorded start="2009"/>
+			<release>Mode 217</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Eonta</name>
+			<description>pour piano, 2 trompettes et 3 trombones</description>
+			<length>19:40</length>
+			<instrument name="Piano">
+				<player name="Yuji Takahashi"/>
+			</instrument>
+			<instrument name="Trompettes">
+				<player name="P. Thibault"/>
+				<player name="L. Longo"/>
+			</instrument>
+			<instrument name="Trombones">
+				<player name="J. Toulon"/>
+				<player name="G. Moisan"/>
+				<player name="M. Chapellier"/>
+			</instrument>
+			<player name="Ensemble Instrumental de Musique Contemporaine de Paris"/>
+			<conductor>Konstantin Simonovic</conductor>
+			<composed start="1963" end="1964"/>
+			<recorded start="1965"/>
+			<release>Chant du Monde LDC 278368</release>
+			<released/>
+		</composition>
+		<composition>
+			<name>Hiketides</name>
+			<length>12:03</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1964"/>
+			<recorded start="2006"/>
+			<release>Timpani 1C1113</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Akrata</name>
+			<description>for 8 winds and 8 brass</description>
+			<length>11:28</length>
+			<player name="ST-X Ensemble"/>
+			<conductor>Charles Zachary Bornstein</conductor>
+			<composed start="1964" end="1965"/>
+			<recorded start="1996"/>
+			<release>Mode 56</release>
+			<released>1996</released>
+		</composition>	
+		<composition>
+			<name>Akrata</name>
+			<length>10:30</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1965"/>
+			<recorded start="2004"/>
+			<release>Timpani 1C1136</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Terretektorh</name>
+			<description>f&uuml;r im Publikumsraum verteiltes Orchester</description>
+			<length>15:17</length>
+			<player name="Orchestre Philharmonique de l'ORTF"/>
+			<conductor>Charles Br&uuml;ck</conductor>
+			<composed start="1965" end="1966"/>
+			<recorded start=""/>
+			<release>RZ 1015-16</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Nomos Alpha</name>
+			<description>for solo cello</description>
+			<length>15:22</length>
+			<player name="Member of the Arditti String Quartet"/>
+			<composed start="1966"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Nomos Alpha</name>
+			<description>pour violoncelle</description>
+			<length>12:33</length>
+			<instrument name="Violoncelle">
+				<player name="Pierre Strauch"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1990"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Polytope de Montr&eacute;al</name>
+			<description>f&uuml;r Orchester</description>
+			<length>6:18</length>
+			<player name="Ensemble Ars Nova de l'ORTF"/>
+			<conductor>Marius Constant</conductor>
+			<composed start="1967"/>
+			<recorded start=""/>
+			<release>RZ 1015-16</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Nomos Gamma</name>
+			<description>f&uuml;r im Publikumsraum verteiltes Orchester</description>
+			<length>15:17</length>
+			<player name="Orchestre Philharmonique de l'ORTF"/>
+			<conductor>Charles Br&uuml;ck</conductor>
+			<composed start="1967" end="1968"/>
+			<recorded start=""/>
+			<release>RZ 1015-16</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Persephassa</name>
+			<description>for six percussionists</description>
+			<length>26:35</length>
+			<composed start="1969"/>
+			<recorded start="1996"/>
+			<release>Mode 58</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Hibiki-Hana-Ma</name>
+			<length>17:39</length>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>INA/EMF</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Hibiki-Hana-Ma</name>
+			<length>17:45</length>
+			<composed start="1969" end="1970"/>
+			<recorded start="1969" end="1970"/>
+			<release>Mode 203</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Persepolis</name>
+			<description>pour bande magn&eacute;tique 8 pistes</description>
+			<length>55:06</length>
+			<composed start="1971"/>
+			<recorded start="2000"/>
+			<release>FractalOX</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Persepolis (version avec mouvement)</name>
+			<length>50:49</length>
+			<composed start="1971"/>
+			<recorded start=""/>
+			<release>RZ 1015-16</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Antikhthon</name>
+			<length>17:34</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1971"/>
+			<recorded start="2001"/>
+			<release>Timpani 1C1062</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Mikka</name>
+			<description>for solo violin</description>
+			<length>3:58</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Aroura</name>
+			<description>for 12 strings</description>
+			<length>10:57</length>
+			<player name="Ensemble Resonanz"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="1971"/>
+			<release>Mode 152</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Polytope de Cluny</name>
+			<description>for tape</description>
+			<length>24:45</length>
+			<player name="CEMAMu, Paris"/>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Polytope de Cluny</name>
+			<length>24:25</length>
+			<composed start="1972"/>
+			<recorded start=""/>
+			<release>RZ 1015-16</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Polytope de Cluny</name>
+			<length>24:26</length>
+			<composed start="1972" end="1974"/>
+			<recorded start="1972" end="1974"/>
+			<release>Mode 203</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Eridanos</name>
+			<length>11:10</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1972"/>
+			<recorded start="2002"/>
+			<release>Timpani 1C1131</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Evryali</name>
+			<description>for solo piano</description>
+			<length>11:11</length>
+			<instrument name="Piano">
+				<player name="Claude Helffer"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Evryali</name>
+			<description>for piano, realised by computer</description>
+			<length>7:43</length>
+			<instrument name="MIDI programming">
+				<player name="Daniel Grossmann"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="2008"/>
+			<release>Neos 10707</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Erikhton</name>
+			<length>17:21</length>
+			<instrument name="Piano">
+				<player name="Hiroaki Oo&iuml;"/>
+			</instrument>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1974"/>
+			<recorded start="2004"/>
+			<release>Timpani 1C1136</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Noomena</name>
+			<length>12:33</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1974"/>
+			<recorded start="2000"/>
+			<release>Timpani 1C1057</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Empreintes</name>
+			<length>10:27</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1975"/>
+			<recorded start="2000"/>
+			<release>Timpani 1C1057</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>N'Shima</name>
+			<description>for 2 amplified peasant voices, 2 amplified french horns, 2 tenor trombones and amplified cello</description>
+			<length>16:26</length>
+			<instrument name="Voices">
+				<player name="Catherine Aks"/>
+				<player name="April Lindevald"/>
+			</instrument>
+			<player name="ST-X Ensemble"/>
+			<conductor>Charles Zachary Bornstein</conductor>
+			<composed start="1975"/>
+			<recorded start="1995"/>
+			<release>Mode 53</release>
+			<released>1996</released>
+		</composition>	
+		<composition>
+			<name>Theraps</name>
+			<description>for solo contrabass</description>
+			<length>13:37</length>
+			<instrument name="Solo contrabass">
+				<player name="John Eckhardt"/>
+			</instrument>
+			<composed start="1975" end="1976"/>
+			<release>Mode 152</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Phlegra</name>
+			<description>pour ensemble</description>
+			<length>13:21</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Michel Tabachnik</conductor>
+			<composed start="1975"/>
+			<recorded start="1990"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Mikka &quot;S&quot;</name>
+			<description>for solo violin</description>
+			<length>4:10</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Khoai</name>
+			<description>for harpsichord, realised by computer</description>
+			<length>14:23</length>
+			<instrument name="MIDI programming">
+				<player name="Daniel Grossmann"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2008"/>
+			<release>Neos 10707</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Khoai</name>
+			<description>pour clavecin</description>
+			<length>16:47</length>
+			<instrument name="Clavecin">
+				<player name="Elisabeth Chojnacka"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1987"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Jonchaies</name>
+			<length>15:51</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1977"/>
+			<recorded start="2001"/>
+			<release>Timpani 1C1062</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Kottos</name>
+			<description>for solo cello</description>
+			<length>9:39</length>
+			<player name="Member of the Arditti String Quartet"/>
+			<composed start="1977"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Synapha&iuml;</name>
+			<length>16:26</length>
+			<instrument name="Piano">
+				<player name="Hiroaki Oo&iuml;"/>
+			</instrument>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1977"/>
+			<recorded start="2002"/>
+			<release>Timpani 1C1131</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Akanthos</name>
+			<description>for soprano, flute/piccolo, clarinet/bass-clarinet, piano, 2 violins, viola, cello and bass</description>
+			<length>10:15</length>
+			<instrument name="Soprano">
+				<player name="Susan May"/>
+			</instrument>
+			<player name="ST-X Ensemble"/>
+			<conductor>Charles Zachary Bornstein</conductor>
+			<composed start="1977"/>
+			<recorded start="1995"/>
+			<release>Mode 53</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>La L&eacute;gende d'Eer</name>
+			<description>for 8-channel electronic tape</description>
+			<length>45:28</length>
+			<player name="WDR, K&ouml;ln"/>
+			<composed start="1977" end="1978"/>
+			<recorded start="1977" end="1978"/>
+			<release>Montaigne 782058</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Mycenae-Alpha</name>
+			<length>9:39</length>
+			<player name="CEMAMu, Paris"/>
+			<composed start="1978"/>
+			<recorded start="1978"/>
+			<release>Neuma 450-74</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Mycenae-Alpha</name>
+			<description>for UPIC</description>
+			<length>10:00</length>
+			<player name="CEMAMu, Paris"/>
+			<composed start="1978"/>
+			<recorded start="1978"/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Ikhoor</name>
+			<description>for string trio</description>
+			<length>10:09</length>
+			<player name="Members of the Arditti String Quartet"/>
+			<composed start="1978"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Dikhthas</name>
+			<description>for violin and piano</description>
+			<length>12:44</length>
+			<instrument name="Piano">
+				<player name="Claude Helffer"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Mists</name>
+			<description>for solo piano</description>
+			<length>12:26</length>
+			<instrument name="Piano">
+				<player name="Claude Helffer"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>A&iuml;s</name>
+			<length>17:29</length>
+			<instrument name="Baryton">
+				<player name="Spyros Sakkas"/>
+			</instrument>
+			<instrument name="Percussion solo">
+				<player name="B&eacute;atrice Daudin"/>
+			</instrument>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1980"/>
+			<recorded start="2000"/>
+			<release>Timpani 1C1057</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>A&iuml;s</name>
+			<length>15:29</length>
+			<instrument name="Baritone">
+				<player name="Philip Larson"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Steven Schick"/>
+			</instrument>
+			<player name="The La Jolla Symphony Orchestra"/>
+			<conductor>Thomas Nee</conductor>
+			<composed start="1980"/>
+			<recorded start="1990"/>
+			<release>Neuma 450-86</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Embellie</name>
+			<description>for solo viola</description>
+			<length>8:14</length>
+			<player name="Member of the Arditti String Quartet"/>
+			<composed start="1981"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Mists</name>
+			<description>for piano, realised by computer</description>
+			<length>11:13</length>
+			<instrument name="MIDI programming">
+				<player name="Daniel Grossmann"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="2008"/>
+			<release>Neos 10707</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Pour la Paix</name>
+			<description>pour bande magn&eacute;tique 2 pistes, avec choeur et r&eacute;citants</description>
+			<length>26:35</length>
+			<player name="CEMAMu/GRM, Paris"/>
+			<composed start="1981"/>
+			<recorded start="1981"/>
+			<release>Fractal 015</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Komboi</name>
+			<description>pour clavecin et percussion</description>
+			<length>18:03</length>
+			<instrument name="Clavecin">
+				<player name="Elisabeth Chojnacka"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Sylvio Gualda"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1987"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Tetras</name>
+			<description>for string quartet</description>
+			<length>14:35</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1983"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Tetras</name>
+			<description>for string quartet</description>
+			<length>13:41</length>
+			<player name="The JACK Quartet"/>
+			<composed start="1983"/>
+			<recorded start="2008"/>
+			<release>Mode 209</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Shaar</name>
+			<length>13:11</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1983"/>
+			<recorded start="2001"/>
+			<release>Timpani 1C1062</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Lichens</name>
+			<length>16:15</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1983"/>
+			<recorded start="2001"/>
+			<release>Timpani 1C1062</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Naama</name>
+			<description>for harpsichord, realised by computer</description>
+			<length>15:33</length>
+			<instrument name="MIDI programming">
+				<player name="Daniel Grossmann"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2008"/>
+			<release>Neos 10707</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Naama</name>
+			<description>pour clavecin</description>
+			<length>15:26</length>
+			<instrument name="Clavecin">
+				<player name="Elisabeth Chojnacka"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1987"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Thalle&iuml;n</name>
+			<description>for 14 instruments</description>
+			<length>17:44</length>
+			<player name="The SONOR Ensemble of UCSD"/>
+			<conductor>Rand Steiger</conductor>
+			<composed start="1984"/>
+			<recorded start="1991"/>
+			<release>Neuma 450-86</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Thalle&iuml;n</name>
+			<description>pour ensemble</description>
+			<length>17:24</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Michel Tabachnik</conductor>
+			<composed start="1984"/>
+			<recorded start="1990"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Akea</name>
+			<description>quintet for piano and strings</description>
+			<length>13:28</length>
+			<instrument name="Piano">
+				<player name="Claude Helffer"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1986"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Akea</name>
+			<description>quintet for piano and strings</description>
+			<length>13:53</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<player name="The JACK Quartet"/>
+			<composed start="1986"/>
+			<recorded start="2008"/>
+			<release>Mode 217</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Horos</name>
+			<length>15:48</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1986"/>
+			<recorded start="2002"/>
+			<release>Timpani 1C1131</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Jalons</name>
+			<description>pour ensemble</description>
+			<length>14:32</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1986"/>
+			<recorded start="1990"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Keren</name>
+			<description>pour trombone</description>
+			<length>6:34</length>
+			<instrument name="Trombone">
+				<player name="Benny Sluchin"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1991"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>&Agrave; l'&Icirc;le de Gor&eacute;e</name>
+			<description>pour clavecin et ensemble</description>
+			<length>13:34</length>
+			<instrument name="Clavecin">
+				<player name="Elisabeth Chojnacka"/>
+			</instrument>
+			<player name="Ensemble Xenakis"/>
+			<conductor>Huub Kerstens</conductor>
+			<composed start="1986"/>
+			<recorded start="1987"/>
+			<release>Apex 2 CD 2564 64202-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>&agrave; R.</name>
+			<description>for solo piano</description>
+			<length>2:26</length>
+			<instrument name="Piano">
+				<player name="Claude Helffer"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Ata</name>
+			<description>f&uuml;r Orchester</description>
+			<length>15:01</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1987"/>
+			<recorded start="1988"/>
+			<release>Col Legno CD1 31906</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Ata</name>
+			<length>14:39</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1987"/>
+			<recorded start="2004"/>
+			<release>Timpani 1C1136</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Trac&eacute;es</name>
+			<length>5:11</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1987"/>
+			<recorded start="2000"/>
+			<release>Timpani 1C1057</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Xas</name>
+			<description>for saxophone quartet</description>
+			<length>8:56</length>
+			<instrument name="Soprano">
+				<player name="Susan Cook"/>
+			</instrument>
+			<instrument name="Alto">
+				<player name="John Engebretson"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Shawn Tracy"/>
+			</instrument>
+			<instrument name="Baritone">
+				<player name="Mathew Cashman"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1996"/>
+			<release>Mode 56</release>
+			<released>1996</released>
+		</composition>	
+		<composition>
+			<name>Rebonds a</name>
+			<description>for percussion solo</description>
+			<length>7:32</length>
+			<instrument name="Percussion">
+				<player name="Robert McEwan"/>
+			</instrument>
+			<composed start="1987" end="1989"/>
+			<recorded start="1995"/>
+			<release>Mode 53</release>
+			<released>1996</released>
+		</composition>	
+		<composition>
+			<name>Rebonds b</name>
+			<description>for percussion solo</description>
+			<length>5:52</length>
+			<instrument name="Percussion">
+				<player name="Robert McEwan"/>
+			</instrument>
+			<composed start="1987" end="1989"/>
+			<recorded start="1995"/>
+			<release>Mode 53</release>
+			<released>1996</released>
+		</composition>	
+		<composition>
+			<name>Taurhiphanie</name>
+			<length>10:46</length>
+			<composed start="1987" end="1988"/>
+			<recorded start="1988"/>
+			<release>Neuma 450-86</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Waarg</name>
+			<description>pour ensemble</description>
+			<length>14:13</length>
+			<player name="Contempoensemble"/>
+			<conductor>Mauro Ceccanti</conductor>
+			<composed start="1988"/>
+			<recorded start="1992"/>
+			<release>Arts 447135-2</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Okho</name>
+			<description>pour djemb&eacute;s</description>
+			<length>13:50</length>
+			<instrument name="Percussions">
+				<player name="Trio Le Cercle"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1990"/>
+			<release>Montaigne 782002</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Okho</name>
+			<description>for 3 djembes and bass-drum</description>
+			<length>14:26</length>
+			<instrument name="Percussion">
+				<player name="Pablo Rieppi"/>
+				<player name="Robert McEwan"/>
+				<player name="David Rozenblatt"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1996"/>
+			<release>Mode 56</release>
+			<released>1996</released>
+		</composition>	
+		<composition>
+			<name>&Eacute;change</name>
+			<description>for bass-clarinet and ensemble</description>
+			<length>16:47</length>
+			<instrument name="Bass-clarinet">
+				<player name="Michael Lowenstern"/>
+			</instrument>
+			<player name="ST-X Ensemble"/>
+			<conductor>Charles Zachary Bornstein</conductor>
+			<composed start="1989"/>
+			<recorded start="1996"/>
+			<release>Mode 56</release>
+			<released>1996</released>
+		</composition>	
+		<composition>
+			<name>Voyage absolu des Unari vers Androm&egrave;de</name>
+			<description>pour bande magn&eacute;tique 2 pistes</description>
+			<length>15:29</length>
+			<player name="CEMAMu, Paris"/>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>Fractal 015</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Tetora</name>
+			<description>for string quartet</description>
+			<length>14:43</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1990"/>
+			<recorded start="1991"/>
+			<release>Montaigne 782005</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Tetora</name>
+			<description>for string quartet</description>
+			<length>17:33</length>
+			<player name="The JACK Quartet"/>
+			<composed start="1990"/>
+			<recorded start="2008"/>
+			<release>Mode 209</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Kyania</name>
+			<length>20:22</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1990"/>
+			<recorded start="2002"/>
+			<release>Timpani 1C1131</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Ro&aacute;&iuml;</name>
+			<length>12:35</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1991"/>
+			<recorded start="2000"/>
+			<release>Timpani 1C1057</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Krino&iuml;di</name>
+			<length>10:08</length>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1991"/>
+			<recorded start="2004"/>
+			<release>Timpani 1C1136</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Gendy3</name>
+			<length>18:45</length>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Neuma 450-86</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>S.709</name>
+			<length>7:03</length>
+			<composed start="1992"/>
+			<recorded start="1992"/>
+			<release>INA/EMF</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>La D&eacute;esse Ath&eacute;na</name>
+			<description>for baritone, solo percussion and ensemble</description>
+			<length>7:55</length>
+			<instrument name="baritone">
+				<player name="Philip Larson"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Timothy Adams"/>
+			</instrument>
+			<player name="Carnegie Mellon Philharmonic"/>
+			<conductor>Juan Pablo Izquierdo</conductor>
+			<composed start="1992"/>
+			<recorded start="1996"/>
+			<release>Mode 58</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Paille in the Wind</name>
+			<description>for piano and cello</description>
+			<length>5:09</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="2007"/>
+			<release>Mode 217</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Plekt&oacute;</name>
+			<description>for flute, clarinet, piano, percussion, violin and cello</description>
+			<length>8:10</length>
+			<player name="ST-X Ensemble"/>
+			<conductor>Charles Zachary Bornstein</conductor>
+			<composed start="1993"/>
+			<recorded start="1995"/>
+			<release>Mode 53</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Ergma</name>
+			<description>for string quartet</description>
+			<length>8:30</length>
+			<player name="The JACK Quartet"/>
+			<composed start="1994"/>
+			<recorded start="2008"/>
+			<release>Mode 209</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>D&auml;mmerschein</name>
+			<description>for large orchestra</description>
+			<length>10:52</length>
+			<player name="Carnegie Mellon Philharmonic"/>
+			<conductor>Juan Pablo Izquierdo</conductor>
+			<composed start="1994"/>
+			<recorded start="1996"/>
+			<release>Mode 58</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>A la M&eacute;moire de Witold Lutoslawski</name>
+			<description>for 2 trumpets and 2 horns</description>
+			<length>3:24</length>
+			<player name="ST-X Ensemble"/>
+			<conductor>Charles Zachary Bornstein</conductor>
+			<composed start="1994"/>
+			<recorded start="1996"/>
+			<release>Mode 56</release>
+			<released>1996</released>
+		</composition>	
+		<composition>
+			<name>Voile</name>
+			<description>for 20 strings</description>
+			<length>4:58</length>
+			<player name="Ensemble Resonanz"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="1995"/>
+			<release>Mode 152</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Ittidra</name>
+			<description>for string sextet</description>
+			<length>8:42</length>
+			<player name="Ensemble Resonanz"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="1996"/>
+			<release>Mode 152</release>
+			<released>2005</released>
+		</composition>
+	</composer>
+</list>

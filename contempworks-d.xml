@@ -1,0 +1,934 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Marc-Andr&eacute;" surname="Dalbavie" born="1961" died="">
+		<composition>
+			<name>Diad&egrave;mes</name>
+			<description>pour alto solo, ensemble et &eacute;lectronique</description>
+			<length>22:11</length>
+			<player name="Ensemble InterContemporain"/>
+			<player name="Technique IRCAM"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1986"/>
+			<recorded start="1992"/>
+			<release>Ad&egrave;s/IRCAM 205 202</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Seuils</name>
+			<description>pour soprano, ensemble et &eacute;lectronique</description>
+			<length>45:14</length>
+			<player name="Ensemble InterContemporain"/>
+			<player name="Technique IRCAM"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1991" end="1993"/>
+			<recorded start="1994"/>
+			<release>Ad&egrave;s/IRCAM 205 202</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Concerto pour violon et orchestre</name>
+			<length>24:05</length>
+			<instrument name="Violon">
+				<player name="Eiichi Chijiiwa"/>
+			</instrument>
+			<player name="Orchestre de Paris"/>
+			<conductor>Christoph Eschenbach</conductor>
+			<composed start="1996"/>
+			<recorded start="2001"/>
+			<release>Naive MO 782162</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Color</name>
+			<length>21:28</length>
+			<player name="Orchestre de Paris"/>
+			<conductor>Christoph Eschenbach</conductor>
+			<composed start="2001"/>
+			<recorded start="2003"/>
+			<release>Naive MO 782162</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Ciaccona</name>
+			<length>19:28</length>
+			<player name="Orchestre de Paris"/>
+			<conductor>Christoph Eschenbach</conductor>
+			<composed start="2002"/>
+			<recorded start="2004"/>
+			<release>Naive MO 782162</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Mario" surname="Davidovsky" born="1934" died="">
+		<composition>
+			<name>Synchronisms No. 5</name>
+			<length>8:32</length>
+			<player name="Columbia-Princeton Electronic Music Center"/>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>CRI CD611</release>
+			<released>1991</released>
+		</composition>
+	</composer>
+	<composer name="Claude" surname="Debussy" born="1862" died="1918">
+		<composition>
+			<name>La Mer</name>
+			<description>Trois Esquisses symphoniques</description>
+			<length>23:57</length>
+			<player name="New Philharmonia Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start=""/>
+			<recorded start="1966"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Nocturnes</name>
+			<description>Triptyque symphonique</description>
+			<length>24:48</length>
+			<player name="The John Alldis Choir"/>
+			<player name="New Philharmonia Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start=""/>
+			<recorded start="1966"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Printemps</name>
+			<description>Suite symphonique</description>
+			<length>16:02</length>
+			<player name="New Philharmonia Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start=""/>
+			<recorded start="1968"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Rhapsodie n. 1</name>
+			<description>pour orchestre avec clarinette principale</description>
+			<length>8:36</length>
+			<instrument name="Clarinet">
+				<player name="Gervase de Peyer"/>
+			</instrument>
+			<player name="New Philharmonia Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start=""/>
+			<recorded start="1968"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Pr&eacute;lude &agrave; l'apr&egrave;s-midi d'un faune</name>
+			<length>9:41</length>
+			<player name="New Philharmonia Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start=""/>
+			<recorded start="1966"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Jeux</name>
+			<length>17:02</length>
+			<player name="New Philharmonia Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start=""/>
+			<recorded start="1966"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Images</name>
+			<description>pour orchestre</description>
+			<length>35:29</length>
+			<player name="Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start=""/>
+			<recorded start="1967"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Danses</name>
+			<length>10:08</length>
+			<instrument name="Harp">
+				<player name="Alice Chalifoux"/>
+			</instrument>
+			<player name="Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start=""/>
+			<recorded start="1967"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+	</composer>
+	<composer name="Alexandre" surname="Delgado" born="1965" died="">
+		<composition>
+			<name>Quarteto</name>
+			<description>for string quartet</description>
+			<length>11:24</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1999"/>
+			<release>Etcetera KTC1242</release>
+			<released>2001</released>
+		</composition>
+	</composer>
+	<composer name="Francis" surname="Dhomont" born="1926" died="">
+		<composition>
+			<name>Sous le regard d'un soleil noir</name>
+			<description>Cycle des profondeurs</description>
+			<length>51:35</length>
+			<player name="Facult&eacute; de Musique, Universit&eacute; de Montr&eacute;al/Private studio of the composer"/>
+			<composed start="1979" end="1981"/>
+			<recorded start="1981"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9633</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Points de fuite</name>
+			<description>Mouvances-M&eacute;taphores</description>
+			<description>Cycle de l'errance</description>
+			<length>12:21</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1982"/>
+			<recorded start="1982"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>...mourir un peu</name>
+			<description>Mouvances-M&eacute;taphores</description>
+			<description>Cycle de l'errance</description>
+			<length>44:52</length>
+			<player name="Groupe de Musique Exp&eacute;rimentale de Marseille/Private studio of the composer"/>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Dr&ocirc;les d'oiseaux</name>
+			<description>Jalons</description>
+			<length>14:51</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1985" end="2001"/>
+			<recorded start="2001"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Sign&eacute; Dionysos</name>
+			<description>Mouvances-M&eacute;taphores</description>
+			<description>Les d&eacute;rives du signe</description>
+			<length>28:22</length>
+			<player name="INA.GRM/Private studio of the composer"/>
+			<composed start="1986" end="1991"/>
+			<recorded start="1991"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Chiaroscuro</name>
+			<description>Mouvances-M&eacute;taphores</description>
+			<description>Les d&eacute;rives du signe</description>
+			<length>17:30</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>M&eacute;t&eacute;ores</name>
+			<description>Mouvances-M&eacute;taphores</description>
+			<description>Les d&eacute;rives du signe</description>
+			<length>12:43</length>
+			<player name="INA.GRM/Private studio of the composer"/>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Novars</name>
+			<description>Mouvances-M&eacute;taphores</description>
+			<description>Les d&eacute;rives du signe</description>
+			<length>19:07</length>
+			<player name="INA.GRM/Private studio of the composer"/>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Novars</name>
+			<description>Cycle du son</description>
+			<length>19:06</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>empreintes DIGITALes IMED 0158</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Novars (extrait)</name>
+			<length>6:50</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Espace/Escape</name>
+			<description>Mouvances-M&eacute;taphores</description>
+			<description>Cycle de l'errance</description>
+			<length>19:24</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Chroniques de la lumi&egrave;re</name>
+			<description>...et autres utopies</description>
+			<length>29:12</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1989" end="2005"/>
+			<recorded start="2005"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>L'&eacute;lectro</name>
+			<description>Jalons</description>
+			<length>1:06</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1990"/>
+			<recorded start="1990"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Studio de nuit</name>
+			<description>Jalons</description>
+			<length>3:00</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1992"/>
+			<recorded start="1992"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>For&ecirc;t profonde</name>
+			<description>Cycle des profondeurs</description>
+			<length>58:32</length>
+			<player name="INA-GRM, Studio Syter/Private studio of the composer"/>
+			<composed start="1994" end="1996"/>
+			<recorded start="1996"/>
+			<release>empreintes DIGITALes/INA.GRM IMED 9634</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Lettre de Sarajevo</name>
+			<description>Jalons</description>
+			<length>14:38</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1995" end="1996"/>
+			<recorded start="1996"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Frankenstein Symphony</name>
+			<length>1:03:49</length>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>Asphodel 0978</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Objets retrouv&eacute;s</name>
+			<description>Cycle du son</description>
+			<length>5:20</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>empreintes DIGITALes IMED 0158</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>AvatArsSon</name>
+			<description>Cycle du son</description>
+			<length>18:11</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>empreintes DIGITALes IMED 0158</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Phonurgie</name>
+			<description>Cycle du son</description>
+			<length>12:43</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>empreintes DIGITALes IMED 0158</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>En cuerdas</name>
+			<description>Jalons</description>
+			<length>11:25</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Je te salue, vieil oc&eacute;an!</name>
+			<description>...et autres utopies</description>
+			<length>14:54</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1998" end="2004"/>
+			<recorded start="2004"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Les moirures du temps</name>
+			<description>Jalons</description>
+			<length>15:24</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1999" end="2000"/>
+			<recorded start="2000"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Un autre Printemps</name>
+			<description>Jalons</description>
+			<length>6:09</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Vol d'Arondes</name>
+			<description>Jalons</description>
+			<length>11:25</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1999" end="2001"/>
+			<recorded start="2001"/>
+			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Corps et &acirc;me</name>
+			<description>...et autres utopies</description>
+			<length>7:40</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2001" end="2002"/>
+			<recorded start="2002"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Here and There</name>
+			<description>...et autres utopies</description>
+			<length>10:09</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2003"/>
+			<recorded start="2003"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Voyage-miroir</name>
+			<description>...et autres utopies</description>
+			<length>14:55</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2004"/>
+			<recorded start="2004"/>
+			<release>empreintes DIGITALes IMED 0682</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Brief an den Vater</name>
+			<description>&Eacute;tudes pour Kafka</description>
+			<length>17:02</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2005" end="2006"/>
+			<recorded start="2006"/>
+			<release>empreintes DIGITALes IMED 09192</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Premi&egrave;res traces du Choucas</name>
+			<description>&Eacute;tudes pour Kafka</description>
+			<length>15:00</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>empreintes DIGITALes IMED 09192</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>&Agrave; propos de K</name>
+			<description>&Eacute;tudes pour Kafka</description>
+			<length>21:37</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>empreintes DIGITALes IMED 09192</release>
+			<released>2009</released>
+		</composition>
+	</composer>
+	<composer name="James" surname="Dillon" born="1950" died="">
+		<composition>
+			<name>Dillug-Kefitsah</name>
+			<description>for piano</description>
+			<length>3:19</length>
+			<instrument name="Piano">
+				<player name="Noriko Kawai"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2007"/>
+			<release>NMC D131</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Crossing over</name>
+			<description>for solo clarinet</description>
+			<length>8:05</length>
+			<instrument name="Clarinet">
+				<player name="Armand Angster"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782037</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Ti.re-ti.ke-dha</name>
+			<description>for solo drummer</description>
+			<length>6:05</length>
+			<instrument name="Percussion">
+				<player name="Guy Frisch"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782037</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Spleen</name>
+			<description>for solo piano</description>
+			<length>10:42</length>
+			<instrument name="Piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782037</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Come live with me</name>
+			<description>for female voice and instruments</description>
+			<length>15:38</length>
+			<player name="Ensemble Accroche-Note"/>
+			<conductor>Armand Angster</conductor>
+			<composed start="1981"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782037</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Evening rain</name>
+			<description>for solo voice</description>
+			<length>6:18</length>
+			<instrument name="Soprano">
+				<player name="Fran&ccedil;oise Kubler"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782037</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Parjanya-vata</name>
+			<description>for cello solo</description>
+			<length>11:34</length>
+			<instrument name="Cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1997"/>
+			<release>Montaigne MO 782046</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>A roaring flame</name>
+			<description>for female voice and double-bass</description>
+			<length>12:09</length>
+			<instrument name="Soprano">
+				<player name="Fran&ccedil;oise Kubler"/>
+			</instrument>
+			<instrument name="Double-Bass">
+				<player name="Jean-Paul Celea"/>
+			</instrument>
+			<composed start="1981" end="1982"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782037</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Sgothan</name>
+			<description>for solo flute</description>
+			<length>10:23</length>
+			<instrument name="Flute">
+				<player name="C&eacute;cile Daroux"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782037</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Helle Nacht</name>
+			<description>for orchestra </description>
+			<length>22:12</length>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1986" end="1987"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782038</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Del cuarto elemento</name>
+			<description>for solo violin</description>
+			<length>9:45</length>
+			<instrument name="Violon">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="1989"/>
+			<release>Montaigne 789003</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Del cuarto elemento</name>
+			<description>for solo violin</description>
+			<length>10:06</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="2007"/>
+			<release>NMC D131</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Ignis noster</name>
+			<description>for orchestra</description>
+			<length>21:53</length>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1991" end="1992"/>
+			<recorded start="1994"/>
+			<release>Montaigne 782038</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 2</name>
+			<length>17:33</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1992"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782046</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Vernal showers</name>
+			<description>for violin and ensemble</description>
+			<length>13:55</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<player name="Nieuw Ensemble"/>
+			<conductor>Ed Spanjaard</conductor>
+			<composed start="1992"/>
+			<recorded start="1994"/>
+			<release>Montaigne MO 782046</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>black / nebulae</name>
+			<description>for piano duo</description>
+			<length>20:05</length>
+			<instrument name="Piano">
+				<player name="Noriko Kawai"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Hiroaki Takenouchi"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="2007"/>
+			<release>NMC D131</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Traumwerk</name>
+			<description>for two violins</description>
+			<length>22:18</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Graeme Jennings"/>
+			</instrument>
+			<composed start="1995" end="1996"/>
+			<recorded start="1997"/>
+			<release>Montaigne MO 782046</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Traumwerk Book III</name>
+			<description>for violin and piano</description>
+			<length>28:18</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Noriko Kawai"/>
+			</instrument>
+			<composed start="1995" end="2002"/>
+			<recorded start="2007"/>
+			<release>NMC D131</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>The Book of Elements</name>
+			<description>Volumes I-V</description>
+			<length>1:22:47</length>
+			<instrument name="Piano">
+				<player name="Noriko Kawai"/>
+			</instrument>
+			<composed start="1997" end="2002"/>
+			<recorded start="2003"/>
+			<release>NMC D091</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>the soadie waste</name>
+			<description>for piano quintet</description>
+			<length>13:25</length>
+			<instrument name="Piano">
+				<player name="Noriko Kawai"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2003"/>
+			<recorded start="2007"/>
+			<release>NMC D131</release>
+			<released>2008</released>
+		</composition>
+	</composer>
+	<composer name="Paul-Heinz" surname="Dittrich" born="1930" died="">
+		<composition>
+			<name>Areae Sonantes f&uuml;r instrumentale und vokale Gruppen</name>
+			<length>16:46</length>
+			<instrument name="Sopran">
+				<player name="Gisela Evers"/>
+			</instrument>
+			<instrument name="Mezzosopran">
+				<player name="Hanna Auerbacher"/>
+			</instrument>
+			<instrument name="Alt">
+				<player name="Elisabeth K&uuml;nstler"/>
+			</instrument>
+			<instrument name="Oboe">
+				<player name="Hansj&ouml;rg Schellenberger"/>
+			</instrument>
+			<instrument name="Posaune">
+				<player name="Christian Guizien"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Heinrich Schiff"/>
+			</instrument>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="?"/>
+			<recorded start="1973"/>
+			<release>Col Legno CD1 31902</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Franco" surname="Donatoni" born="1927" died="">
+		<composition>
+			<name>Argot</name>
+			<description>Due pezzi per violino</description>
+			<length>12:35</length>
+			<instrument name="Violino">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1989"/>
+			<release>Montaigne 789003</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Tema</name>
+			<description>pour douze instruments</description>
+			<length>16:09</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1982"/>
+			<recorded start="1985"/>
+			<release>Erato 0630-15993-2</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Le souris sans sourire</name>
+			<description>pour quatuor &agrave; cordes</description>
+			<length>16:15</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1988"/>
+			<recorded start="1992"/>
+			<release>Montaigne 782042</release>
+			<released>1995</released>
+		</composition>
+	</composer>
+	<composer name="Denis" surname="Dufour" born="1953" died="">
+		<composition>
+			<name>Pli de perversion 2</name>
+			<description>pour trio instrumental &eacute;lectroacoustique</description>
+			<length>7:12</length>
+			<instrument name="synth&eacute;tiseurs">
+				<player name="Yann Geslin"/>
+				<player name="Denis Dufour"/>
+			</instrument>
+			<instrument name="violon">
+				<player name="Laurent Cuniot"/>
+			</instrument>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Chrysalide</name>
+			<length>28:45</length>
+			<part>
+				<number>1</number>
+				<name>Tr&eacute;pidopt&egrave;res</name>
+				<length>7:45</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Mues du son</name>
+				<length>9:45</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Bille bleue</name>
+				<length>11:15</length>
+			</part>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Musidisc 247 512</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Fr&eacute;d&eacute;ric" surname="Durieux" born="1959" died="">
+		<composition>
+			<name>L&agrave;, au-del&agrave;</name>
+			<description>pour ensemble</description>
+			<length>23:00</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>David Robertson</conductor>
+			<composed start="1990" end="1992"/>
+			<recorded start="1993"/>
+			<release>Ad&egrave;s/IRCAM 204 552</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>So schnell, zu fr&uuml;h</name>
+			<description>pour soprano, ensemble et &eacute;lectronique en temps r&eacute;el</description>
+			<length>17:20</length>
+			<instrument name="Soprano">
+				<player name="Sharon Cooper"/>
+			</instrument>
+			<player name="Technique IRCAM"/>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>David Robertson</conductor>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Ad&egrave;s/IRCAM 204 552</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Devenir</name>
+			<description>pour clarinette et &eacute;lectronique en temps r&eacute;el</description>
+			<length>17:16</length>
+			<instrument name="Clarinette">
+				<player name="Andr&eacute; Trouttet"/>
+			</instrument>
+			<player name="Technique IRCAM"/>
+			<composed start="1993"/>
+			<recorded start="1994"/>
+			<release>Ad&egrave;s/IRCAM 204 552</release>
+			<released>1995</released>
+		</composition>
+	</composer>
+	<composer name="Pascal" surname="Dusapin" born="1955" died="">
+		<composition>
+			<name>Time Zones (Quatuor II)</name>
+			<description>24 pieces for string quartet</description>
+			<length>36:53</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1988" end="1990"/>
+			<recorded start="1993"/>
+			<release>Montaigne 782016</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Quatuor III</name>
+			<description>For string quartet</description>
+			<length>20:01</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1992"/>
+			<recorded start="1993"/>
+			<release>Montaigne 782016</release>
+			<released>1994</released>
+		</composition>
+	</composer>
+	<composer name="Henri" surname="Dutilleux" born="1916" died="">
+		<composition>
+			<name>Ainsi La Nuit</name>
+			<description>For string quartet</description>
+			<length>17:01</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1976"/>
+			<recorded start="1993"/>
+			<release>Montaigne 782016</release>
+			<released>1994</released>
+		</composition>
+	</composer>
+</list>

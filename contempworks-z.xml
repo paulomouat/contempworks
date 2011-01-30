@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Helmut" surname="Zapf" born="1958" died="">
+		<composition>
+			<name>Dreiklang</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>18:14</length>
+			<player name="Dresdner Philharmonie"/>
+			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<composed start="1991" end="1992"/>
+			<recorded start="1992"/>
+			<release>Col Legno WWE 3CD 31860</release>
+			<released>1993</released>
+		</composition>
+	</composer>
+	<composer name="Christian" surname="Zan&eacute;si" born="" died="">
+		<composition>
+			<name>Sonal &quot;voyageurs&quot; RATP</name>
+			<length>0:04</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Hans" surname="Zender" born="1936" died="">
+		<composition>
+			<name>Muji no Kyo</name>
+			<description>nach einem mittelalterlichen japanischen Gedicht f&uuml;r Stimme, Fl&ouml;te, Violoncello, Klavier mit elektronischer Orgel und Tutti-Instrumente</description>
+			<length>18:13</length>
+			<instrument name="Bariton">
+				<player name="Roland Hermann"/>
+			</instrument>
+			<instrument name="Fl&ouml;te">
+				<player name="Roswitha Staege"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Ulrich Heinen"/>
+			</instrument>
+			<instrument name="Klavier und Orgel">
+				<player name="Herbert Henck"/>
+			</instrument>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>Col Legno CD1 31905</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Bernd Alois" surname="Zimmermann" born="1918" died="1970">
+		<composition>
+			<name>Sonate f&uuml;r Viola solo</name>
+			<length>5:55</length>
+			<instrument name="Viola">
+				<player name="Albert Dietrich"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1955"/>
+			<release>Col Legno CD1 31909</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Requiem f&uuml;r einen jungen dichter</name>
+			<length>1:03:10</length>
+			<instrument name="Sopran">
+				<player name="Claudia Barainsky"/>
+			</instrument>
+			<instrument name="Bariton">
+				<player name="David Pittman-Jennings"/>
+			</instrument>
+			<instrument name="Sprecher I">
+				<player name="Michael Rotschopf"/>
+			</instrument>
+			<instrument name="Sprecher II">
+				<player name="Lutz Lansemann"/>
+			</instrument>
+			<instrument name="Chor I">
+				<player name="Tschechischer Philharmonischer Chor brno"/>
+			</instrument>
+			<instrument name="Chor II">
+				<player name="Slowakischer Philharmonischer Chor"/>
+			</instrument>
+			<instrument name="Chor III">
+				<player name="Europachoralakademie"/>
+			</instrument>
+			<instrument name="Jazz-quintett">
+				<player name="Eric Vloeimans Quintet"/>
+			</instrument>
+			<instrument name="Orgel">
+				<player name="Jan Hage"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Jo&atilde;o Rafael"/>
+			</instrument>
+			<player name="Holland Symfonia"/>
+			<conductor>Bernhard Kontarsky</conductor>
+			<composed start="1967" end="1969"/>
+			<recorded start="2005"/>
+			<release>Cybele SACD 860.501</release>
+			<released>2008</released>
+		</composition>
+	</composer>
+</list>

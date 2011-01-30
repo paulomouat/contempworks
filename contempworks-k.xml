@@ -1,0 +1,690 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Mauricio" surname="Kagel" born="1931" died="">
+		<composition>
+			<name>Antithese</name>
+			<description>Komposition f&uuml;r elektronische und &ouml;ffentliche Kl&auml;nge</description>
+			<length>9:24</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>String Quartet I</name>
+			<length>10:52</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1965" end="1967"/>
+			<recorded start="1989"/>
+			<release>Montaigne 789004</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>String Quartet II</name>
+			<length>10:00</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1965" end="1967"/>
+			<recorded start="1989"/>
+			<release>Montaigne 789004</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Zwei-Mann-Orchester</name>
+			<length>47:13</length>
+			<instrument name="Ein-Mann-Orchester">
+				<player name="Wilhelm Bruck"/>
+			</instrument>
+			<instrument name="Ein-Mann-Orchester">
+				<player name="Theodor Ross"/>
+			</instrument>
+			<conductor>Mauricio Kagel</conductor>
+			<composed start="1971" end="1973"/>
+			<recorded start="1973"/>
+			<release>Col Legno CD1 31904</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Vari&eacute;t&eacute;</name>
+			<description>Konzertst&uuml;ck f&uuml;r sechs</description>
+			<length>40:22</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Mauricio Kagel</conductor>
+			<composed start="1976" end="1977"/>
+			<recorded start="1992"/>
+			<release>Montaigne 782013</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Pan</name>
+			<description>for piccolo and string quartet</description>
+			<length>4:50</length>
+			<instrument name="Piccolo">
+				<player name="Dietmar Wiesner"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1985"/>
+			<recorded start="1989"/>
+			<release>Montaigne 789004</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>String Quartet III</name>
+			<description>in four movements</description>
+			<length>37:15</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1986" end="1987"/>
+			<recorded start="1989"/>
+			<release>Montaigne 789004</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>&Eacute;tudes 1-3</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>25:58</length>
+			<part>
+				<number>1</number>
+				<length>7:11</length>
+			</part>
+			<part>
+				<number>2</number>
+				<length>10:13</length>
+			</part>
+			<part>
+				<number>3</number>
+				<length>8:34</length>
+			</part>
+			<player name="SWF-Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1992" end="1996"/>
+			<recorded start="1997"/>
+			<release>Col Legno WWE 3CD 20026</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Johannes" surname="Kalitzke" born="1959" died="">
+		<composition>
+			<name>Nachtschleife</name>
+			<description>Madrigal f&uuml;r Vokalsextett</description>
+			<length>15:17</length>
+			<player name="London Sinfonietta Voices"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="?"/>
+			<recorded start="1989"/>
+			<release>Col Legno CD1 31911</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Richard" surname="Karpen" born="1957" died="">
+		<composition>
+			<name>Eclipse</name>
+			<length>19:47</length>
+			<instrument name="Electroacoustic realisation">
+				<player name="CCRMA, Stanford University"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>Wergo WER 2023-50</release>
+			<released>1989</released>
+		</composition>
+	</composer>
+	<composer name="Dieter" surname="Kaufmann" born="1941" died="">
+		<composition>
+			<name>Voyage au paradis</name>
+			<length>3:56</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Milko" surname="Kelemen" born="1924" died="">
+		<composition>
+			<name>Judith</name>
+			<description>Orchesterkl&auml;nge, elektronisch ver&auml;nderte Orchesterkl&auml;nge, elektronische Kl&auml;nge (Zwei Ausschnitte)</description>
+			<length>2:58</length>
+			<part>
+				<number>1</number>
+				<length>2:05</length>
+			</part>
+			<part>
+				<number>2</number>
+				<length>0:53</length>
+			</part>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<conductor>Milko Kelemen</conductor>
+			<composed start="1966"/>
+			<recorded start="1966"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Giselher" surname="Klebe" born="1925" died="">
+		<composition>
+			<name>Interferenzen</name>
+			<length>4:38</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="1955"/>
+			<release>BVHaast 9106</release>
+			<released>?</released>
+		</composition>
+	</composer>
+	<composer name="Gottfried Michael" surname="Koenig" born="1926" died="">
+		<composition>
+			<name>Klangfiguren I</name>
+			<length>4:00</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="1955"/>
+			<release>BVHaast 9106</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Klangfiguren II</name>
+			<length>10:30</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1955" end="1956"/>
+			<recorded start="1956"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Zwei Klavierst&uuml;cke</name>
+			<length>14:13</length>
+			<part>
+				<number>1</number>
+				<length>8:17</length>
+			</part>
+			<part>
+				<number>2</number>
+				<length>5:54</length>
+			</part>
+			<instrument name="Klavier">
+				<player name="J. Marc Reichow"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="1995"/>
+			<release>RZ 2003-4</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Essay</name>
+			<length>8:00</length>
+			<player name="WDR, K&ouml;ln"/>
+			<composed start="1957" end="1958"/>
+			<recorded start="1958"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Streichquartett</name>
+			<length>10:04</length>
+			<player name="LaSalle Quartet"/>
+			<composed start="1959"/>
+			<recorded start="1961"/>
+			<release>RZ 2003-4</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Suite</name>
+			<description>Materialien zu einem Ballett</description>
+			<length>20:48</length>
+			<player name="WDR, K&ouml;ln"/>
+			<composed start="1961"/>
+			<recorded start="1961"/>
+			<release>RZ 2003-4</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Terminus I</name>
+			<length>14:35</length>
+			<player name="WDR, K&ouml;ln"/>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Terminus II</name>
+			<length>19:20</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1966" end="1967"/>
+			<recorded start="1967"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Terminus X</name>
+			<length>11:46</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>RZ 2003-4</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Funktion Gr&uuml;n</name>
+			<length>8:25</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>RZ 2003-4</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Funktion Gelb</name>
+			<length>12:43</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1968"/>
+			<recorded start="1968"/>
+			<release>RZ 2003-4</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Funktion Rot</name>
+			<length>21:04</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1968"/>
+			<recorded start="1968"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Funktion Grau</name>
+			<length>10:15</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Funktion Violett</name>
+			<length>19:55</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Funktion Blau</name>
+			<length>6:00</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Funktion Indigo</name>
+			<length>12:38</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Output</name>
+			<length>12:32</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1979"/>
+			<recorded start="1979"/>
+			<release>BVHaast CD 9001/2</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>60 Bl&auml;tter f&uuml;r Streichtrio</name>
+			<length>38:45</length>
+			<player name="Trio Recherche"/>
+			<composed start="1992"/>
+			<recorded start="1996"/>
+			<release>RZ 2003-4</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Wlodzimierz" surname="Kotonski" born="1925" died="">
+		<composition>
+			<name>Dom</name>
+			<length>10:48</length>
+			<composed start="1957"/>
+			<recorded start="1957"/>
+			<release>NEEMC 02</release>
+			<released>2002</released>
+		</composition>
+	</composer>
+	<composer name="Ernst" surname="Krenek" born="1900" died="1991">
+		<composition>
+			<name>Drei lustige M&auml;rsche f&uuml;r Blasorchester op. 34</name>
+			<length>6:17</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Erich Schmid</conductor>
+			<composed start="?"/>
+			<recorded start="1926" end="77"/>
+			<release>Col Legno CD1 31900</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Ferdinand" surname="Kriwet" born="1942" died="">
+		<composition>
+			<name>JAJA - H&ouml;rtext 2</name>
+			<description>Stimmen, elektronische ver&auml;nderte Stimmen (Zwei Ausschnitte)</description>
+			<length>4:47</length>
+			<part>
+				<number>1</number>
+				<length>2:35</length>
+			</part>
+			<part>
+				<number>2</number>
+				<length>2:12</length>
+			</part>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="1965"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Gy&ouml;rgy" surname="Kurt&aacute;g" born="1926" died="">
+		<composition>
+			<name>Praeludium und Choral</name>
+			<description>f&uuml;r Klavier</description>
+			<length>1:34</length>
+			<instrument name="Klavier">
+				<player name="Zolt&aacute;n Kocsis"/>
+			</instrument>
+			<composed start="1961" end="1981"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>J&aacute;t&eacute;kok (Spiele) - Auswahl (seit 1973)</name>
+			<description>f&uuml;r Klavier, auch vierh&auml;ndig und f&uuml;r zwei Klaviere</description>
+			<length>10:17</length>
+			<instrument name="Klavier">
+				<player name="M&aacute;rta und Gy&ouml;rgy Kurt&aacute;g"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Antiphone in fis</name>
+			<description>f&uuml;r Klavier</description>
+			<length>0:42</length>
+			<instrument name="Klavier">
+				<player name="Zolt&aacute;n Kocsis"/>
+			</instrument>
+			<composed start="1973" end="1976"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Les Adieux op. 12/7</name>
+			<description>f&uuml;r Sopran und Violine</description>
+			<length>1:03</length>
+			<instrument name="Sopran">
+				<player name="Adrienne Csengery"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Andr&aacute;s Keller"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Vier Mikroludien op. 13/4, 6, 10, 5</name>
+			<description>f&uuml;r Streichquartett</description>
+			<length>3:37</length>
+			<player name="Keller Quartett"/>
+			<composed start="1977" end="1978"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Il pleut sur la ville</name>
+			<description>f&uuml;r Sopran und Klavier</description>
+			<length>1:37</length>
+			<instrument name="Sopran">
+				<player name="Adrienne Csengery"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Zolt&aacute;n Kocsis"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>J&aacute;nos Pilinszky: G&eacute;rard de Nerval</name>
+			<description>f&uuml;r Violoncello</description>
+			<length>1:18</length>
+			<instrument name="Violoncello">
+				<player name="Mikl&oacute;s Per&eacute;nyi"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Drei alte Inschriften op. 25</name>
+			<description>f&uuml;r Sopran und Klavier</description>
+			<length>6:58</length>
+			<instrument name="Sopran">
+				<player name="Adrienne Csengery"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Zolt&aacute;n Kocsis"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Requiem po drugu (Requiem f&uuml;r einen Freund) op. 26</name>
+			<description>f&uuml;r Sopran und Klavier auf Gedichte von Rimma Dalos</description>
+			<length>5:47</length>
+			<instrument name="Sopran">
+				<player name="Adrienne Csengery"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Zolt&aacute;n Kocsis"/>
+			</instrument>
+			<composed start="1986" end="1987"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Lebewohl op. 26/4</name>
+			<description>f&uuml;r Sopran und Klavier</description>
+			<length>1:50</length>
+			<instrument name="Sopran">
+				<player name="Adrienne Csengery"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Zolt&aacute;n Kocsis"/>
+			</instrument>
+			<composed start="1986" end="1987"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>...quasi una fantasia... op. 27 Nr. 1</name>
+			<description>f&uuml;r Klavier und Instrumentengruppen</description>
+			<length>10:36</length>
+			<instrument name="Klavier">
+				<player name="Zolt&aacute;n Kocsis"/>
+			</instrument>
+			<player name="Budapester Festival Orchester"/>
+			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<composed start="1987" end="1988"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Grabstein f&uuml;r Stephan</name>
+			<description>f&uuml;r Gitarre und Instrumentengruppen</description>
+			<description>In memoriam Stephan Stein</description>
+			<length>9:17</length>
+			<instrument name="Gitarre">
+				<player name="J&uuml;rgen Ruck"/>
+			</instrument>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1989"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 447761-2</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Grabstein f&uuml;r Stephan op. 15c</name>
+			<description>f&uuml;r Gitarre und Instrumentengruppen</description>
+			<length>9:42</length>
+			<instrument name="Gitarre">
+				<player name="J&uuml;rgen Ruck"/>
+			</instrument>
+			<player name="Budapester Festival Orchester"/>
+			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<composed start="1989"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>The Answered Unanswered Question op. 31b</name>
+			<description>Message-Hommage &agrave; Frances-Marie Uitti</description>
+			<description>Version Nr. 2 f&uuml;r zwei Violoncelli, zwei Violinen und Celesta</description>
+			<length>3:42</length>
+			<instrument name="Violoncello">
+				<player name="Mikl&oacute;s Per&eacute;nyi"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Andr&aacute;s Keller"/>
+			</instrument>
+			<instrument name="Celesta">
+				<player name="Zolt&aacute;n Kocsis"/>
+			</instrument>
+			<player name="Solisten des Budapester Festival Orchester"/>
+			<composed start="1989"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Doppelkonzert op. 27 Nr. 2</name>
+			<description>f&uuml;r Klavier, Violoncello und zwei Ensembles</description>
+			<length>16:45</length>
+			<instrument name="Klavier">
+				<player name="Zolt&aacute;n Kocsis"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Mikl&oacute;s Per&eacute;nyi"/>
+			</instrument>
+			<player name="Budapester Festival Orchester"/>
+			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<composed start="1989" end="1990"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Samuel Beckett: What is the Word op. 30b</name>
+			<description>f&uuml;r Altstimme (Rezitation), Vokalensemble und Kammerensemble</description>
+			<length>16:39</length>
+			<instrument name="Alt (Rezitation)">
+				<player name="Ildik&oacute; Mony&oacute;k"/>
+			</instrument>
+			<player name="Solisten des Tomkins Vokalensemble"/>
+			<player name="Budapester Festival Orchester"/>
+			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<composed start="1990" end="1991"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Tam&aacute;s Blum in memoriam</name>
+			<description>f&uuml;r Viola</description>
+			<length>2:27</length>
+			<instrument name="Viola">
+				<player name="Zolt&aacute;n G&aacute;l"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="1993"/>
+			<release>Col Legno WWE 31870</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>????? [Stele]</name>
+			<description>Vers&atilde;o revista</description>
+			<length>12:33</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>Deutsche Grammophon 447761-2</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Hanspeter" surname="Kyburz" born="1960" died="">
+		<composition>
+			<name>Cells</name>
+			<description>f&uuml;r Saxophon und Ensemble</description>
+			<length>13:35</length>
+			<instrument name="Saxophon">
+				<player name="Markus Weiss"/>
+			</instrument>
+			<player name="Mitglieder des Ensemble Recherche"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="?"/>
+			<recorded start="1993"/>
+			<release>Col Legno CD1 31905</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Mireille" surname="Kyrou" born="" died="">
+		<composition>
+			<name>&Eacute;tude 1</name>
+			<length>5:13</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1960"/>
+			<recorded start="1960"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+</list>

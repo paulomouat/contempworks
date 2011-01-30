@@ -1,0 +1,767 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Hans" surname="Haass" born="1897" died="1955">
+		<composition>
+			<name>Capriccio, Fuge und Intermezzo f&uuml;r mechanisches Klavier</name>
+			<length>8:02</length>
+			<instrument name="Player Piano">
+				<player name="J&uuml;rgen Hocker"/>
+			</instrument>
+			<composed start="?"/>
+			<recorded start="1927" end="94"/>
+			<release>Col Legno CD1 31900</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Alois" surname="H&aacute;ba" born="1893" died="1973">
+		<composition>
+			<name>Streichquartett Nr. 2 im Vierteltonsystem op. 12</name>
+			<length>16:57</length>
+			<player name="Leonardo Quartett"/>
+			<composed start="?"/>
+			<recorded start="1923" end="96"/>
+			<release>Col Legno CD1 31902</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Saed" surname="Haddad" born="1972" died="">
+		<composition>
+			<name>Joie voil&eacute;e</name>
+			<description>for string quartet</description>
+			<length>17:26</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2005" end="2006"/>
+			<recorded start="2006"/>
+			<release>Neos 10724</release>
+			<released>2007</released>
+		</composition>
+	</composer>
+	<composer name="Crist&oacute;bal" surname="Halffter" born="1930" died="">
+		<composition>
+			<name>Planto por las v&iacute;ctimas de la violencia</name>
+			<description>f&uuml;r Kammerensemble und elektronische Klangumwandlung</description>
+			<length>16:51</length>
+			<instrument name="Altsaxophon">
+				<player name="Kurt Edelhagen"/>
+				<player name="Franz von Klenck"/>
+			</instrument>
+			<instrument name="Trompete">
+				<player name="Heinz Hermannsd&ouml;rfer"/>
+				<player name="Posaune"/>
+				<player name="Hans Wilfert"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Werner Drexler"/>
+			</instrument>
+			<instrument name="Hans Peter Haller">
+				<player name="Elektronischer Entwurf und Realisation"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<player name="SWF-Sinfonieorchester"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="?"/>
+			<recorded start="1971"/>
+			<release>Col Legno CD1 31903</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Tres piezas para cuarteto</name>
+			<description>String Quartet No. 1</description>
+			<length>15:44</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="1956"/>
+			<recorded start="2010"/>
+			<release>MDG 307 1671-2</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>M&eacute;moires</name>
+			<description>String Quartet No. 2</description>
+			<length>21:41</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="1970"/>
+			<recorded start="2010"/>
+			<release>MDG 307 1671-2</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Variaciones sobre la resonancia de un grito</name>
+			<description>f&uuml;r 11 Instrumente, Tonband und live-elektronische Klangumwandlung</description>
+			<length>26:50</length>
+			<player name="Mitglieder des SWF-Sinfonieorchesters Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<instrument name="Klangregie">
+				<player name="Peter Haller"/>
+				<player name="Artur Kempter"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1976" end="1977"/>
+			<recorded start="1977"/>
+			<release>Col Legno WWE 3CD 20025</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Espacio de silencio</name>
+			<description>String Quartet No. 7</description>
+			<length>22:50</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="2007"/>
+			<recorded start="2010"/>
+			<release>MDG 307 1671-2</release>
+			<released>2010</released>
+		</composition>
+	</composer>
+	<composer name="Bengt" surname="Hambraeus" born="1928" died="">
+		<composition>
+			<name>Doppelrohr II</name>
+			<length>3:55</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1956"/>
+			<recorded start="1956"/>
+			<release>BVHaast 9106</release>
+			<released>?</released>
+		</composition>
+	</composer>
+	<composer name="Karl Amadeus" surname="Hartmann" born="1905" died="1963">
+		<composition>
+			<name>Adagio (2. Sinfonie)</name>
+			<description>f&uuml;r Gro&szlig;es Orchester</description>
+			<length>15:26</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Hans Rosbaud</conductor>
+			<composed start="1950"/>
+			<recorded start="1950"/>
+			<release>Col Legno CD1 31908</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Jonathan" surname="Harvey" born="1939" died="">
+		<composition>
+			<name>String Quartet No. 1</name>
+			<length>18:15</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1977"/>
+			<recorded start="2007"/>
+			<release>aeon AECD 0975</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Mortuos Plango, Vivos Voco</name>
+			<description>for 8 or 4 track tape</description>
+			<length>9:00</length>
+			<player name="IRCAM, Paris"/>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>Wergo WER 2025-2</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Bhakti</name>
+			<description>for chamber orchestra with quadraphonic tape</description>
+			<length>53:47</length>
+			<player name="Nouvel Ensemble Moderne"/>
+			<conductor>Lorraine Vaillancourt</conductor>
+			<composed start="1982"/>
+			<recorded start="1994"/>
+			<release>Montaigne MO 782086</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Nataraja</name>
+			<description>for flute (doubling piccolo) and piano</description>
+			<length>10:02</length>
+			<instrument name="Flute/Piccolo">
+				<player name="Harrie Starreveld"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Ren&eacute; Eckhardt"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="?"/>
+			<release>Bridge BCD 9031</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>From Silence</name>
+			<description>for soprano, violin, viola, percussion, 3 electronic keyboards, computer and tape</description>
+			<length>21:45</length>
+			<composed start="1988"/>
+			<recorded start="?"/>
+			<release>Bridge BCD 9031</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 2</name>
+			<length>16:07</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1988"/>
+			<recorded start="2007"/>
+			<release>aeon AECD 0975</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Ritual Melodies</name>
+			<description>for quadraphonic tape</description>
+			<length>13:26</length>
+			<composed start="1990"/>
+			<recorded start="?"/>
+			<release>Bridge BCD 9031</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 3</name>
+			<length>14:28</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1995"/>
+			<recorded start="2007"/>
+			<release>aeon AECD 0975</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 4</name>
+			<description>with live electronics</description>
+			<length>31:42</length>
+			<player name="Arditti Quartet"/>
+			<composed start="2003"/>
+			<recorded start="2007"/>
+			<release>aeon AECD 0975</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>String Trio</name>
+			<length>13:26</length>
+			<player name="Arditti Quartet"/>
+			<composed start="2004"/>
+			<recorded start="2007"/>
+			<release>aeon AECD 0975</release>
+			<released>2009</released>
+		</composition>
+	</composer>
+	<composer name="Roman" surname="Haubenstock-Ramati" born="1919" died="1994">
+		<composition>
+			<name>Streichtrio Nr. 1/Ricercari</name>
+			<length>4:22</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1948" end="1978"/>
+			<recorded start="1996"/>
+			<release>hat[now]ART 114</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>L'amen de verre</name>
+			<length>4:46</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="1957"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Liaisons</name>
+			<description>for vibraphone or vibraphone coupled with marimba</description>
+			<length>8:15</length>
+			<instrument name="Vibraphone">
+				<player name="Stefan Stopora"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1998"/>
+			<release>hat[now]ART 118</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>D&eacute;cisions</name>
+			<description>Graphic composition in 16 parts for unspecified sound sources, realization for flute, trombone and percussion (1982)</description>
+			<length>18:48</length>
+			<instrument name="Flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="Trombone">
+				<player name="Iven Hausmann"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1959" end="1961"/>
+			<recorded start="1997"/>
+			<release>hat[now]ART 101</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Credentials or Think, Think Lucky</name>
+			<description>f&uuml;r Sprechstimme und acht Instrumente</description>
+			<length>13:01</length>
+			<instrument name="Sprechstimme">
+				<player name="Cathy Berberian"/>
+			</instrument>
+			<player name="Mitglieder des SWF-Sinfonieorchesters Baden-Baden"/>
+			<conductor>Hans Rosbaud</conductor>
+			<composed start="1960"/>
+			<recorded start="1961"/>
+			<release>Col Legno CD1 31901</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Credentials or Think, Think Lucky</name>
+			<length>12:49</length>
+			<instrument name="Voice">
+				<player name="Salome Kammer"/>
+			</instrument>
+			<player name="Ensemble Avantgarde"/>
+			<conductor>Beat Furrer</conductor>
+			<composed start="1960"/>
+			<recorded start="1998"/>
+			<release>hat[now]ART 118</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Mobile for Shakespeare</name>
+			<length>12:44</length>
+			<instrument name="Voice">
+				<player name="Kerstin Klein"/>
+			</instrument>
+			<player name="Ensemble Avantgarde"/>
+			<conductor>Beat Furrer</conductor>
+			<composed start="1960"/>
+			<recorded start="1998"/>
+			<release>hat[now]ART 118</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Alone I</name>
+			<description>for unspecified low instruments, realization for bass flute, bass trombone and prepared bass drum (1965)</description>
+			<length>5:54</length>
+			<instrument name="Bass flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="Bass trombone">
+				<player name="Iven Hausmann"/>
+			</instrument>
+			<instrument name="Prepared bass drum">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="1997"/>
+			<release>hat[now]ART 101</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Batterie</name>
+			<description>for percussion</description>
+			<length>10:48</length>
+			<instrument name="Percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1997"/>
+			<release>hat[now]ART 101</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Kreise</name>
+			<description>for sprechstimme and percussion, 1st realization</description>
+			<length>9:12</length>
+			<instrument name="Voice">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1997"/>
+			<release>hat[now]ART 101</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Kreise</name>
+			<description>for sprechstimme and percussion, 2nd realization</description>
+			<length>9:36</length>
+			<instrument name="Voice">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1997"/>
+			<release>hat[now]ART 101</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Concerto a tre</name>
+			<length>14:04</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1972"/>
+			<recorded start="1998"/>
+			<release>hat[now]ART 114</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Streichquartett</name>
+			<length>21:37</length>
+			<part>
+				<number>I</number>
+				<length>4:31</length>
+			</part>
+			<part>
+				<number>II</number>
+				<length>1:40</length>
+			</part>
+			<part>
+				<number>III</number>
+				<length>3:19</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<length>2:58</length>
+			</part>
+			<part>
+				<number>V</number>
+				<length>3:47</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<length>5:22</length>
+			</part>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="1977"/>
+			<recorded start="1998"/>
+			<release>hat[now]ART 118</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Streichtrio Nr. 2</name>
+			<length>23:48</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1985"/>
+			<recorded start="1998"/>
+			<release>hat[now]ART 114</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>F&uuml;r Kandinsky</name>
+			<length>12:14</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1987"/>
+			<recorded start="1997"/>
+			<release>hat[now]ART 114</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Cath&eacute;drale</name>
+			<description>for solo harp</description>
+			<length>24:13</length>
+			<instrument name="Harp">
+				<player name="Giovanna Reitano"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20220</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Cath&eacute;drale II</name>
+			<description>for solo harp and tape</description>
+			<length>26:48</length>
+			<instrument name="Harp">
+				<player name="Giovanna Reitano"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20220</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Pierre" surname="Henry" born="1927" died="">
+		<composition>
+			<name>Voile d'Orph&eacute;e</name>
+			<length>15:35</length>
+			<composed start="1953"/>
+			<recorded start="1953"/>
+			<release>harmonia mundi HMC 905200</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>Variations pour une Porte et un Soupir</name>
+			<length>48:26</length>
+			<composed start="1963"/>
+			<recorded start="1963"/>
+			<release>harmonia mundi HMC 905200</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>La Ville. Die Stadt</name>
+			<length>1:05:55</length>
+			<player name="Studio Akustische Kunst des WDR"/>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>Wergo WER 6301-2</release>
+			<released>1994</released>
+		</composition>
+	</composer>
+	<composer name="Hans Werner" surname="Henze" born="1926" died="">
+		<composition>
+			<name>1. Konzert f&uuml;r Klavier und Orchester</name>
+			<length>18:17</length>
+			<instrument name="Klavier">
+				<player name="Christopher Tainton"/>
+			</instrument>
+			<player name="NDR Sinfonieorchester"/>
+			<conductor>Peter Ruzicka</conductor>
+			<composed start="1950"/>
+			<recorded start="2001"/>
+			<release>Wergo WER 6657 2</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Antifone</name>
+			<description>f&uuml;r 11 Solostreicher, Bl&auml;ser und Schlagzeug</description>
+			<length>16:59</length>
+			<player name="NDR Sinfonieorchester"/>
+			<conductor>Peter Ruzicka</conductor>
+			<composed start="1960"/>
+			<recorded start="2001"/>
+			<release>Wergo WER 6657 2</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Scorribanda sinfonica sopra la tomba di una maratona</name>
+			<description>f&uuml;r Orchester</description>
+			<length>15:11</length>
+			<player name="NDR Sinfonieorchester"/>
+			<conductor>Peter Ruzicka</conductor>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Wergo WER 6657 2</release>
+			<released>2003</released>
+		</composition>
+	</composer>
+	<composer name="J&ouml;rg" surname="Herchet" born="1943" died="">
+		<composition>
+			<name>Komposition f&uuml;r Posaune, Bariton und Orchester</name>
+			<length>29:29</length>
+			<instrument name="Bariton">
+				<player name="Armin Rosin"/>
+				<player name="Posaune"/>
+				<player name="Gerhard Faulstich"/>
+			</instrument>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Crist&oacute;bal Halffter</conductor>
+			<composed start="?"/>
+			<recorded start="1980"/>
+			<release>Col Legno CD1 31906</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Paul" surname="Hindemith" born="1895" died="1963">
+		<composition>
+			<name>3. Streichquartett, op. 16</name>
+			<length>30:24</length>
+			<player name="Buchberger Quartett"/>
+			<composed start="?"/>
+			<recorded start="1921" end="86"/>
+			<release>Col Legno CD1 31900</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Lindberghflug</name>
+			<length>18:25</length>
+			<instrument name="Sprecher">
+				<player name="Ernst Ginsgerg"/>
+			</instrument>
+			<instrument name="Mezzosopran">
+				<player name="Betty Mergler"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Erik Wirl"/>
+			</instrument>
+			<instrument name="Bariton">
+				<player name="Gerhard Pechner"/>
+			</instrument>
+			<player name="Berliner Funkchor"/>
+			<player name="Berliner Funkorchester"/>
+			<conductor>Hermann Scherchen</conductor>
+			<composed start="?"/>
+			<recorded start="1929" end="30"/>
+			<release>Col Legno CD1 31900</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>7 Triost&uuml;cke f&uuml;r 3 Trautonien</name>
+			<length>11:11</length>
+			<instrument name="Mixturtrautonium und elektronisches Studio, Berlin">
+				<player name="Oskar Sala"/>
+			</instrument>
+			<composed start="1930"/>
+			<recorded start="1977"/>
+			<release>Erdenklang 81032</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Konzertst&uuml;ck f&uuml;r Trautonium mit Begleitung des Streichorchesters</name>
+			<length>8:48</length>
+			<instrument name="Mixturtrautonium">
+				<player name="Oskar Sala"/>
+			</instrument>
+			<player name="M&uuml;nchner Kammerorchester"/>
+			<conductor>Hans Stadlmair</conductor>
+			<composed start="1931"/>
+			<recorded start="1976" end="77"/>
+			<release>Erdenklang 81032</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Andr&eacute; Hodeir" born="1921" died="">
+		<composition>
+			<name>Jazz et jazz</name>
+			<length>3:02</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1951"/>
+			<release>INA C 1031</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="York" surname="H&ouml;ller" born="1944" died="">
+		<composition>
+			<name>Antiphon</name>
+			<description>f&uuml;r Streichquartett auf Tonband</description>
+			<length>17:29</length>
+			<player name="Saarbr&uuml;cker Streichquartett"/>
+			<player name="Elektronisches Studio der Staatlichen Hochschule f&uuml;r Musik K&ouml;ln"/>
+			<composed start="1976"/>
+			<recorded start="1981"/>
+			<release>Wergo WER 6515-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Mythos</name>
+			<description>Klanggedicht f&uuml;r 13 Instrumente, Schlagzeug und elektronische Kl&auml;nge</description>
+			<length>22:57</length>
+			<player name="Mitglieder des Rundfunk-Sinfonieorchesters des S&uuml;dwestfunks"/>
+			<instrument name="K&ouml;ln">
+				<player name="Studio f&uuml;r Elektronische Musik des WDR"/>
+			</instrument>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="1979" end="1980"/>
+			<recorded start="1990"/>
+			<release>Wergo WER 6515-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Traumspiel</name>
+			<description>Klanggedicht f&uuml;r Sopran, gro&szlig;es Orchester und elektronische Kl&auml;nge</description>
+			<length>25:41</length>
+			<instrument name="Sopran">
+				<player name="Karan Armstrong"/>
+			</instrument>
+			<instrument name="Sprecher">
+				<player name="Peter Lieck"/>
+			</instrument>
+			<player name="Radio-Symphonie-Orchester Berlin"/>
+			<player name="Centre europ&eacute;en pour la recherche musicale, Metz"/>
+			<conductor>Lothar Zagrosek</conductor>
+			<composed start="1983"/>
+			<recorded start="1989"/>
+			<release>Wergo WER 6515-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Improvisation sur le nom de Pierre Boulez</name>
+			<description>f&uuml;r 17 Instrumentalisten</description>
+			<length>3:40</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<composed start="1984" end="1985"/>
+			<recorded start="1985"/>
+			<release>Wergo WER 6515-2</release>
+			<released>1993</released>
+		</composition>
+	</composer>
+	<composer name="Heinz" surname="Holliger" born="1939" died="">
+		<composition>
+			<name>Pneuma</name>
+			<description>f&uuml;r Bl&auml;ser, Schlagzeug, Orgel und Radios</description>
+			<length>15:48</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="?"/>
+			<recorded start="1970"/>
+			<release>Col Legno CD1 31901</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Toshio" surname="Hosokawa" born="1955" died="">
+		<composition>
+			<name>Fragmente II</name>
+			<description>for alto flute and string quartet</description>
+			<length>10:05</length>
+			<instrument name="Alto Flute">
+				<player name="Pierre-Yves Artaud"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1989"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782078</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Landscape I</name>
+			<description>for string quartet</description>
+			<length>12:18</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1992"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782078</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Landscape II</name>
+			<description>for harp and string quartet</description>
+			<length>14:56</length>
+			<instrument name="Harp">
+				<player name="Kaoru Nakayama"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1992"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782078</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Landscape V</name>
+			<description>for sh&ocirc; and string quartet</description>
+			<length>15:28</length>
+			<instrument name="Shô">
+				<player name="Mayumi Miyata"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1993"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782078</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Vertical Time Study III</name>
+			<description>for violin and piano</description>
+			<length>10:36</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Ichiro Nodaira"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="1995"/>
+			<release>Montaigne 782078</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+</list>

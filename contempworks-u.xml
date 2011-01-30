@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Vladimir" surname="Ussachevsky" born="1911" died="">
+		<composition>
+			<name>Sonic Contours</name>
+			<length>7:19</length>
+			<player name="Columbia-Princeton Electronic Music Center"/>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>CRI CD611</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Piece For Tape Recorder</name>
+			<length>5:38</length>
+			<player name="Columbia-Princeton Electronic Music Center"/>
+			<composed start="1956"/>
+			<recorded start="1956"/>
+			<release>CRI CD611</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Computer Piece No. 1</name>
+			<length>3:42</length>
+			<player name="Columbia-Princeton Electronic Music Center"/>
+			<composed start="1968"/>
+			<recorded start="1968"/>
+			<release>CRI CD611</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Two Sketches For a Computer Piece</name>
+			<length>3:06</length>
+			<player name="Columbia-Princeton Electronic Music Center"/>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>CRI CD611</release>
+			<released>1991</released>
+		</composition>
+	</composer>
+</list>

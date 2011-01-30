@@ -1,0 +1,1931 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Gilles" surname="Racot" born="1951" died="">
+		<composition>
+			<name>Anamorph&eacute;es</name>
+			<length>7:21</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1984" end="1985"/>
+			<recorded start="1985"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Subgestuel</name>
+			<description>pour six percussions et support magn&eacute;tique</description>
+			<length>5:23</length>
+			<player name="Les Percussions de Strasbourg"/>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Jo&atilde;o" surname="Rafael" born="1960" died="">
+		<composition>
+			<name>Octeto II</name>
+			<description>for ensemble</description>
+			<length>17:24</length>
+			<player name="Ensemble Recherche"/>
+			<conductor>Kwam&eacute; Ryan</conductor>
+			<composed start="1986" end="1988"/>
+			<recorded start="1994"/>
+			<release>Non-commercial release of the composer</release>
+			<released>-</released>
+		</composition>
+		<composition>
+			<name>Transition</name>
+			<description>for clarinet</description>
+			<length>10:48</length>
+			<instrument name="clarinet">
+				<player name="Ernesto Molinari"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1994"/>
+			<release>Non-commercial release of the composer</release>
+			<released>-</released>
+		</composition>
+		<composition>
+			<name>R&eacute;it&eacute;rations</name>
+			<description>for piano</description>
+			<length>14:23</length>
+			<instrument name="piano">
+				<player name="Madalena Soveral"/>
+			</instrument>
+			<composed start="1985" end="1991"/>
+			<recorded start="2000"/>
+			<release>Non-commercial release of the composer, originally in Num&eacute;rica 1097</release>
+			<released>-</released>
+		</composition>
+		<composition>
+			<name>Occasus</name>
+			<description>for ensemble</description>
+			<length>24:10</length>
+			<player name="Ensemble Recherche"/>
+			<conductor>Kwam&eacute; Ryan</conductor>
+			<composed start="1991"/>
+			<recorded start="1994"/>
+			<release>Non-commercial release of the composer</release>
+			<released>-</released>
+		</composition>
+		<composition>
+			<name>Ode</name>
+			<description>for orchestra</description>
+			<length>15:28</length>
+			<player name="Tokyo Symphony Orchestra"/>
+			<conductor>Norichika Imori</conductor>
+			<composed start="1993" end="1994"/>
+			<recorded start="1994"/>
+			<release>Non-commercial release of the composer</release>
+			<released>-</released>
+		</composition>
+		<composition>
+			<name>Anaquies</name>
+			<description>for string quartet</description>
+			<length>20:38</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="1997" end="1998"/>
+			<recorded start="1998"/>
+			<release>Non-commercial release of the composer</release>
+			<released>-</released>
+		</composition>
+		<composition>
+			<name>Ombres Crois&eacute;es</name>
+			<description>for 8-track tape</description>
+			<length>20:16</length>
+			<composed start="1990" end="1999"/>
+			<recorded start="1999"/>
+			<release>Non-commercial release of the composer</release>
+			<released>-</released>
+		</composition>
+		<composition>
+			<name>L'Air de l'Air</name>
+			<description>for 8-track tape</description>
+			<length>8:18</length>
+			<composed start="1992" end="1999"/>
+			<recorded start="1992"/>
+			<release>Non-commercial release of the composer</release>
+			<released>-</released>
+		</composition>
+		<composition>
+			<name>Kreuzgang</name>
+			<description>for ensemble and orchestra</description>
+			<length>15:00</length>
+			<player name="Remix Ensemble"/>
+			<player name="Gulbenkian Orchestra"/>
+			<conductor>Kasper De Roo</conductor>
+			<composed start="2001" end="2002"/>
+			<recorded start="2002"/>
+			<release>Non-commercial release of the composer</release>
+			<released>-</released>
+		</composition>
+		<composition>
+			<name>Duo</name>
+			<description>pour euphonium et clarinette basse</description>
+			<length>12:31</length>
+			<instrument name="Euphonium">
+				<player name="Andrew Digby"/>
+			</instrument>
+			<instrument name="Clarinette basse">
+				<player name="Carl Rosman"/>
+			</instrument>
+			<composed start="?"/>
+			<recorded start="2005"/>
+			<release>Non-commercial release of the composer</release>
+			<released>-</released>
+		</composition>
+	</composer>
+	<composer name="Horatiu" surname="Radulescu" born="1942" died="">
+		<composition>
+			<name>Inner Time II</name>
+			<description>Homage to Calder</description>
+			<description>for 7 b-flat clarinets</description>
+			<length>56:02</length>
+			<player name="Armand Angster Clarinet System"/>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Montaigne 782030</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Streichquartett nr. 4 opus 33</name>
+			<description>"Infinite to be cannot be infinite, infinite anti-be could be infinite", Hommage &agrave; Leonardo da Vinci</description>
+			<description>for nine string quartets or a string quartet surrounded by an imaginary 128-string viola da gamba</description>
+			<length>49:00</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1976" end="1987"/>
+			<recorded start="1989" end="1996"/>
+			<release>RZ 4002</release>
+			<released>2001</released>
+		</composition>
+	</composer>
+	<composer name="Andreas" surname="Raseghi" born="1964" died="">
+		<composition>
+			<name>Kammerquartett</name>
+			<description>f&uuml;r zwei Violinen, Viola und Violoncello</description>
+			<length>9:14</length>
+			<player name="Auryn Quartett"/>
+			<composed start="1982" end="1984"/>
+			<recorded start="1987"/>
+			<release>Col Legno CD1 31910</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Michel" surname="Redolfi" born="1951" died="">
+		<composition>
+			<name>Appel d'air</name>
+			<length>3:40</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Guy" surname="Reibel" born="1936" died="">
+		<composition>
+			<name>Canon sur une trompe africaine</name>
+			<length>2:57</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Steve" surname="Reich" born="1936" died="">
+		<composition>
+			<name>Four Organs</name>
+			<length>15:53</length>
+			<player name="Bang on a Can"/>
+			<composed start="1970"/>
+			<recorded start="1996"/>
+			<release>Nonesuch 79481-2</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Music for 18 musicians</name>
+			<length>56:31</length>
+			<player name="Steve Reich and Musicians"/>
+			<composed start="1974" end="1976"/>
+			<recorded start="?"/>
+			<release>ECM 1129</release>
+			<released>1978</released>
+		</composition>
+		<composition>
+			<name>The Four Sections</name>
+			<length>26:00</length>
+			<player name="The London Symphony Orchestra"/>
+			<conductor>Michael Tilson Thomas</conductor>
+			<composed start="1986"/>
+			<recorded start="?"/>
+			<release>Elektra Nonesuch 9 79220 2</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Music for Mallet Instruments, Voices and Organ</name>
+			<length>16:47</length>
+			<player name="Steve Reich and Musicians"/>
+			<composed start="1973"/>
+			<recorded start="?"/>
+			<release>Elektra Nonesuch 9 79220 2</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Drumming</name>
+			<length>56:42</length>
+			<player name="Steve Reich and Musicians"/>
+			<composed start="1970" end="1971"/>
+			<recorded start="1987"/>
+			<release>Elektra Nonesuch 979170 2</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>Six Marimbas</name>
+			<length>16:19</length>
+			<player name="Steve Reich and Musicians"/>
+			<composed start="1973" end="1986"/>
+			<recorded start="1986"/>
+			<release>Elektra Nonesuch 979138 2</release>
+			<released>1986</released>
+		</composition>
+		<composition>
+			<name>Eight Lines (Octet)</name>
+			<length>17:39</length>
+			<player name="Bang on a Can"/>
+			<composed start="1979" end="1983"/>
+			<recorded start="1996"/>
+			<release>Nonesuch 79481-2</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Sextet</name>
+			<length>26:12</length>
+			<player name="Steve Reich and Musicians"/>
+			<composed start="1985"/>
+			<recorded start="1986"/>
+			<release>Elektra Nonesuch 979138 2</release>
+			<released>1986</released>
+		</composition>
+		<composition>
+			<name>New York Counterpoint</name>
+			<length>11:09</length>
+			<player name="Bang on a Can"/>
+			<composed start="1985"/>
+			<recorded start="1996"/>
+			<release>Nonesuch 79481-2</release>
+			<released>1997</released>
+		</composition>
+	</composer>
+	<composer name="Roger" surname="Reynolds" born="1934" died="">
+		<composition>
+			<name>Transfigured Wind IV</name>
+			<length>17:54</length>
+			<instrument name="Flauta">
+				<player name="Harvey Sollberger"/>
+			</instrument>
+			<player name="UCSD Center for Music Experiment"/>
+			<composed start="?"/>
+			<recorded start="?"/>
+			<release>Neuma 450-74</release>
+			<released>1990</released>
+		</composition>
+	</composer>
+	<composer name="Andr&eacute;" surname="Richard" born="1944" died="">
+		<composition>
+			<name>Echanges</name>
+			<description>f&uuml;r Orchester und Live-Elektronik</description>
+			<length>17:53</length>
+			<player name="SWF-Sinfonieorchester BadenBaden"/>
+			<conductor>Lothar Zagrosek</conductor>
+			<instrument name="Klangregie">
+				<player name="Hans Peter Haller"/>
+				<player name="Andr&eacute; Richard"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<composed start="1985" end="1986"/>
+			<recorded start="1988"/>
+			<release>Col Legno WWE 3CD 20025</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Josef Anton" surname="Riedl" born="1929" died="">
+		<composition>
+			<name>Folge von 4 Studien</name>
+			<length>12:34</length>
+			<part>
+				<number>1</number>
+				<name>Nr. 59</name>
+				<length>2:38</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Nr. 61</name>
+				<length>2:07</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Nr. 62/1</name>
+				<length>2:06</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Nr. 62/2</name>
+				<length>5:43</length>
+			</part>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="?"/>
+			<recorded start="?"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Un chien andalu</name>
+			<description>Elektroakustische Musik zum Stummfilm &quot;Un chien andalu&quot; von Salvator Dali und Luis Bunuel</description>
+			<description>Ausschnitt aus Studie 59/I</description>
+			<length>5:56</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="1959" end="1975"/>
+			<recorded start="1975"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Sendezeichen</name>
+			<description>Vier Kl&auml;nge</description>
+			<length>0:42</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Titelmusik</name>
+			<length>0:45</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Komposition Nr. 2</name>
+			<description>Musik der VariaVision &quot;Unendliche Fahrt&quot;</description>
+			<length>7:11</length>
+			<instrument name="Regie">
+				<player name="Edgar Reitz"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Alexander Kluge"/>
+			</instrument>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="1962" end="1965"/>
+			<recorded start="1965"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Leonce und Lena</name>
+			<description>(von Georg B&uuml;chner)</description>
+			<description>Sprache, Instrumentalkl&auml;nge, elektronische ver&auml;nderte Sprache, elektronische ver&auml;nderte Instrumentalkl&auml;nge (Zwei St&uuml;cke)</description>
+			<length>2:15</length>
+			<part>
+				<number>1</number>
+				<name>Nr. 4</name>
+				<length>1:45</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Nr. 1</name>
+				<length>0:30</length>
+			</part>
+			<player name="M&uuml;ncher Kammerspiele"/>
+			<instrument name="Inszenierung">
+				<player name="Fritz Kortner"/>
+			</instrument>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="1963"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Komposition Nr. 3</name>
+			<description>Elektronische und konkrete Kl&auml;nge, Fran&ccedil;ois Bayle, Alfred Feussner u.a., Stimme</description>
+			<length>6:50</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="1965" end="1967"/>
+			<recorded start="1967"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Rolf" surname="Riehm" born="1937" died="">
+		<composition>
+			<name>O Daddy</name>
+			<description>f&uuml;r Orchester und Tonband</description>
+			<length>16:24</length>
+			<player name="Realisierung des Tonbandes durch den Komponisten im Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<player name="SWF-Sinfonieorchester Baden Baden"/>
+			<conductor>Kazimierz Kord</conductor>
+			<composed start="?"/>
+			<recorded start="1984"/>
+			<release>Col Legno CD1 31904</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Vittorio" surname="Rieti" born="1898" died="1994">
+		<composition>
+			<name>Chess Serenade</name>
+			<description>for piano</description>
+			<length>1:28</length>
+			<instrument name="Piano">
+				<player name="Margaret Leng Tan"/>
+			</instrument>
+			<composed start="1944"/>
+			<recorded start="2005"/>
+			<release>Mode 158</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Wolfgang" surname="Rihm" born="1952" died="">
+		<composition>
+			<name>Zweites Streichtrio</name>
+			<description>f&uuml;r Violine, Viola und Violoncello</description>
+			<length>4:52</length>
+			<player name="ensemble recherche"/>
+			<composed start="1969"/>
+			<recorded start="1994"/>
+			<release>Kairos 0012092KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Symphonie op. 3</name>
+			<description>f&uuml;r Orchester</description>
+			<description>in memoriam Karl Amadeus Hartmann</description>
+			<length>10:16</length>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Jonathan Stockhammer</conductor>
+			<composed start="1969"/>
+			<recorded start="2007"/>
+			<release>h&auml;nssler Classic CD 93.227</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 1 op.2</name>
+			<length>8:25</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1970"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20211</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Klavierst&uuml;ck Nr. 1 op.8a</name>
+			<length>18:28</length>
+			<instrument name="Piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012372KAI</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 2 op.10</name>
+			<length>8:40</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1970"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20211</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Klavierst&uuml;ck Nr. 2 op.8b</name>
+			<length>19:37</length>
+			<instrument name="Piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012372KAI</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Hekton</name>
+			<description>for Violin and Piano</description>
+			<length>6:47</length>
+			<instrument name="Violin">
+				<player name="Ulf Hoelscher"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1998"/>
+			<release>CPO 999 883-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Paraphrase</name>
+			<description>f&uuml;r Violoncello, Percussion und Klavier</description>
+			<length>23:50</length>
+			<instrument name="Klavier">
+				<player name="Yukiko Sugawara"/>
+			</instrument>
+			<player name="ensemble recherche"/>
+			<composed start="1972"/>
+			<recorded start="1995"/>
+			<release>Kairos 0012092KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Morphonie</name>
+			<description>f&uuml;r Orchester mit Solostreichquartett</description>
+			<length>40:10</length>
+			<instrument name="1. Violine">
+				<player name="Wolfgang Hock"/>
+			</instrument>
+			<instrument name="2. Violine">
+				<player name="Karl Steeb"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Enrique Santiago"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Anton K&auml;smeier"/>
+			</instrument>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1972"/>
+			<recorded start="1974"/>
+			<release>h&auml;nssler Classic/SWR Media GmbH CD 93.010</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>D&eacute;ploration</name>
+			<description>f&uuml;r Fl&ouml;te, Violoncello und Percussion</description>
+			<length>12:27</length>
+			<player name="ensemble recherche"/>
+			<composed start="1973"/>
+			<recorded start="1994"/>
+			<release>Kairos 0012092KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Dis-Kontur</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>22:44</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1974"/>
+			<recorded start="2002"/>
+			<release>h&auml;nssler Classic CD 93.202</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Dis-Kontur</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>21:36</length>
+			<player name="Sinfonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Leif Segerstam</conductor>
+			<composed start="1974"/>
+			<recorded start="1978"/>
+			<release>Col Legno WWE 1CD 20093</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Klavierst&uuml;ck Nr. 4</name>
+			<length>14:37</length>
+			<instrument name="Piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1974"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012372KAI</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Violin Sonata</name>
+			<length>11:16</length>
+			<instrument name="Violin">
+				<player name="Ulf Hoelscher"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="1971" end="1975"/>
+			<recorded start="1998"/>
+			<release>CPO 999 883-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Sub-Kontur</name>
+			<description>f&uuml;r Orchester</description>
+			<length>26:42</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1974" end="1975"/>
+			<recorded start="1976"/>
+			<release>h&auml;nssler Classic CD 93.202</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Sub-Kontur</name>
+			<description>f&uuml;r Orchester</description>
+			<length>21:36</length>
+			<player name="Sinfonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Sian Edwards</conductor>
+			<composed start="1974" end="1975"/>
+			<recorded start="2004"/>
+			<release>Col Legno WWE 1CD 20093</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Klavierst&uuml;ck Nr. 5</name>
+			<description>Tombeau</description>
+			<length>12:14</length>
+			<instrument name="Piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012372KAI</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Symphonie</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>Erster und letzter Satz</description>
+			<length>14:17</length>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Jonathan Stockhammer</conductor>
+			<composed start="1975"/>
+			<recorded start="2007"/>
+			<release>h&auml;nssler Classic CD 93.227</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>O Notte</name>
+			<description>f&uuml;r Bariton und kleines Orchester</description>
+			<description>Hommage &agrave; Dallapiccola</description>
+			<length>6:51</length>
+			<instrument name="Bariton">
+				<player name="Ned Barth"/>
+			</instrument>
+			<player name="Badische Staatskapelle"/>
+			<conductor>G&uuml;nter Neuhold</conductor>
+			<composed start="1975"/>
+			<recorded start="1992"/>
+			<release>Cadenza CAD 800 886</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Lichtzwang</name>
+			<description>Musik f&uuml;r Violine und Orchester</description>
+			<length>18:06</length>
+			<instrument name="Violine">
+				<player name="J&aacute;nos N&eacute;gyesy"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1975" end="1976"/>
+			<recorded start="1977"/>
+			<release>h&auml;nssler Classic CD 93.202</release>
+			<released>2007</released>
+		</composition>
+		<composition score="Y">
+			<name>Im Innersten</name>
+			<description>Streichquartett III, in sechs S&auml;tzen</description>
+			<length>26:56</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1976"/>
+			<recorded start="1990"/>
+			<release>Montaigne 782001</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 3 &quot;Im Innersten&quot;</name>
+			<length>26:13</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1976"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20211</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Klavierst&uuml;ck Nr. 6</name>
+			<length>18:00</length>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012122KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Musik f&uuml;r drei Streicher</name>
+			<length>54:55</length>
+			<player name="Trio Recherche"/>
+			<composed start="1977"/>
+			<recorded start="1996"/>
+			<release>Kairos 0012042KAI</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>La musique creuse le ciel</name>
+			<description>Music for two pianos and large orchestra</description>
+			<length>34:12</length>
+			<player name="GrauSchumacher Piano Duo"/>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="1977" end="1979"/>
+			<recorded start="2003"/>
+			<release>Neos 10721</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 4</name>
+			<length>19:27</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1979" end="1981"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20211</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Bratschenkonzert</name>
+			<length>21:49</length>
+			<instrument name="Viola">
+				<player name="Franziska D&uuml;rr"/>
+			</instrument>
+			<player name="Badische Staatskapelle"/>
+			<conductor>G&uuml;nter Neuhold</conductor>
+			<composed start="1979" end="1983"/>
+			<recorded start="1992"/>
+			<release>Cadenza CAD 800 886</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Klavierst&uuml;ck Nr. 7</name>
+			<length>10:58</length>
+			<instrument name="Piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2001"/>
+			<release>Kairos 0012372KAI</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Erster Doppelgesang</name>
+			<description>Musik f&uuml;r Viola, Violoncello und Orchester</description>
+			<length>14:04</length>
+			<instrument name="Viola">
+				<player name="Hirofumi Fukai"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Walter Grimmer"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Jan Latham-Koenig</conductor>
+			<composed start="1980"/>
+			<recorded start="1984"/>
+			<release>h&auml;nssler Classic CD 93.185</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Tutuguri</name>
+			<description>Po&egrave;me dans&eacute; f&uuml;r einem Sprecher, Chor und gro&szlig;es Orchester</description>
+			<length>1:56:50</length>
+			<instrument name="Speaker, Choir master">
+				<player name="Rupert Huber"/>
+			</instrument>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Fabrice Bollon</conductor>
+			<composed start="1980" end="1982"/>
+			<recorded start="2002"/>
+			<release>h&auml;nssler Classic CD 93.069</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Chiffre I</name>
+			<description>f&uuml;r Klavier und 7 Instrumente</description>
+			<length>9:31</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1982"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Chiffre I</name>
+			<description>f&uuml;r Klavier und 7 Instrumente</description>
+			<length>8:51</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1982"/>
+			<recorded start="1999"/>
+			<release>Kairos 0012072KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Fremde Szenen I-III</name>
+			<description>Versuche f&uuml;r Klaviertrio</description>
+			<length>43:38</length>
+			<player name="Beethoven Trio Ravensburg"/>
+			<composed start="1982" end="1984"/>
+			<recorded start="1991"/>
+			<release>CPO 999 119-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Ohne Titel</name>
+			<description>Streichquartett V, in einem Satz</description>
+			<length>25:52</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1981" end="1983"/>
+			<recorded start="1990"/>
+			<release>Montaigne 782001</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 5 &quot;Ohne Titel&quot;</name>
+			<length>29:58</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1981" end="1983"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20212</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Schwarzer und Roter Tanz</name>
+			<description>(Fragment aus Tutuguri)</description>
+			<description>f&uuml;r Orchester</description>
+			<length>15:54</length>
+			<player name="Badische Staatskapelle"/>
+			<conductor>G&uuml;nter Neuhold</conductor>
+			<composed start="1982" end="1983"/>
+			<recorded start="1992"/>
+			<release>Cadenza CAD 800 886</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Nach-Schrift (eine Chiffre)</name>
+			<description>f&uuml;r Ensemble</description>
+			<length>9:15</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1982" end="2004"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Silence to be beaten (Chiffre II)</name>
+			<description>f&uuml;r 14 Spieler</description>
+			<length>13:10</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1983"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Silence to be beaten (Chiffre II)</name>
+			<length>12:50</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1983"/>
+			<recorded start="1999"/>
+			<release>Kairos 0012072KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Chiffre III</name>
+			<description>f&uuml;r 12 Spieler</description>
+			<length>9:10</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1983"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Chiffre IV</name>
+			<description>f&uuml;r Bassklarinette, Violoncello &amp; Klavier</description>
+			<length>8:46</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1983" end="1984"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Chiffre IV</name>
+			<description>f&uuml;r Ba&szlig;klarinette, Violoncello und Klavier</description>
+			<length>10:20</length>
+			<player name="ensemble recherche"/>
+			<composed start="1984"/>
+			<recorded start="1995"/>
+			<release>Kairos 0012092KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 6 &quot;Blaubuch&quot;</name>
+			<length>47:11</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1984"/>
+			<recorded start="2003"/>
+			<release>Col Legno WWE 1CD 20212</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Chiffre V</name>
+			<description>f&uuml;r Ensemble</description>
+			<length>9:40</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1984"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Bild (eine Chiffre)</name>
+			<description>f&uuml;r 9 Spieler</description>
+			<length>7:56</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1984"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Chiffre VI</name>
+			<description>f&uuml;r 8 Instrumente</description>
+			<length>4:43</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1984"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Chiffre VII</name>
+			<description>f&uuml;r Ensemble</description>
+			<length>9:38</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1985"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Die Hamletmaschine</name>
+			<description>Musiktheater in f&uuml;nf Teilen</description>
+			<length>1:32:03</length>
+			<player name="Chor und Orchester des Nationaltheaters Mannheim"/>
+			<conductor>Peter Schneider</conductor>
+			<composed start="1983" end="1986"/>
+			<recorded start="1987"/>
+			<release>Wergo WER 6195-2</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 7 &quot;Ver&auml;nderungen&quot;</name>
+			<length>21:59</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1985"/>
+			<recorded start="2004"/>
+			<release>Col Legno WWE 1CD 20213</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Sine Nomine</name>
+			<description>Studie f&uuml;r f&uuml;nf Blechbl&auml;ser</description>
+			<length>9:23</length>
+			<player name="Ensemble 13"/>
+			<conductor>Manfred Reichert</conductor>
+			<composed start="1985"/>
+			<recorded start="1988"/>
+			<release>CPO 999 134-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Chiffre VIII</name>
+			<description>f&uuml;r 8 Spieler</description>
+			<length>4:17</length>
+			<player name="musikFabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="1985" end="1988"/>
+			<recorded start="2004"/>
+			<release>CPO 777 169-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Verzeichnung - Studie</name>
+			<description>f&uuml;r Viola, Violoncello und Kontraba&szlig;</description>
+			<length>7:30</length>
+			<player name="ensemble recherche"/>
+			<composed start="1986"/>
+			<recorded start="1996"/>
+			<release>Kairos 0012092KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Klangbeschreibung I</name>
+			<description>f&uuml;r drei Orchestergruppen</description>
+			<length>20:15</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>h&auml;nssler Classic/SWR Media GmbH CD 93.010</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Klangbeschreibung II</name>
+			<description>f&uuml;r vier Frauenstimmen, f&uuml;nf Blechbl&auml;ser und sechs Schlagzeuger auf ein Gedicht von Friedrich Nietzsche</description>
+			<length>28:40</length>
+			<instrument name="Sopran">
+				<player name="Ingrid Ade-Jesemann"/>
+				<player name="Christa Muckenheim"/>
+			</instrument>
+			<instrument name="Mezzosopran">
+				<player name="Monika Bair-Jvenz"/>
+			</instrument>
+			<instrument name="hoher Sopran">
+				<player name="Christine Whittlesey"/>
+			</instrument>
+			<player name="Gabrieli-Quintett"/>
+			<player name="Slagwerkgroep Den Haag"/>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>h&auml;nssler Classic/SWR Media GmbH CD 93.010</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Klangbeschreibung III</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>38:15</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>h&auml;nssler Classic/SWR Media GmbH CD 93.010</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 8</name>
+			<length>15:15</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1987" end="1988"/>
+			<recorded start="2004"/>
+			<release>Col Legno WWE 1CD 20213</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Achtes Streichquartett</name>
+			<description>Streichquartett VIII, in einem Satz</description>
+			<length>15:03</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1987" end="1988"/>
+			<recorded start="1990"/>
+			<release>Montaigne 782001</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Nachtwach</name>
+			<description>f&uuml;r 8 Soli, gem. Chor, 4 Posaunen und Woodblock</description>
+			<length>10:10</length>
+			<instrument name="Soprano">
+				<player name="Barbara van den Boom"/>
+				<player name="Aleksandra Lustig"/>
+			</instrument>
+			<instrument name="Alto">
+				<player name="Ute Wille"/>
+				<player name="Susanne Mei&szlig;ner-Schaufelberger"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="R&uuml;diger Linn"/>
+				<player name="Hubert Mayer"/>
+			</instrument>
+			<instrument name="Bass">
+				<player name="Bernhard Hartmann"/>
+				<player name="Mikhail Shashkov"/>
+			</instrument>
+			<instrument name="Trombone">
+				<player name="Angelika Frei"/>
+				<player name="Martin Huber"/>
+				<player name="Michael Peuse"/>
+				<player name="Heinrich G&ouml;lzenleuchter"/>
+			</instrument>
+			<instrument name="Woodblock">
+				<player name="Marcus Creed"/>
+			</instrument>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<conductor>Markus Creed</conductor>
+			<composed start="1987" end="1988"/>
+			<recorded start="2004"/>
+			<release>h&auml;nssler Classic CD 93.227</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Schwebende Begegnung</name>
+			<description>f&uuml;r Orchester</description>
+			<length>11:18</length>
+			<player name="Badische Staatskapelle"/>
+			<conductor>G&uuml;nter Neuhold</conductor>
+			<composed start="1988"/>
+			<recorded start="1992"/>
+			<release>Cadenza CAD 800 886</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>D&eacute;part</name>
+			<description>f&uuml;r gemischten Chor, Sprechchor und 22 Spieler</description>
+			<length>8:55</length>
+			<player name="Wiener Philharmoniker"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1988"/>
+			<recorded start="1988"/>
+			<release>Deutsche Grammophon 429260-2</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Kein Firmament</name>
+			<description>f&uuml;r 14 Spieler</description>
+			<length>37:47</length>
+			<player name="Ensemble 13"/>
+			<conductor>Manfred Reichert</conductor>
+			<composed start="1988"/>
+			<recorded start="1990"/>
+			<release>CPO 999 134-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Dunkles Spiel</name>
+			<description>f&uuml;r kleines Orchester</description>
+			<length>11:05</length>
+			<player name="Badische Staatskapelle"/>
+			<conductor>G&uuml;nter Neuhold</conductor>
+			<composed start="1988" end="1990"/>
+			<recorded start="1992"/>
+			<release>Cadenza CAD 800 886</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Frau/Stimme</name>
+			<description>f&uuml;r Sopranund Orchester mit Sopran</description>
+			<description>W&ouml;rter von Heiner M&uuml;ller</description>
+			<length>19:56</length>
+			<instrument name="Sopran">
+				<player name="Isolde Siebert"/>
+				<player name="Carmen Fuggiss"/>
+			</instrument>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>Col Legno CD1 31911</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Frau/Stimme</name>
+			<description>f&uuml;r Sopran und Orchester</description>
+			<length>19:57</length>
+			<instrument name="Sopran">
+				<player name="Isolde Siebert"/>
+				<player name="Carmen Fuggiss"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>h&auml;nssler Classic CD 93.236</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Ins Offene...</name>
+			<description>Zweite Fassung</description>
+			<description>f&uuml;r Orchester </description>
+			<length>28:37</length>
+			<player name="Tschechische Philharmonie"/>
+			<conductor>Gerd Albrecht</conductor>
+			<composed start="1990" end="1992"/>
+			<recorded start="1995"/>
+			<release>Col Legno WWE 1CD 31883</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Am Horizont</name>
+			<description>Stille Szene f&uuml;r Violine, Violoncello und Akkordeon</description>
+			<length>6:50</length>
+			<instrument name="Akkordeon">
+				<player name="Teodoro Anzellotti"/>
+			</instrument>
+			<player name="ensemble recherche"/>
+			<composed start="1991"/>
+			<recorded start="1995"/>
+			<release>Kairos 0012092KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 9&quot;Quartettsatz&quot; </name>
+			<length>22:29</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1992" end="1993"/>
+			<recorded start="2004"/>
+			<release>Col Legno WWE 1CD 20213</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Antlitz</name>
+			<description>Drawing for Violin and Piano</description>
+			<length>10:03</length>
+			<instrument name="Violin">
+				<player name="Ulf Hoelscher"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="1998"/>
+			<release>CPO 999 883-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 10</name>
+			<length>21:49</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1993" end="1997"/>
+			<recorded start="2005"/>
+			<release>Col Legno WWE 1CD 20227</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>sphere</name>
+			<description>Kontrafaktur mit Klavier-Gegenk&ouml;rper f&uuml;r Klavier, Bl&auml;ser und Schlagzeug</description>
+			<length>22:36</length>
+			<instrument name="Klavier">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Alexander Lazarew</conductor>
+			<composed start="1992" end="1994"/>
+			<recorded start="1994"/>
+			<release>Col Legno WWE 1CD 31883</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Vers une symphonie fleuve III</name>
+			<description>f&uuml;r Orchester</description>
+			<length>22:57</length>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Gianluigi Gelmetti</conductor>
+			<composed start="1992" end="1995"/>
+			<recorded start="1995"/>
+			<release>h&auml;nssler Classic CD 93.227</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Phantom und Eskapade</name>
+			<description>Piece Fantasies for Violin and Piano</description>
+			<length>19:09</length>
+			<instrument name="Violin">
+				<player name="Ulf Hoelscher"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="1993" end="1994"/>
+			<recorded start="1998"/>
+			<release>CPO 999 883-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Dritte Music</name>
+			<description>Musik f&uuml;r Violine und Orchester</description>
+			<length>17:42</length>
+			<instrument name="Violine">
+				<player name="Gottfried Schneider"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>h&auml;nssler Classic CD 93.185</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>In nuce</name>
+			<description>f&uuml;r Viola, Violoncello und Kontraba&szlig;</description>
+			<length>5:00</length>
+			<player name="ensemble recherche"/>
+			<composed start="1994"/>
+			<recorded start="1995"/>
+			<release>Kairos 0012092KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Nachstudie</name>
+			<length>29:13</length>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012122KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Raumauge</name>
+			<description>f&uuml;r Chor und Schlagzeug</description>
+			<length>5:01</length>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<player name="Varianti"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>h&auml;nssler Classic CD 93.227</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Ungemaltes Bild</name>
+			<description>f&uuml;r Orchester</description>
+			<length>15:54</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Friedrich Goldmann</conductor>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>h&auml;nssler Classic CD 93.236</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Gejagte Form</name>
+			<length>13:10</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1995" end="1996"/>
+			<recorded start="1999"/>
+			<release>Kairos 0012072KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Verborgene Formen</name>
+			<length>12:25</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1995" end="1997"/>
+			<recorded start="1999"/>
+			<release>Kairos 0012072KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Jagden und Formen</name>
+			<description>f&uuml;r Orchester</description>
+			<length>51:02</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Dominique My</conductor>
+			<composed start="1995" end="2001"/>
+			<recorded start="2001"/>
+			<release>Deutsche Grammophon 471 558-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Musik f&uuml;r Oboe und Orchester</name>
+			<length>16:09</length>
+			<instrument name="Oboe">
+				<player name="Alexander Ott"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1995" end="2002"/>
+			<recorded start="2002"/>
+			<release>h&auml;nssler Classic CD 93.185</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Styx und Lethe</name>
+			<description>Musik f&uuml;r Violoncello und Orchester</description>
+			<length>23:34</length>
+			<instrument name="Violoncello">
+				<player name="Lucas Fels"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1997" end="1998"/>
+			<recorded start="1998"/>
+			<release>h&auml;nssler Classic CD 93.185</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Zwiesprache</name>
+			<length>21:38</length>
+			<part>
+				<number>1</number>
+				<name>in memoriam Alfred Schlee</name>
+				<length>5:15</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>in memoriam Paul Sacher</name>
+				<length>4:31</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>in memoriam Heinrich Klotz</name>
+				<length>4:03</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>in memoriam H. H. Eggebrecht</name>
+				<length>3:55</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>in memoriam Hermann Wiesler</name>
+				<length>3:35</length>
+			</part>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012122KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Sotto voce - Notturno</name>
+			<description>f&uuml;r Klavier und kleines Orchester</description>
+			<length>17:41</length>
+			<instrument name="Piano">
+				<player name="Nicholas Hodges"/>
+			</instrument>
+			<player name="Luzerner Sinfonieorchester"/>
+			<conductor>John Axelrod</conductor>
+			<composed start="1999"/>
+			<recorded start="2008"/>
+			<release>Kairos 0012952KAI</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Deus Passus</name>
+			<description>Passions-St&uuml;cke nach Lukas</description>
+			<length>1:30:21</length>
+			<instrument name="Soprano">
+				<player name="Juliane Banse"/>
+			</instrument>
+			<instrument name="Mezzosoprano">
+				<player name="Iris Vermillion"/>
+			</instrument>
+			<instrument name="Alto">
+				<player name="Cornelia Kallisch"/>
+			</instrument>
+			<instrument name="Tenore">
+				<player name="Christoph Pr&eacute;gardien"/>
+			</instrument>
+			<instrument name="Baritono">
+				<player name="Andreas Schmidt"/>
+			</instrument>
+			<player name="G&auml;chinger Kantorei"/>
+			<player name="Bach-Collegium Stuttgart"/>
+			<conductor>Helmut Rilling</conductor>
+			<composed start="1999" end="2000"/>
+			<recorded start="2000"/>
+			<release>h&auml;nssler Classic CD 98.397</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Auf einem anderen Blatt</name>
+			<length>4:21</length>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012122KAI</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>&quot;Vier Male&quot;</name>
+			<description>f&uuml;r Klarinette solo</description>
+			<length>25:44</length>
+			<instrument name="Klarinette">
+				<player name="J&ouml;rg Widmann"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2003"/>
+			<release>Ars Musici AM 1385-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>&quot;Concerto&quot; Dithyrambe</name>
+			<description>f&uuml;r Streichquartett und Orchester</description>
+			<length>25:45</length>
+			<player name="Arditti String Quartett"/>
+			<player name="Luzerner Sinfonieorchester"/>
+			<conductor>Jonathan Nott</conductor>
+			<composed start="2000"/>
+			<recorded start="2007"/>
+			<release>Kairos 0012952KAI</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 12</name>
+			<length>13:56</length>
+			<player name="Minguet Quartet"/>
+			<composed start="2000" end="2001"/>
+			<recorded start="2005"/>
+			<release>Col Legno WWE 1CD 20227</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Vier Studien zu einem Klarinettenquintett</name>
+			<length>44:17</length>
+			<player name="Minguet Quartett"/>
+			<instrument name="Klarinette">
+				<player name="J&ouml;rg Widmann"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2004"/>
+			<release>Ars Musici AM 1385-2</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>&Uuml;ber-Schrift</name>
+			<description>for two pianos</description>
+			<length>26:33</length>
+			<player name="GrauSchumacher Piano Duo"/>
+			<composed start="1992" end="2003"/>
+			<recorded start="2005"/>
+			<release>Neos 10721</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Unbenannt IV</name>
+			<description>f&uuml;r Orchester mit Orgel</description>
+			<length>21:36</length>
+			<instrument name="Orgel">
+				<player name="Leo van Doeselaar"/>
+			</instrument>
+			<player name="Sinfonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Lothar Zagrosek</conductor>
+			<composed start="2002" end="2003"/>
+			<recorded start="2004"/>
+			<release>Col Legno WWE 1CD 20093</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Quartettstudie</name>
+			<length>13:05</length>
+			<player name="Minguet Quartet"/>
+			<composed start="2003" end="2004"/>
+			<recorded start="2005"/>
+			<release>Col Legno WWE 1CD 20227</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Vigilia</name>
+			<description>for six voices and ensemble</description>
+			<length>1:01:53</length>
+			<player name="ChorWerk Ruhr"/>
+			<player name="Ensemble Modern"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="2006"/>
+			<recorded start="2009"/>
+			<release>Neos 10817</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Akt und Tag</name>
+			<description>two studies for soprano and string quartet</description>
+			<length>25:06</length>
+			<instrument name="Soprano">
+				<player name="Claron McFadden"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Neos 10724</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Sotto voce 2 - Capriccio</name>
+			<description>f&uuml;r Klavier und kleines Orchester</description>
+			<length>17:41</length>
+			<instrument name="Piano">
+				<player name="Nicholas Hodges"/>
+			</instrument>
+			<player name="Luzerner Sinfonieorchester"/>
+			<conductor>John Axelrod</conductor>
+			<composed start="2007"/>
+			<recorded start="2008"/>
+			<release>Kairos 0012952KAI</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Quid est Deus</name>
+			<description>f&uuml;r Chor und Orchester</description>
+			<length>33:02</length>
+			<player name="SWR Vokalensemble"/>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>h&auml;nssler Classic CD 93.236</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Verwandlungen I-IV</name>
+			<description>Musik f&uuml;r Orchester</description>
+			<length>1:00:13</length>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Christian Arming (I-II)</conductor>
+			<conductor>Matthias Pintscher (III-IV)</conductor>
+			<composed start="2002" end="2008"/>
+			<recorded start="2006" end="2008"/>
+			<release>h&auml;nssler Classic CD 93.263</release>
+			<released>2010</released>
+		</composition>
+	</composer>
+	<composer name="Jean-Claude" surname="Risset" born="1938" died="">
+		<composition>
+			<name>Sud</name>
+			<length>5:51</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>INA C 1033</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Saxatile</name>
+			<description>for soprano saxophone and UPIC</description>
+			<length>7:45</length>
+			<instrument name="Saxophone">
+				<player name="Daniel Kientzy"/>
+			</instrument>
+			<player name="Les Ateliers UPIC, Paris"/>
+			<composed start="1992"/>
+			<recorded start="1992"/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+	</composer>
+	<composer name="Curtis" surname="Roads" born="1938" died="">
+		<composition>
+			<name>Purity</name>
+			<description>for tape</description>
+			<length>7:13</length>
+			<composed start="1994"/>
+			<recorded start=""/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Sonal Atoms</name>
+			<description>for tape</description>
+			<length>3:41</length>
+			<composed start="1998"/>
+			<recorded start=""/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Half-life</name>
+			<length>6:18</length>
+			<part>
+				<number>I</number>
+				<name>Sonal atoms</name>
+				<length>3:34</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Granules</name>
+				<length>2:44</length>
+			</part>
+			<composed start="1999"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Tenth vortex</name>
+			<length>3:01</length>
+			<composed start="2000"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Sculptor</name>
+			<length>3:13</length>
+			<composed start="2001"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Eleventh vortex</name>
+			<length>4:06</length>
+			<composed start="2001"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Now</name>
+			<length>6:14</length>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Volt air</name>
+			<length>10:08</length>
+			<part>
+				<number>I</number>
+				<length>3:16</length>
+			</part>
+			<part>
+				<number>II</number>
+				<length>2:35</length>
+			</part>
+			<part>
+				<number>III</number>
+				<length>2:15</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<length>2:07</length>
+			</part>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Fluxon</name>
+			<length>3:05</length>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Pictor alpha</name>
+			<length>3:23</length>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Nanomorphosis</name>
+			<length>3:16</length>
+			<composed start="2003"/>
+			<recorded start=""/>
+			<release>Asphodel ASP3000</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Brigitte" surname="Robindor&eacute;" born="1962" died="">
+		<composition>
+			<name>L'Autel de la Perte et de la Transformation</name>
+			<description>for UPIC</description>
+			<length>8:33</length>
+			<player name="Les Ateliers UPIC, Paris"/>
+			<composed start="1993"/>
+			<recorded start=""/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Comme Etrangers et Voyageurs sur la Terre</name>
+			<description>for 2 percussionists and UPIC</description>
+			<length>11:27</length>
+			<instrument name="Percussions">
+				<player name="Roland Auzet"/>
+				<player name="Claire Talibart"/>
+			</instrument>
+			<player name="Les Ateliers UPIC, Paris"/>
+			<composed start="1994"/>
+			<recorded start=""/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+	</composer>
+	<composer name="Eug&eacute;nio Manuel" surname="Rodrigues" born="1961" died="">
+		<composition>
+			<name>Mata Hari</name>
+			<description>for string quartet</description>
+			<length>10:33</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1994"/>
+			<recorded start="1999"/>
+			<release>Etcetera KTC1242</release>
+			<released>2001</released>
+		</composition>
+	</composer>
+	<composer name="Monique" surname="Rollin" born="1927" died="2002">
+		<composition>
+			<name>&Eacute;tude vocale</name>
+			<length>1:12</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Germ&aacute;n" surname="Romero" born="1966" died="">
+		<composition>
+			<name>Ramas</name>
+			<description>for amplified solo violin</description>
+			<length>14:24</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>Mode 165</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Frederic" surname="Rzewski" born="1938" died="">
+		<composition>
+			<name>Scratch Symphony</name>
+			<length>26:54</length>
+			<part>
+				<number>1</number>
+				<name>Ohne Dirigent</name>
+				<length>16:05</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Mit Dirigent</name>
+				<length>2:10</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Ohne Dirigent, Spiel nach Zeichen</name>
+				<length>3:10</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Der Pianist f&uuml;hrt</name>
+				<length>5:29</length>
+			</part>
+			<player name="SWF-Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>Col Legno WWE 3CD 20026</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+</list>

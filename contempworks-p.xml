@@ -1,0 +1,1210 @@
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<list>
+	<composer name="Luis de" surname="Pablo" born="1930" died="">
+		<composition>
+			<name>Il violino spagnolo</name>
+			<description>Improvisazione, Pensieroso, Scherzo</description>
+			<length>11:54</length>
+			<instrument name="Violino">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="1989"/>
+			<release>Montaigne 789003</release>
+			<released>1990</released>
+		</composition>
+	</composer>
+	<composer name="Younghi" surname="Pagh-Paan" born="1945" died="">
+		<composition>
+			<name>NIM</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>15:07</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="?"/>
+			<recorded start="1987"/>
+			<release>Col Legno CD1 31907</release>
+			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Gerard" surname="Pape" born="1955" died="">
+		<composition>
+			<name>Two Electro-Acoustic Songs</name>
+			<length>10:50</length>
+			<part>
+				<number>1</number>
+				<name>Time Caught in a Net</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>On the Road at Night</name>
+			</part>
+			<instrument name="Soprano">
+				<player name="Janet Pape"/>
+			</instrument>
+			<instrument name="Flute">
+				<player name="C&eacute;cile Daroux"/>
+			</instrument>
+			<instrument name="Tape &amp; Sound Projection">
+				<player name="Gerard Pape"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="1994"/>
+			<release>Mode 67</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Le Fleuve du D&eacute;sir</name>
+			<length>12:39</length>
+			<player name="The Arditti Quartett"/>
+			<instrument name="Tape">
+				<player name="Gerard Pape"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="1996"/>
+			<release>Mode 67</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Le Fleuve du D&eacute;sir III</name>
+			<description>for string quartet and UPIC</description>
+			<length>12:41</length>
+			<player name="The Arditti String Quartet"/>
+			<player name="Les Ateliers UPIC, Paris"/>
+			<composed start="1994"/>
+			<recorded start=""/>
+			<release>Mode 98/99</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Le Fleuve du D&eacute;sir IV</name>
+			<description>for 8 solo violins</description>
+			<length>12:33</length>
+			<instrument name="Violins">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1994" end="2002"/>
+			<recorded start="2004"/>
+			<release>Mode 167</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Monologue</name>
+			<length>32:16</length>
+			<instrument name="Bass">
+				<player name="Nicholas Isherwood"/>
+			</instrument>
+			<instrument name="Tape &amp; Sound Projection">
+				<player name="Gerard Pape"/>
+			</instrument>
+			<composed start="1995"/>
+			<recorded start="1995"/>
+			<release>Mode 67</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Battle</name>
+			<length>8:17</length>
+			<player name="Vox Nova"/>
+			<instrument name="Tape">
+				<player name="Gerard Pape"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="1997"/>
+			<release>Mode 67</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Makb&eacute;nach</name>
+			<length>10:20</length>
+			<instrument name="Saxophone">
+				<player name="Daniel Kientzy"/>
+			</instrument>
+			<player name="Ensemble 2e2m"/>
+			<conductor>Paul M&eacute;fano</conductor>
+			<instrument name="Tape &amp; Sound Projection">
+				<player name="Gerard Pape"/>
+			</instrument>
+			<composed start="1996" end="1997"/>
+			<recorded start="1997"/>
+			<release>Mode 67</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Funeral Sentences</name>
+			<description>for 2 soprano voices &amp; percussion</description>
+			<length>17:25</length>
+			<instrument name="Sopranos">
+				<player name="Janet Pape"/>
+				<player name="Armelle Orieux"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Roland Auzet"/>
+			</instrument>
+			<conductor>Alain Bancquart</conductor>
+			<composed start="1998"/>
+			<recorded start="2004"/>
+			<release>Mode 167</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Weaveworld Prologue</name>
+			<length>10:39</length>
+			<instrument name="Bass">
+				<player name="Nicholas Isherwood"/>
+			</instrument>
+			<player name="Atelier de Musique Contemporaine du CNR de Versailles"/>
+			<conductor>Lionel Arnaud</conductor>
+			<composed start="1998"/>
+			<recorded start="2004"/>
+			<release>Mode 167</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>La Naissance du Son</name>
+			<length>9:02</length>
+			<instrument name="Amplified cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2003"/>
+			<release>Mode 167</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>For Maurizio</name>
+			<length>3:48</length>
+			<instrument name="Amplified viola">
+				<player name="Maurizio Barbetti"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2004"/>
+			<release>Mode 167</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Ascension au Purgatoire</name>
+			<description>for percussion and computer (&quot;Stochos&quot; program)</description>
+			<length>18:11</length>
+			<instrument name="Percussion">
+				<player name="Roland Auzet"/>
+			</instrument>
+			<instrument name="Stochos programming">
+				<player name="Sinan Bokesoy"/>
+			</instrument>
+			<instrument name="Musical assistant (CCMIX)">
+				<player name="Stefan Tiedje"/>
+			</instrument>
+			<composed start="2004"/>
+			<recorded start="2004"/>
+			<release>Mode 167</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Hilda" surname="Paredes" born="1957" died="">
+		<composition>
+			<name>Uy u'tan</name>
+			<length>14:46</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1998"/>
+			<recorded start="2002"/>
+			<release>Mode 165</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Bernard" surname="Parmegiani" born="1927" died="">
+		<composition>
+			<name>L'alcool tue</name>
+			<length>4:13</length>
+			<instrument name="voix">
+				<player name="Boris Vian"/>
+			</instrument>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Violostries</name>
+			<length>16:40</length>
+			<instrument name="Violon">
+				<player name="Devy Erlih"/>
+			</instrument>
+			<player name="INA/GRM"/>
+			<composed start="1963"/>
+			<recorded start="1963"/>
+			<release>INA/GRM INA C 1012/1013</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Les Jeux des Anges</name>
+			<length>10:57</length>
+			<composed start="1964"/>
+			<recorded start="1964"/>
+			<release>NEEMC 02</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Steinberg</name>
+			<length>12:39</length>
+			<composed start="1966"/>
+			<recorded start="1966"/>
+			<release>NEEMC 04</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>L'Arraignelephant</name>
+			<length>9:12</length>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>NEEMC 04</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Capture &eacute;ph&eacute;m&egrave;re</name>
+			<length>11:57</length>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>INA/GRM INA C 2019</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Pour en finir avec le pouvoir d'Orph&eacute;e</name>
+			<length>23:27</length>
+			<instrument name="Guimbarde">
+				<player name="John Wright"/>
+				<player name="Tran Quang Ha&iuml;"/>
+			</instrument>
+			<player name="INA/GRM"/>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>INA/GRM INA C 1012/1013</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Indicatif Roissy</name>
+			<length>0:07</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Indicatif France Culture</name>
+			<length>1:14</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>La roue Ferris</name>
+			<length>10:48</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>L'&eacute;cran Transparent</name>
+			<length>19:57</length>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>NEEMC 06</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Chants Magn&eacute;tiques</name>
+			<length>37:21</length>
+			<part>
+				<number>1</number>
+				<name>Vibrations</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Aquarythm</name>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Entropie</name>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Ondes</name>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Plus-Moins</name>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Pulsion</name>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Feed-back</name>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Energy</name>
+			</part>
+			<part>
+				<number>9</number>
+				<name>Asynchronique</name>
+			</part>
+			<composed start="1974"/>
+			<recorded start="1974"/>
+			<release>Fractal 180</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Le Pas</name>
+			<length>6:51</length>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>NEEMC 05</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>De Natura Sonorum</name>
+			<description>Suite en douze mouvements</description>
+			<description>version int&eacute;grale</description>
+			<length>53:02</length>
+			<player name="INA/GRM"/>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>INA/GRM INA C 3001</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Indicatif &quot;Stade 2&quot;</name>
+			<length>0:26</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>INA C 1035</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Dedans-Dehors</name>
+			<length>22:24</length>
+			<player name="INA/GRM"/>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>INA/GRM INA C 1012/1013</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Exercisme 3</name>
+			<length>23:50</length>
+			<player name="INA/GRM"/>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>INA/GRM INA C 1012/1013</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Exercisme 3 (extrait)</name>
+			<length>6:28</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Rouge-Mort: Thanatos</name>
+			<length>16:52</length>
+			<instrument name="Zarb">
+				<player name="Jean-Pierre Drouet"/>
+			</instrument>
+			<player name="INA/GRM"/>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>INA/GRM INA C 1012/1013</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Le Pr&eacute;sent compos&eacute;</name>
+			<length>23:50</length>
+			<instrument name="Mixage">
+				<player name="Fran&ccedil;ois Donato"/>
+				<player name="Christian Zan&eacute;si"/>
+			</instrument>
+			<player name="INA/GRM"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>INA/GRM INA C 1012/1013</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Sonare</name>
+			<length>25:23</length>
+			<player name="INA/GRM"/>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>INA/GRM INA E 5203</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Sons-jeu</name>
+			<length>21:10</length>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>INA/GRM INA C 2019</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>La m&eacute;moire des sons</name>
+			<length>24:40</length>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>INA/GRM INA C 2019</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Plain temps</name>
+			<length>1:10:51</length>
+			<part>
+				<number>1</number>
+				<name>Pr&eacute;sent compos&eacute;, version 2006</name>
+				<length>23:50</length>
+				<composed start="1991" end="2006"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Entre-temps</name>
+				<length>22:29</length>
+				<composed start="1992"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Plain temps, version 2006</name>
+				<length>24:29</length>
+				<composed start="1993" end="2006"/>
+			</part>
+			<composed start="1991" end="2006"/>
+			<recorded start="1992" end="2006"/>
+			<release>INA/GRM INA C 2027</release>
+			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Ake" surname="Parmerud" born="1953" died="">
+		<composition>
+			<name>Les objets obscurs (extrait)</name>
+			<length>5:03</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>INA C 1034</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Arvo" surname="P&auml;rt" born="1935" died="">
+		<composition>
+			<name>Pari Intervallo</name>
+			<length>5:42</length>
+			<instrument name="Organ">
+				<player name="Christopher Bowers-Broadbent"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1986"/>
+			<release>ECM 1325</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>Tabula Rasa</name>
+			<length>26:25</length>
+			<instrument name="Violin">
+				<player name="Gidon Kremer"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Tatjana Grindenko"/>
+			</instrument>
+			<instrument name="Prepared piano">
+				<player name="Alfred Schnittke"/>
+			</instrument>
+			<player name="Lithuanian Chamber Orchestra"/>
+			<conductor>Saulius Sondeckis</conductor>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>ECM 1275 (special edition)</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Cantus in memory of Benjamin Britten</name>
+			<length>5:00</length>
+			<player name="Staatsorchester Stuttgart"/>
+			<conductor>Dennis Russell Davies</conductor>
+			<composed start="1977?"/>
+			<recorded start="1984"/>
+			<release>ECM 1275 (special edition)</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Fratres</name>
+			<length>11:28</length>
+			<instrument name="Violin">
+				<player name="Gidon Kremer"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Keith Jarrett"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1983"/>
+			<release>ECM 1275 (special edition)</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Summa</name>
+			<length>5:16</length>
+			<player name="The Hilliard Ensemble"/>
+			<composed start="1978"/>
+			<recorded start="1986"/>
+			<release>ECM 1325</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>Fratres</name>
+			<length>11:49</length>
+			<player name="The 12 Cellists of the Berlin Philharmonic Orchestra"/>
+			<composed start="1980"/>
+			<recorded start="1984"/>
+			<release>ECM 1275 (special edition)</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>De Profundis</name>
+			<length>6:50</length>
+			<player name="The Hilliard Ensemble"/>
+			<composed start="1980"/>
+			<recorded start="1986"/>
+			<release>ECM 1325</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>Passio</name>
+			<description>Passio Domini nostri Jesu Christi secundum Joannem</description>
+			<length>1:10:52</length>
+			<player name="The Hilliard Ensemble"/>
+			<conductor>Paul Hillier</conductor>
+			<composed start="1982"/>
+			<recorded start="1988"/>
+			<release>ECM 1370</release>
+			<released>1988</released>
+		</composition>
+		<composition>
+			<name>An den Wassern zu Babel sa&szlig;en wir und weinten</name>
+			<length>6:30</length>
+			<player name="The Hilliard Ensemble"/>
+			<composed start="1976" end="1984"/>
+			<recorded start="1986"/>
+			<release>ECM 1325</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>Es sang vor langen Jahren</name>
+			<length>5:51</length>
+			<instrument name="Alto">
+				<player name="Susan Bickley"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Gidon Kremer"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Vladimir Mendelssohn"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1987"/>
+			<release>ECM 1325</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>Stabat Mater</name>
+			<length>23:53</length>
+			<instrument name="Soprano">
+				<player name="Lynne Dawson"/>
+			</instrument>
+			<instrument name="Countertenor">
+				<player name="David James"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Rogers Covey-Crump"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Gidon Kremer"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Vladimir Mendelssohn"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Thomas Demenga"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="1987"/>
+			<release>ECM 1325</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>Arbos</name>
+			<length>2:25</length>
+			<player name="Brass Ensemble"/>
+			<player name="Staatsorchester Stuttgart"/>
+			<conductor>Dennis Russell Davies</conductor>
+			<composed start="1977" end="1986"/>
+			<recorded start="1986"/>
+			<release>ECM 1325</release>
+			<released>1987</released>
+		</composition>
+		<composition>
+			<name>Te Deum</name>
+			<length>28:43</length>
+			<player name="Estonian Philharmonic Chamber Choir"/>
+			<player name="Tallinn Chamber Orchestra"/>
+			<conductor>T&otilde;nu Kaljuste</conductor>
+			<composed start="1984" end="1986"/>
+			<recorded start="1993"/>
+			<release>ECM 1505</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Magnificat</name>
+			<length>6:38</length>
+			<player name="Estonian Philharmonic Chamber Choir"/>
+			<player name="Tallinn Chamber Orchestra"/>
+			<conductor>T&otilde;nu Kaljuste</conductor>
+			<composed start="1989"/>
+			<recorded start="1993"/>
+			<release>ECM 1505</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Silouans Song</name>
+			<length>5:35</length>
+			<player name="Estonian Philharmonic Chamber Choir"/>
+			<player name="Tallinn Chamber Orchestra"/>
+			<conductor>T&otilde;nu Kaljuste</conductor>
+			<composed start="1991"/>
+			<recorded start="1993"/>
+			<release>ECM 1505</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Berliner Messe</name>
+			<length>24:31</length>
+			<player name="Estonian Philharmonic Chamber Choir"/>
+			<player name="Tallinn Chamber Orchestra"/>
+			<conductor>T&otilde;nu Kaljuste</conductor>
+			<composed start="1990" end="1992"/>
+			<recorded start="1993"/>
+			<release>ECM 1505</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Litany</name>
+			<length>22:45</length>
+			<instrument name="Countertenor">
+				<player name="David James"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Rogers Covey-Crump"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="John Potter"/>
+			</instrument>
+			<instrument name="Bass">
+				<player name="Gordon Jones"/>
+			</instrument>
+			<player name="Estonian Philharmonic Chamber Choir"/>
+			<player name="Tallinn Chamber Orchestra"/>
+			<conductor>T&otilde;nu Kaljuste</conductor>
+			<composed start="1994"/>
+			<recorded start="1995"/>
+			<release>ECM 1592</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Psalom</name>
+			<length>6:45</length>
+			<composed start="1985" end="1995"/>
+			<recorded start="1995"/>
+			<release>ECM 1592</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Trisagion</name>
+			<length>22:45</length>
+			<player name="Lithuanian Chamber Orchestra"/>
+			<conductor>Saulius Sondeckis</conductor>
+			<composed start="1992" end="1995"/>
+			<recorded start="1995"/>
+			<release>ECM 1592</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Kanon Pokajanen</name>
+			<length>1:23:22</length>
+			<player name="Estonian Philharmonic Chamber Choir"/>
+			<conductor>T&otilde;nu Kaljuste</conductor>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>ECM 1654/55</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Spiegel im Spiegel</name>
+			<length>10:36</length>
+			<instrument name="Violin">
+				<player name="Vladimir Spivakov"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Sergej Bezrodny"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1995"/>
+			<release>ECM 1591</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Spiegel im Spiegel</name>
+			<length>9:48</length>
+			<instrument name="Violin">
+				<player name="Vladimir Spivakov"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Sergej Bezrodny"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1995"/>
+			<release>ECM 1591</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Spiegel im Spiegel</name>
+			<length>9:12</length>
+			<instrument name="Violoncello">
+				<player name="Dietmar Schwalke"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Alexander Malter"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1995"/>
+			<release>ECM 1591</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>F&uuml;r Alina</name>
+			<length>10:47</length>
+			<instrument name="Piano">
+				<player name="Alexander Malter"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1995"/>
+			<release>ECM 1591</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>F&uuml;r Alina</name>
+			<length>10:53</length>
+			<instrument name="Piano">
+				<player name="Alexander Malter"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1995"/>
+			<release>ECM 1591</release>
+			<released>1999</released>
+		</composition>
+	</composer>
+	<composer name="Brice" surname="Pauset" born="1965" died="">
+		<composition>
+			<name>Perspectivae Sintagma I (canons)</name>
+			<description>f&uuml;r MIDI-Klavier und Elektronik</description>
+			<length>23:01</length>
+			<instrument name="Klavier">
+				<player name="Jean-Luc Plouvier"/>
+			</instrument>
+			<player name="IRCAM"/>
+			<instrument name="Tonmeister">
+				<player name="Fr&eacute;d&eacute;ric Prin"/>
+			</instrument>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>Col Legno WWE 3CD 20026</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Krzysztof" surname="Penderecki" born="1933" died="">
+		<composition>
+			<name>Anaklasis</name>
+			<description>f&uuml;r Streicher und Schlagzeuggruppen</description>
+			<length>8:28</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Hans Rosbaud</conductor>
+			<composed start="1960"/>
+			<recorded start="1960"/>
+			<release>Col Legno CD1 31908</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Anaklasis</name>
+			<description>for strings and percussion</description>
+			<length>5:58</length>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1959"/>
+			<recorded start="1973"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Threnody for the victims of Hiroshima</name>
+			<length>9:54</length>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1959" end="1961"/>
+			<recorded start="1975"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Emanationen</name>
+			<length>6:48</length>
+			<description>for two string orchestras</description>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1961"/>
+			<recorded start="1972"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Fonogrammi</name>
+			<length>6:40</length>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1961"/>
+			<recorded start="1972"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>De natura sonoris No. 1</name>
+			<length>7:15</length>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1966"/>
+			<recorded start="1975"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Capriccio</name>
+			<description>for violin and orchestra</description>
+			<length>11:38</length>
+			<instrument name="Violin">
+				<player name="Wanda Wilkomirska"/>
+			</instrument>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1967"/>
+			<recorded start="1972"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Canticum canticorum salomonis</name>
+			<length>16:47</length>
+			<player name="Krak&oacute;w Philharmonic Chorus"/>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1970"/>
+			<recorded start="1975"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>De natura sonoris No. 2</name>
+			<length>9:03</length>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1971"/>
+			<recorded start="1972"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Cello concerto</name>
+			<length>14:45</length>
+			<instrument name="Violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Partita</name>
+			<length>19:15</length>
+			<description>for harpsichord and orchestra</description>
+			<instrument name="Harpsichord">
+				<player name="Felicja Blumenthal"/>
+			</instrument>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Symphony</name>
+			<length>31:14</length>
+			<part>
+				<number>I</number>
+				<name>Arche - Dynamis I</name>
+				<length>19:51</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Dynamis II - Arche II</name>
+				<length>11:23</length>
+			</part>
+			<player name="London Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1972"/>
+			<recorded start="1973"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>The Dream of Jacob</name>
+			<length>7:31</length>
+			<player name="Polish Radio National Symphony Orchestra"/>
+			<conductor>Krzysztof Penderecki</conductor>
+			<composed start="1974"/>
+			<recorded start="1975"/>
+			<release>EMI 5-74302-2</release>
+			<released>2001</released>
+		</composition>
+	</composer>
+	<composer name="Michel" surname="Philippot" born="1925" died="1996">
+		<composition>
+			<name>&Eacute;tude no. 1</name>
+			<length>5:14</length>
+			<instrument name="R&eacute;alisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>INA C 1032</release>
+			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Paul" surname="P&ouml;rtner" born="1925" died="1984">
+		<composition>
+			<name>Schallspielstudie 2</name>
+			<description>Stimmen, elektronische ver&auml;nderte Stimmen (Vier Ausschnitte)</description>
+			<length>2:03</length>
+			<part>
+				<number>1</number>
+				<name>Beispiel 1</name>
+				<length>0:16</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Beispiel 2</name>
+				<length>0:47</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Beispiel 3</name>
+				<length>0:17</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Beispiel 4</name>
+				<length>0:43</length>
+			</part>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="1965"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Henri" surname="Pousseur" born="1929" died="">
+		<composition>
+			<name>Quintette &agrave; la m&eacute;moire d'Anton Webern</name>
+			<description>f&uuml;r Klarinette, Ba&szlig;klarinette, Violine, Violoncello und Klavier</description>
+			<length>12:50</length>
+			<instrument name="Klarinette">
+				<player name="Sepp Fackler"/>
+			</instrument>
+			<instrument name="Ba&szlig;klarinette">
+				<player name="Hans Lemser"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Ludwig Bus"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Leo Koscielny"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Maria Bergmann"/>
+			</instrument>
+			<conductor>Hans Rosbaud</conductor>
+			<composed start="?"/>
+			<recorded start="1955"/>
+			<release>Col Legno CD1 31904</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Ziele und Aussichten der elektronischen Musik Vortrag mit Klangbeispielen/Ausschnitt</name>
+			<length>1:27</length>
+			<instrument name="Realisation">
+				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+			</instrument>
+			<composed start="?"/>
+			<recorded start="?"/>
+			<release>Siemens</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Seismogramme I-II</name>
+			<length>6:18</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, K&ouml;ln"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="1955"/>
+			<release>BVHaast 9106</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Scambi</name>
+			<length>6:27</length>
+			<player name="Studio di fonologia, RAI"/>
+			<composed start="1957"/>
+			<recorded start="1957"/>
+			<release>BVHaast 9010</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Trois visages de Li&egrave;ge</name>
+			<length>21:07</length>
+			<part>
+				<number>1</number>
+				<name>L'Air et l'eau</name>
+				<length>8:02</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Voix de la Ville</name>
+				<length>4:15</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Forges</name>
+				<length>8:50</length>
+			</part>
+			<composed start="1961"/>
+			<recorded start="1961"/>
+			<release>BVHaast 9010</release>
+			<released>?</released>
+		</composition>
+		<composition>
+			<name>Paraboles-mix</name>
+			<length>40:49</length>
+			<part>
+				<number>1</number>
+				<name>Les ailes d'Icare</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Liebesduett</name>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Viva Cuba</name>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Voyage aux &eacute;l&eacute;ments</name>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Hymne &agrave; Zeus ornithologue</name>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Aerial view of Ha&iuml;phong, Massachussets</name>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Mn&eacute;mosyne disparue</name>
+			</part>
+			<part>
+				<number>8</number>
+				<name>An Heinrich, ping-pong</name>
+			</part>
+			<player name="Studio de musique &eacute;lectronique du Centre de Recherches musicales de Wallonie &agrave; Li&egrave;ge"/>
+			<composed start="1972"/>
+			<recorded start="1990"/>
+			<release>BVHaast 9010</release>
+			<released>?</released>
+		</composition>
+	</composer>
+	<composer name="Bernfried" surname="Pr&ouml;ve" born="1963" died="">
+		<composition>
+			<name>Fernung - Horizont - N&auml;he</name>
+			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<length>15:33</length>
+			<player name="Dresdner Philharmonie"/>
+			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<composed start="1991" end="1992"/>
+			<recorded start="1992"/>
+			<release>Col Legno WWE 3CD 31860</release>
+			<released>1993</released>
+		</composition>
+	</composer>
+	<composer name="Wolfgang" surname="Puschnig" born="1956" died="">
+		<composition>
+			<name>Rotationen 1</name>
+			<description>f&uuml;r Altsaxophon solo</description>
+			<length>8:08</length>
+			<instrument name="Altsaxophon">
+				<player name="Wolfgang Puschnig"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="1985"/>
+			<release>Moers Music 02044 CD</release>
+			<released>1986</released>
+		</composition>
+	</composer>
+</list>
