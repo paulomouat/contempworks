@@ -1129,20 +1129,4 @@
 			<released>1996</released>
 		</composition>
 	</composer>
-	<composer name="Michael" surname="McNabb" born="1952" died="">
-		<composition>
-			<name>Invisible Cities</name>
-			<length>42:45</length>
-			<instrument name="Piano">
-				<player name="Artis Wodehouse"/>
-			</instrument>
-			<instrument name="Soprano saxophone/Synthesis/Processing">
-				<player name="Michael McNabb"/>
-			</instrument>
-			<composed start="?"/>
-			<recorded start="?"/>
-			<release>Wergo WER 2015-50</release>
-			<released>1989</released>
-		</composition>
-	</composer>
 </list>
