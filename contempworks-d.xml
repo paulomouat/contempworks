@@ -180,6 +180,46 @@
 	</composer>
 	<composer name="Francis" surname="Dhomont" born="1926" died="">
 		<composition>
+			<name>Cit&eacute; du dedans (extrait)</name>
+			<description>&Eacute;tude acousmatique</description>
+			<length>2:48</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>Sonopsys SON1.II 296/1000</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Syntagmes</name>
+			<description>&Eacute;tude acousmatique</description>
+			<length>10:07</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>Sonopsys SON1.II 296/1000</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>M&eacute;tonymie ou le corps impossible (extrait)</name>
+			<description>&Eacute;tude acousmatique</description>
+			<length>5:09</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1976"/>
+			<recorded start="1976"/>
+			<release>Sonopsys SON1.II 296/1000</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Mais laisserons-nous mourir Arianna?</name>
+			<description>Musique acousmatique</description>
+			<length>15:40</length>
+			<player name="Facult&eacute; de Musique, Universit&eacute; de Montr&eacute;al/GMEM (Marseille)/Private studio of the composer"/>
+			<composed start="1979"/>
+			<recorded start="1979"/>
+			<release>Sonopsys SON1.II 296/1000</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Sous le regard d'un soleil noir</name>
 			<description>Cycle des profondeurs</description>
 			<length>51:35</length>
@@ -242,6 +282,16 @@
 			<recorded start="1987"/>
 			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
 			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Poe-Debussy, autour de la Maison Usher</name>
+			<description>Musique &Eacute;lectroacoustique pour un th&eacute;&acirc;tre musical</description>
+			<length>40:19</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1988"/>
+			<recorded start="1988"/>
+			<release>Sonopsys SON1.II 296/1000</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>M&eacute;t&eacute;ores</name>
@@ -318,6 +368,26 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Simulacres: Un autoportrait</name>
+			<description>Oeuvre radiophonique</description>
+			<length>28:32</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Sonopsys SON1.I 296/1000</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Figures de la nuit</name>
+			<description>Oeuvre radiophonique</description>
+			<length>26:50</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1991" end="1992"/>
+			<recorded start="1992"/>
+			<release>Sonopsys SON1.I 296/1000</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Studio de nuit</name>
 			<description>Jalons</description>
 			<length>3:00</length>
@@ -338,6 +408,16 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Convulsive!</name>
+			<description>Musique acousmatique</description>
+			<length>2:53</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1995"/>
+			<recorded start="1995"/>
+			<release>Sonopsys SON1.I 296/1000</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Lettre de Sarajevo</name>
 			<description>Jalons</description>
 			<length>14:38</length>
@@ -345,6 +425,16 @@
 			<composed start="1995" end="1996"/>
 			<recorded start="1996"/>
 			<release>empreintes DIGITALes IMED 0365</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Nocturne &agrave; Combray</name>
+			<description>Oeuvre radiophonique</description>
+			<length>13:51</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1995" end="1996"/>
+			<recorded start="1996"/>
+			<release>Sonopsys SON1.I 296/1000</release>
 			<released>2003</released>
 		</composition>
 		<composition>
@@ -444,6 +534,16 @@
 			<recorded start="2002"/>
 			<release>empreintes DIGITALes IMED 0682</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Corps et &acirc;me</name>
+			<description>Musique acousmatique</description>
+			<length>8:00</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>Sonopsys SON1.I 296/1000</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>Here and There</name>

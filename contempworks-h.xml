@@ -67,6 +67,16 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Tres piezas para cuarteto de cuerda</name>
+			<description>String Quartet No. 1</description>
+			<length>12:35</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1955"/>
+			<recorded start="2009"/>
+			<release>Anemos C33005</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Tres piezas para cuarteto</name>
 			<description>String Quartet No. 1</description>
 			<length>15:44</length>
@@ -101,6 +111,24 @@
 			<recorded start="1977"/>
 			<release>Col Legno WWE 3CD 20025</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>3. Streichquartett</name>
+			<length>21:50</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1978"/>
+			<recorded start="2009"/>
+			<release>Anemos C33005</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>6. Streichquartett</name>
+			<length>21:03</length>
+			<player name="Arditti Quartet"/>
+			<composed start="2001" end="2002"/>
+			<recorded start="2009"/>
+			<release>Anemos C33005</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Espacio de silencio</name>

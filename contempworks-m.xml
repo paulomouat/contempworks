@@ -689,6 +689,35 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>massacre</name>
+			<description>Opera for five singers, nine instruments and electronics</description>
+			<length>1:13:20</length>
+			<instrument name="coloratura soprano">
+				<player name="Elizabeth Calleo"/>
+			</instrument>
+			<instrument name="soprano">
+				<player name="Val&eacute;rie Philippin"/>
+			</instrument>
+			<instrument name="mezzo">
+				<player name="Nora Petrocenko"/>
+			</instrument>
+			<instrument name="countertenor">
+				<player name="Jean-Paul Bonnevalle"/>
+			</instrument>
+			<instrument name="baritone">
+				<player name="Lionel Peintre"/>
+			</instrument>
+			<player name="Remix Ensemble"/>
+			<conductor>Peter Rundel</conductor>
+			<instrument name="electronics">
+				<player name="Wolfgang Mitterer"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2008"/>
+			<release>Col Legno WWE 1CD 20294</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Im Sturm</name>
 			<description>Liederzyklus, frei nach Franz Schubert</description>
 			<description>f&uuml;r Bariton, pr&auml;pariertes Klavier und electronics</description>
@@ -704,6 +733,28 @@
 			<recorded start="2007"/>
 			<release>Col Legno WWE 1CD 20278</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Stop playing</name>
+			<description>3 organs solo, remixed</description>
+			<length>53:29</length>
+			<instrument name="Organs">
+				<player name="Wolfgang Mitterer"/>
+			</instrument>
+			<composed start="1991" end="2005"/>
+			<recorded start="2010"/>
+			<release>Col Legno WWE 1CD 20296</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Das tapfere Schneiderlein</name>
+			<description>Kleine Oper nach den Br&uuml;dern Grimm</description>
+			<length>52:56</length>
+			<player name="Wiener Taschenoper"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Col Legno WWE 1CD 20801</release>
+			<released>2007</released>
 		</composition>
 		<composition>
 			<name>Leblos</name>
