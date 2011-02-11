@@ -231,7 +231,7 @@
 		<xsl:param name="name"/>
 		<xsl:param name="surname"/>
 		<xsl:variable name="concatenated">
-			<xsl:value-of select="concat($name,$surname)"/>
+			<xsl:value-of select="concat($surname,$name)"/>
 		</xsl:variable>
 		<xsl:variable name="lowercased">
 			<xsl:call-template name="lower-case">
