@@ -747,6 +747,20 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Coloured noise</name>
+			<description>Brachialsymphonie f&uuml;r 23 Musiker und electronics</description>
+			<length>1:08:16</length>
+			<instrument name="Orgel">
+				<player name="Wolfgang Mitterer"/>
+			</instrument>
+			<player name="Klangforum Wien"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>Kairos 0012592KAI</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Das tapfere Schneiderlein</name>
 			<description>Kleine Oper nach den Br&uuml;dern Grimm</description>
 			<length>52:56</length>
