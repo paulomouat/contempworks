@@ -143,6 +143,18 @@
 	</composer>
 	<composer name="Bengt" surname="Hambraeus" born="1928" died="">
 		<composition>
+			<name>Cercles</name>
+			<description>pour piano</description>
+			<length>12:56</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="1998"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Doppelrohr II</name>
 			<length>3:55</length>
 			<instrument name="Elektronische Realisation">
@@ -152,6 +164,49 @@
 			<recorded start="1956"/>
 			<release>BVHaast 9106</release>
 			<released>?</released>
+		</composition>
+		<composition>
+			<name>Vortex</name>
+			<description>per due pianoforti</description>
+			<length>18:27</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1998"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Lars" surname="Hallnas" born="1950" died="">
+		<composition>
+			<name>Spar</name>
+			<description>Fantasy for two pianos</description>
+			<length>9:07</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1974"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Peter" surname="Hansen" born="1958" died="">
+		<composition>
+			<name>Coul&eacute;e Verte</name>
+			<description>for two pianos</description>
+			<length>5:16</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1989" end="1994"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
 		</composition>
 	</composer>
 	<composer name="Karl Amadeus" surname="Hartmann" born="1905" died="1963">

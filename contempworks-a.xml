@@ -106,6 +106,36 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Claude Loyola" surname="Allg&eacute;n" born="1920" died="1990">
+		<composition>
+			<name>Det gar ett tyst och taligt lamm</name>
+			<description>from &quot;Fyra liturgiska melodier&quot;</description>
+			<description>arrangement for two pianos</description>
+			<length>2:57</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1940"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Et verbum caro factum est</name>
+			<description>from &quot;Fyra liturgiska melodier&quot;</description>
+			<description>arrangement for two pianos</description>
+			<length>2:16</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1946"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+	</composer>
 	<composer name="Pedro" surname="Amaral" born="1972" died="">
 		<composition>
 			<name>...Textos, Par&aacute;frases, Perspectivas...</name>
@@ -162,6 +192,31 @@
 			<recorded start="1992"/>
 			<release>Koch 3-7178-2H1</release>
 			<released>1994</released>
+		</composition>
+	</composer>
+	<composer name="Carl-Olof" surname="Anderberg" born="1914" died="1972">
+		<composition>
+			<name>Tre Stycken f&ouml;r piano</name>
+			<length>9:37</length>
+			<instrument name="Piano">
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Bewegungen</name>
+			<description>for piano</description>
+			<length>6:34</length>
+			<instrument name="Piano">
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
 		</composition>
 	</composer>
 	<composer name="Marc" surname="Andr&eacute;" born="1964" died="">

@@ -4,6 +4,19 @@
 <list>
 	<composer name="Dror" surname="Feiler" born="1951" died="">
 		<composition>
+			<name>Barrikad</name>
+			<description>for piano four hands</description>
+			<length>5:07</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Ember</name>
 			<description>f&uuml;r Orchester und Zuspielband</description>
 			<length>26:30</length>

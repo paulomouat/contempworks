@@ -1011,6 +1011,21 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Mats" surname="Persson" born="1943" died="">
+		<composition>
+			<name>Stilleben mit Sweelinck</name>
+			<description>f&uuml;r zwei Klaviere und Tonband</description>
+			<length>16:40</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1978" end="1997"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+	</composer>
 	<composer name="Michel" surname="Philippot" born="1925" died="1996">
 		<composition>
 			<name>&Eacute;tude no. 1</name>

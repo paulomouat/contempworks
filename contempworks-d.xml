@@ -2,6 +2,44 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+	<composer name="Viking" surname="Dahl" born="1895" died="1945">
+		<composition>
+			<name>Sensation 1</name>
+			<description>for piano</description>
+			<length>0:57</length>
+			<instrument name="Piano">
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1917"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Sensation 2</name>
+			<description>for piano</description>
+			<length>1:21</length>
+			<instrument name="Piano">
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1917"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Regnv&auml;der</name>
+			<description>for piano</description>
+			<length>4:19</length>
+			<instrument name="Piano">
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1917" end="1919"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+	</composer>
 	<composer name="Marc-Andr&eacute;" surname="Dalbavie" born="1961" died="">
 		<composition>
 			<name>Diad&egrave;mes</name>

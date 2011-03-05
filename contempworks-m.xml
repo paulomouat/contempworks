@@ -486,6 +486,20 @@
 			<released>1995</released>
 		</composition>
 	</composer>
+	<composer name="Arne" surname="Melln&auml;s" born="1933" died="">
+		<composition>
+			<name>Fragile</name>
+			<description>version for piano</description>
+			<length>9:53</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1998"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+	</composer>
 	<composer name="Usko" surname="Meril&auml;inen" born="1930" died="2004">
 		<composition>
 			<name>Zimbal</name>

@@ -103,6 +103,60 @@
 			<released>2005</released>
 		</composition>
 	</composer>
+	<composer name="Bo" surname="Nilsson" born="1937" died="">
+		<composition>
+			<name>Bewegungen</name>
+			<description>for piano</description>
+			<length>4:25</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+			</instrument>
+			<composed start="1956"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Schlagfiguren</name>
+			<description>for piano</description>
+			<length>4:12</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+			</instrument>
+			<composed start="1956"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Quantit&auml;ten</name>
+			<description>version 2</description>
+			<description>for piano</description>
+			<length>3:26</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Ivo" surname="Nilsson" born="1966" died="">
+		<composition>
+			<name>lo mismo?</name>
+			<description>para dos pianos</description>
+			<length>12:17</length>
+			<instrument name="Piano">
+				<player name="Mats Persson"/>
+				<player name="Kristine Scholz"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="1997"/>
+			<release>Phono Suecia PSCD 106 1-2</release>
+			<released>1998</released>
+		</composition>
+	</composer>
 	<composer name="Luigi" surname="Nono" born="1924" died="1990">
 		<composition score="Y">
 			<name>Variazioni canoniche</name>
