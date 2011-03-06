@@ -694,6 +694,28 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Music for piano 47</name>
+			<length>4:35</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1952" end="1956"/>
+			<recorded start="2007"/>
+			<release>hat[now]Art 175</release>
+			<released>2010</released>
+		</composition>		
+		<composition>
+			<name>Music for piano 4-19/53-68</name>
+			<length>9:00</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1953" end="1956"/>
+			<recorded start="2007"/>
+			<release>hat[now]Art 175</release>
+			<released>2010</released>
+		</composition>		
+		<composition>
 			<name>12'55.6078</name>
 			<description>for two pianists (prepared piano)</description>
 			<length>13:11</length>
@@ -708,6 +730,28 @@
 			<release>Col Legno CD1 31902</release>
 			<released>1996</released>
 		</composition>
+		<composition>
+			<name>Music for piano 42</name>
+			<length>5:24</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="2007"/>
+			<release>hat[now]Art 175</release>
+			<released>2010</released>
+		</composition>		
+		<composition>
+			<name>Music for piano 53-84</name>
+			<length>10:12</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1956"/>
+			<recorded start="2007"/>
+			<release>hat[now]Art 175</release>
+			<released>2010</released>
+		</composition>		
 		<composition>
 			<name>Winter Music</name>
 			<description>for 20 pianos</description>

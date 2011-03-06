@@ -1036,6 +1036,18 @@
 		</composition>
 		<composition>
 			<name>Notations</name>
+			<description>pour piano</description>
+			<length>9:40</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1945"/>
+			<recorded start="1997"/>
+			<release>hat[now]Art 162</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Notations</name>
 			<description>pour orchestre</description>
 			<length>10:09</length>
 			<player name="Orchestre de Paris"/>
@@ -1108,6 +1120,18 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Premi&egrave;re sonate</name>
+			<description>pour piano</description>
+			<length>10:35</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1946"/>
+			<recorded start="2002"/>
+			<release>hat[now]Art 162</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Le visage nuptial</name>
 			<length>30:00</length>
 			<player name="BBC Symphony Orchestra"/>
@@ -1166,6 +1190,18 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Deuxi&egrave;me sonate</name>
+			<description>pour piano</description>
+			<length>33:57</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1947" end="1948"/>
+			<recorded start="2002"/>
+			<release>hat[now]Art 162</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Polyphonie X</name>
 			<description>f&uuml;r 18 Solo-Instrumente</description>
 			<length>16:36</length>
@@ -1197,6 +1233,19 @@
 			<recorded start="1951"/>
 			<release>INA C 1031</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Structures, Livre I</name>
+			<description>pour deux pianos</description>
+			<length>18:20</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+				<player name="Ian Pace"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="2007"/>
+			<release>hat[now]Art 175</release>
+			<released>2010</released>
 		</composition>
 		<composition score="Y">
 			<name>Le marteau sans ma&icirc;tre</name>
@@ -1267,6 +1316,19 @@
 			<recorded start="1961"/>
 			<release>Col Legno CD1 31909</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Structures, Livre II</name>
+			<description>pour deux pianos</description>
+			<length>21:21</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+				<player name="Ian Pace"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="2007"/>
+			<release>hat[now]Art 175</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Po&eacute;sie pour pouvoir</name>
@@ -1382,6 +1444,18 @@
 			<composed start="1955" end="1957"/>
 			<recorded start="2004"/>
 			<release>Deutsche Grammophon 00289 4775328</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Troisi&egrave;me sonate</name>
+			<description>pour piano</description>
+			<length>20:57</length>
+			<instrument name="Piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1955" end="1957"/>
+			<recorded start="2002"/>
+			<release>hat[now]Art 162</release>
 			<released>2005</released>
 		</composition>
 		<composition score="Y">

@@ -1500,6 +1500,29 @@
 	</composer>
 	<composer name="Luc" surname="Ferrari" born="1929" died="2005">
 		<composition>
+			<name>Sonate Elyb pour piano</name>
+			<length>7:37</length>
+			<instrument name="Piano">
+				<player name="Satoko Inoue"/>
+			</instrument>
+			<composed start="1953" end="1954"/>
+			<recorded start="2004"/>
+			<release>hat[now]Art 165</release>
+			<released>2010</released>
+		</composition>		
+		<composition>
+			<name>Visage I</name>
+			<description>pour piano</description>
+			<length>7:21</length>
+			<instrument name="Piano">
+				<player name="Satoko Inoue"/>
+			</instrument>
+			<composed start="1956"/>
+			<recorded start="2004"/>
+			<release>hat[now]Art 165</release>
+			<released>2010</released>
+		</composition>		
+		<composition>
 			<name>&Eacute;tude aux sons tendus</name>
 			<length>2:49</length>
 			<instrument name="R&eacute;alisation">
@@ -1549,6 +1572,21 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>Cellule 75 - Force du rythme et cadence forc&eacute;e</name>
+			<description>pour piano, percussions et bande magn&eacute;tique</description>
+			<length>32:45</length>
+			<instrument name="Piano">
+				<player name="Satoko Inoue"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Toshiyuki Matsukura"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="2004"/>
+			<release>hat[now]Art 165</release>
+			<released>2010</released>
+		</composition>		
+		<composition>
 			<name>Strathoven</name>
 			<length>3:20</length>
 			<composed start="1987"/>
@@ -1556,6 +1594,21 @@
 			<release>BVHaast 9009</release>
 			<released>?</released>
 		</composition>
+		<composition>
+			<name>Conversation intime</name>
+			<description>pour piano et percussion</description>
+			<length>19:33</length>
+			<instrument name="Piano">
+				<player name="Satoko Inoue"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Toshiyuki Matsukura"/>
+			</instrument>
+			<composed start="1987" end="1988"/>
+			<recorded start="2004"/>
+			<release>hat[now]Art 165</release>
+			<released>2010</released>
+		</composition>		
 		<composition>
 			<name>Presque rien avec filles</name>
 			<length>13:58</length>
