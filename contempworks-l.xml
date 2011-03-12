@@ -300,6 +300,18 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Toccatina</name>
+			<description>pour alto</description>
+			<length>7:08</length>
+			<instrument name="Alto">
+				<player name="Genevi&egrave;ve Strosser"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1100</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Allegro sostenuto</name>
 			<description>Musik f&uuml;r Klarinette/Bassklarinette, Violoncello und Klavier</description>
 			<length>35:05</length>
@@ -1628,6 +1640,17 @@
 			<recorded start="1995"/>
 			<release>Sony SK 62310</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Sonate pour alto</name>
+			<length>22:12</length>
+			<instrument name="Alto">
+				<player name="Genevi&egrave;ve Strosser"/>
+			</instrument>
+			<composed start="1991" end="1994"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1100</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>&Eacute;tudes pour piano</name>

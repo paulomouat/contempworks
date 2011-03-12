@@ -507,6 +507,36 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Trilogia, I tre stadi dell'uomo</name>
+			<description>pour violoncelle seul</description>
+			<length>51:10</length>
+			<part>
+				<number>I</number>
+				<name>Triphon</name>
+				<length>15:17</length>
+				<composed>1956</composed>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Dithome</name>
+				<length>17:17</length>
+				<composed>1956-57</composed>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Ygghur</name>
+				<length>18:36</length>
+				<composed>1965</composed>
+			</part>
+			<instrument name="Violoncelle">
+				<player name="Arne Deforce"/>
+			</instrument>
+			<composed start="1956" end="1965"/>
+			<recorded start="2006" end="2007"/>
+			<release>Aeon AECD 0748</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Rucke di Guck</name>
 			<description>for piccolo &amp; oboe</description>
 			<length>9:45</length>
@@ -520,6 +550,18 @@
 			<recorded start=""/>
 			<release>Mode 102</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Manto</name>
+			<description>pour alto</description>
+			<length>14:29</length>
+			<instrument name="Alto">
+				<player name="Genevi&egrave;ve Strosser"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1100</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Trio &agrave; cordes</name>

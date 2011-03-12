@@ -917,6 +917,18 @@
 	</composer>
 	<composer name="Franco" surname="Donatoni" born="1927" died="">
 		<composition>
+			<name>Ali</name>
+			<description>pour alto</description>
+			<length>12:30</length>
+			<instrument name="Alto">
+				<player name="Genevi&egrave;ve Strosser"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1100</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Argot</name>
 			<description>Due pezzi per violino</description>
 			<length>12:35</length>

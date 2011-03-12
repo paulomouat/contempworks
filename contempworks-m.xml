@@ -447,6 +447,47 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+    <composer name="Bruno" surname="Mantovani" born="1974" died="">
+		<composition>
+			<name>Time Stretch (on Gesualdo)</name>
+			<description>pour orchestre</description>
+			<length>15:54</length>
+			<player name="Orchestre Philharmonique Royal de Li&egrave;ge"/>
+			<conductor>Pascal Roph&eacute;</conductor>
+			<composed start="2005"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1102</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Finale</name>
+			<description>pour orchestre</description>
+			<length>14:48</length>
+			<player name="Orchestre Philharmonique Royal de Li&egrave;ge"/>
+			<conductor>Pascal Roph&eacute;</conductor>
+			<composed start="2007"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1102</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Concerto</name>
+			<description>pour deux altos et orchestre</description>
+			<length>38:36</length>
+			<instrument name="Alto">
+				<player name="Tabea Zimmermann"/>
+			</instrument>
+			<instrument name="Alto">
+				<player name="Antoine Tamestit"/>
+			</instrument>
+			<player name="Orchestre Philharmonique Royal de Li&egrave;ge"/>
+			<conductor>Pascal Roph&eacute;</conductor>
+			<composed start="2007" end="2008"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1102</release>
+			<released>2011</released>
+		</composition>
+	</composer>
 	<composer name="Michael" surname="McNabb" born="1952" died="">
 		<composition>
 			<name>Invisible Cities</name>

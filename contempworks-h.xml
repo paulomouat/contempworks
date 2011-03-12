@@ -820,6 +820,18 @@
 			<release>Cadenza 800 898-900</release>
 			<released>1993</released>
 		</composition>
+		<composition>
+			<name>Trema</name>
+			<description>pour alto</description>
+			<length>13:35</length>
+			<instrument name="Alto">
+				<player name="Genevi&egrave;ve Strosser"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1100</release>
+			<released>2011</released>
+		</composition>
 	</composer>
 	<composer name="Toshio" surname="Hosokawa" born="1955" died="">
 		<composition>
@@ -885,6 +897,84 @@
 			<recorded start="1995"/>
 			<release>Montaigne 782078</release>
 			<released>1996</released>
+		</composition>
+	</composer>
+    <composer name="Klaus" surname="Huber" born="1924" died="">
+		<composition>
+			<name>Partita</name>
+			<description>pour violoncelle et clavecin</description>
+			<length>12:35</length>
+			<instrument name="Violoncelle">
+				<player name="Alexis Descharmes"/>
+			</instrument>
+			<instrument name="Clavecin">
+				<player name="S&eacute;bastien Vichard"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1089</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Ein Hauch von Unzeit VIII</name>
+			<description>version pour quatre violoncelles</description>
+			<length>19:47</length>
+			<composed start="1972"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1089</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Transpositio ad infinitum</name>
+			<description>pour violoncelle seul</description>
+			<length>11:45</length>
+			<instrument name="Violoncelle">
+				<player name="Alexis Descharmes"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1089</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Lazarus</name>
+			<description>pour violoncelle et piano</description>
+			<length>6:04</length>
+			<instrument name="Violoncelle">
+				<player name="Alexis Descharmes"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="S&eacute;bastien Vichard"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1089</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Rauhe Pinselspitze</name>
+			<description>pour violoncelle et percussions cor&eacute;ennes</description>
+			<length>2:31</length>
+			<instrument name="Violoncelle">
+				<player name="Alexis Descharmes"/>
+			</instrument>
+			<instrument name="Buk">
+				<player name="Jean-Baptiste Lecl&egrave;re"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1089</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>...ruhe sanft...</name>
+			<description>in memoriam John Cage</description>
+			<description>pour quatre violoncelles et voix</description>
+			<length>8:11</length>
+			<composed start="1992"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1089</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 </list>
