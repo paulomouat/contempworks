@@ -5336,6 +5336,62 @@
 	</composer>
 	<composer name="Igor" surname="Stravinsky" born="1882" died="1971">
 		<composition>
+			<name>Scherzo fantastique, op. 3</name>
+			<length>11:28</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1908"/>
+			<recorded start="1994" end="1996"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Feu d'artifice, op. 4</name>
+			<description>Fantaisie pour orchestre</description>
+			<length>3:54</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1908"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Quatre &Eacute;tudes</name>
+			<description>pour orchestre</description>
+			<length>9:36</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1908"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Deux Po&egrave;mes de Paul Verlaine, op. 9</name>
+			<length>4:55</length>
+			<instrument name="baritone">
+				<player name="John Shirley-Quirk"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1910"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>L'Oiseau de feu</name>
+			<description>Conte dans&eacute; en deux tableaux</description>
+			<length>46:12</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1910"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>P&eacute;trouchka</name>
 			<description>Sc&egrave;nes burlesques en quatre tableaux, version de 1911</description>
 			<length>34:58</length>
@@ -5345,6 +5401,30 @@
 			<recorded start="1991"/>
 			<release>Deutsche Grammophon 435 769-2</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>P&eacute;trouchka</name>
+			<description>Sc&egrave;nes burlesques en quatre tableaux, version originale de 1911</description>
+			<length>34:58</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1911"/>
+			<recorded start="1991"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Le Roi des &eacute;toiles (Zvezdolikiy)</name>
+			<description>Cantate pour choeur d'hommes</description>
+			<length>5:30</length>
+			<player name="The Cleveland Orchestra Chorus"/>
+			<conductor>Gareth Morrell</conductor>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1911"/>
+			<recorded start="1994" end="1996"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Three Japanese Lyrics</name>
@@ -5361,14 +5441,181 @@
 			<released>1989-94</released>
 		</composition>
 		<composition>
+			<name>Trois Po&eacute;sies de la lyrique japonaise</name>
+			<length>3:19</length>
+			<instrument name="soprano">
+				<player name="Phyllis Bryn-Julson"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1913"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Le Sacre du Printemps</name>
 			<length>33:29</length>
 			<player name="The Cleveland Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
+			<composed start="1913"/>
 			<recorded start="1991"/>
 			<release>Deutsche Grammophon 435 769-2</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Le Sacre du printemps</name>
+			<description>Tableaux de la Russie pa&iuml;enne en deux parties</description>
+			<length>33:22</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1913"/>
+			<recorded start="1991"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Three little songs</name>
+			<description>&quot;Recollections of my childhood&quot;</description>
+			<length>3:05</length>
+			<instrument name="soprano">
+				<player name="Phyllis Bryn-Julson"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1913" end="1928"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Pribaoutki</name>
+			<length>4:19</length>
+			<instrument name="baritone">
+				<player name="John Shirley-Quirk"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1914"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Berceuses du chat</name>
+			<length>3:46</length>
+			<instrument name="mezzo-soprano">
+				<player name="Ann Murray"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1915"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Le Chant du Rossignol</name>
+			<description>Po&egrave;me symphonique</description>
+			<length>20:32</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1917"/>
+			<recorded start="1994" end="1996"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Tilim-bom</name>
+			<length>1:12</length>
+			<instrument name="soprano">
+				<player name="Phyllis Bryn-Julson"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1917" end="1923"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>L'Histoire du Soldat</name>
+			<description>Suite de concert</description>
+			<length>26:56</length>
+			<player name="The Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1918"/>
+			<recorded start="1994" end="1996"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Ragtime for 11 Instruments</name>
+			<length>4:36</length>
+			<instrument name="Cimbalom">
+				<player name="Toni Koves"/>
+			</instrument>
+			<player name="Columbia Chamber Ensemble"/>
+			<conductor>Igor Stravinsky</conductor>
+			<composed start="1918"/>
+			<recorded start="1962"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Three Pieces</name>
+			<description>for Clarinet solo</description>
+			<length>4:04</length>
+			<instrument name="Clarinet">
+				<player name="Alain Damiens"/>
+			</instrument>
+			<composed start="1918" end="1920"/>
+			<recorded start="1980" end="1982"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Piano - Rag Music</name>
+			<length>3:07</length>
+			<instrument name="Piano">
+				<player name="Igor Stravinsky"/>
+			</instrument>
+			<composed start="1919"/>
+			<recorded start="1934"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Four songs</name>
+			<length>4:59</length>
+			<instrument name="soprano">
+				<player name="Phyllis Bryn-Julson"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1919"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Symphonies d'instruments &agrave; vent</name>
+			<length>9:16</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1920" end="1947"/>
+			<recorded start="1996"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Concertino</name>
+			<description>for String Quartet</description>
+			<length>6:35</length>
+			<composed start="1920"/>
+			<recorded start="1980" end="1982"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Concertino</name>
@@ -5382,6 +5629,45 @@
 			<released>1989-94</released>
 		</composition>
 		<composition>
+			<name>Octet</name>
+			<description>for Wind Instruments</description>
+			<length>14:35</length>
+			<player name="Columbia Chamber Ensemble"/>
+			<conductor>Igor Stravinsky</conductor>
+			<composed start="1922"/>
+			<recorded start="1961"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Song of Parasha</name>
+			<description>from the opera &quot;Mavra&quot;</description>
+			<length>2:10</length>
+			<instrument name="soprano">
+				<player name="Phyllis Bryn-Julson"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1922"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Pastorale</name>
+			<description>Song without words for voice and four wind instruments</description>
+			<length>1:56</length>
+			<instrument name="soprano">
+				<player name="Phyllis Bryn-Julson"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1923"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Sonate f&uuml;r Klavier Nr. 2</name>
 			<length>10:55</length>
 			<instrument name="Klavier">
@@ -5391,6 +5677,213 @@
 			<recorded start="1925" end="1963"/>
 			<release>Col Legno CD1 31900</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Sonata for Piano</name>
+			<length>10:50</length>
+			<instrument name="Piano">
+				<player name="Charles Rosen"/>
+			</instrument>
+			<composed start="1924"/>
+			<recorded start="1960"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Serenade in A</name>
+			<length>11:03</length>
+			<instrument name="Piano">
+				<player name="Igor Stravinsky"/>
+			</instrument>
+			<composed start="1925"/>
+			<recorded start="1934"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Symphonie de psaumes</name>
+			<description>Pour choeur et orchestre, sur des textes tir&eacute;s de Psaumes 38, 39 et 150</description>
+			<length>19:59</length>
+			<player name="Rundfunkchor Berlin"/>
+			<conductor>Sigurd Brauns</conductor>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1930" end="1948"/>
+			<recorded start="1996"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Duo Concertant</name>
+			<description>for violin and piano</description>
+			<length>15:01</length>
+			<instrument name="Violin">
+				<player name="Joseph Szigeti"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Igor Stravinsky"/>
+			</instrument>
+			<composed start="1932"/>
+			<recorded start="1945"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Pastorale</name>
+			<length>2:49</length>
+			<instrument name="Violin">
+				<player name="Israel Baker"/>
+			</instrument>
+			<player name="Columbia Chamber Ensemble"/>
+			<conductor>Igor Stravinsky</conductor>
+			<composed start="1933"/>
+			<recorded start="1965"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Concerto for 2 Solo Pianos</name>
+			<length>19:24</length>
+			<instrument name="Piano">
+				<player name="Igor Stravinsky"/>
+				<player name="Soulima Stravinsky"/>
+			</instrument>
+			<composed start="1935"/>
+			<recorded start="1938"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Preludium for Jazz Ensemble</name>
+			<length>1:26</length>
+			<player name="Columbia Jazz Ensemble"/>
+			<conductor>Igor Stravinsky</conductor>
+			<composed start="1936" end="1937"/>
+			<recorded start="1965"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Concerto &quot;Dumbarton Oaks&quot;</name>
+			<description>in E flat major for Chamber Orchestra</description>
+			<length>15:15</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1938"/>
+			<recorded start="1980" end="1982"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Sonata for 2 Pianos</name>
+			<length>9:55</length>
+			<instrument name="Piano">
+				<player name="Arthur Gold"/>
+				<player name="Robert Fizdale"/>
+			</instrument>
+			<composed start="1943"/>
+			<recorded start="1961"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>&Eacute;l&eacute;gie</name>
+			<description>pour alto seul</description>
+			<length>5:11</length>
+			<instrument name="alto">
+				<player name="G&eacute;rard Causse"/>
+			</instrument>
+			<composed start="1944"/>
+			<recorded start="1980" end="1982"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Symphony in Three Movements</name>
+			<length>22:39</length>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1945"/>
+			<recorded start="1996"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Ebony Concerto</name>
+			<length>8:52</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1945"/>
+			<recorded start="1980" end="1982"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Ebony Concerto</name>
+			<description>for clarinet solo and big band</description>
+			<length>9:16</length>
+			<instrument name="Clarinet">
+				<player name="Benny Goodman"/>
+			</instrument>
+			<player name="Columbia Jazz Ensemble"/>
+			<conductor>Igor Stravinsky</conductor>
+			<composed start="1945"/>
+			<recorded start="1965"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Symphonies of Wind Instruments</name>
+			<length>9:10</length>
+			<player name="Symphonieorchester des Nordwestdeutschen Rundfunks"/>
+			<conductor>Igor Stravinsky</conductor>
+			<composed start="1947"/>
+			<recorded start="1951"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Tango</name>
+			<length>4:03</length>
+			<player name="Columbia Jazz Ensemble"/>
+			<conductor>Igor Stravinsky</conductor>
+			<composed start="1950" end="1953"/>
+			<recorded start="1965"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Septet</name>
+			<length>11:46</length>
+			<player name="Columbia Chamber Ensemble"/>
+			<conductor>Igor Stravinsky</conductor>
+			<composed start="1952" end="1953"/>
+			<recorded start="1965"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Concertino for 12 Instruments</name>
+			<length>6:20</length>
+			<player name="Columbia Chamber Ensemble"/>
+			<conductor>Igor Stravinsky</conductor>
+			<composed start="1952"/>
+			<recorded start="1965"/>
+			<release>Sony SM2K 46 297</release>
+			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Three songs from William Shakespeare</name>
+			<length>7:10</length>
+			<instrument name="mezzo-soprano">
+				<player name="Ann Murray"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1953"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>In memoriam Dylan Thomas</name>
@@ -5422,6 +5915,32 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>In memoriam Dylan Thomas</name>
+			<length>7:48</length>
+			<instrument name="tenor">
+				<player name="Robert Tear"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1954"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Two poems of Konstantin Bal'mont</name>
+			<length>2:51</length>
+			<instrument name="soprano">
+				<player name="Phyllis Bryn-Julson"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1911" end="1954"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Epitaphium</name>
 			<description>f&uuml;r das Grabmal des Prinzen Max Egon zu F&uuml;rstenberg</description>
 			<length>1:23</length>
@@ -5440,177 +5959,61 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Preludium for Jazz Ensemble</name>
-			<length>1:26</length>
-			<player name="Columbia Jazz Ensemble"/>
-			<conductor>Igor Stravinsky</conductor>
-			<composed start="1936" end="1937"/>
-			<recorded start="1965"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
+			<name>Epitaphium</name>
+			<description>for Flute, Clarinet and Harp</description>
+			<length>1:37</length>
+			<player name="Ensemble Intercontemporain"/>
+			<composed start="1959"/>
+			<recorded start="1980" end="1982"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Concertino for 12 Instruments</name>
-			<length>6:20</length>
-			<player name="Columbia Chamber Ensemble"/>
-			<conductor>Igor Stravinsky</conductor>
-			<composed start="1952"/>
-			<recorded start="1965"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
+			<name>Double Canon</name>
+			<description>for String Quartet</description>
+			<length>1:41</length>
+			<composed start="1959"/>
+			<recorded start="1980" end="1982"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Octet</name>
-			<description>for Wind Instruments</description>
-			<length>14:35</length>
-			<player name="Columbia Chamber Ensemble"/>
-			<conductor>Igor Stravinsky</conductor>
-			<composed start="1922"/>
-			<recorded start="1961"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
+			<name>Eight Instrumental Miniatures</name>
+			<description>for 15 players</description>
+			<length>7:17</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1962"/>
+			<recorded start="1980" end="1982"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Ragtime for 11 Instruments</name>
-			<length>4:36</length>
-			<instrument name="Cimbalom">
-				<player name="Toni Koves"/>
+			<name>Elegy for J. F. K.</name>
+			<length>1:47</length>
+			<instrument name="baritone">
+				<player name="John Shirley-Quirk"/>
 			</instrument>
-			<player name="Columbia Chamber Ensemble"/>
-			<conductor>Igor Stravinsky</conductor>
-			<composed start="1918"/>
-			<recorded start="1962"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1964"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Tango</name>
-			<length>4:03</length>
-			<player name="Columbia Jazz Ensemble"/>
-			<conductor>Igor Stravinsky</conductor>
-			<composed start="1950" end="1953"/>
-			<recorded start="1965"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Septet</name>
-			<length>11:46</length>
-			<player name="Columbia Chamber Ensemble"/>
-			<conductor>Igor Stravinsky</conductor>
-			<composed start="1952" end="1953"/>
-			<recorded start="1965"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Pastorale</name>
-			<length>2:49</length>
-			<instrument name="Violin">
-				<player name="Israel Baker"/>
+			<name>Two sacred songs</name>
+			<description>from the &quot;Spanisches Liederbuch&quot; by Hugo Wolf</description>
+			<length>7:37</length>
+			<instrument name="mezzo-soprano">
+				<player name="Ann Murray"/>
 			</instrument>
-			<player name="Columbia Chamber Ensemble"/>
-			<conductor>Igor Stravinsky</conductor>
-			<composed start="1907" end="1934"/>
-			<recorded start="1965"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Ebony Concerto</name>
-			<description>for clarinet solo and big band</description>
-			<length>9:16</length>
-			<instrument name="Clarinet">
-				<player name="Benny Goodman"/>
-			</instrument>
-			<player name="Columbia Jazz Ensemble"/>
-			<conductor>Igor Stravinsky</conductor>
-			<composed start="1945"/>
-			<recorded start="1965"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Symphonies of Wind Instruments</name>
-			<length>9:10</length>
-			<player name="Symphonieorchester des Nordwestdeutschen Rundfunks"/>
-			<conductor>Igor Stravinsky</conductor>
-			<composed start="1947"/>
-			<recorded start="1951"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Duo Concertant</name>
-			<description>for violin and piano</description>
-			<length>15:01</length>
-			<instrument name="Violin">
-				<player name="Joseph Szigeti"/>
-			</instrument>
-			<instrument name="Piano">
-				<player name="Igor Stravinsky"/>
-			</instrument>
-			<composed start="1932"/>
-			<recorded start="1945"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Serenade in A</name>
-			<length>11:03</length>
-			<instrument name="Piano">
-				<player name="Igor Stravinsky"/>
-			</instrument>
-			<composed start="1925"/>
-			<recorded start="1934"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Concerto for 2 Solo Pianos</name>
-			<length>19:24</length>
-			<instrument name="Piano">
-				<player name="Igor Stravinsky"/>
-				<player name="Soulima Stravinsky"/>
-			</instrument>
-			<composed start="1935"/>
-			<recorded start="1938"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Piano - Rag Music</name>
-			<length>3:07</length>
-			<instrument name="Piano">
-				<player name="Igor Stravinsky"/>
-			</instrument>
-			<composed start="1919"/>
-			<recorded start="1934"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Sonata for 2 Pianos</name>
-			<length>9:55</length>
-			<instrument name="Piano">
-				<player name="Arthur Gold"/>
-				<player name="Robert Fizdale"/>
-			</instrument>
-			<composed start="1943"/>
-			<recorded start="1961"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
-		</composition>
-		<composition>
-			<name>Sonata for Piano</name>
-			<length>10:50</length>
-			<instrument name="Piano">
-				<player name="Charles Rosen"/>
-			</instrument>
-			<composed start="1924"/>
-			<recorded start="1960"/>
-			<release>Sony SM2K 46 297</release>
-			<released>1991</released>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1968"/>
+			<recorded start="1980"/>
+			<release>Deutsche Grammophon 00289 477 8730</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Marco" surname="Stroppa" born="1959" died="">
