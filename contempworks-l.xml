@@ -573,6 +573,17 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Mag&aacute;ny</name>
+			<description>f&uuml;r dreistimmigen Chor a cappella</description>
+			<length>2:58</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1946"/>
+			<recorded start="1983"/>
+			<release>Cadenza 800 896</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Capriccio No. 1</name>
 			<length>2:33</length>
 			<instrument name="Piano">
@@ -909,6 +920,17 @@
 			<recorded start="1995"/>
 			<release>Teldec 8573-88262-2</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>P&aacute;pain&eacute;</name>
+			<description>f&uuml;r achtstimmigen Chor a cappella</description>
+			<length>3:07</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1953"/>
+			<recorded start="1983"/>
+			<release>Cadenza 800 896</release>
+			<released>1993</released>
 		</composition>
 		<composition>
 			<name>Concert rom&acirc;nesc</name>
@@ -1490,6 +1512,17 @@
 			<recorded start="1994"/>
 			<release>Sony SK 62306</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Magyar Et&uuml;d&ouml;k</name>
+			<description>f&uuml;r Stimmen a cappella</description>
+			<length>5:45</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1983"/>
+			<recorded start="1983" end="1984"/>
+			<release>Cadenza 800 896</release>
+			<released>1993</released>
 		</composition>
 		<composition>
 			<name>&Eacute;tudes pour piano</name>

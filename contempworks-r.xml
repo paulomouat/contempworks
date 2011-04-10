@@ -204,6 +204,19 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Aribert" surname="Reimann" born="1936" died="">
+		<composition>
+			<name>John III, 16</name>
+			<description>Motette f&uuml;r Chor a cappella</description>
+			<length>11:41</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1975"/>
+			<recorded start="1979"/>
+			<release>Cadenza 800 897</release>
+			<released>1993</released>
+		</composition>
+	</composer>
 	<composer name="Steve" surname="Reich" born="1936" died="">
 		<composition>
 			<name>Four Organs</name>

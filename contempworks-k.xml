@@ -232,6 +232,17 @@
 			<release>Siemens</release>
 			<released>1998</released>
 		</composition>
+		<composition>
+			<name>Monogatari</name>
+			<description>f&uuml;r 16 Solostimmen a cappella</description>
+			<length>10:52</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1977"/>
+			<recorded start="1978"/>
+			<release>Cadenza 800 896</release>
+			<released>1993</released>
+		</composition>
 	</composer>
 	<composer name="Giselher" surname="Klebe" born="1925" died="">
 		<composition>

@@ -434,6 +434,19 @@
 			<released>1997</released>
 		</composition>
 	</composer>
+	<composer name="Tom&aacute;s" surname="Marco" born="1942" died="">
+		<composition>
+			<name>Transfiguraci&oacute;n</name>
+			<description>f&uuml;r 16 Solostimmen</description>
+			<length>9:43</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1974"/>
+			<recorded start="1976"/>
+			<release>Cadenza 800 896</release>
+			<released>1993</released>
+		</composition>
+	</composer>
 	<composer name="Benedict" surname="Mason" born="1954" died="">
 		<composition>
 			<name>The Four Slopes of Twice among Gliders of her Gravity</name>

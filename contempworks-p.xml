@@ -1001,6 +1001,17 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Ecloga VIII</name>
+			<description>f&uuml;r 6 M&auml;nnerstimmen</description>
+			<length>8:14</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1972"/>
+			<recorded start="1973"/>
+			<release>Cadenza 800 896</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>The Dream of Jacob</name>
 			<length>7:31</length>
 			<player name="Polish Radio National Symphony Orchestra"/>

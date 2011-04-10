@@ -122,6 +122,17 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Jarchas de dolor de ausencia</name>
+			<description>f&uuml;r gemischten Chor</description>
+			<length>21:53</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1978" end="1979"/>
+			<recorded start="1980"/>
+			<release>Cadenza 800 896</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>6. Streichquartett</name>
 			<length>21:03</length>
 			<player name="Arditti Quartet"/>
@@ -950,6 +961,17 @@
 			<recorded start="2009"/>
 			<release>Aeon AECD 1089</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>...nudo que ainsi junt&aacute;is</name>
+			<description>f&uuml;r 16 Stimmen in 3 Gruppen</description>
+			<length>16:15</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1984"/>
+			<recorded start="1986"/>
+			<release>Cadenza 800 897</release>
+			<released>1993</released>
 		</composition>
 		<composition>
 			<name>Rauhe Pinselspitze</name>

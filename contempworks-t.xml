@@ -206,4 +206,17 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Manfred" surname="Trojahn" born="1949" died="">
+		<composition>
+			<name>Aubade</name>
+			<description>f&uuml;r 2 Soprane</description>
+			<length>2:17</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1987"/>
+			<recorded start="1990"/>
+			<release>Cadenza 800 897</release>
+			<released>1993</released>
+		</composition>
+	</composer>
 </list>

@@ -479,6 +479,17 @@
 	</composer>
 	<composer name="Alban" surname="Berg" born="1885" died="1935">
 		<composition>
+			<name>Die Nachtigall</name>
+			<description>bearbeitet f&uuml;r 16 Stimmen a cappella von Clytus Gottwald</description>
+			<length>2:35</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1907"/>
+			<recorded start="1983"/>
+			<release>Cadenza 800 896</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Lyrische Suite</name>
 			<length>27:22</length>
 			<player name="LaSalle Quartett"/>
@@ -1734,6 +1745,19 @@
 			<recorded start="1999"/>
 			<release>Deutsche Grammophon 463475-2</release>
 			<released>2000</released>
+		</composition>
+	</composer>
+	<composer name="Nikolaus" surname="Brass" born="1949" died="">
+		<composition>
+			<name>Traumrede</name>
+			<description>f&uuml;r 4 Singstimmen</description>
+			<length>18:33</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1981"/>
+			<recorded start="1982"/>
+			<release>Cadenza 800 897</release>
+			<released>1993</released>
 		</composition>
 	</composer>
 	<composer name="Earle" surname="Brown" born="1926" died="2002">

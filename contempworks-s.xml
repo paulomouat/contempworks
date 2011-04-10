@@ -2890,6 +2890,16 @@
 	</composer>
 	<composer name="Mathias" surname="Spahlinger" born="1944" died="">
 		<composition>
+			<name>Sotto voce</name>
+			<length>5:23</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1974"/>
+			<recorded start="1974"/>
+			<release>Cadenza 800 896</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Apo do</name>
 			<description>f&uuml;r Streichquartett</description>
 			<length>12:06</length>
@@ -5613,6 +5623,19 @@
 			<recorded start="1993"/>
 			<release>Montaigne 782042</release>
 			<released>1995</released>
+		</composition>
+	</composer>
+	<composer name="Hubert" surname="Stuppner" born="1944" died="">
+		<composition>
+			<name>Palinodie IV, Vier Liebeslieder</name>
+			<description>f&uuml;r gemischten Chor a cappella</description>
+			<length>10:27</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1979" end="1982"/>
+			<recorded start="1983"/>
+			<release>Cadenza 800 897</release>
+			<released>1993</released>
 		</composition>
 	</composer>
 </list>

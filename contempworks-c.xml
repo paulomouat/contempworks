@@ -1920,6 +1920,31 @@
 	</composer>
 	<composer name="Niccol&ograve;" surname="Castiglioni" born="1932" died="">
 		<composition>
+			<name>Quodlibet aus &quot;Figure&quot;</name>
+			<description>Mobile per voce e orchestra f&uuml;r Sopran solo</description>
+			<length>4:17</length>
+			<instrument name="Sopran">
+				<player name="Ingrid Ade-Jesemann"/>
+			</instrument>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1965"/>
+			<recorded start="1978"/>
+			<release>Cadenza 800 897</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Hymne</name>
+			<description>f&uuml;r 12 Stimmen</description>
+			<length>13:44</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1988" end="1989"/>
+			<recorded start="1990"/>
+			<release>Cadenza 800 897</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Romanze</name>
 			<description>pour quatuor &agrave; cordes</description>
 			<length>8:05</length>
