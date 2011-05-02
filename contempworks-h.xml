@@ -97,6 +97,15 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>2. Streichquartett (M&eacute;moires 1970)</name>
+			<length>17:52</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1970"/>
+			<recorded start="2010"/>
+			<release>Anemos C33007</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Variaciones sobre la resonancia de un grito</name>
 			<description>f&uuml;r 11 Instrumente, Tonband und live-elektronische Klangumwandlung</description>
 			<length>26:50</length>
@@ -133,6 +142,24 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Con bravura y sentimiento</name>
+			<length>2:38</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="2010"/>
+			<release>Anemos C33007</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Zeitgestalt</name>
+			<length>7:59</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1996"/>
+			<recorded start="2010"/>
+			<release>Anemos C33007</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>6. Streichquartett</name>
 			<length>21:03</length>
 			<player name="Arditti Quartet"/>
@@ -149,6 +176,15 @@
 			<composed start="2007"/>
 			<recorded start="2010"/>
 			<release>MDG 307 1671-2</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Cuarteto de cuerda n. 7 &quot;Espacio de silencio&quot;</name>
+			<length>23:05</length>
+			<player name="Arditti Quartet"/>
+			<composed start="2007"/>
+			<recorded start="2010"/>
+			<release>Anemos C33007</release>
 			<released>2010</released>
 		</composition>
 	</composer>
@@ -235,6 +271,18 @@
 	</composer>
 	<composer name="Jonathan" surname="Harvey" born="1939" died="">
 		<composition>
+			<name>Four Images after Yeats</name>
+			<description>for piano</description>
+			<length>23:30</length>
+			<instrument name="piano">
+				<player name="Florian Hoelscher"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10828</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>String Quartet No. 1</name>
 			<length>18:15</length>
 			<player name="Arditti Quartet"/>
@@ -280,6 +328,21 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Nataraja</name>
+			<description>for flute and piano</description>
+			<length>11:02</length>
+			<instrument name="flute">
+				<player name="Pirmin Grehl"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Florian Hoelscher"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10828</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>From Silence</name>
 			<description>for soprano, violin, viola, percussion, 3 electronic keyboards, computer and tape</description>
 			<length>21:45</length>
@@ -307,6 +370,32 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Scena</name>
+			<description>for violin and ensemble</description>
+			<length>16:11</length>
+			<instrument name="violin">
+				<player name="Elizabeth Layton"/>
+			</instrument>
+			<player name="BBC Scottish Symphony Orchestra"/>
+			<conductor>Ilan Volkov</conductor>
+			<composed start="1992"/>
+			<recorded start="2009"/>
+			<release>aeon AECD 1090</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Tombeau de Messiaen</name>
+			<description>for piano and Digital Audio Tape</description>
+			<length>8:41</length>
+			<instrument name="piano">
+				<player name="Florian Hoelscher"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10828</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>String Quartet No. 3</name>
 			<length>14:28</length>
 			<player name="Arditti Quartet"/>
@@ -314,6 +403,68 @@
 			<recorded start="2007"/>
 			<release>aeon AECD 0975</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>ff</name>
+			<description>piano</description>
+			<length>2:16</length>
+			<instrument name="piano">
+				<player name="Florian Hoelscher"/>
+			</instrument>
+			<composed start="1995"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10828</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Haiku</name>
+			<description>for piano</description>
+			<length>0:19</length>
+			<instrument name="piano">
+				<player name="Florian Hoelscher"/>
+			</instrument>
+			<composed start="1997"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10828</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Homage to Cage, &agrave; Chopin (und Ligeti ist auch dabei)</name>
+			<description>for piano and Digital Audio Tape</description>
+			<length>1:40</length>
+			<instrument name="piano">
+				<player name="Florian Hoelscher"/>
+			</instrument>
+			<composed start="1998"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10828</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Vers</name>
+			<description>for piano</description>
+			<length>2:46</length>
+			<instrument name="piano">
+				<player name="Florian Hoelscher"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10828</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Jubilus</name>
+			<description>for viola and ensemble</description>
+			<length>25:53</length>
+			<instrument name="viola">
+				<player name="Scott Dickinson"/>
+			</instrument>
+			<player name="BBC Scottish Symphony Orchestra"/>
+			<conductor>Ilan Volkov</conductor>
+			<composed start="2002"/>
+			<recorded start="2009"/>
+			<release>aeon AECD 1090</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>String Quartet No. 4</name>
@@ -333,6 +484,32 @@
 			<recorded start="2007"/>
 			<release>aeon AECD 0975</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Run Before Lightning</name>
+			<description>for flute and piano</description>
+			<length>7:35</length>
+			<instrument name="flute">
+				<player name="Pirmin Grehl"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Florian Hoelscher"/>
+			</instrument>
+			<composed start="2004"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10828</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Speakings</name>
+			<description>for large orchestra and electronics</description>
+			<length>28:00</length>
+			<player name="BBC Scottish Symphony Orchestra"/>
+			<conductor>Ilan Volkov</conductor>
+			<composed start="2007" end="2008"/>
+			<recorded start="2009"/>
+			<release>aeon AECD 1090</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Roman" surname="Haubenstock-Ramati" born="1919" died="1994">

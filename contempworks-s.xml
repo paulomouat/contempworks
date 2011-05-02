@@ -3084,6 +3084,16 @@
 			<released>1989-94</released>
 		</composition>
 		<composition>
+			<name>Kreuzspiel</name>
+			<description>f&uuml;r Oboe, Ba&szlig;klarinette, Klavier, 3 Schlagzeuger</description>
+			<length>11:43</length>
+			<player name="Ives Ensemble"/>
+			<composed start="1951"/>
+			<recorded start="2002"/>
+			<release>Hat[now]Art 178</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Formel</name>
 			<description>f&uuml;r Orchester</description>
 			<length>12:57</length>
@@ -3466,6 +3476,16 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Refrain</name>
+			<description>f&uuml;r drei Spieler</description>
+			<length>9:53</length>
+			<player name="Ives Ensemble"/>
+			<composed start="1959"/>
+			<recorded start="2002"/>
+			<release>Hat[now]Art 178</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Kontakte</name>
 			<description>Elektronische Musik</description>
 			<length>33:37</length>
@@ -3568,6 +3588,16 @@
 			<recorded start="1998"/>
 			<release>Stockhausen-Verlag CD80AB</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Plus-Minus</name>
+			<description>2 × 7 pages for realisation</description>
+			<length>51:02</length>
+			<player name="Ives Ensemble"/>
+			<composed start="1963"/>
+			<recorded start="2002"/>
+			<release>Hat[now]Art 178</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Mikrophonie I</name>

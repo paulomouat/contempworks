@@ -41,6 +41,18 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>First construction in metal</name>
+			<length>8:51</length>
+			<player name="Manhattan Percussion Ensemble"/>
+			<instrument name="piano">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1939"/>
+			<recorded start="1958"/>
+			<release>El Records ACMEM 194 CD</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Imaginary Landscape No. 3</name>
 			<description>(with Mauricio Kagel)</description>
 			<description>Sechs Schlagzeuger, elektronische Kl&auml;nge</description>
@@ -146,6 +158,15 @@
 			<recorded start="2001" end="2002"/>
 			<release>Mode 180/81</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>The city wears a slouch hat</name>
+			<description>A radio play by Kenneth Patchen</description>
+			<length>28:58</length>
+			<composed start="1942"/>
+			<recorded start="1942"/>
+			<release>El Records ACMEM 194 CD</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Our Spring Will Come</name>
@@ -610,6 +631,17 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Music of changes</name>
+			<length>22:12</length>
+			<instrument name="piano">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1953"/>
+			<release>El Records ACMEM 194 CD</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Concerto for Prepared Piano</name>
 			<length>23:40</length>
 			<part>
@@ -692,6 +724,31 @@
 			<recorded start="2003" end="2004"/>
 			<release>Mode 147</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Music for carillon no. 1</name>
+			<length>3:58</length>
+			<instrument name="electronic carillon">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1958"/>
+			<release>El Records ACMEM 194 CD</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Williams Mix</name>
+			<description>For four stereophonic magnetic tapes and eight loudspeakers</description>
+			<length>4:22</length>
+			<instrument name="Realisation">
+				<player name="Earle Brown"/>
+				<player name="John Cage"/>
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="1958"/>
+			<release>El Records ACMEM 194 CD</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Music for piano 47</name>
@@ -787,6 +844,16 @@
 			<recorded start="1993"/>
 			<release>Mode 47</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Fontana Mix</name>
+			<description>Realisation of the version for magnetic tape alone, prepared by John Cage</description>
+			<length>11:34</length>
+			<player name="Studio di Fonologia, RAI, Milan"/>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>El Records ACMEM 194 CD</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Indeterminacy</name>

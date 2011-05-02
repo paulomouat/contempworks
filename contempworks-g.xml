@@ -473,6 +473,82 @@
 			<release>Megadisc MDC 7845</release>
 			<released>1998</released>
 		</composition>
+		<composition>
+			<name>Litanie 1</name>
+			<description>for piano</description>
+			<length>10:54</length>
+			<instrument name="Piano">
+				<player name="Kristina Van Damme"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1992"/>
+			<release>Megadisc MDC 7872/73</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Litanie 2</name>
+			<description>for three percussionists</description>
+			<length>8:12</length>
+			<player name="Ensemble Champ d'Action"/>
+			<composed start="1980"/>
+			<recorded start="1992"/>
+			<release>Megadisc MDC 7872/73</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Litanie 3</name>
+			<description>for orchestra</description>
+			<length>13:04</length>
+			<player name="BRT Philharmonic Orchestra"/>
+			<conductor>Lucas Vis</conductor>
+			<composed start="1981"/>
+			<recorded start="1981"/>
+			<release>Megadisc MDC 7872/73</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Litanie 4</name>
+			<description>for soprano, flute, clarinet, violin, cello and piano</description>
+			<length>15:14</length>
+			<player name="Ensemble Champ d'Action"/>
+			<conductor>Alain Franco</conductor>
+			<composed start="1982"/>
+			<recorded start="1992"/>
+			<release>Megadisc MDC 7872/73</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Litanie 5</name>
+			<description>for harpsichord and tape (or several harpsichords)</description>
+			<length>34:59</length>
+			<instrument name="Harpsichord">
+				<player name="Christine Wauters"/>
+			</instrument>
+			<composed start="1982"/>
+			<recorded start="1993"/>
+			<release>Megadisc MDC 7872/73</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>De Zeven Zegels</name>
+			<description>for string quartet</description>
+			<length>14:29</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1986"/>
+			<recorded start="1995" end="1996"/>
+			<release>Megadisc MDC 7853</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Voor Strijkkwartet</name>
+			<description>for string quartet</description>
+			<length>20:51</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1992"/>
+			<recorded start="1995" end="1996"/>
+			<release>Megadisc MDC 7853</release>
+			<released>1996</released>
+		</composition>
 	</composer>
 	<composer name="Paul" surname="Gredinger" born="1927" died="">
 		<composition>

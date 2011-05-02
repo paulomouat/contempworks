@@ -1561,4 +1561,57 @@
 			<released>1991</released>
 		</composition>
 	</composer>
+	<composer name="J&ouml;rg" surname="Widmann" born="1973">
+		<composition>
+			<name>1. Streichquartett</name>
+			<length>13:05</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="1997"/>
+			<recorded start="1998"/>
+			<release>MDG 307 1531-2</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Choralquartett</name>
+			<description>2. Streichquartett</description>
+			<length>13:36</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="2003"/>
+			<recorded start="2003"/>
+			<release>MDG 307 1531-2</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Jagdquartett</name>
+			<description>3. Streichquartett</description>
+			<length>10:46</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="2003"/>
+			<recorded start="2003"/>
+			<release>MDG 307 1531-2</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>4. Streichquartett</name>
+			<length>13:40</length>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>MDG 307 1531-2</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Versuch &uuml;ber die Fuge</name>
+			<description>5. Streichquartett mit Sopran</description>
+			<length>25:05</length>
+			<instrument name="Soprano">
+				<player name="Juliane Banse"/>
+			</instrument>
+			<player name="Leipziger Streichquartett"/>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>MDG 307 1531-2</release>
+			<released>2008</released>
+		</composition>
+	</composer>
 </list>
