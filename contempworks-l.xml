@@ -1716,6 +1716,29 @@
 	</composer>
 	<composer name="Magnus" surname="Lindberg" born="1947" died="">
 		<composition>
+			<name>Tendenza</name>
+			<description>for large ensemble</description>
+			<length>11:54</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Sakari Oramo</conductor>
+			<composed start="1982"/>
+			<recorded start="1996"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Kraft</name>
+			<description>for soloist group and orchestra</description>
+			<length>30:16</length>
+			<player name="Toimii Ensemble"/>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Esa-Pekka Salonen</conductor>
+			<composed start="1985"/>
+			<recorded start="2002"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>UR</name>
 			<description>pour 5 instruments et &eacute;lectronique</description>
 			<length>13:27</length>
@@ -1725,6 +1748,17 @@
 			<recorded start="1993"/>
 			<release>Ad&egrave;s/IRCAM 203 582</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Kinetics</name>
+			<description>for orchestra</description>
+			<length>12:39</length>
+			<player name="Bavarian Radio Symphony Orchestra"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Joy</name>
@@ -1737,6 +1771,28 @@
 			<recorded start="1991"/>
 			<release>Ad&egrave;s/IRCAM 203 582</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Joy</name>
+			<description>for chamber orchestra and live electronics</description>
+			<length>26:39</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="1990"/>
+			<recorded start="1991"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Marea</name>
+			<description>for orchestra</description>
+			<length>10:30</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="1990"/>
+			<recorded start="1991"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Duo concertante</name>
@@ -1761,6 +1817,28 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Corrente</name>
+			<description>for ensemble</description>
+			<length>10:48</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Sakari Oramo</conductor>
+			<composed start="1992"/>
+			<recorded start="1996"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Corrente II</name>
+			<description>for orchestra</description>
+			<length>16:36</length>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="1992"/>
+			<recorded start="1995"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Clarinet Quintet</name>
 			<description>for B-flat clarinet and string quartet</description>
 			<length>17:35</length>
@@ -1772,6 +1850,93 @@
 			<recorded start="1993"/>
 			<release>Montaigne MO 782033</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Coyote Blues</name>
+			<description>for ensemble</description>
+			<length>11:54</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Sakari Oramo</conductor>
+			<composed start="1993"/>
+			<recorded start="1996"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Arena</name>
+			<description>for orchestra</description>
+			<length>15:03</length>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="1995"/>
+			<recorded start="1995"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Arena II</name>
+			<description>for orchestra</description>
+			<length>15:00</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Sakari Oramo</conductor>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Feria</name>
+			<description>for orchestra</description>
+			<length>17:04</length>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Gran Duo</name>
+			<description>for woodwind and brass</description>
+			<length>19:23</length>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Sakari Oramo</conductor>
+			<composed start="2000"/>
+			<recorded start="2005"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Chorale</name>
+			<description>for orchestra</description>
+			<length>5:58</length>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Sakari Oramo</conductor>
+			<composed start="2002"/>
+			<recorded start="2005"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Concerto for orchestra</name>
+			<length>29:58</length>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Sakari Oramo</conductor>
+			<composed start="2003"/>
+			<recorded start="2008"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Sculpture</name>
+			<description>for orchestra</description>
+			<length>22:56</length>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Sakari Oramo</conductor>
+			<composed start="2005"/>
+			<recorded start="2007"/>
+			<release>Ondine ODE 1110-2Q</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Gareth" surname="Loy" born="1945" died="">
