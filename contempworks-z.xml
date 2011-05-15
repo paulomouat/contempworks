@@ -52,6 +52,81 @@
 			<release>Col Legno CD1 31905</release>
 			<released>1996</released>
 		</composition>
+		<composition>
+			<name>Muji no kyo</name>
+			<description>f&uuml;r Stimme, Fl&ouml;te, Violine, Klavier mit Synthesizer und Tutti-Instrumente</description>
+			<length>17:12</length>
+			<instrument name="Stimme">
+				<player name="Johann Leutgeb"/>
+			</instrument>
+			<instrument name="Fl&ouml;te">
+				<player name="Eva Furrer"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Annette Bik"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Florian M&uuml;ller"/>
+			</instrument>
+			<player name="Klangforum Wien"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1975"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012262KAI</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Litanei</name>
+			<description>f&uuml;r 3 Violoncelli</description>
+			<length>18:08</length>
+			<instrument name="Violoncelli">
+				<player name="Andreas Lindenbaum"/>
+				<player name="Benedikt Leitner"/>
+				<player name="Roland Schueler"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012262KAI</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Furin no kyo</name>
+			<description>f&uuml;r Sopran, Klarinette und Ensemble</description>
+			<length>21:45</length>
+			<instrument name="Sopran">
+				<player name="Julie Moffat"/>
+			</instrument>
+			<instrument name="Klarinette">
+				<player name="Donna Wagner Molinari"/>
+			</instrument>
+			<player name="Klangforum Wien"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1988" end="1989"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012262KAI</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Music to hear</name>
+			<description>nach dem 8. Sonett von William Shakespeare</description>
+			<description>f&uuml;r Sopran, Solofl&ouml;te, Echofl&ouml;te und Ensemble</description>
+			<length>17:27</length>
+			<instrument name="Sopran">
+				<player name="Julie Moffat"/>
+			</instrument>
+			<instrument name="Fl&ouml;te">
+				<player name="Eva Furrer"/>
+			</instrument>
+			<instrument name="Fl&ouml;te">
+				<player name="Katrina Emtage"/>
+			</instrument>
+			<player name="Klangforum Wien"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1998"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012262KAI</release>
+			<released>2001</released>
+		</composition>
 	</composer>
 	<composer name="Bernd Alois" surname="Zimmermann" born="1918" died="1970">
 		<composition>
