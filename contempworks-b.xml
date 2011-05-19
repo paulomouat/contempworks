@@ -2164,6 +2164,28 @@
 	</composer>
 	<composer name="Sylvano" surname="Bussotti" born="1931" died="">
 		<composition>
+			<name>Musica per amici</name>
+			<length>5:57</length>
+			<instrument name="piano">
+				<player name="Martine Joste"/>
+			</instrument>
+			<composed start="1957" end="1971"/>
+			<recorded start="1996"/>
+			<release>Mode 65</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Pour Clavier</name>
+			<length>28:35</length>
+			<instrument name="piano">
+				<player name="Martine Joste"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="1996"/>
+			<release>Mode 65</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Quartetto Gramsci</name>
 			<description>Reprise pour deux violons, alto et violoncelle (da I semi di Gramsci pour quatuor et orchestre)</description>
 			<length>11:25</length>
@@ -2172,6 +2194,17 @@
 			<recorded start="1992"/>
 			<release>Montaigne 782042</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Brillante</name>
+			<length>8:32</length>
+			<instrument name="piano">
+				<player name="Martine Joste"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1996"/>
+			<release>Mode 65</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Nascosto (nove parti per Pierre Boulez)</name>
@@ -2183,6 +2216,52 @@
 			<recorded start="1992"/>
 			<release>Arts 447135-2</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Il Preludio</name>
+			<length>5:24</length>
+			<instrument name="piano">
+				<player name="Martine Joste"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="1996"/>
+			<release>Mode 65</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Bartok-Busoni, Caprice des 34 Mikrokosmos</name>
+			<length>6:56</length>
+			<instrument name="piano">
+				<player name="Martine Joste"/>
+			</instrument>
+			<composed start="1995"/>
+			<recorded start="1996"/>
+			<release>Mode 65</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Sonatina Gioacchina</name>
+			<description>D&eacute;di&eacute;e &agrave; M. Joste</description>
+			<length>5:59</length>
+			<instrument name="piano">
+				<player name="Martine Joste"/>
+			</instrument>
+			<composed start="1995"/>
+			<recorded start="1996"/>
+			<release>Mode 65</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Petit bis</name>
+			<description>D&eacute;di&eacute;e &agrave; M. Joste</description>
+			<length>1:51</length>
+			<instrument name="piano">
+				<player name="Martine Joste"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>Mode 65</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Echi Danzanti</name>
