@@ -2,10 +2,11 @@
 
 from entities import *
 from textutilities import strip_accents
+from xmlutilities import *
 
 def filesToProcess():
 	import glob
-	return glob.glob("contempworks*.xml")
+	return glob.glob("contempworks-o.xml")
 
 def parseFile(fileName):
 	from xml.dom.minidom import parseString
@@ -15,27 +16,45 @@ def parseFile(fileName):
 	dom = parseString(data)
 	return dom
 
-def processDom(dom):
-	composersXml = dom.getElementsByTagName('composer')
-	if composersXml:
-		for composerXml in composersXml:
-			processComposerXml(composerXml)
+def readDom(dom):
+	composers = dom.getElementsByTagName('composer')
+	readComposers(composers)
 
-def processComposerXml(composerXml):
+def readComposers(composers):
+	if composers:
+		for composer in composers:
+			readComposer(composer)
+
+def readComposer(node):
 	composer = Composer()
-	name = composerXml.attributes["name"].value
-	surname = composerXml.attributes["surname"].value
-	born = composerXml.attributes["born"].value
-	died = composerXml.attributes["died"].value
+	name = getAttributeValue(node, "name")
+	surname = getAttributeValue(node, "surname")
+	born = getAttributeValue(node, "born")
+	died = getAttributeValue(node, "died")
 	composer.name = name
 	composer.surname = surname
 	composer.born = born
 	composer.died = died
+	readCompositions(node, composer)
 	print composer.display()
-	#print strip_accents(name) + " " + strip_accents(surname)	
 	
+def readCompositions(node, composer):
+	compositions = selectChildren(node, "composition")
+	for composition in compositions:
+		readComposition(composition, composer)
+		
+def readComposition(node, composer):
+	composition = Composition()
+	name = selectSingleChildValue(node, "name")
+	composition.name = name
+	descriptions = selectChildren(node, "description")
+	if descriptions:
+		for description in descriptions:
+			text = getTextValue(description)
+			composition.descriptions.append(text)
+	composer.compositions.append(composition)
 
 files = filesToProcess()
 for f in files:
 	dom = parseFile(f)
-	processDom(dom)
+	readDom(dom)
