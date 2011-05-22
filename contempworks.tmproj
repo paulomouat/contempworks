@@ -2,19 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>currentDocument</key>
+	<string>contempworks.py</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>filename</key>
 			<string>composerlist-footer.html</string>
 			<key>lastUsed</key>
-			<date>2011-05-22T03:35:25Z</date>
+			<date>2011-05-22T10:10:10Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>composerlist-header.html</string>
 			<key>lastUsed</key>
-			<date>2011-05-22T03:19:59Z</date>
+			<date>2011-05-22T10:09:48Z</date>
 		</dict>
 		<dict>
 			<key>children</key>
@@ -23,13 +25,13 @@
 					<key>filename</key>
 					<string>contempworks-a.xml</string>
 					<key>lastUsed</key>
-					<date>2011-05-22T03:46:44Z</date>
+					<date>2011-05-22T09:13:30Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
 					<string>contempworks-b.xml</string>
 					<key>lastUsed</key>
-					<date>2011-05-22T03:46:45Z</date>
+					<date>2011-05-22T09:51:09Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
@@ -65,19 +67,19 @@
 					<key>filename</key>
 					<string>contempworks-h.xml</string>
 					<key>lastUsed</key>
-					<date>2011-05-22T03:46:49Z</date>
+					<date>2011-05-22T09:57:45Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
 					<string>contempworks-i.xml</string>
 					<key>lastUsed</key>
-					<date>2011-05-22T03:46:50Z</date>
+					<date>2011-05-22T05:21:21Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
 					<string>contempworks-j.xml</string>
 					<key>lastUsed</key>
-					<date>2011-05-22T03:46:51Z</date>
+					<date>2011-05-22T05:21:18Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
@@ -107,7 +109,7 @@
 					<key>filename</key>
 					<string>contempworks-o.xml</string>
 					<key>lastUsed</key>
-					<date>2011-05-22T03:46:54Z</date>
+					<date>2011-05-22T09:13:09Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
@@ -149,13 +151,13 @@
 					<key>filename</key>
 					<string>contempworks-v.xml</string>
 					<key>lastUsed</key>
-					<date>2011-05-22T03:47:01Z</date>
+					<date>2011-05-22T04:37:06Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
 					<string>contempworks-w.xml</string>
 					<key>lastUsed</key>
-					<date>2011-05-22T03:47:02Z</date>
+					<date>2011-05-22T04:37:46Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
@@ -174,12 +176,8 @@
 					<string>contempworks-z.xml</string>
 					<key>lastUsed</key>
 					<date>2011-05-22T04:04:40Z</date>
-					<key>selected</key>
-					<true/>
 				</dict>
 			</array>
-			<key>expanded</key>
-			<true/>
 			<key>name</key>
 			<string>xml</string>
 		</dict>
@@ -187,17 +185,19 @@
 			<key>filename</key>
 			<string>contempworks.sh</string>
 			<key>lastUsed</key>
-			<date>2011-05-22T03:18:52Z</date>
+			<date>2011-05-22T10:12:51Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>entities-tests.py</string>
+			<key>lastUsed</key>
+			<date>2011-05-22T10:41:13Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>entities.py</string>
 			<key>lastUsed</key>
-			<date>2011-05-22T03:18:55Z</date>
+			<date>2011-05-22T09:55:50Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -206,10 +206,20 @@
 		<dict>
 			<key>filename</key>
 			<string>parsing-tests.py</string>
+			<key>lastUsed</key>
+			<date>2011-05-22T04:27:47Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>readutilities.py</string>
+			<key>lastUsed</key>
+			<date>2011-05-22T10:31:56Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>tests.py</string>
+			<key>lastUsed</key>
+			<date>2011-05-22T13:48:17Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -217,11 +227,116 @@
 			<key>lastUsed</key>
 			<date>2011-05-22T03:18:39Z</date>
 		</dict>
+		<dict>
+			<key>filename</key>
+			<string>textutilities.py</string>
+			<key>lastUsed</key>
+			<date>2011-05-22T13:47:54Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>contempworks.py</string>
+			<key>lastUsed</key>
+			<date>2011-05-22T13:57:56Z</date>
+			<key>selected</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>writeutilities.py</string>
+			<key>lastUsed</key>
+			<date>2011-05-22T13:57:56Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>xmlutilities.py</string>
+			<key>lastUsed</key>
+			<date>2011-05-22T09:29:06Z</date>
+		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
-	<dict/>
+	<dict>
+		<key>contempworks.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>31</integer>
+				<key>line</key>
+				<integer>12</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>entities-tests.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>17</integer>
+				<key>line</key>
+				<integer>34</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>tests.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>3</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>textutilities.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>9</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>writeutilities.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>27</integer>
+				<key>line</key>
+				<integer>54</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>32</integer>
+		</dict>
+	</dict>
+	<key>openDocuments</key>
+	<array>
+		<string>contempworks.py</string>
+		<string>writeutilities.py</string>
+		<string>tests.py</string>
+		<string>entities-tests.py</string>
+		<string>textutilities.py</string>
+	</array>
 	<key>showFileHierarchyDrawer</key>
 	<false/>
 	<key>windowFrame</key>

@@ -17,7 +17,8 @@ def generateComposerList(composers):
 			previous = current
 		contents += generateComposerInList(composer)
 	contents += footer.read()
-	footer.close()	
+	footer.close()
+		
 	output = open(fileName, "w")
 	output.write(contents)
 	output.close()
@@ -51,10 +52,15 @@ def generateComposerInList(composer):
 	return row
 
 def generateComposerFiles(composers):
-	pass
+	for composer in composers:
+		generateComposerFile(composer)
 
 def generateComposerFile(composer):
-	pass
+	fileName = "generated/" + getFileName(composer) + "2"
+	output = open(fileName, "w")
+	contents = "<html></html>"
+	output.write(contents)
+	output.close()
 
 def getFileName(composer):
 	rawname = composer.surname + composer.name

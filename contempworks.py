@@ -13,3 +13,4 @@ composers = sorted(composers, key=lambda composer: composer.surname)
 print "Read %s composers" % len(composers)
 	
 generateComposerList(composers)
+generateComposerFiles(composers)
