@@ -105,7 +105,7 @@
 		<composition>
 			<name>Concret PH</name>
 			<length>2:39</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1958"/>
@@ -366,7 +366,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Polytope de Montr&eacute;al</name>
+			<name>Polytope de Montréal</name>
 			<description>für Orchester</description>
 			<length>6:18</length>
 			<player name="Ensemble Ars Nova de l'ORTF"/>
@@ -414,7 +414,7 @@
 		</composition>
 		<composition>
 			<name>Persepolis</name>
-			<description>pour bande magn&eacute;tique 8 pistes</description>
+			<description>pour bande magnétique 8 pistes</description>
 			<length>55:06</length>
 			<composed start="1971"/>
 			<recorded start="2000"/>
@@ -675,7 +675,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>La L&eacute;gende d'Eer</name>
+			<name>La Légende d'Eer</name>
 			<description>for 8-channel electronic tape</description>
 			<length>45:28</length>
 			<player name="WDR, K&ouml;ln"/>
@@ -747,7 +747,7 @@
 				<player name="Spyros Sakkas"/>
 			</instrument>
 			<instrument name="Percussion solo">
-				<player name="B&eacute;atrice Daudin"/>
+				<player name="Béatrice Daudin"/>
 			</instrument>
 			<player name="Orchestre Philharmonique du Luxembourg"/>
 			<conductor>Arturo Tamayo</conductor>
@@ -796,7 +796,7 @@
 		</composition>
 		<composition>
 			<name>Pour la Paix</name>
-			<description>pour bande magn&eacute;tique 2 pistes, avec choeur et r&eacute;citants</description>
+			<description>pour bande magnétique 2 pistes, avec choeur et récitants</description>
 			<length>26:35</length>
 			<player name="CEMAMu/GRM, Paris"/>
 			<composed start="1981"/>
@@ -965,7 +965,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>&Agrave; l'&Icirc;le de Gor&eacute;e</name>
+			<name>&Agrave; l'&Icirc;le de Gorée</name>
 			<description>pour clavecin et ensemble</description>
 			<length>13:34</length>
 			<instrument name="Clavecin">
@@ -1012,7 +1012,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Trac&eacute;es</name>
+			<name>Tracées</name>
 			<length>5:11</length>
 			<player name="Orchestre Philharmonique du Luxembourg"/>
 			<conductor>Arturo Tamayo</conductor>
@@ -1087,7 +1087,7 @@
 		</composition>
 		<composition>
 			<name>Okho</name>
-			<description>pour djemb&eacute;s</description>
+			<description>pour djembés</description>
 			<length>13:50</length>
 			<instrument name="Percussions">
 				<player name="Trio Le Cercle"/>
@@ -1127,7 +1127,7 @@
 		</composition>	
 		<composition>
 			<name>Voyage absolu des Unari vers Androm&egrave;de</name>
-			<description>pour bande magn&eacute;tique 2 pistes</description>
+			<description>pour bande magnétique 2 pistes</description>
 			<length>15:29</length>
 			<player name="CEMAMu, Paris"/>
 			<composed start="1989"/>
@@ -1202,7 +1202,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>La D&eacute;esse Ath&eacute;na</name>
+			<name>La Déesse Athéna</name>
 			<description>for baritone, solo percussion and ensemble</description>
 			<length>7:55</length>
 			<instrument name="baritone">
@@ -1266,7 +1266,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>A la M&eacute;moire de Witold Lutoslawski</name>
+			<name>A la Mémoire de Witold Lutoslawski</name>
 			<description>for 2 trumpets and 2 horns</description>
 			<length>3:24</length>
 			<player name="ST-X Ensemble"/>

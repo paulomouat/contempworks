@@ -4,7 +4,7 @@
 <list>
 	<composer name="Mauricio" surname="Kagel" born="1931" died="">
 		<composition>
-			<name>Improvisation ajout&eacute;e</name>
+			<name>Improvisation ajoutée</name>
 			<description>Musik für Orgel</description>
 			<length>12:11</length>
 			<instrument name="Orgel">
@@ -113,7 +113,7 @@
 			<released>2002</released>
 		</composition>
 		<composition>
-			<name>Vari&eacute;t&eacute;</name>
+			<name>Variété</name>
 			<description>Konzertstück für sechs</description>
 			<length>40:22</length>
 			<player name="Ensemble Modern"/>
@@ -200,7 +200,7 @@
 		<composition>
 			<name>Voyage au paradis</name>
 			<length>3:56</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1987"/>
@@ -494,7 +494,7 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Ját&eacute;kok (Spiele) - Auswahl (seit 1973)</name>
+			<name>Játékok (Spiele) - Auswahl (seit 1973)</name>
 			<description>für Klavier, auch vierh&auml;ndig und für zwei Klaviere</description>
 			<length>10:17</length>
 			<instrument name="Klavier">
@@ -558,11 +558,11 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>János Pilinszky: G&eacute;rard de Nerval</name>
+			<name>János Pilinszky: Gérard de Nerval</name>
 			<description>für Violoncello</description>
 			<length>1:18</length>
 			<instrument name="Violoncello">
-				<player name="Mikl&oacute;s Per&eacute;nyi"/>
+				<player name="Mikl&oacute;s Perényi"/>
 			</instrument>
 			<composed start="1986"/>
 			<recorded start="1993"/>
@@ -663,7 +663,7 @@
 			<description>Version Nr. 2 für zwei Violoncelli, zwei Violinen und Celesta</description>
 			<length>3:42</length>
 			<instrument name="Violoncello">
-				<player name="Mikl&oacute;s Per&eacute;nyi"/>
+				<player name="Mikl&oacute;s Perényi"/>
 			</instrument>
 			<instrument name="Violine">
 				<player name="András Keller"/>
@@ -685,7 +685,7 @@
 				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<instrument name="Violoncello">
-				<player name="Mikl&oacute;s Per&eacute;nyi"/>
+				<player name="Mikl&oacute;s Perényi"/>
 			</instrument>
 			<player name="Budapester Festival Orchester"/>
 			<conductor>Peter E&ouml;tv&ouml;s</conductor>
@@ -753,7 +753,7 @@
 		<composition>
 			<name>&Eacute;tude 1</name>
 			<length>5:13</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1960"/>

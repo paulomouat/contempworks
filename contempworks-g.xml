@@ -18,7 +18,7 @@
 		<composition>
 			<name>Variations didactiques, 2eme mouvement</name>
 			<length>5:04</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1981" end="1982"/>
@@ -563,7 +563,7 @@
 			<released>?</released>
 		</composition>
 	</composer>
-	<composer name="G&eacute;rard" surname="Grisey" born="1946" died="1998">
+	<composer name="Gérard" surname="Grisey" born="1946" died="1998">
 		<composition>
 			<name>Charme</name>
 			<description>pour clarinette</description>
@@ -577,12 +577,12 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>P&eacute;riodes</name>
+			<name>Périodes</name>
 			<description>pour 7 musiciens</description>
 			<description>Cycle Les Espaces Acoustiques, 2</description>
 			<length>12:47</length>
 			<player name="Ensemble Court-Circuit"/>
-			<conductor>Pierre-Andr&eacute; Valade</conductor>
+			<conductor>Pierre-André Valade</conductor>
 			<composed start="1974"/>
 			<recorded start="1997" end="1998"/>
 			<release>Accord 465 396-2</release>
@@ -594,7 +594,7 @@
 			<description>Cycle Les Espaces Acoustiques, 3</description>
 			<length>12:47</length>
 			<player name="Ensemble Court-Circuit"/>
-			<conductor>Pierre-Andr&eacute; Valade</conductor>
+			<conductor>Pierre-André Valade</conductor>
 			<composed start="1975"/>
 			<recorded start="1997" end="1998"/>
 			<release>Accord 465 396-2</release>
@@ -602,10 +602,10 @@
 		</composition>
 		<composition>
 			<name>Prologue</name>
-			<description>pour alto et r&eacute;sonateurs</description>
+			<description>pour alto et résonateurs</description>
 			<length>19:29</length>
 			<instrument name="Alto">
-				<player name="G&eacute;rard Causs&eacute;"/>
+				<player name="Gérard Caussé"/>
 			</instrument>
 			<composed start="1976"/>
 			<recorded start="1991" end="1992"/>
@@ -618,7 +618,7 @@
 			<description>Cycle Les Espaces Acoustiques, 1</description>
 			<length>17:27</length>
 			<instrument name="Alto">
-				<player name="G&eacute;rard Causs&eacute;"/>
+				<player name="Gérard Caussé"/>
 			</instrument>
 			<composed start="1976"/>
 			<recorded start="1997" end="1998"/>
@@ -651,8 +651,8 @@
 		<composition>
 			<name>Jour Contre Jour</name>
 			<length>22:06</length>
-			<player name="Ensemble l'Itin&eacute;raire"/>
-			<conductor>Pascal Roph&eacute;</conductor>
+			<player name="Ensemble l'Itinéraire"/>
+			<conductor>Pascal Rophé</conductor>
 			<composed start="1979"/>
 			<recorded start="1991" end="1992"/>
 			<release>Accord 201952</release>
@@ -732,7 +732,7 @@
 		</composition>
 		<composition>
 			<name>Anubis-Nout</name>
-			<description>deux pi&egrave;ces pour clarinette contrebasse &agrave; la m&eacute;moire de mon ami Claude Vivier, assassin&eacute; en mars 1983</description>
+			<description>deux pi&egrave;ces pour clarinette contrebasse &agrave; la mémoire de mon ami Claude Vivier, assassiné en mars 1983</description>
 			<length>12:32</length>
 			<instrument name="clarinet">
 				<player name="Ernesto Molinari"/>
@@ -758,7 +758,7 @@
 			<name>Talea</name>
 			<description>pour ensemble</description>
 			<length>16:41</length>
-			<player name="Ensemble l'Itin&eacute;raire"/>
+			<player name="Ensemble l'Itinéraire"/>
 			<conductor>Mark Foster</conductor>
 			<composed start="1986"/>
 			<recorded start="1991" end="1992"/>
@@ -770,7 +770,7 @@
 			<description>pour fl&ucirc;te, clarinette, violon, violoncelle et piano</description>
 			<length>16:38</length>
 			<player name="Ensemble Recherche"/>
-			<conductor>Kwam&eacute; Ryan</conductor>
+			<conductor>Kwamé Ryan</conductor>
 			<composed start="1986"/>
 			<recorded start="1996"/>
 			<release>Accord 464 292-2</release>
@@ -794,7 +794,7 @@
 		</composition>
 		<composition>
 			<name>Le Noir de l'&Eacute;toile</name>
-			<description>pour six percussionnistes dispos&eacute;s autour du public, bande magn&eacute;tique et transmission in situ de signaux astronomiques</description>
+			<description>pour six percussionnistes disposés autour du public, bande magnétique et transmission in situ de signaux astronomiques</description>
 			<length>1:02:42</length>
 			<player name="Les Percussions de Strasbourg"/>
 			<composed start="1989" end="1990"/>
@@ -807,7 +807,7 @@
 			<description>pour fl&ucirc;te, clarinette, piano, violon, alto et violoncelle</description>
 			<length>40:28</length>
 			<player name="Ensemble Recherche"/>
-			<conductor>Kwam&eacute; Ryan</conductor>
+			<conductor>Kwamé Ryan</conductor>
 			<composed start="1995"/>
 			<recorded start="1996"/>
 			<release>Accord 464 292-2</release>

@@ -4,9 +4,9 @@
 <list>
 	<composer name="Fran&ccedil;ois-Bernard" surname="M&acirc;che" born="1935" died="">
 		<composition>
-			<name>Pr&eacute;lude</name>
+			<name>Prélude</name>
 			<length>5:31</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1959"/>
@@ -334,7 +334,7 @@
 			<length>10:59</length>
 			<instrument name="Metallobjekte">
 				<player name="Bassam Abdul-Salam"/>
-				<player name="Andr&eacute; Wolf"/>
+				<player name="André Wolf"/>
 			</instrument>
 			<composed start="1993"/>
 			<recorded start="?"/>
@@ -347,7 +347,7 @@
 			<length>9:58</length>
 			<instrument name="Metallobjekte">
 				<player name="Bassam Abdul-Salam"/>
-				<player name="Andr&eacute; Wolf"/>
+				<player name="André Wolf"/>
 			</instrument>
 			<instrument name="NeXT Computer">
 				<player name="Pierre Dutilleux"/>
@@ -361,11 +361,11 @@
 			<released>1997</released>
 		</composition>
 	</composer>
-	<composer name="B&eacute;n&eacute;dict" surname="Maillard" born="" died="">
+	<composer name="Bénédict" surname="Maillard" born="" died="">
 		<composition>
 			<name>Affleurements</name>
 			<length>4:25</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1984" end="1985"/>
@@ -378,7 +378,7 @@
 		<composition>
 			<name>Reflets</name>
 			<length>2:34</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1961"/>
@@ -389,7 +389,7 @@
 		<composition>
 			<name>Week-end</name>
 			<length>7:28</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1992"/>
@@ -401,13 +401,13 @@
 	<composer name="Philippe" surname="Manoury" born="1952" died="">
 		<composition>
 			<name>La Partition du ciel et de l'enfer</name>
-			<description>pour fl&ucirc;te et 2 pianos solistes, ensemble et &eacute;lectronique</description>
+			<description>pour fl&ucirc;te et 2 pianos solistes, ensemble et électronique</description>
 			<length>39:39</length>
 			<instrument name="Fl&ucirc;te">
 				<player name="Sophie Cherrier"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="Hid&eacute;ki Nagano"/>
+				<player name="Hidéki Nagano"/>
 			</instrument>
 			<instrument name="Piano Midi">
 				<player name="Dimitri Vassilakis"/>
@@ -422,7 +422,7 @@
 		</composition>
 		<composition>
 			<name>Jupiter</name>
-			<description>pour fl&ucirc;te et &eacute;lectronique</description>
+			<description>pour fl&ucirc;te et électronique</description>
 			<length>28:31</length>
 			<instrument name="Fl&ucirc;te">
 				<player name="Sophie Cherrier"/>
@@ -466,7 +466,7 @@
 			<description>pour orchestre</description>
 			<length>15:54</length>
 			<player name="Orchestre Philharmonique Royal de Li&egrave;ge"/>
-			<conductor>Pascal Roph&eacute;</conductor>
+			<conductor>Pascal Rophé</conductor>
 			<composed start="2005"/>
 			<recorded start="2009"/>
 			<release>Aeon AECD 1102</release>
@@ -477,7 +477,7 @@
 			<description>pour orchestre</description>
 			<length>14:48</length>
 			<player name="Orchestre Philharmonique Royal de Li&egrave;ge"/>
-			<conductor>Pascal Roph&eacute;</conductor>
+			<conductor>Pascal Rophé</conductor>
 			<composed start="2007"/>
 			<recorded start="2009"/>
 			<release>Aeon AECD 1102</release>
@@ -494,7 +494,7 @@
 				<player name="Antoine Tamestit"/>
 			</instrument>
 			<player name="Orchestre Philharmonique Royal de Li&egrave;ge"/>
-			<conductor>Pascal Roph&eacute;</conductor>
+			<conductor>Pascal Rophé</conductor>
 			<composed start="2007" end="2008"/>
 			<recorded start="2009"/>
 			<release>Aeon AECD 1102</release>
@@ -589,9 +589,9 @@
 			<released>1979</released>
 		</composition>
 		<composition>
-			<name>Timbres-Dur&eacute;es</name>
+			<name>Timbres-Durées</name>
 			<length>15:05</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1952"/>
@@ -600,7 +600,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>R&eacute;veil des Oiseaux</name>
+			<name>Réveil des Oiseaux</name>
 			<description>für Klavier und Orchester</description>
 			<length>21:11</length>
 			<instrument name="Klavier">
@@ -618,7 +618,7 @@
 		<composition>
 			<name>La rivi&egrave;re endormie</name>
 			<length>7:35</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1954"/>
@@ -637,7 +637,7 @@
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Joachim Haas"/>
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 				<player name="Diego Minciacchi"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
@@ -764,7 +764,7 @@
 				<player name="Elizabeth Calleo"/>
 			</instrument>
 			<instrument name="soprano">
-				<player name="Val&eacute;rie Philippin"/>
+				<player name="Valérie Philippin"/>
 			</instrument>
 			<instrument name="mezzo">
 				<player name="Nora Petrocenko"/>
@@ -1006,7 +1006,7 @@
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Joachim Haas"/>
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 				<player name="Isabel Mundry"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
@@ -1022,7 +1022,7 @@
 			<description>pour 15 instruments</description>
 			<length>13:30</length>
 			<player name="Ensemble Court-Circuit"/>
-			<conductor>Pierre-Andr&eacute; Valade</conductor>
+			<conductor>Pierre-André Valade</conductor>
 			<composed start="1969"/>
 			<recorded start="1994"/>
 			<release>Accord 465 901-2</release>
@@ -1033,20 +1033,20 @@
 			<description>pour 7 instruments</description>
 			<length>14:19</length>
 			<player name="Ensemble Court-Circuit"/>
-			<conductor>Pierre-Andr&eacute; Valade</conductor>
+			<conductor>Pierre-André Valade</conductor>
 			<composed start="1972"/>
 			<recorded start="1994"/>
 			<release>Accord 465 901-2</release>
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>M&eacute;moire/Erosion</name>
+			<name>Mémoire/Erosion</name>
 			<description>pour cor et ensemble instrumental</description>
 			<length>17:39</length>
 			<instrument name="Cor">
 				<player name="Alain No&euml;l"/>
 			</instrument>
-			<player name="Ensemble l'Itin&eacute;raire"/>
+			<player name="Ensemble l'Itinéraire"/>
 			<conductor>Charles Bruck</conductor>
 			<composed start="1976"/>
 			<recorded start="1978"/>
@@ -1054,7 +1054,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>C'est un jardin secret, ma soeur, ma fianc&eacute;e, une fontaine close, une source scell&eacute;e</name>
+			<name>C'est un jardin secret, ma soeur, ma fiancée, une fontaine close, une source scellée</name>
 			<description>pour alto seul</description>
 			<length>5:00</length>
 			<instrument name="Alto">
@@ -1094,7 +1094,7 @@
 				<player name="David Simpson"/>
 			</instrument>
 			<instrument name="Contrebasse">
-				<player name="Jo&euml;lle L&eacute;andre"/>
+				<player name="Jo&euml;lle Léandre"/>
 			</instrument>
 			<instrument name="Trombone">
 				<player name="Christian Marchand"/>
@@ -1110,7 +1110,7 @@
 			<description>pour 5 instruments</description>
 			<length>12:20</length>
 			<player name="Ensemble Court-Circuit"/>
-			<conductor>Pierre-Andr&eacute; Valade</conductor>
+			<conductor>Pierre-André Valade</conductor>
 			<composed start="1978"/>
 			<recorded start="1994"/>
 			<release>Accord 465 901-2</release>
@@ -1131,7 +1131,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>D&eacute;sint&eacute;grations</name>
+			<name>Désintégrations</name>
 			<description>pour ensemble et bande</description>
 			<length>22:03</length>
 			<player name="Ensemble InterContemporain"/>
@@ -1143,7 +1143,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Vues A&eacute;riennes</name>
+			<name>Vues Aériennes</name>
 			<description>pour 4 instruments</description>
 			<length>12:43</length>
 			<player name="Ensemble Fa"/>
@@ -1154,7 +1154,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>All&eacute;gories</name>
+			<name>Allégories</name>
 			<description>pour 6 instruments et dispositif de synth&egrave;se</description>
 			<length>10:15</length>
 			<player name="Ensemble Fa"/>
@@ -1176,7 +1176,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Attracteurs &eacute;tranges</name>
+			<name>Attracteurs étranges</name>
 			<description>pour violoncelle</description>
 			<length>8:59</length>
 			<instrument name="Violoncelle">
@@ -1192,7 +1192,7 @@
 			<description>pour 5 instruments</description>
 			<length>11:54</length>
 			<player name="Ensemble Court-Circuit"/>
-			<conductor>Pierre-Andr&eacute; Valade</conductor>
+			<conductor>Pierre-André Valade</conductor>
 			<composed start="1993"/>
 			<recorded start="1994"/>
 			<release>Accord 465 901-2</release>
@@ -1200,7 +1200,7 @@
 		</composition>
 		<composition>
 			<name>L'esprit des dunes</name>
-			<description>pour ensemble et &eacute;lectronique</description>
+			<description>pour ensemble et électronique</description>
 			<length>15:47</length>
 			<player name="Ensemble InterContemporain"/>
 			<player name="Technique IRCAM"/>

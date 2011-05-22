@@ -28,7 +28,7 @@
 	</composer>
 	<composer name="Saed" surname="Haddad" born="1972" died="">
 		<composition>
-			<name>Joie voil&eacute;e</name>
+			<name>Joie voilée</name>
 			<description>for string quartet</description>
 			<length>17:26</length>
 			<player name="Arditti String Quartet"/>
@@ -87,7 +87,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>M&eacute;moires</name>
+			<name>Mémoires</name>
 			<description>String Quartet No. 2</description>
 			<length>21:41</length>
 			<player name="Leipziger Streichquartett"/>
@@ -97,7 +97,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>2. Streichquartett (M&eacute;moires 1970)</name>
+			<name>2. Streichquartett (Mémoires 1970)</name>
 			<length>17:52</length>
 			<player name="Arditti Quartet"/>
 			<composed start="1970"/>
@@ -243,7 +243,7 @@
 	</composer>
 	<composer name="Peter" surname="Hansen" born="1958" died="">
 		<composition>
-			<name>Coul&eacute;e Verte</name>
+			<name>Coulée Verte</name>
 			<description>for two pianos</description>
 			<length>5:16</length>
 			<instrument name="Piano">
@@ -320,7 +320,7 @@
 				<player name="Harrie Starreveld"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="Ren&eacute; Eckhardt"/>
+				<player name="René Eckhardt"/>
 			</instrument>
 			<composed start="1983"/>
 			<recorded start="?"/>
@@ -525,7 +525,7 @@
 		<composition>
 			<name>L'amen de verre</name>
 			<length>4:46</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1957"/>
@@ -546,7 +546,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>D&eacute;cisions</name>
+			<name>Décisions</name>
 			<description>Graphic composition in 16 parts for unspecified sound sources, realization for flute, trombone and percussion (1982)</description>
 			<length>18:48</length>
 			<instrument name="Flute">
@@ -724,7 +724,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>Cath&eacute;drale</name>
+			<name>Cathédrale</name>
 			<description>for solo harp</description>
 			<length>24:13</length>
 			<instrument name="Harp">
@@ -736,7 +736,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Cath&eacute;drale II</name>
+			<name>Cathédrale II</name>
 			<description>for solo harp and tape</description>
 			<length>26:48</length>
 			<instrument name="Harp">
@@ -750,7 +750,7 @@
 	</composer>
 	<composer name="Pierre" surname="Henry" born="1927" died="">
 		<composition>
-			<name>Voile d'Orph&eacute;e</name>
+			<name>Voile d'Orphée</name>
 			<length>15:35</length>
 			<composed start="1953"/>
 			<recorded start="1953"/>
@@ -887,11 +887,11 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="Andr&eacute;" surname="Hodeir" born="1921" died="">
+	<composer name="André" surname="Hodeir" born="1921" died="">
 		<composition>
 			<name>Jazz et jazz</name>
 			<length>3:02</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1951"/>
@@ -937,7 +937,7 @@
 				<player name="Peter Lieck"/>
 			</instrument>
 			<player name="Radio-Symphonie-Orchester Berlin"/>
-			<player name="Centre europ&eacute;en pour la recherche musicale, Metz"/>
+			<player name="Centre européen pour la recherche musicale, Metz"/>
 			<conductor>Lothar Zagrosek</conductor>
 			<composed start="1983"/>
 			<recorded start="1989"/>
@@ -1096,7 +1096,7 @@
 				<player name="Alexis Descharmes"/>
 			</instrument>
 			<instrument name="Clavecin">
-				<player name="S&eacute;bastien Vichard"/>
+				<player name="Sébastien Vichard"/>
 			</instrument>
 			<composed start="1954"/>
 			<recorded start="2009"/>
@@ -1132,7 +1132,7 @@
 				<player name="Alexis Descharmes"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="S&eacute;bastien Vichard"/>
+				<player name="Sébastien Vichard"/>
 			</instrument>
 			<composed start="1978"/>
 			<recorded start="2009"/>
@@ -1152,7 +1152,7 @@
 		</composition>
 		<composition>
 			<name>Rauhe Pinselspitze</name>
-			<description>pour violoncelle et percussions cor&eacute;ennes</description>
+			<description>pour violoncelle et percussions coréennes</description>
 			<length>2:31</length>
 			<instrument name="Violoncelle">
 				<player name="Alexis Descharmes"/>

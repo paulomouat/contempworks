@@ -34,7 +34,7 @@
 		<composition>
 			<name>Points-Mouvements</name>
 			<length>10:08</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1962"/>
@@ -43,11 +43,11 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Jean" surname="Barraqu&eacute;" born="1928" died="1973">
+	<composer name="Jean" surname="Barraqué" born="1928" died="1973">
 		<composition>
 			<name>&Eacute;tude</name>
 			<length>5:02</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1951" end="1954"/>
@@ -56,7 +56,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="B&eacute;la" surname="Bart&oacute;k" born="1881" died="1945">
+	<composer name="Béla" surname="Bart&oacute;k" born="1881" died="1945">
 		<composition>
 			<name>Le Prince de bois</name>
 			<description>Op.13 (Sz 60)</description>
@@ -95,7 +95,7 @@
 			<released>1999</released>
 		</composition>
 		<composition score="Y">
-			<name>Musique pour cordes, percussion et c&eacute;lesta</name>
+			<name>Musique pour cordes, percussion et célesta</name>
 			<length>29:58</length>
 			<player name="BBC Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -195,10 +195,10 @@
 		</composition>
 		<composition>
 			<name>It</name>
-			<description>Extrait du chapitre 3 de &quot;L'exp&eacute;rience acoustique&quot;</description>
+			<description>Extrait du chapitre 3 de &quot;L'expérience acoustique&quot;</description>
 			<description>(avec Robert Wyatt)</description>
 			<length>3:38</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1970"/>
@@ -207,7 +207,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Vibrations Compos&eacute;es</name>
+			<name>Vibrations Composées</name>
 			<length>35:58</length>
 			<player name="INA-GRM, Paris"/>
 			<composed start="1973"/>
@@ -229,7 +229,7 @@
 			<length>38:39</length>
 			<part>
 				<number>1</number>
-				<name>Sept pr&eacute;ludes</name>
+				<name>Sept préludes</name>
 				<length>19:54</length>
 			</part>
 			<part>
@@ -283,7 +283,7 @@
 		<composition>
 			<name>Eros bleu</name>
 			<length>7:40</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1979"/>
@@ -371,8 +371,8 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Mimam&eacute;ta</name>
-			<description>R&eacute;vision 2004</description>
+			<name>Mimaméta</name>
+			<description>Révision 2004</description>
 			<length>10:46</length>
 			<player name="INA-GRM, Paris"/>
 			<composed start="1989" end="2004"/>
@@ -381,9 +381,9 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Mimam&eacute;ta</name>
+			<name>Mimaméta</name>
 			<length>6:36</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1989"/>
@@ -462,12 +462,12 @@
 			<length>35:35</length>
 			<part>
 				<number>1</number>
-				<name>Ombrages et trou&eacute;es</name>
+				<name>Ombrages et trouées</name>
 				<length>22:30</length>
 			</part>
 			<part>
 				<number>2</number>
-				<name>Couleurs invent&eacute;es</name>
+				<name>Couleurs inventées</name>
 				<length>13:05</length>
 			</part>
 			<player name="INA-GRM, Paris"/>
@@ -542,7 +542,7 @@
 			<description>for soprano and orchestra</description>
 			<length>34:14</length>
 			<instrument name="Soprano">
-				<player name="Arleen Aug&eacute;r"/>
+				<player name="Arleen Augér"/>
 			</instrument>
 			<player name="City of Birmingham Symphony Orchestra"/>
 			<conductor>Simon Rattle</conductor>
@@ -567,7 +567,7 @@
 	</composer>
 	<composer name="Luciano" surname="Berio" born="1925" died="2003">
 		<composition>
-			<name>Diff&eacute;rences</name>
+			<name>Différences</name>
 			<description>pour ensemble</description>
 			<length>14:29</length>
 			<player name="Contempoensemble"/>
@@ -640,7 +640,7 @@
 			<description>for harp</description>
 			<length>8:18</length>
 			<instrument name="Harp">
-				<player name="Fr&eacute;d&eacute;rique Cambreling"/>
+				<player name="Frédérique Cambreling"/>
 			</instrument>
 			<composed start="1963"/>
 			<recorded start="1994" end="1997"/>
@@ -996,7 +996,7 @@
 				<player name="Henny Vrienten"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="Fr&eacute;deric Rzewski"/>
+				<player name="Fréderic Rzewski"/>
 				<player name="Geoffrey Madge"/>
 			</instrument>
 			<player name="The Hague Percussion Ensemble"/>
@@ -1007,11 +1007,11 @@
 			<released>?</released>
 		</composition>
 	</composer>
-	<composer name="Andr&eacute;" surname="Boucourechliev" born="1925" died="1997">
+	<composer name="André" surname="Boucourechliev" born="1925" died="1997">
 		<composition>
 			<name>Texte 2</name>
 			<length>4:36</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1959"/>
@@ -1115,7 +1115,7 @@
 			</instrument>
 			<composed start="1946"/>
 			<recorded start="1980"/>
-			<release>Astr&eacute;e Auvidis E7716</release>
+			<release>Astrée Auvidis E7716</release>
 			<released>1986</released>
 		</composition>
 		<composition>
@@ -1185,7 +1185,7 @@
 			</instrument>
 			<composed start="1948"/>
 			<recorded start="1980"/>
-			<release>Astr&eacute;e Auvidis E7716</release>
+			<release>Astrée Auvidis E7716</release>
 			<released>1986</released>
 		</composition>
 		<composition>
@@ -1226,7 +1226,7 @@
 		<composition>
 			<name>&Eacute;tude I</name>
 			<length>2:25</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1951"/>
@@ -1237,7 +1237,7 @@
 		<composition>
 			<name>&Eacute;tude II</name>
 			<length>2:41</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1951"/>
@@ -1342,7 +1342,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Po&eacute;sie pour pouvoir</name>
+			<name>Poésie pour pouvoir</name>
 			<description>Nach der dichtung von Henri Michaux</description>
 			<length>18:31</length>
 			<instrument name="Sprechstimme auf Tonband">
@@ -1364,8 +1364,8 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Tombeau &agrave; la m&eacute;moire du Prince Max Egon zu Fürstenberg</name>
-			<description>Un peu profond ruisseau calomni&eacute;e la mort (Mallarm&eacute;)</description>
+			<name>Tombeau &agrave; la mémoire du Prince Max Egon zu Fürstenberg</name>
+			<description>Un peu profond ruisseau calomniée la mort (Mallarmé)</description>
 			<length>7:18</length>
 			<instrument name="Sopran">
 				<player name="Eva-Maria Rogner"/>
@@ -1442,7 +1442,7 @@
 			</instrument>
 			<composed start="1957" end="1958"/>
 			<recorded start="1980"/>
-			<release>Astr&eacute;e Auvidis E7716</release>
+			<release>Astrée Auvidis E7716</release>
 			<released>1986</released>
 		</composition>
 		<composition>
@@ -1520,7 +1520,7 @@
 			</instrument>
 			<instrument name="flute">
 				<player name="Emmanuelle Oph&egrave;le"/>
-				<player name="Pierre-Andr&eacute; Valade"/>
+				<player name="Pierre-André Valade"/>
 			</instrument>
 			<player name="Ensemble InterContemporain"/>
 			<instrument name="IRCAM/Electro-acoustic realization">
@@ -1535,7 +1535,7 @@
 		<composition>
 			<name>Rituel</name>
 			<description>in memoriam Bruno Maderna</description>
-			<description>pour orchestre, divis&eacute; en huit groupes</description>
+			<description>pour orchestre, divisé en huit groupes</description>
 			<length>23:21</length>
 			<player name="Orchestre de Paris"/>
 			<conductor>Daniel Baremboim</conductor>
@@ -1549,14 +1549,14 @@
 			<description>pour 7 violoncelles</description>
 			<length>7:11</length>
 			<instrument name="Violoncello solo">
-				<player name="Albert T&eacute;tard"/>
+				<player name="Albert Tétard"/>
 			</instrument>
 			<instrument name="Violoncello">
-				<player name="Jeanine T&eacute;tard"/>
+				<player name="Jeanine Tétard"/>
 				<player name="Hikaru Sato"/>
 				<player name="Pierre Degenne"/>
 				<player name="Guy Besnard"/>
-				<player name="Etienne P&eacute;clard"/>
+				<player name="Etienne Péclard"/>
 				<player name="Jean-Luc Bourre"/>
 			</instrument>
 			<composed start="1976"/>
@@ -1567,7 +1567,7 @@
 		<composition>
 			<name>Rituel</name>
 			<description>in memoriam Bruno Maderna</description>
-			<description>pour orchestre, divis&eacute; en huit groupes</description>
+			<description>pour orchestre, divisé en huit groupes</description>
 			<length>25:25</length>
 			<player name="BBC Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -1593,7 +1593,7 @@
 			<length>16:59</length>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start="1966?" end="inachev&eacute;"/>
+			<composed start="1966?" end="inachevé"/>
 			<recorded start="1981"/>
 			<release>Sony SMK 45 832</release>
 			<released>1990</released>
@@ -1613,13 +1613,13 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>R&eacute;pons</name>
+			<name>Répons</name>
 			<length>42:31</length>
 			<player name="Ensemble InterContemporain"/>
 			<instrument name="Assistant musical">
 				<player name="Andrew Gerzso"/>
 			</instrument>
-			<player name="Oeuvre r&eacute;alis&eacute;e &agrave; l'IRCAM"/>
+			<player name="Oeuvre réalisée &agrave; l'IRCAM"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1981" end="1984"/>
 			<recorded start="1996"/>
@@ -1627,7 +1627,7 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>D&eacute;rive</name>
+			<name>Dérive</name>
 			<description>pour fl&ucirc;te, clarinette en la, violon, violoncelle, vibraphone et piano</description>
 			<length>6:07</length>
 			<player name="Ensemble InterContemporain"/>
@@ -1638,7 +1638,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>D&eacute;rive 1</name>
+			<name>Dérive 1</name>
 			<description>pour 6 instruments</description>
 			<length>5:47</length>
 			<player name="Ensemble InterContemporain"/>
@@ -1658,7 +1658,7 @@
 			<instrument name="Assistant musical">
 				<player name="Andrew Gerzso"/>
 			</instrument>
-			<player name="Oeuvre r&eacute;alis&eacute;e &agrave; l'IRCAM"/>
+			<player name="Oeuvre réalisée &agrave; l'IRCAM"/>
 			<composed start="1982" end="1985"/>
 			<recorded start="1990"/>
 			<release>Erato 4509-98495-2</release>
@@ -1673,14 +1673,14 @@
 			<instrument name="Assistant musical">
 				<player name="Andrew Gerzso"/>
 			</instrument>
-			<player name="Oeuvre r&eacute;alis&eacute;e &agrave; l'IRCAM"/>
+			<player name="Oeuvre réalisée &agrave; l'IRCAM"/>
 			<composed start="1985"/>
 			<recorded start="1996"/>
 			<release>Deutsche Grammophon 457605-2</release>
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>M&eacute;moriale (...explosante-fixe... originel)</name>
+			<name>Mémoriale (...explosante-fixe... originel)</name>
 			<description>pour fl&ucirc;te solo et huit instruments</description>
 			<length>5:04</length>
 			<instrument name="Fl&ucirc;te">
@@ -1694,7 +1694,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>D&eacute;rive 2</name>
+			<name>Dérive 2</name>
 			<description>pour 11 instruments</description>
 			<length>24:33</length>
 			<player name="Ensemble InterContemporain"/>
@@ -1713,7 +1713,7 @@
 			</instrument>
 			<player name="IRCAM"/>
 			<instrument name="Tonmeister">
-				<player name="Fr&eacute;d&eacute;ric Prin"/>
+				<player name="Frédéric Prin"/>
 			</instrument>
 			<composed start="1991" end="1997"/>
 			<recorded start="1997"/>
@@ -1733,7 +1733,7 @@
 		</composition>
 		<composition>
 			<name>Anth&egrave;mes 2</name>
-			<description>pour violon et dispositif el&eacute;ctronique</description>
+			<description>pour violon et dispositif eléctronique</description>
 			<length>20:27</length>
 			<instrument name="Violon solo">
 				<player name="Hae Sun Kang"/>
@@ -2241,7 +2241,7 @@
 		</composition>
 		<composition>
 			<name>Sonatina Gioacchina</name>
-			<description>D&eacute;di&eacute;e &agrave; M. Joste</description>
+			<description>Dédiée &agrave; M. Joste</description>
 			<length>5:59</length>
 			<instrument name="piano">
 				<player name="Martine Joste"/>
@@ -2253,7 +2253,7 @@
 		</composition>
 		<composition>
 			<name>Petit bis</name>
-			<description>D&eacute;di&eacute;e &agrave; M. Joste</description>
+			<description>Dédiée &agrave; M. Joste</description>
 			<length>1:51</length>
 			<instrument name="piano">
 				<player name="Martine Joste"/>

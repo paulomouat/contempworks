@@ -20,7 +20,7 @@
 				<player name="Kent Clelland"/>
 				<player name="Joachim Haas"/>
 				<player name="Thomas Hummel"/>
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 				<player name="Peter Ablinger"/>
 			</instrument>
 			<composed start="1995" end="1997"/>
@@ -106,7 +106,7 @@
 			<released>2006</released>
 		</composition>
 	</composer>
-	<composer name="Claude Loyola" surname="Allg&eacute;n" born="1920" died="1990">
+	<composer name="Claude Loyola" surname="Allgén" born="1920" died="1990">
 		<composition>
 			<name>Det gar ett tyst och taligt lamm</name>
 			<description>from &quot;Fyra liturgiska melodier&quot;</description>
@@ -219,14 +219,14 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="Marc" surname="Andr&eacute;" born="1964" died="">
+	<composer name="Marc" surname="André" born="1964" died="">
 		<composition>
 			<name>AB II</name>
 			<description>für Kontraba&szlig;klarinette, Violoncello, Cymbalon, Schlagzeug, Klavier und Live-Elektronik</description>
 			<length>24:55</length>
 			<player name="Ensemble Recherche"/>
 			<instrument name="Klangregie">
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
 			<composed start="1997"/>
@@ -237,7 +237,7 @@
 	</composer>
 	<composer name="Georges" surname="Aperghis" born="1945" died="">
 		<composition>
-			<name>Triangle Carr&eacute;</name>
+			<name>Triangle Carré</name>
 			<description>pour 4 cordes et 3 percussions</description>
 			<length>22:44</length>
 			<player name="Arditti String Quartet"/>
@@ -275,12 +275,12 @@
 	<composer name="Ram&oacute;n" surname="Gonzales-Arroyo" born="" died="">
 		<composition>
 			<name>De la distance</name>
-			<description>pour contrebasse et bande magn&eacute;tique</description>
+			<description>pour contrebasse et bande magnétique</description>
 			<length>6:01</length>
 			<instrument name="contrebasse">
 				<player name="Jean-Pierre Robert"/>
 			</instrument>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1994"/>
@@ -293,7 +293,7 @@
 		<composition>
 			<name>Bo&icirc;te &agrave; musique</name>
 			<length>2:55</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1955"/>

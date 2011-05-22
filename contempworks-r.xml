@@ -4,9 +4,9 @@
 <list>
 	<composer name="Gilles" surname="Racot" born="1951" died="">
 		<composition>
-			<name>Anamorph&eacute;es</name>
+			<name>Anamorphées</name>
 			<length>7:21</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1984" end="1985"/>
@@ -16,10 +16,10 @@
 		</composition>
 		<composition>
 			<name>Subgestuel</name>
-			<description>pour six percussions et support magn&eacute;tique</description>
+			<description>pour six percussions et support magnétique</description>
 			<length>5:23</length>
 			<player name="Les Percussions de Strasbourg"/>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1991"/>
@@ -34,7 +34,7 @@
 			<description>for ensemble</description>
 			<length>17:24</length>
 			<player name="Ensemble Recherche"/>
-			<conductor>Kwam&eacute; Ryan</conductor>
+			<conductor>Kwamé Ryan</conductor>
 			<composed start="1986" end="1988"/>
 			<recorded start="1994"/>
 			<release>Non-commercial release of the composer</release>
@@ -53,7 +53,7 @@
 			<released>-</released>
 		</composition>
 		<composition>
-			<name>R&eacute;it&eacute;rations</name>
+			<name>Réitérations</name>
 			<description>for piano</description>
 			<length>14:23</length>
 			<instrument name="piano">
@@ -61,7 +61,7 @@
 			</instrument>
 			<composed start="1985" end="1991"/>
 			<recorded start="2000"/>
-			<release>Non-commercial release of the composer, originally in Num&eacute;rica 1097</release>
+			<release>Non-commercial release of the composer, originally in Numérica 1097</release>
 			<released>-</released>
 		</composition>
 		<composition>
@@ -69,7 +69,7 @@
 			<description>for ensemble</description>
 			<length>24:10</length>
 			<player name="Ensemble Recherche"/>
-			<conductor>Kwam&eacute; Ryan</conductor>
+			<conductor>Kwamé Ryan</conductor>
 			<composed start="1991"/>
 			<recorded start="1994"/>
 			<release>Non-commercial release of the composer</release>
@@ -97,7 +97,7 @@
 			<released>-</released>
 		</composition>
 		<composition>
-			<name>Ombres Crois&eacute;es</name>
+			<name>Ombres Croisées</name>
 			<description>for 8-track tape</description>
 			<length>20:16</length>
 			<composed start="1990" end="1999"/>
@@ -182,7 +182,7 @@
 		<composition>
 			<name>Appel d'air</name>
 			<length>3:40</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1991"/>
@@ -195,7 +195,7 @@
 		<composition>
 			<name>Canon sur une trompe africaine</name>
 			<length>2:57</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1971"/>
@@ -315,7 +315,7 @@
 			<released>1990</released>
 		</composition>
 	</composer>
-	<composer name="Andr&eacute;" surname="Richard" born="1944" died="">
+	<composer name="André" surname="Richard" born="1944" died="">
 		<composition>
 			<name>Echanges</name>
 			<description>für Orchester und Live-Elektronik</description>
@@ -324,7 +324,7 @@
 			<conductor>Lothar Zagrosek</conductor>
 			<instrument name="Klangregie">
 				<player name="Hans Peter Haller"/>
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
 			<composed start="1985" end="1986"/>
@@ -602,7 +602,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>D&eacute;ploration</name>
+			<name>Déploration</name>
 			<description>für Fl&ouml;te, Violoncello und Percussion</description>
 			<length>12:27</length>
 			<player name="ensemble recherche"/>
@@ -724,7 +724,7 @@
 			<description>Musik für Violine und Orchester</description>
 			<length>18:06</length>
 			<instrument name="Violine">
-				<player name="János N&eacute;gyesy"/>
+				<player name="János Négyesy"/>
 			</instrument>
 			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
 			<conductor>Ernest Bour</conductor>
@@ -836,7 +836,7 @@
 		</composition>
 		<composition>
 			<name>Tutuguri</name>
-			<description>Po&egrave;me dans&eacute; für einem Sprecher, Chor und gro&szlig;es Orchester</description>
+			<description>Po&egrave;me dansé für einem Sprecher, Chor und gro&szlig;es Orchester</description>
 			<length>1:56:50</length>
 			<instrument name="Speaker, Choir master">
 				<player name="Rupert Huber"/>
@@ -1193,7 +1193,7 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>D&eacute;part</name>
+			<name>Départ</name>
 			<description>für gemischten Chor, Sprechchor und 22 Spieler</description>
 			<length>8:55</length>
 			<player name="Wiener Philharmoniker"/>
@@ -1534,7 +1534,7 @@
 				<player name="Cornelia Kallisch"/>
 			</instrument>
 			<instrument name="Tenore">
-				<player name="Christoph Pr&eacute;gardien"/>
+				<player name="Christoph Prégardien"/>
 			</instrument>
 			<instrument name="Baritono">
 				<player name="Andreas Schmidt"/>
@@ -1704,7 +1704,7 @@
 		<composition>
 			<name>Sud</name>
 			<length>5:51</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1984"/>
@@ -1844,7 +1844,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Brigitte" surname="Robindor&eacute;" born="1962" died="">
+	<composer name="Brigitte" surname="Robindoré" born="1962" died="">
 		<composition>
 			<name>L'Autel de la Perte et de la Transformation</name>
 			<description>for UPIC</description>
@@ -1870,7 +1870,7 @@
 			<released>2001</released>
 		</composition>
 	</composer>
-	<composer name="Eug&eacute;nio Manuel" surname="Rodrigues" born="1961" died="">
+	<composer name="Eugénio Manuel" surname="Rodrigues" born="1961" died="">
 		<composition>
 			<name>Mata Hari</name>
 			<description>for string quartet</description>
@@ -1886,7 +1886,7 @@
 		<composition>
 			<name>&Eacute;tude vocale</name>
 			<length>1:12</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1952"/>

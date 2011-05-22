@@ -283,7 +283,7 @@
 		<composition>
 			<name>Aspect sentimental</name>
 			<length>7:08</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1957"/>
@@ -294,9 +294,9 @@
 	</composer>
 	<composer name="Alain" surname="Savouret" born="1942" died="">
 		<composition>
-			<name>&Eacute;tude aux sons r&eacute;alistes</name>
+			<name>&Eacute;tude aux sons réalistes</name>
 			<length>4:09</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1969"/>
@@ -307,7 +307,7 @@
 		<composition>
 			<name>Valse molle</name>
 			<length>10:14</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1973"/>
@@ -316,9 +316,9 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude num&eacute;rique</name>
+			<name>&Eacute;tude numérique</name>
 			<length>6:37</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1985"/>
@@ -327,13 +327,13 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>La complainte du bossu&eacute; (extrait)</name>
-			<description>pour contrebasse, voix de contrebassiste et traitements en temps r&eacute;el</description>
+			<name>La complainte du bossué (extrait)</name>
+			<description>pour contrebasse, voix de contrebassiste et traitements en temps réel</description>
 			<length>9:36</length>
 			<instrument name="contrebasse">
-				<player name="Fr&eacute;d&eacute;ric Stohl"/>
+				<player name="Frédéric Stohl"/>
 			</instrument>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1987"/>
@@ -347,7 +347,7 @@
 			<name>Po&egrave;me pour piano N&ordm; 2</name>
 			<length>2:51</length>
 			<instrument name="Piano">
-				<player name="Jacqueline M&eacute;fano"/>
+				<player name="Jacqueline Méfano"/>
 			</instrument>
 			<composed start="1939"/>
 			<recorded start=""/>
@@ -576,7 +576,7 @@
 			<name>Quattro Pezzi per Orchestra</name>
 			<description>ciascuno su una nota sola</description>
 			<length>15:59</length>
-			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
+			<player name="Orchestre de la Radio-Télévision Polonaise de Cracovie"/>
 			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1959"/>
 			<recorded start="1989"/>
@@ -588,10 +588,10 @@
 			<description>pour clarinette solo et 7 instrumentistes</description>
 			<length>16:14</length>
 			<instrument name="Clarinette">
-				<player name="R&eacute;mi Lerner"/>
+				<player name="Rémi Lerner"/>
 			</instrument>
 			<player name="Ensemble 2E2M"/>
-			<conductor>Paul M&eacute;fano</conductor>
+			<conductor>Paul Méfano</conductor>
 			<composed start="1959"/>
 			<recorded start=""/>
 			<release>Adda 581189</release>
@@ -601,7 +601,7 @@
 			<name>Hurqualia</name>
 			<description>pour orchestre</description>
 			<length>17:23</length>
-			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
+			<player name="Orchestre de la Radio-Télévision Polonaise de Cracovie"/>
 			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1960"/>
 			<recorded start="1990"/>
@@ -612,7 +612,7 @@
 			<name>Aion</name>
 			<description>pour orchestre</description>
 			<length>20:14</length>
-			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
+			<player name="Orchestre de la Radio-Télévision Polonaise de Cracovie"/>
 			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1961"/>
 			<recorded start="1988"/>
@@ -630,7 +630,7 @@
 		</composition>
 		<composition>
 			<name>Khoom</name>
-			<description>Sept Episodes d'une histoire d'amour et de mort non-&eacute;crite dans un pays lointain</description>
+			<description>Sept Episodes d'une histoire d'amour et de mort non-écrite dans un pays lointain</description>
 			<description>pour soprano et 6 instruments</description>
 			<length>21:47</length>
 			<player name="Arditti String Quartet"/>
@@ -653,7 +653,7 @@
 			<name>Hymnos</name>
 			<description>pour orchestre</description>
 			<length>11:30</length>
-			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
+			<player name="Orchestre de la Radio-Télévision Polonaise de Cracovie"/>
 			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1963"/>
 			<recorded start="1990"/>
@@ -664,7 +664,7 @@
 			<name>Chukrum</name>
 			<description>pour orchestre</description>
 			<length>17:19</length>
-			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
+			<player name="Orchestre de la Radio-Télévision Polonaise de Cracovie"/>
 			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1963"/>
 			<recorded start="1990"/>
@@ -749,7 +749,7 @@
 			<instrument name="Violin">
 				<player name="Carmen Fournier"/>
 			</instrument>
-			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
+			<player name="Orchestre de la Radio-Télévision Polonaise de Cracovie"/>
 			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1965"/>
 			<recorded start="1989"/>
@@ -764,7 +764,7 @@
 				<player name="Renaud Fran&ccedil;ois"/>
 			</instrument>
 			<instrument name="Clarinette">
-				<player name="V&eacute;ronique Fevre"/>
+				<player name="Véronique Fevre"/>
 			</instrument>
 			<composed start="1966"/>
 			<recorded start=""/>
@@ -793,7 +793,7 @@
 			<instrument name="Ondes Martenot">
 				<player name="Tristan Murail"/>
 			</instrument>
-			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
+			<player name="Orchestre de la Radio-Télévision Polonaise de Cracovie"/>
 			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1966"/>
 			<recorded start="1989"/>
@@ -869,7 +869,7 @@
 			<name>Konx-Om-Pax</name>
 			<description>pour orchestre et choeur</description>
 			<length>18:03</length>
-			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
+			<player name="Orchestre de la Radio-Télévision Polonaise de Cracovie"/>
 			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1969"/>
 			<recorded start="1988"/>
@@ -944,7 +944,7 @@
 			<name>Pranam</name>
 			<length>7:07</length>
 			<player name="Ensemble 2E2M"/>
-			<conductor>Paul M&eacute;fano</conductor>
+			<conductor>Paul Méfano</conductor>
 			<composed start="1973"/>
 			<recorded start=""/>
 			<release>Adda 581189</release>
@@ -964,10 +964,10 @@
 		</composition>
 		<composition>
 			<name>Aitsi</name>
-			<description>pour piano et transformations &eacute;lectroacoustiques</description>
+			<description>pour piano et transformations électroacoustiques</description>
 			<length>6:10</length>
 			<instrument name="Piano">
-				<player name="Jacqueline M&eacute;fano"/>
+				<player name="Jacqueline Méfano"/>
 			</instrument>
 			<composed start="1974"/>
 			<recorded start=""/>
@@ -978,7 +978,7 @@
 			<name>Pfhat</name>
 			<description>pour orchestre et choeur</description>
 			<length>8:41</length>
-			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
+			<player name="Orchestre de la Radio-Télévision Polonaise de Cracovie"/>
 			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1974"/>
 			<recorded start="1988"/>
@@ -1099,31 +1099,31 @@
 	</composer>
 	<composer name="Pierre" surname="Schaeffer" born="1910" died="1995">
 		<composition>
-			<name>5 &eacute;tudes de Bruits</name>
+			<name>5 études de Bruits</name>
 			<length>16:12</length>
 			<part>
 				<number>1</number>
-				<name>&eacute;tude aux chemins de fer</name>
+				<name>étude aux chemins de fer</name>
 				<length>2:50</length>
 			</part>
 			<part>
 				<number>2</number>
-				<name>&eacute;tude aux tourniquets</name>
+				<name>étude aux tourniquets</name>
 				<length>1:54</length>
 			</part>
 			<part>
 				<number>3</number>
-				<name>&eacute;tude violette</name>
+				<name>étude violette</name>
 				<length>3:18</length>
 			</part>
 			<part>
 				<number>4</number>
-				<name>&eacute;tude noire</name>
+				<name>étude noire</name>
 				<length>3:54</length>
 			</part>
 			<part>
 				<number>5</number>
-				<name>&eacute;tude path&eacute;tique</name>
+				<name>étude pathétique</name>
 				<length>4:01</length>
 			</part>
 			<player name="GRM, Paris"/>
@@ -1133,9 +1133,9 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude path&eacute;etique</name>
+			<name>&Eacute;tude pathéetique</name>
 			<length>4:05</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1948"/>
@@ -1144,26 +1144,26 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>4 &eacute;tudes de Bruits</name>
+			<name>4 études de Bruits</name>
 			<length>12:25</length>
 			<part>
 				<number>1</number>
-				<name>&eacute;tude violette</name>
+				<name>étude violette</name>
 				<length>3:15</length>
 			</part>
 			<part>
 				<number>2</number>
-				<name>&eacute;tude aux tourniquets</name>
+				<name>étude aux tourniquets</name>
 				<length>1:54</length>
 			</part>
 			<part>
 				<number>3</number>
-				<name>&eacute;tude aux chemins de fer</name>
+				<name>étude aux chemins de fer</name>
 				<length>3:42</length>
 			</part>
 			<part>
 				<number>4</number>
-				<name>&eacute;tude path&eacute;tique</name>
+				<name>étude pathétique</name>
 				<length>3:22</length>
 			</part>
 			<player name="GRM, Paris"/>
@@ -1234,7 +1234,7 @@
 			<length>25:24</length>
 			<part>
 				<number>1</number>
-				<name>Pr&eacute;lude</name>
+				<name>Prélude</name>
 				<length>3:22</length>
 			</part>
 			<part>
@@ -1301,7 +1301,7 @@
 			<length>21:30</length>
 			<part>
 				<number>1</number>
-				<name>Prosopop&eacute;e I</name>
+				<name>Prosopopée I</name>
 				<length>2:58</length>
 			</part>
 			<part>
@@ -1331,7 +1331,7 @@
 			</part>
 			<part>
 				<number>7</number>
-				<name>Prosopop&eacute;e II</name>
+				<name>Prosopopée II</name>
 				<length>1:02</length>
 			</part>
 			<part>
@@ -1384,7 +1384,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Les paroles d&eacute;gel&eacute;es</name>
+			<name>Les paroles dégelées</name>
 			<length>4:19</length>
 			<player name="GRM, Paris"/>
 			<composed start="1952" end="1982"/>
@@ -1393,7 +1393,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Orph&eacute;e 53 - Spectacle Lyrique</name>
+			<name>Orphée 53 - Spectacle Lyrique</name>
 			<length>20:20</length>
 			<composed start="1953"/>
 			<recorded start="1953"/>
@@ -1412,7 +1412,7 @@
 		<composition>
 			<name>&Eacute;tude aux allures</name>
 			<length>3:31</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1958"/>
@@ -1421,7 +1421,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude aux sons anim&eacute;s</name>
+			<name>&Eacute;tude aux sons animés</name>
 			<length>4:12</length>
 			<player name="GRM, Paris"/>
 			<composed start="1958" end="1971"/>
@@ -1434,27 +1434,27 @@
 			<length>17:10</length>
 			<part>
 				<number>1</number>
-				<name>Objets expos&eacute;s</name>
+				<name>Objets exposés</name>
 				<length>3:34</length>
 			</part>
 			<part>
 				<number>2</number>
-				<name>Objets &eacute;tendus</name>
+				<name>Objets étendus</name>
 				<length>2:54</length>
 			</part>
 			<part>
 				<number>3</number>
-				<name>Objets multipli&eacute;s</name>
+				<name>Objets multipliés</name>
 				<length>3:02</length>
 			</part>
 			<part>
 				<number>4</number>
-				<name>Objets li&eacute;s</name>
+				<name>Objets liés</name>
 				<length>3:07</length>
 			</part>
 			<part>
 				<number>5</number>
-				<name>Objets rassembl&eacute;s</name>
+				<name>Objets rassemblés</name>
 				<length>4:19</length>
 			</part>
 			<player name="GRM, Paris"/>
@@ -1466,7 +1466,7 @@
 		<composition>
 			<name>&Eacute;tude aux objets, 1er mouvement</name>
 			<length>3:37</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1959"/>
@@ -1503,9 +1503,9 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>&eacute;cho d'Orph&eacute;e</name>
+			<name>écho d'Orphée</name>
 			<description>pour Pierre Schaeffer - 1988 Pierre Henry</description>
-			<description>d'apr&egrave;s Orph&eacute;e 51 et 53 de P. Schaeffer et P. Henry</description>
+			<description>d'apr&egrave;s Orphée 51 et 53 de P. Schaeffer et P. Henry</description>
 			<length>39:58</length>
 			<part>
 				<number>1</number>
@@ -1539,17 +1539,17 @@
 			</part>
 			<part>
 				<number>7</number>
-				<name>Premier air, &eacute;l&eacute;ments</name>
+				<name>Premier air, éléments</name>
 				<length>3:54</length>
 			</part>
 			<part>
 				<number>8</number>
-				<name>Divinit&eacute;s du Styx</name>
+				<name>Divinités du Styx</name>
 				<length>1:49</length>
 			</part>
 			<part>
 				<number>9</number>
-				<name>D&eacute;bat</name>
+				<name>Débat</name>
 				<length>2:00</length>
 			</part>
 			<part>
@@ -1564,7 +1564,7 @@
 			</part>
 			<part>
 				<number>12</number>
-				<name>Voix int&eacute;rieures</name>
+				<name>Voix intérieures</name>
 				<length>3:49</length>
 			</part>
 			<part>
@@ -1615,7 +1615,7 @@
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Hans Peter Haller"/>
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
 			<conductor>Ernest Bour</conductor>
@@ -1631,7 +1631,7 @@
 			<length>2:36:34</length>
 			<instrument name="Klangregie">
 				<player name="Don-Oung Lee"/>
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 			</instrument>
 			<player name="SWF-Sinfonieorchester Baden-Baden und Freiburg"/>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
@@ -1852,10 +1852,10 @@
 	</composer>
 	<composer name="Jean" surname="Schwarz" born="1939" died="">
 		<composition>
-			<name>Il &eacute;tait une fois</name>
+			<name>Il était une fois</name>
 			<description>pour Carolyn Carson</description>
 			<length>7:41</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1980"/>
@@ -1866,7 +1866,7 @@
 		<composition>
 			<name>Sonal France Culture</name>
 			<length>0:17</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1982"/>
@@ -1877,7 +1877,7 @@
 		<composition>
 			<name>Quatre saisons (Hiver)</name>
 			<length>5:45</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1983"/>
@@ -1891,7 +1891,7 @@
 			<instrument name="clarinette basse">
 				<player name="Michel Portal"/>
 			</instrument>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1986"/>
@@ -1999,7 +1999,7 @@
 			<description>für Fl&ouml;te, Oboe, Klarinette, Fagott, Horn, Trompete, Posaune und Streichquintett</description>
 			<length>17:48</length>
 			<player name="Ensemble Recherche"/>
-			<conductor>Kwam&eacute; Ryan</conductor>
+			<conductor>Kwamé Ryan</conductor>
 			<composed start="1981"/>
 			<recorded start="1999"/>
 			<release>Kairos 0012132KAI</release>
@@ -2160,7 +2160,7 @@
 			<description>für Streichtrio</description>
 			<length>11:05</length>
 			<player name="Ensemble Recherche"/>
-			<conductor>Kwam&eacute; Ryan</conductor>
+			<conductor>Kwamé Ryan</conductor>
 			<composed start="1983"/>
 			<recorded start="1998"/>
 			<release>Kairos 0012132KAI</release>
@@ -2209,7 +2209,7 @@
 			<description>für Fl&ouml;te, Klarinette, Celesta, Violine und Violoncello</description>
 			<length>7:25</length>
 			<player name="Ensemble Recherche"/>
-			<conductor>Kwam&eacute; Ryan</conductor>
+			<conductor>Kwamé Ryan</conductor>
 			<composed start="1985"/>
 			<recorded start="1999"/>
 			<release>Kairos 0012132KAI</release>
@@ -2400,7 +2400,7 @@
 			<description>für Altfl&ouml;te, Bassklarinette und Violine</description>
 			<length>12:53</length>
 			<player name="Ensemble Recherche"/>
-			<conductor>Kwam&eacute; Ryan</conductor>
+			<conductor>Kwamé Ryan</conductor>
 			<composed start="1995"/>
 			<recorded start="1998"/>
 			<release>Kairos 0012132KAI</release>
@@ -2421,7 +2421,7 @@
 			<description>für Altfl&ouml;te, Englischhorn und Bassklarinette</description>
 			<length>11:14</length>
 			<player name="Ensemble Recherche"/>
-			<conductor>Kwam&eacute; Ryan</conductor>
+			<conductor>Kwamé Ryan</conductor>
 			<composed start="1996"/>
 			<recorded start="1998"/>
 			<release>Kairos 0012132KAI</release>
@@ -2829,7 +2829,7 @@
 		<composition>
 			<name>Wind Chimes</name>
 			<length>6:47</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1987"/>
@@ -2952,7 +2952,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Fugitive beaut&eacute;</name>
+			<name>Fugitive beauté</name>
 			<description>für Oboe, Altfl&ouml;te und Violine, Bassklarinette, Viola und Violoncello</description>
 			<length>16:58</length>
 			<player name="Ensemble Recherche"/>
@@ -3000,7 +3000,7 @@
 				<player name="Kent Clelland"/>
 				<player name="Joachim Haas"/>
 				<player name="Thomas Hummel"/>
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 				<player name="Günter Steinke"/>
 			</instrument>
 			<composed start="1991" end="1992"/>
@@ -3526,7 +3526,7 @@
 			<released>1988</released>
 		</composition>
 		<composition>
-			<name>Carr&eacute;</name>
+			<name>Carré</name>
 			<description>für 4 Orchester und 4 Ch&ouml;re</description>
 			<length>30:50</length>
 			<player name="Chor und Sinfonie-Orchester des NDR"/>
@@ -3609,7 +3609,7 @@
 			</instrument>
 			<instrument name="Mikrophone">
 				<player name="Johannes Fritsch"/>
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<instrument name="Filter &amp; Regler">
 				<player name="Karlheinz Stockhausen"/>
@@ -3631,7 +3631,7 @@
 			</instrument>
 			<instrument name="Mikrophone">
 				<player name="Johannes Fritsch"/>
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<instrument name="Filter &amp; Regler">
 				<player name="Karlheinz Stockhausen"/>
@@ -3775,7 +3775,7 @@
 				<player name="Johannes Fritsch"/>
 			</instrument>
 			<instrument name="Elektronium">
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<instrument name="Filter und Regler">
 				<player name="Karlheinz Stockhausen"/>
@@ -3795,7 +3795,7 @@
 				<player name="Johannes Fritsch"/>
 				<player name="Rolf Gehlaar"/>
 				<player name="David Johnson"/>
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Karlheinz Stockhausen"/>
@@ -3815,7 +3815,7 @@
 				<player name="Johannes Fritsch"/>
 				<player name="Rolf Gehlaar"/>
 				<player name="David Johnson"/>
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Karlheinz Stockhausen"/>
@@ -3836,10 +3836,10 @@
 				<player name="Joachim Krist"/>
 			</instrument>
 			<instrument name="Elektrochord">
-				<player name="P&eacute;ter E&ouml;tv&ouml;s"/>
+				<player name="Péter E&ouml;tv&ouml;s"/>
 			</instrument>
 			<instrument name="Elektronium">
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<instrument name="Klavier">
 				<player name="Aloys Kontarsky"/>
@@ -3883,7 +3883,7 @@
 				<player name="Aloys Kontarsky"/>
 			</instrument>
 			<instrument name="Elektronium und Kurzwellen-Empf&auml;nger">
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<instrument name="Tamtam und Kurzwellen-Empf&auml;nger">
 				<player name="Alfred Alings"/>
@@ -3906,7 +3906,7 @@
 			<description>für einen Solisten</description>
 			<length>15:30</length>
 			<instrument name="Elektrochord mit Synthesizer und Kurzwellen-Empf&auml;nger">
-				<player name="P&eacute;ter E&ouml;tv&ouml;s"/>
+				<player name="Péter E&ouml;tv&ouml;s"/>
 			</instrument>
 			<composed start="1968"/>
 			<recorded start="1971"/>
@@ -3919,7 +3919,7 @@
 			<description>für einen Solisten</description>
 			<length>17:30</length>
 			<instrument name="Elektronium und Kurzwellen-Empf&auml;nger">
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<composed start="1968"/>
 			<recorded start="1971"/>
@@ -4087,10 +4087,10 @@
 			<description>Intuitive Musik aus dem Zyklus &quot;Für Kommende Zeiten&quot;</description>
 			<length>22:47</length>
 			<instrument name="Elektronium">
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<instrument name="Persische Kamelschellen, 2 Triangel, Synthesizer">
-				<player name="P&eacute;ter E&ouml;tv&ouml;s"/>
+				<player name="Péter E&ouml;tv&ouml;s"/>
 			</instrument>
 			<instrument name="Moduliertes Klavier">
 				<player name="Aloys Kontarsky"/>
@@ -4126,10 +4126,10 @@
 			<description>für 2</description>
 			<length>23:07</length>
 			<instrument name="Elektrochord mit Synthesizer und Kurzwellen-Empf&auml;nger">
-				<player name="P&eacute;ter E&ouml;tv&ouml;s"/>
+				<player name="Péter E&ouml;tv&ouml;s"/>
 			</instrument>
 			<instrument name="Elektronium und Kurzwellen-Empf&auml;nger">
-				<player name="Harald Boj&eacute;"/>
+				<player name="Harald Bojé"/>
 			</instrument>
 			<composed start="1970"/>
 			<recorded start="1971"/>
@@ -4617,7 +4617,7 @@
 			<instrument name="H&ouml;rner">
 				<player name="Gernot Scheibe"/>
 				<player name="Gaby Webster"/>
-				<player name="Ralph Warn&eacute;"/>
+				<player name="Ralph Warné"/>
 				<player name="Marcie McGaughey"/>
 			</instrument>
 			<instrument name="Schlagzeug">
@@ -4649,7 +4649,7 @@
 				<player name="Stuart Gerber"/>
 			</instrument>
 			<instrument name="Synthesizer">
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<composed start="1983" end="1988"/>
 			<recorded start="2005"/>
@@ -4957,7 +4957,7 @@
 			<name>Komet als Klavierstück XVII</name>
 			<description>für elektronisches Klavier mit Tonband und Klangregisseur</description>
 			<length>15:12</length>
-			<player name="Antonio P&eacute;rez Abellán"/>
+			<player name="Antonio Pérez Abellán"/>
 			<composed start="1994" end="1999"/>
 			<recorded start="2000"/>
 			<release>Stockhausen-Verlag CD57</release>
@@ -4982,7 +4982,7 @@
 			<name>Klavierstück XVI</name>
 			<description>für Tonband, Saitenklavier, elektronische Klaviere ad lib</description>
 			<length>7:50</length>
-			<player name="Antonio P&eacute;rez Abellán"/>
+			<player name="Antonio Pérez Abellán"/>
 			<composed start="1995"/>
 			<recorded start="2000"/>
 			<release>Stockhausen-Verlag CD57</release>
@@ -5081,7 +5081,7 @@
 			<description>Elektronische Musik vom Mittwoch aus Licht</description>
 			<length>54:00</length>
 			<instrument name="Synthesizer">
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Karlheinz Stockhausen"/>
@@ -5103,7 +5103,7 @@
 				<player name="Hubert Mayer"/>
 			</instrument>
 			<instrument name="Synthesizer">
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<player name="SWR-Sinfonieorchester Baden-Baden/Freiburg"/>
 			<conductor>Karlheinz Stockhausen</conductor>
@@ -5120,7 +5120,7 @@
 				<player name="Benjamin Kobler"/>
 			</instrument>
 			<instrument name="Sampler-celesta with 3 antique cymbals">
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<instrument name="Vibraphone with 3 cowbells and glockenspiel">
 				<player name="Andreas Boettger"/>
@@ -5139,7 +5139,7 @@
 			<description>für Orchester und Chor</description>
 			<length>1:14:00</length>
 			<instrument name="Synthesizer">
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Karlheinz Stockhausen"/>
@@ -5183,7 +5183,7 @@
 				<player name="Sebastian Kunz"/>
 			</instrument>
 			<instrument name="Synthesizer">
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Karlheinz Stockhausen"/>
@@ -5211,7 +5211,7 @@
 				<player name="Marco Blaauw"/>
 			</instrument>
 			<instrument name="Synthesizer">
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Karlheinz Stockhausen"/>
@@ -5239,7 +5239,7 @@
 				<player name="Marco Blaauw"/>
 			</instrument>
 			<instrument name="Synthesizer">
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Karlheinz Stockhausen"/>
@@ -5284,7 +5284,7 @@
 			<description>Mittwoch-Formel für Elektronisches Klavier</description>
 			<length>12:12</length>
 			<instrument name="Synthesizer">
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<composed start="2005"/>
 			<recorded start="2005"/>
@@ -5313,7 +5313,7 @@
 			<instrument name="Piano">
 				<player name="Frank Gutschmidt"/>
 				<player name="Benjamin Kobler"/>
-				<player name="Antonio P&eacute;rez Abellán"/>
+				<player name="Antonio Pérez Abellán"/>
 			</instrument>
 			<composed start="2005" end="2006"/>
 			<recorded start="2007"/>
@@ -5412,7 +5412,7 @@
 		</composition>
 		<composition>
 			<name>L'Oiseau de feu</name>
-			<description>Conte dans&eacute; en deux tableaux</description>
+			<description>Conte dansé en deux tableaux</description>
 			<length>46:12</length>
 			<player name="The Cleveland Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -5422,7 +5422,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>P&eacute;trouchka</name>
+			<name>Pétrouchka</name>
 			<description>Sc&egrave;nes burlesques en quatre tableaux, version de 1911</description>
 			<length>34:58</length>
 			<player name="The Cleveland Orchestra"/>
@@ -5433,7 +5433,7 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>P&eacute;trouchka</name>
+			<name>Pétrouchka</name>
 			<description>Sc&egrave;nes burlesques en quatre tableaux, version originale de 1911</description>
 			<length>34:58</length>
 			<player name="The Cleveland Orchestra"/>
@@ -5444,7 +5444,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Le Roi des &eacute;toiles (Zvezdolikiy)</name>
+			<name>Le Roi des étoiles (Zvezdolikiy)</name>
 			<description>Cantate pour choeur d'hommes</description>
 			<length>5:30</length>
 			<player name="The Cleveland Orchestra Chorus"/>
@@ -5471,7 +5471,7 @@
 			<released>1989-94</released>
 		</composition>
 		<composition>
-			<name>Trois Po&eacute;sies de la lyrique japonaise</name>
+			<name>Trois Poésies de la lyrique japonaise</name>
 			<length>3:19</length>
 			<instrument name="soprano">
 				<player name="Phyllis Bryn-Julson"/>
@@ -5732,7 +5732,7 @@
 		</composition>
 		<composition>
 			<name>Symphonie de psaumes</name>
-			<description>Pour choeur et orchestre, sur des textes tir&eacute;s de Psaumes 38, 39 et 150</description>
+			<description>Pour choeur et orchestre, sur des textes tirés de Psaumes 38, 39 et 150</description>
 			<length>19:59</length>
 			<player name="Rundfunkchor Berlin"/>
 			<conductor>Sigurd Brauns</conductor>
@@ -5817,11 +5817,11 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>&Eacute;l&eacute;gie</name>
+			<name>&Eacute;légie</name>
 			<description>pour alto seul</description>
 			<length>5:11</length>
 			<instrument name="alto">
-				<player name="G&eacute;rard Causse"/>
+				<player name="Gérard Causse"/>
 			</instrument>
 			<composed start="1944"/>
 			<recorded start="1980" end="1982"/>

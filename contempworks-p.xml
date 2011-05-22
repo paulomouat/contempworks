@@ -45,7 +45,7 @@
 				<player name="Janet Pape"/>
 			</instrument>
 			<instrument name="Flute">
-				<player name="C&eacute;cile Daroux"/>
+				<player name="Cécile Daroux"/>
 			</instrument>
 			<instrument name="Tape &amp; Sound Projection">
 				<player name="Gerard Pape"/>
@@ -56,7 +56,7 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Le Fleuve du D&eacute;sir</name>
+			<name>Le Fleuve du Désir</name>
 			<length>12:39</length>
 			<player name="The Arditti Quartett"/>
 			<instrument name="Tape">
@@ -68,7 +68,7 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Le Fleuve du D&eacute;sir III</name>
+			<name>Le Fleuve du Désir III</name>
 			<description>for string quartet and UPIC</description>
 			<length>12:41</length>
 			<player name="The Arditti String Quartet"/>
@@ -79,7 +79,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Le Fleuve du D&eacute;sir IV</name>
+			<name>Le Fleuve du Désir IV</name>
 			<description>for 8 solo violins</description>
 			<length>12:33</length>
 			<instrument name="Violins">
@@ -117,13 +117,13 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Makb&eacute;nach</name>
+			<name>Makbénach</name>
 			<length>10:20</length>
 			<instrument name="Saxophone">
 				<player name="Daniel Kientzy"/>
 			</instrument>
 			<player name="Ensemble 2e2m"/>
-			<conductor>Paul M&eacute;fano</conductor>
+			<conductor>Paul Méfano</conductor>
 			<instrument name="Tape &amp; Sound Projection">
 				<player name="Gerard Pape"/>
 			</instrument>
@@ -221,7 +221,7 @@
 			<instrument name="voix">
 				<player name="Boris Vian"/>
 			</instrument>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1962"/>
@@ -266,7 +266,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Capture &eacute;ph&eacute;m&egrave;re</name>
+			<name>Capture éphém&egrave;re</name>
 			<length>11:57</length>
 			<composed start="1967"/>
 			<recorded start="1967"/>
@@ -274,7 +274,7 @@
 			<released>?</released>
 		</composition>
 		<composition>
-			<name>Pour en finir avec le pouvoir d'Orph&eacute;e</name>
+			<name>Pour en finir avec le pouvoir d'Orphée</name>
 			<length>23:27</length>
 			<instrument name="Guimbarde">
 				<player name="John Wright"/>
@@ -289,7 +289,7 @@
 		<composition>
 			<name>Indicatif Roissy</name>
 			<length>0:07</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1971"/>
@@ -300,7 +300,7 @@
 		<composition>
 			<name>Indicatif France Culture</name>
 			<length>1:14</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1972"/>
@@ -311,7 +311,7 @@
 		<composition>
 			<name>La roue Ferris</name>
 			<length>10:48</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1971"/>
@@ -320,7 +320,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>L'&eacute;cran Transparent</name>
+			<name>L'écran Transparent</name>
 			<length>19:57</length>
 			<composed start="1973"/>
 			<recorded start="1973"/>
@@ -328,7 +328,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Chants Magn&eacute;tiques</name>
+			<name>Chants Magnétiques</name>
 			<length>37:21</length>
 			<part>
 				<number>1</number>
@@ -382,7 +382,7 @@
 		<composition>
 			<name>De Natura Sonorum</name>
 			<description>Suite en douze mouvements</description>
-			<description>version int&eacute;grale</description>
+			<description>version intégrale</description>
 			<length>53:02</length>
 			<player name="INA/GRM"/>
 			<composed start="1975"/>
@@ -393,7 +393,7 @@
 		<composition>
 			<name>Indicatif &quot;Stade 2&quot;</name>
 			<length>0:26</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1975"/>
@@ -422,7 +422,7 @@
 		<composition>
 			<name>Exercisme 3 (extrait)</name>
 			<length>6:28</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1986"/>
@@ -443,11 +443,11 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Le Pr&eacute;sent compos&eacute;</name>
+			<name>Le Présent composé</name>
 			<length>23:50</length>
 			<instrument name="Mixage">
 				<player name="Fran&ccedil;ois Donato"/>
-				<player name="Christian Zan&eacute;si"/>
+				<player name="Christian Zanési"/>
 			</instrument>
 			<player name="INA/GRM"/>
 			<composed start="1991"/>
@@ -473,7 +473,7 @@
 			<released>?</released>
 		</composition>
 		<composition>
-			<name>La m&eacute;moire des sons</name>
+			<name>La mémoire des sons</name>
 			<length>24:40</length>
 			<composed start="2001"/>
 			<recorded start="2001"/>
@@ -485,7 +485,7 @@
 			<length>1:10:51</length>
 			<part>
 				<number>1</number>
-				<name>Pr&eacute;sent compos&eacute;, version 2006</name>
+				<name>Présent composé, version 2006</name>
 				<length>23:50</length>
 				<composed start="1991" end="2006"/>
 			</part>
@@ -511,7 +511,7 @@
 		<composition>
 			<name>Les objets obscurs (extrait)</name>
 			<length>5:03</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1991"/>
@@ -846,7 +846,7 @@
 			</instrument>
 			<player name="IRCAM"/>
 			<instrument name="Tonmeister">
-				<player name="Fr&eacute;d&eacute;ric Prin"/>
+				<player name="Frédéric Prin"/>
 			</instrument>
 			<composed start="1997"/>
 			<recorded start="1997"/>
@@ -1041,7 +1041,7 @@
 		<composition>
 			<name>&Eacute;tude no. 1</name>
 			<length>5:14</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1952"/>
@@ -1086,7 +1086,7 @@
 	</composer>
 	<composer name="Henri" surname="Pousseur" born="1929" died="">
 		<composition>
-			<name>Quintette &agrave; la m&eacute;moire d'Anton Webern</name>
+			<name>Quintette &agrave; la mémoire d'Anton Webern</name>
 			<description>für Klarinette, Ba&szlig;klarinette, Violine, Violoncello und Klavier</description>
 			<length>12:50</length>
 			<instrument name="Klarinette">
@@ -1181,7 +1181,7 @@
 			</part>
 			<part>
 				<number>4</number>
-				<name>Voyage aux &eacute;l&eacute;ments</name>
+				<name>Voyage aux éléments</name>
 			</part>
 			<part>
 				<number>5</number>
@@ -1193,13 +1193,13 @@
 			</part>
 			<part>
 				<number>7</number>
-				<name>Mn&eacute;mosyne disparue</name>
+				<name>Mnémosyne disparue</name>
 			</part>
 			<part>
 				<number>8</number>
 				<name>An Heinrich, ping-pong</name>
 			</part>
-			<player name="Studio de musique &eacute;lectronique du Centre de Recherches musicales de Wallonie &agrave; Li&egrave;ge"/>
+			<player name="Studio de musique électronique du Centre de Recherches musicales de Wallonie &agrave; Li&egrave;ge"/>
 			<composed start="1972"/>
 			<recorded start="1990"/>
 			<release>BVHaast 9010</release>

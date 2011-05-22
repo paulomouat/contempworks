@@ -6,7 +6,7 @@
 		<composition>
 			<name>&Eacute;tude no. 2</name>
 			<length>3:28</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1962"/>
@@ -129,7 +129,7 @@
 		<composition>
 			<name>Instants d'hiver (extrait)</name>
 			<length>7:11</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1993"/>
@@ -138,7 +138,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Gestes de l'&eacute;crit</name>
+			<name>Gestes de l'écrit</name>
 			<description>for UPIC</description>
 			<length>11:00</length>
 			<player name="Les Ateliers UPIC, Paris"/>

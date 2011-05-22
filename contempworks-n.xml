@@ -160,14 +160,14 @@
 	<composer name="Luigi" surname="Nono" born="1924" died="1990">
 		<composition score="Y">
 			<name>Variazioni canoniche</name>
-			<description>sur la s&eacute;rie de l'opus 41 de Sch&ouml;nberg</description>
+			<description>sur la série de l'opus 41 de Sch&ouml;nberg</description>
 			<description>pour orchestre de chambre</description>
 			<length>20:07</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Michael Gielen</conductor>
 			<composed start="1950"/>
 			<recorded start="1989"/>
-			<release>Astr&eacute;e-Auvidis E 8741</release>
+			<release>Astrée-Auvidis E 8741</release>
 			<released>1990</released>
 		</composition>
 		<composition>
@@ -530,7 +530,7 @@
 				<player name="Markus Hinterh&auml;user"/>
 			</instrument>
 			<instrument name="Klangregie">
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 			</instrument>
 			<composed start="1976"/>
 			<recorded start="1993"/>
@@ -603,7 +603,7 @@
 				<player name="Reinhold Braig"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
-			<conductor>Andr&eacute; Richard</conductor>
+			<conductor>André Richard</conductor>
 			<composed start="1980" end="1983"/>
 			<recorded start="2001"/>
 			<release>Col Legno WWE 2SACD 20600</release>
@@ -649,7 +649,7 @@
 				<player name="Reinhold Braig"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
-			<conductor>Andr&eacute; Richard</conductor>
+			<conductor>André Richard</conductor>
 			<composed start="1981"/>
 			<recorded start="2001"/>
 			<release>Col Legno WWE 2SACD 20600</release>
@@ -704,7 +704,7 @@
 			<instrument name="Violoncello">
 				<player name="Lukas Fels"/>
 			</instrument>
-			<conductor>Andr&eacute; Richard</conductor>
+			<conductor>André Richard</conductor>
 			<instrument name="Klangregie">
 				<player name="Hans Peter Haller"/>
 			</instrument>
@@ -742,7 +742,7 @@
 			<conductor>Michael Gielen</conductor>
 			<composed start="1984"/>
 			<recorded start="1989"/>
-			<release>Astr&eacute;e-Auvidis E 8741</release>
+			<release>Astrée-Auvidis E 8741</release>
 			<released>1990</released>
 		</composition>
 		<composition>
@@ -753,7 +753,7 @@
 			<player name="Solistenchor Freiburg"/>
 			<conductor>Ingo Metzmacher, Peter Rundel</conductor>
 			<instrument name="Sound direction">
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 				<player name="Hans-Peter Haller"/>
 				<player name="Rudolf Strau&szlig;"/>
 				<player name="Rudolf Breitenfeld"/>
@@ -770,10 +770,10 @@
 			<length>2:14:32</length>
 			<player name="Ensemble Recherche"/>
 			<player name="Solistenchor Freiburg"/>
-			<conductor>Peter Hirsch, Kwam&eacute; Ryan</conductor>
+			<conductor>Peter Hirsch, Kwamé Ryan</conductor>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
 			<instrument name="Sound direction">
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 			</instrument>
 			<composed start="1981" end="1985"/>
 			<recorded start="2003"/>
@@ -841,7 +841,7 @@
 			</instrument>
 			<player name="Experimentalstudio für akustische Kunst e.V."/>
 			<player name="Solistenchor Freiburg"/>
-			<conductor>Andr&eacute; Richard</conductor>
+			<conductor>André Richard</conductor>
 			<player name="WDR Rundfunkchor K&ouml;ln"/>
 			<conductor>J&ouml;rg Ritter</conductor>
 			<player name="WDR Sinfonieorchester K&ouml;ln"/>
@@ -859,7 +859,7 @@
 			<conductor>Michael Gielen</conductor>
 			<composed start="1987"/>
 			<recorded start="1989"/>
-			<release>Astr&eacute;e-Auvidis E 8741</release>
+			<release>Astrée-Auvidis E 8741</release>
 			<released>1990</released>
 		</composition>
 		<composition>
@@ -910,7 +910,7 @@
 				<player name="Irvine Arditti"/>
 			</instrument>
 			<instrument name="Proiezione sonora">
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
 			<composed start="1988"/>
@@ -991,7 +991,7 @@
 			</part>
 			<part>
 				<number>4</number>
-				<name>Terre de Sienne br&ucirc;l&eacute;e</name>
+				<name>Terre de Sienne br&ucirc;lée</name>
 			</part>
 			<part>
 				<number>5</number>
@@ -1011,7 +1011,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>B&eacute;d&eacute;</name>
+			<name>Bédé</name>
 			<length>3:00</length>
 			<composed start="1990"/>
 			<recorded start="1990"/>
@@ -1095,7 +1095,7 @@
 			</part>
 			<part>
 				<number>5</number>
-				<name>S&eacute;r&eacute;nit&eacute; et texture</name>
+				<name>Sérénité et texture</name>
 			</part>
 			<composed start="1995"/>
 			<recorded start="1995"/>
@@ -1103,7 +1103,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>Figures de rh&eacute;torique</name>
+			<name>Figures de rhétorique</name>
 			<description>pour bande et piano</description>
 			<length>13:37</length>
 			<instrument name="Piano">
@@ -1127,7 +1127,7 @@
 			</part>
 			<part>
 				<number>3</number>
-				<name>Stabilit&eacute;</name>
+				<name>Stabilité</name>
 			</part>
 			<part>
 				<number>4</number>
@@ -1135,7 +1135,7 @@
 			</part>
 			<part>
 				<number>5</number>
-				<name>D&eacute;lire</name>
+				<name>Délire</name>
 			</part>
 			<part>
 				<number>6</number>
@@ -1143,7 +1143,7 @@
 			</part>
 			<part>
 				<number>7</number>
-				<name>S&eacute;r&eacute;nit&eacute;</name>
+				<name>Sérénité</name>
 			</part>
 			<composed start="1996" end="1998"/>
 			<recorded start="1998"/>
@@ -1198,7 +1198,7 @@
 			<conductor>Ernest Bour</conductor>
 			<instrument name="Klangregie">
 				<player name="Hans Peter Haller"/>
-				<player name="Andr&eacute; Richard"/>
+				<player name="André Richard"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
 			<composed start="1985" end="1986"/>
@@ -1223,7 +1223,7 @@
 		</composition>
 		<composition>
 			<name>Lichtung I</name>
-			<description>pour ensemble et &eacute;lectronique</description>
+			<description>pour ensemble et électronique</description>
 			<length>23:20</length>
 			<player name="Ensemble Intercontemporain"/>
 			<conductor>Jonathan Nott</conductor>
@@ -1255,7 +1255,7 @@
 				<player name="Ernesto Molinari"/>
 			</instrument>
 			<instrument name="Tuba">
-				<player name="G&eacute;rard Buquet"/>
+				<player name="Gérard Buquet"/>
 			</instrument>
 			<instrument name="Percussion">
 				<player name="Claire Talibart"/>
@@ -1269,7 +1269,7 @@
 		</composition>
 		<composition>
 			<name>Lichtung II</name>
-			<description>pour ensemble et &eacute;lectronique</description>
+			<description>pour ensemble et électronique</description>
 			<length>30:32</length>
 			<player name="Ensemble Intercontemporain"/>
 			<conductor>Jonathan Nott</conductor>

@@ -427,11 +427,11 @@
 	</composer>
 	<composer name="Micha&euml;l" surname="Levinas" born="1949" died="">
 		<composition>
-			<name>Ouverture pour une f&ecirc;te &eacute;trange</name>
+			<name>Ouverture pour une f&ecirc;te étrange</name>
 			<length>16:20</length>
 			<player name="Nouvel Orchestre Philharmonique de Radio France"/>
 			<conductor>Gilbert Amy, Hubert Soudant</conductor>
-			<player name="R&eacute;gie &eacute;lectro-acoustique INA-GRM"/>
+			<player name="Régie électro-acoustique INA-GRM"/>
 			<composed start="?"/>
 			<recorded start="1981"/>
 			<release>Ad&egrave;s 20 381 2</release>
@@ -474,7 +474,7 @@
 			<released>1985-89</released>
 		</composition>
 		<composition>
-			<name>Contrepoints irr&eacute;els-Rencontres</name>
+			<name>Contrepoints irréels-Rencontres</name>
 			<length>4:55</length>
 			<instrument name="Fl&ucirc;tes">
 				<player name="Patrice Bocquillon"/>
@@ -482,7 +482,7 @@
 				<player name="Xavier Aragau"/>
 				<player name="Nicolas Brochot"/>
 			</instrument>
-			<instrument name="Transformations &eacute;lectro-acoustiques">
+			<instrument name="Transformations électro-acoustiques">
 				<player name="Augusto Mannis"/>
 			</instrument>
 			<composed start="?"/>
@@ -676,7 +676,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>R&eacute;gi magyar társas táncok</name>
+			<name>Régi magyar társas táncok</name>
 			<description>Old hungarian ballroom dances, for flute, clarinet and strings</description>
 			<length>10:26</length>
 			<player name="Asko Ensemble"/>
@@ -781,7 +781,7 @@
 			</part>
 			<part>
 				<number>IX</number>
-				<name>(B&eacute;la Bart&oacute;k in memoriam) Adagio. Mesto - Allegro maestoso</name>
+				<name>(Béla Bart&oacute;k in memoriam) Adagio. Mesto - Allegro maestoso</name>
 				<length>2:15</length>
 			</part>
 			<part>
@@ -848,7 +848,7 @@
 			</part>
 			<part>
 				<number>IX</number>
-				<name>(B&eacute;la Bart&oacute;k in memoriam) Adagio. Mesto - Allegro maestoso</name>
+				<name>(Béla Bart&oacute;k in memoriam) Adagio. Mesto - Allegro maestoso</name>
 				<length>2:10</length>
 			</part>
 			<part>
@@ -900,7 +900,7 @@
 			</part>
 			<part>
 				<number>VI</number>
-				<name>(B&eacute;la Bart&oacute;k in memoriam) Adagio. Mesto - Allegretto maestoso</name>
+				<name>(Béla Bart&oacute;k in memoriam) Adagio. Mesto - Allegretto maestoso</name>
 				<length>2:56</length>
 			</part>
 			<part>
@@ -922,7 +922,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Pápain&eacute;</name>
+			<name>Pápainé</name>
 			<description>für achtstimmigen Chor a cappella</description>
 			<length>3:07</length>
 			<player name="Schola Cantorum Stuttgart"/>
@@ -945,7 +945,7 @@
 		</composition>
 		<composition>
 			<name>String Quartet No. 1</name>
-			<description>M&eacute;tamorphoses Nocturnes</description>
+			<description>Métamorphoses Nocturnes</description>
 			<length>20:42</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1953" end="1954"/>
@@ -1113,7 +1113,7 @@
 				<player name="Gertie Charlent"/>
 			</instrument>
 			<instrument name="Alt">
-				<player name="Marie-Th&eacute;r&egrave;se Cahn"/>
+				<player name="Marie-Thér&egrave;se Cahn"/>
 			</instrument>
 			<instrument name="Bariton">
 				<player name="William Pearson"/>
@@ -1153,7 +1153,7 @@
 				<player name="Gertie Charlent"/>
 			</instrument>
 			<instrument name="Alt">
-				<player name="Marie-Th&eacute;r&egrave;se Cahn"/>
+				<player name="Marie-Thér&egrave;se Cahn"/>
 			</instrument>
 			<instrument name="Bariton">
 				<player name="William Pearson"/>
@@ -1278,7 +1278,7 @@
 			</part>
 			<part>
 				<number>II</number>
-				<name>Coul&eacute;e</name>
+				<name>Coulée</name>
 				<length>4:03</length>
 				<composed start="1969"/>
 			</part>
@@ -1530,7 +1530,7 @@
 			<length>19:31</length>
 			<part>
 				<number>I</number>
-				<name>D&eacute;sordre</name>
+				<name>Désordre</name>
 				<length>2:22</length>
 			</part>
 			<part>
@@ -1540,7 +1540,7 @@
 			</part>
 			<part>
 				<number>III</number>
-				<name>Touches bloqu&eacute;es</name>
+				<name>Touches bloquées</name>
 				<length>1:57</length>
 			</part>
 			<part>
@@ -1578,7 +1578,7 @@
 			</part>
 			<part>
 				<number>VIII</number>
-				<name>F&eacute;m</name>
+				<name>Fém</name>
 				<length>3:05</length>
 				<composed start="1989"/>
 			</part>
@@ -1703,7 +1703,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Pour Irina - &eacute;tude pour piano No. 16</name>
+			<name>Pour Irina - étude pour piano No. 16</name>
 			<length>3:53</length>
 			<instrument name="Klavier">
 				<player name="Irina Kataeva"/>
@@ -1740,7 +1740,7 @@
 		</composition>
 		<composition>
 			<name>UR</name>
-			<description>pour 5 instruments et &eacute;lectronique</description>
+			<description>pour 5 instruments et électronique</description>
 			<length>13:27</length>
 			<player name="Ensemble InterContemporain"/>
 			<player name="Technique IRCAM"/>
@@ -1762,7 +1762,7 @@
 		</composition>
 		<composition>
 			<name>Joy</name>
-			<description>pour ensemble et &eacute;lectronique</description>
+			<description>pour ensemble et électronique</description>
 			<length>26:40</length>
 			<player name="Ensemble InterContemporain"/>
 			<player name="Technique IRCAM"/>

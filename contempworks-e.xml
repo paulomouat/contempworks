@@ -52,7 +52,7 @@
 	</composer>
 	<composer name="Julio" surname="Estrada" born="1943" died="">
 		<composition>
-			<name>Canto mn&eacute;mico</name>
+			<name>Canto mnémico</name>
 			<description>For string quartet</description>
 			<length>5:34</length>
 			<player name="Arditti String Quartet"/>

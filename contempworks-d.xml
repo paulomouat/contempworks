@@ -40,10 +40,10 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="Marc-Andr&eacute;" surname="Dalbavie" born="1961" died="">
+	<composer name="Marc-André" surname="Dalbavie" born="1961" died="">
 		<composition>
 			<name>Diad&egrave;mes</name>
-			<description>pour alto solo, ensemble et &eacute;lectronique</description>
+			<description>pour alto solo, ensemble et électronique</description>
 			<length>22:11</length>
 			<player name="Ensemble InterContemporain"/>
 			<player name="Technique IRCAM"/>
@@ -55,7 +55,7 @@
 		</composition>
 		<composition>
 			<name>Seuils</name>
-			<description>pour soprano, ensemble et &eacute;lectronique</description>
+			<description>pour soprano, ensemble et électronique</description>
 			<length>45:14</length>
 			<player name="Ensemble InterContemporain"/>
 			<player name="Technique IRCAM"/>
@@ -160,7 +160,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Pr&eacute;lude &agrave; l'apr&egrave;s-midi d'un faune</name>
+			<name>Prélude &agrave; l'apr&egrave;s-midi d'un faune</name>
 			<length>9:41</length>
 			<player name="New Philharmonia Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -218,7 +218,7 @@
 	</composer>
 	<composer name="Francis" surname="Dhomont" born="1926" died="">
 		<composition>
-			<name>Cit&eacute; du dedans (extrait)</name>
+			<name>Cité du dedans (extrait)</name>
 			<description>&Eacute;tude acousmatique</description>
 			<length>2:48</length>
 			<player name="Private studio of the composer"/>
@@ -238,7 +238,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>M&eacute;tonymie ou le corps impossible (extrait)</name>
+			<name>Métonymie ou le corps impossible (extrait)</name>
 			<description>&Eacute;tude acousmatique</description>
 			<length>5:09</length>
 			<player name="Private studio of the composer"/>
@@ -251,7 +251,7 @@
 			<name>Mais laisserons-nous mourir Arianna?</name>
 			<description>Musique acousmatique</description>
 			<length>15:40</length>
-			<player name="Facult&eacute; de Musique, Universit&eacute; de Montr&eacute;al/GMEM (Marseille)/Private studio of the composer"/>
+			<player name="Faculté de Musique, Université de Montréal/GMEM (Marseille)/Private studio of the composer"/>
 			<composed start="1979"/>
 			<recorded start="1979"/>
 			<release>Sonopsys SON1.II 296/1000</release>
@@ -261,7 +261,7 @@
 			<name>Sous le regard d'un soleil noir</name>
 			<description>Cycle des profondeurs</description>
 			<length>51:35</length>
-			<player name="Facult&eacute; de Musique, Universit&eacute; de Montr&eacute;al/Private studio of the composer"/>
+			<player name="Faculté de Musique, Université de Montréal/Private studio of the composer"/>
 			<composed start="1979" end="1981"/>
 			<recorded start="1981"/>
 			<release>empreintes DIGITALes/INA.GRM IMED 9633</release>
@@ -269,7 +269,7 @@
 		</composition>
 		<composition>
 			<name>Points de fuite</name>
-			<description>Mouvances-M&eacute;taphores</description>
+			<description>Mouvances-Métaphores</description>
 			<description>Cycle de l'errance</description>
 			<length>12:21</length>
 			<player name="Private studio of the composer"/>
@@ -280,10 +280,10 @@
 		</composition>
 		<composition>
 			<name>...mourir un peu</name>
-			<description>Mouvances-M&eacute;taphores</description>
+			<description>Mouvances-Métaphores</description>
 			<description>Cycle de l'errance</description>
 			<length>44:52</length>
-			<player name="Groupe de Musique Exp&eacute;rimentale de Marseille/Private studio of the composer"/>
+			<player name="Groupe de Musique Expérimentale de Marseille/Private studio of the composer"/>
 			<composed start="1984"/>
 			<recorded start="1984"/>
 			<release>empreintes DIGITALes/INA.GRM IMED 9107/08</release>
@@ -300,9 +300,9 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Sign&eacute; Dionysos</name>
-			<description>Mouvances-M&eacute;taphores</description>
-			<description>Les d&eacute;rives du signe</description>
+			<name>Signé Dionysos</name>
+			<description>Mouvances-Métaphores</description>
+			<description>Les dérives du signe</description>
 			<length>28:22</length>
 			<player name="INA.GRM/Private studio of the composer"/>
 			<composed start="1986" end="1991"/>
@@ -312,8 +312,8 @@
 		</composition>
 		<composition>
 			<name>Chiaroscuro</name>
-			<description>Mouvances-M&eacute;taphores</description>
-			<description>Les d&eacute;rives du signe</description>
+			<description>Mouvances-Métaphores</description>
+			<description>Les dérives du signe</description>
 			<length>17:30</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1987"/>
@@ -323,7 +323,7 @@
 		</composition>
 		<composition>
 			<name>Poe-Debussy, autour de la Maison Usher</name>
-			<description>Musique &Eacute;lectroacoustique pour un th&eacute;&acirc;tre musical</description>
+			<description>Musique &Eacute;lectroacoustique pour un thé&acirc;tre musical</description>
 			<length>40:19</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1988"/>
@@ -332,9 +332,9 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>M&eacute;t&eacute;ores</name>
-			<description>Mouvances-M&eacute;taphores</description>
-			<description>Les d&eacute;rives du signe</description>
+			<name>Météores</name>
+			<description>Mouvances-Métaphores</description>
+			<description>Les dérives du signe</description>
 			<length>12:43</length>
 			<player name="INA.GRM/Private studio of the composer"/>
 			<composed start="1989"/>
@@ -344,8 +344,8 @@
 		</composition>
 		<composition>
 			<name>Novars</name>
-			<description>Mouvances-M&eacute;taphores</description>
-			<description>Les d&eacute;rives du signe</description>
+			<description>Mouvances-Métaphores</description>
+			<description>Les dérives du signe</description>
 			<length>19:07</length>
 			<player name="INA.GRM/Private studio of the composer"/>
 			<composed start="1989"/>
@@ -366,7 +366,7 @@
 		<composition>
 			<name>Novars (extrait)</name>
 			<length>6:50</length>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1989"/>
@@ -376,7 +376,7 @@
 		</composition>
 		<composition>
 			<name>Espace/Escape</name>
-			<description>Mouvances-M&eacute;taphores</description>
+			<description>Mouvances-Métaphores</description>
 			<description>Cycle de l'errance</description>
 			<length>19:24</length>
 			<player name="Private studio of the composer"/>
@@ -396,7 +396,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>L'&eacute;lectro</name>
+			<name>L'électro</name>
 			<description>Jalons</description>
 			<length>1:06</length>
 			<player name="Private studio of the composer"/>
@@ -484,7 +484,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Objets retrouv&eacute;s</name>
+			<name>Objets retrouvés</name>
 			<description>Cycle du son</description>
 			<length>5:20</length>
 			<player name="Private studio of the composer"/>
@@ -524,7 +524,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Je te salue, vieil oc&eacute;an!</name>
+			<name>Je te salue, vieil océan!</name>
 			<description>...et autres utopies</description>
 			<length>14:54</length>
 			<player name="Private studio of the composer"/>
@@ -738,7 +738,7 @@
 			<description>for solo flute</description>
 			<length>10:23</length>
 			<instrument name="Flute">
-				<player name="C&eacute;cile Daroux"/>
+				<player name="Cécile Daroux"/>
 			</instrument>
 			<composed start="1984"/>
 			<recorded start="1995"/>
@@ -965,16 +965,16 @@
 	<composer name="Denis" surname="Dufour" born="1953" died="">
 		<composition>
 			<name>Pli de perversion 2</name>
-			<description>pour trio instrumental &eacute;lectroacoustique</description>
+			<description>pour trio instrumental électroacoustique</description>
 			<length>7:12</length>
-			<instrument name="synth&eacute;tiseurs">
+			<instrument name="synthétiseurs">
 				<player name="Yann Geslin"/>
 				<player name="Denis Dufour"/>
 			</instrument>
 			<instrument name="violon">
 				<player name="Laurent Cuniot"/>
 			</instrument>
-			<instrument name="R&eacute;alisation">
+			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
 			<composed start="1984"/>
@@ -987,7 +987,7 @@
 			<length>28:45</length>
 			<part>
 				<number>1</number>
-				<name>Tr&eacute;pidopt&egrave;res</name>
+				<name>Trépidopt&egrave;res</name>
 				<length>7:45</length>
 			</part>
 			<part>
@@ -1006,7 +1006,7 @@
 			<released>1996</released>
 		</composition>
 	</composer>
-	<composer name="Fr&eacute;d&eacute;ric" surname="Durieux" born="1959" died="">
+	<composer name="Frédéric" surname="Durieux" born="1959" died="">
 		<composition>
 			<name>L&agrave;, au-del&agrave;</name>
 			<description>pour ensemble</description>
@@ -1020,7 +1020,7 @@
 		</composition>
 		<composition>
 			<name>So schnell, zu früh</name>
-			<description>pour soprano, ensemble et &eacute;lectronique en temps r&eacute;el</description>
+			<description>pour soprano, ensemble et électronique en temps réel</description>
 			<length>17:20</length>
 			<instrument name="Soprano">
 				<player name="Sharon Cooper"/>
@@ -1035,10 +1035,10 @@
 		</composition>
 		<composition>
 			<name>Devenir</name>
-			<description>pour clarinette et &eacute;lectronique en temps r&eacute;el</description>
+			<description>pour clarinette et électronique en temps réel</description>
 			<length>17:16</length>
 			<instrument name="Clarinette">
-				<player name="Andr&eacute; Trouttet"/>
+				<player name="André Trouttet"/>
 			</instrument>
 			<player name="Technique IRCAM"/>
 			<composed start="1993"/>
