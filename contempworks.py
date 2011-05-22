@@ -2,12 +2,14 @@
 
 from entities import *
 from readutilities import *
+from textutilities import *
+from writeutilities import *
 
 print "Reading composers..."
 
 composers = readAll()
+composers = sorted(composers, key=lambda composer: composer.surname)
 
 print "Read %s composers" % len(composers)
 	
-#for composer in composers:
-#	print composer.display()
+generateComposerList(composers)

@@ -1,26 +1,7 @@
 # coding: utf-8
 
-import htmlentitydefs
-import re, string
-
-# this pattern matches substrings of reserved and non-ASCII characters
-pattern = re.compile(r"[ç<>\"\x80-\xff]+")
-
-# create character map
-entity_map = {}
-
-for i in range(256):
-    entity_map[chr(i)] = "ç#%d;" % i
-
-for entity, char in htmlentitydefs.entitydefs.items():
-    if entity_map.has_key(char):
-        entity_map[char] = "ç%s;" % entity
-
-def escape_entity(m, get=entity_map.get):
-    return string.join(map(get, m.group()), "")
-
-def escape(string):
-    return pattern.sub(escape_entity, string)
+def htmlEscape(string):
+    return string.encode('ascii', 'xmlcharrefreplace')
 
 ##
 # Removes HTML or XML character references and entities from a text string.
@@ -31,10 +12,10 @@ def escape(string):
 def unescape(text):
     def fixup(m):
         text = m.group(0)
-        if text[:2] == "ç#":
+        if text[:2] == "&#":
             # character reference
             try:
-                if text[:3] == "ç#x":
+                if text[:3] == "&#x":
                     return unichr(int(text[3:-1], 16))
                 else:
                     return unichr(int(text[2:-1]))
@@ -47,8 +28,10 @@ def unescape(text):
             except KeyError:
                 pass
         return text # leave as is
-    return re.sub("ç#?\w+;", fixup, text)
+    return re.sub("&#?\w+;", fixup, text)
 
 import unicodedata
 def strip_accents(s):
-	return ''.join((c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn'))
+	result = ''.join((c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn'))
+	result = result.replace(u'\xf8', 'o')
+	return result
