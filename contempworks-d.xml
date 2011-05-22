@@ -887,7 +887,7 @@
 	</composer>
 	<composer name="Paul-Heinz" surname="Dittrich" born="1930" died="">
 		<composition>
-			<name>Areae Sonantes f&uuml;r instrumentale und vokale Gruppen</name>
+			<name>Areae Sonantes für instrumentale und vokale Gruppen</name>
 			<length>16:46</length>
 			<instrument name="Sopran">
 				<player name="Gisela Evers"/>
@@ -896,7 +896,7 @@
 				<player name="Hanna Auerbacher"/>
 			</instrument>
 			<instrument name="Alt">
-				<player name="Elisabeth K&uuml;nstler"/>
+				<player name="Elisabeth Künstler"/>
 			</instrument>
 			<instrument name="Oboe">
 				<player name="Hansj&ouml;rg Schellenberger"/>
@@ -1019,7 +1019,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>So schnell, zu fr&uuml;h</name>
+			<name>So schnell, zu früh</name>
 			<description>pour soprano, ensemble et &eacute;lectronique en temps r&eacute;el</description>
 			<length>17:20</length>
 			<instrument name="Soprano">

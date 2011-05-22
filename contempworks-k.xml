@@ -5,14 +5,14 @@
 	<composer name="Mauricio" surname="Kagel" born="1931" died="">
 		<composition>
 			<name>Improvisation ajout&eacute;e</name>
-			<description>Musik f&uuml;r Orgel</description>
+			<description>Musik für Orgel</description>
 			<length>12:11</length>
 			<instrument name="Orgel">
 				<player name="Friedemann Herz"/>
 			</instrument>
 			<instrument name="Registranten">
 				<player name="Regina Straten"/>
-				<player name="Stephan Sch&uuml;tze"/>
+				<player name="Stephan Schütze"/>
 			</instrument>
 			<composed start="1961" end="1962"/>
 			<recorded start="1996"/>
@@ -21,10 +21,10 @@
 		</composition>
 		<composition>
 			<name>Antithese</name>
-			<description>Komposition f&uuml;r elektronische und &ouml;ffentliche Kl&auml;nge</description>
+			<description>Komposition für elektronische und &ouml;ffentliche Kl&auml;nge</description>
 			<length>9:24</length>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1962"/>
 			<recorded start="1962"/>
@@ -51,7 +51,7 @@
 		</composition>
 		<composition>
 			<name>Phantasie</name>
-			<description>f&uuml;r Orgel mit Obbligati</description>
+			<description>für Orgel mit Obbligati</description>
 			<length>11:23</length>
 			<instrument name="Orgel">
 				<player name="Friedemann Herz"/>
@@ -63,7 +63,7 @@
 		</composition>
 		<composition>
 			<name>Atem</name>
-			<description>f&uuml;r einen Bl&auml;ser</description>
+			<description>für einen Bl&auml;ser</description>
 			<length>10:31</length>
 			<instrument name="Posaune">
 				<player name="Vinko Globokar"/>
@@ -75,7 +75,7 @@
 		</composition>
 		<composition>
 			<name>Exotica</name>
-			<description>f&uuml;r au&szlig;ereurop&auml;ische Instrumente</description>
+			<description>für au&szlig;ereurop&auml;ische Instrumente</description>
 			<length>37:31</length>
 			<player name="Ensemble Modern"/>
 			<conductor>Mauricio Kagel</conductor>
@@ -101,7 +101,7 @@
 		</composition>
 		<composition>
 			<name>Morceau de concours</name>
-			<description>f&uuml;r 2 Trompeter</description>
+			<description>für 2 Trompeter</description>
 			<length>10:08</length>
 			<instrument name="Trompete">
 				<player name="William Forman"/>
@@ -114,7 +114,7 @@
 		</composition>
 		<composition>
 			<name>Vari&eacute;t&eacute;</name>
-			<description>Konzertst&uuml;ck f&uuml;r sechs</description>
+			<description>Konzertstück für sechs</description>
 			<length>40:22</length>
 			<player name="Ensemble Modern"/>
 			<conductor>Mauricio Kagel</conductor>
@@ -148,7 +148,7 @@
 		</composition>
 		<composition>
 			<name>&Eacute;tudes 1-3</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>25:58</length>
 			<part>
 				<number>1</number>
@@ -173,7 +173,7 @@
 	<composer name="Johannes" surname="Kalitzke" born="1959" died="">
 		<composition>
 			<name>Nachtschleife</name>
-			<description>Madrigal f&uuml;r Vokalsextett</description>
+			<description>Madrigal für Vokalsextett</description>
 			<length>15:17</length>
 			<player name="London Sinfonietta Voices"/>
 			<conductor>Johannes Kalitzke</conductor>
@@ -224,7 +224,7 @@
 			</part>
 			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<conductor>Milko Kelemen</conductor>
 			<composed start="1966"/>
@@ -234,7 +234,7 @@
 		</composition>
 		<composition>
 			<name>Monogatari</name>
-			<description>f&uuml;r 16 Solostimmen a cappella</description>
+			<description>für 16 Solostimmen a cappella</description>
 			<length>10:52</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -281,7 +281,7 @@
 			<released>?</released>
 		</composition>
 		<composition>
-			<name>Zwei Klavierst&uuml;cke</name>
+			<name>Zwei Klavierstücke</name>
 			<length>14:13</length>
 			<part>
 				<number>1</number>
@@ -355,7 +355,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Funktion Gr&uuml;n</name>
+			<name>Funktion Grün</name>
 			<length>8:25</length>
 			<player name="Institute of Sonology, Utrecht"/>
 			<composed start="1967"/>
@@ -427,7 +427,7 @@
 			<released>?</released>
 		</composition>
 		<composition>
-			<name>60 Bl&auml;tter f&uuml;r Streichtrio</name>
+			<name>60 Bl&auml;tter für Streichtrio</name>
 			<length>38:45</length>
 			<player name="Trio Recherche"/>
 			<composed start="1992"/>
@@ -448,7 +448,7 @@
 	</composer>
 	<composer name="Ernst" surname="Krenek" born="1900" died="1991">
 		<composition>
-			<name>Drei lustige M&auml;rsche f&uuml;r Blasorchester op. 34</name>
+			<name>Drei lustige M&auml;rsche für Blasorchester op. 34</name>
 			<length>6:17</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Erich Schmid</conductor>
@@ -472,7 +472,7 @@
 				<length>2:12</length>
 			</part>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1965"/>
 			<recorded start="1965"/>
@@ -483,7 +483,7 @@
 	<composer name="Gy&ouml;rgy" surname="Kurt&aacute;g" born="1926" died="">
 		<composition>
 			<name>Praeludium und Choral</name>
-			<description>f&uuml;r Klavier</description>
+			<description>für Klavier</description>
 			<length>1:34</length>
 			<instrument name="Klavier">
 				<player name="Zolt&aacute;n Kocsis"/>
@@ -495,7 +495,7 @@
 		</composition>
 		<composition>
 			<name>J&aacute;t&eacute;kok (Spiele) - Auswahl (seit 1973)</name>
-			<description>f&uuml;r Klavier, auch vierh&auml;ndig und f&uuml;r zwei Klaviere</description>
+			<description>für Klavier, auch vierh&auml;ndig und für zwei Klaviere</description>
 			<length>10:17</length>
 			<instrument name="Klavier">
 				<player name="M&aacute;rta und Gy&ouml;rgy Kurt&aacute;g"/>
@@ -507,7 +507,7 @@
 		</composition>
 		<composition>
 			<name>Antiphone in fis</name>
-			<description>f&uuml;r Klavier</description>
+			<description>für Klavier</description>
 			<length>0:42</length>
 			<instrument name="Klavier">
 				<player name="Zolt&aacute;n Kocsis"/>
@@ -519,7 +519,7 @@
 		</composition>
 		<composition>
 			<name>Les Adieux op. 12/7</name>
-			<description>f&uuml;r Sopran und Violine</description>
+			<description>für Sopran und Violine</description>
 			<length>1:03</length>
 			<instrument name="Sopran">
 				<player name="Adrienne Csengery"/>
@@ -534,7 +534,7 @@
 		</composition>
 		<composition>
 			<name>Vier Mikroludien op. 13/4, 6, 10, 5</name>
-			<description>f&uuml;r Streichquartett</description>
+			<description>für Streichquartett</description>
 			<length>3:37</length>
 			<player name="Keller Quartett"/>
 			<composed start="1977" end="1978"/>
@@ -544,7 +544,7 @@
 		</composition>
 		<composition>
 			<name>Il pleut sur la ville</name>
-			<description>f&uuml;r Sopran und Klavier</description>
+			<description>für Sopran und Klavier</description>
 			<length>1:37</length>
 			<instrument name="Sopran">
 				<player name="Adrienne Csengery"/>
@@ -559,7 +559,7 @@
 		</composition>
 		<composition>
 			<name>J&aacute;nos Pilinszky: G&eacute;rard de Nerval</name>
-			<description>f&uuml;r Violoncello</description>
+			<description>für Violoncello</description>
 			<length>1:18</length>
 			<instrument name="Violoncello">
 				<player name="Mikl&oacute;s Per&eacute;nyi"/>
@@ -571,7 +571,7 @@
 		</composition>
 		<composition>
 			<name>Drei alte Inschriften op. 25</name>
-			<description>f&uuml;r Sopran und Klavier</description>
+			<description>für Sopran und Klavier</description>
 			<length>6:58</length>
 			<instrument name="Sopran">
 				<player name="Adrienne Csengery"/>
@@ -585,8 +585,8 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Requiem po drugu (Requiem f&uuml;r einen Freund) op. 26</name>
-			<description>f&uuml;r Sopran und Klavier auf Gedichte von Rimma Dalos</description>
+			<name>Requiem po drugu (Requiem für einen Freund) op. 26</name>
+			<description>für Sopran und Klavier auf Gedichte von Rimma Dalos</description>
 			<length>5:47</length>
 			<instrument name="Sopran">
 				<player name="Adrienne Csengery"/>
@@ -601,7 +601,7 @@
 		</composition>
 		<composition>
 			<name>Lebewohl op. 26/4</name>
-			<description>f&uuml;r Sopran und Klavier</description>
+			<description>für Sopran und Klavier</description>
 			<length>1:50</length>
 			<instrument name="Sopran">
 				<player name="Adrienne Csengery"/>
@@ -616,7 +616,7 @@
 		</composition>
 		<composition>
 			<name>...quasi una fantasia... op. 27 Nr. 1</name>
-			<description>f&uuml;r Klavier und Instrumentengruppen</description>
+			<description>für Klavier und Instrumentengruppen</description>
 			<length>10:36</length>
 			<instrument name="Klavier">
 				<player name="Zolt&aacute;n Kocsis"/>
@@ -629,12 +629,12 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Grabstein f&uuml;r Stephan</name>
-			<description>f&uuml;r Gitarre und Instrumentengruppen</description>
+			<name>Grabstein für Stephan</name>
+			<description>für Gitarre und Instrumentengruppen</description>
 			<description>In memoriam Stephan Stein</description>
 			<length>9:17</length>
 			<instrument name="Gitarre">
-				<player name="J&uuml;rgen Ruck"/>
+				<player name="Jürgen Ruck"/>
 			</instrument>
 			<player name="Berliner Philharmoniker"/>
 			<conductor>Claudio Abbado</conductor>
@@ -644,11 +644,11 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Grabstein f&uuml;r Stephan op. 15c</name>
-			<description>f&uuml;r Gitarre und Instrumentengruppen</description>
+			<name>Grabstein für Stephan op. 15c</name>
+			<description>für Gitarre und Instrumentengruppen</description>
 			<length>9:42</length>
 			<instrument name="Gitarre">
-				<player name="J&uuml;rgen Ruck"/>
+				<player name="Jürgen Ruck"/>
 			</instrument>
 			<player name="Budapester Festival Orchester"/>
 			<conductor>Peter E&ouml;tv&ouml;s</conductor>
@@ -660,7 +660,7 @@
 		<composition>
 			<name>The Answered Unanswered Question op. 31b</name>
 			<description>Message-Hommage &agrave; Frances-Marie Uitti</description>
-			<description>Version Nr. 2 f&uuml;r zwei Violoncelli, zwei Violinen und Celesta</description>
+			<description>Version Nr. 2 für zwei Violoncelli, zwei Violinen und Celesta</description>
 			<length>3:42</length>
 			<instrument name="Violoncello">
 				<player name="Mikl&oacute;s Per&eacute;nyi"/>
@@ -679,7 +679,7 @@
 		</composition>
 		<composition>
 			<name>Doppelkonzert op. 27 Nr. 2</name>
-			<description>f&uuml;r Klavier, Violoncello und zwei Ensembles</description>
+			<description>für Klavier, Violoncello und zwei Ensembles</description>
 			<length>16:45</length>
 			<instrument name="Klavier">
 				<player name="Zolt&aacute;n Kocsis"/>
@@ -696,7 +696,7 @@
 		</composition>
 		<composition>
 			<name>Samuel Beckett: What is the Word op. 30b</name>
-			<description>f&uuml;r Altstimme (Rezitation), Vokalensemble und Kammerensemble</description>
+			<description>für Altstimme (Rezitation), Vokalensemble und Kammerensemble</description>
 			<length>16:39</length>
 			<instrument name="Alt (Rezitation)">
 				<player name="Ildik&oacute; Mony&oacute;k"/>
@@ -711,7 +711,7 @@
 		</composition>
 		<composition>
 			<name>Tam&aacute;s Blum in memoriam</name>
-			<description>f&uuml;r Viola</description>
+			<description>für Viola</description>
 			<length>2:27</length>
 			<instrument name="Viola">
 				<player name="Zolt&aacute;n G&aacute;l"/>
@@ -736,7 +736,7 @@
 	<composer name="Hanspeter" surname="Kyburz" born="1960" died="">
 		<composition>
 			<name>Cells</name>
-			<description>f&uuml;r Saxophon und Ensemble</description>
+			<description>für Saxophon und Ensemble</description>
 			<length>13:35</length>
 			<instrument name="Saxophon">
 				<player name="Markus Weiss"/>

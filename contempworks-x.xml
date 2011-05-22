@@ -75,7 +75,7 @@
 		</composition>
 		<composition>
 			<name>Achorripsis</name>
-			<description>f&uuml;r 21 Instrumente</description>
+			<description>für 21 Instrumente</description>
 			<length>5:19</length>
 			<player name="Ensemble Instrumental de Musique Contemporaine de Paris"/>
 			<conductor>Konstantin Simonovich</conductor>
@@ -125,7 +125,7 @@
 		</composition>
 		<composition>
 			<name>Syrmos</name>
-			<description>f&uuml;r 18 Streicher</description>
+			<description>für 18 Streicher</description>
 			<length>11:38</length>
 			<player name="Ensemble Ars Nova de l'ORTF"/>
 			<conductor>Marius Constant</conductor>
@@ -146,7 +146,7 @@
 		</composition>
 		<composition>
 			<name>ST/48-1,240162</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>8:22</length>
 			<player name="WDR Sinfonieorchester K&ouml;ln"/>
 			<conductor>Michel Tabachnik</conductor>
@@ -334,10 +334,10 @@
 		</composition>
 		<composition>
 			<name>Terretektorh</name>
-			<description>f&uuml;r im Publikumsraum verteiltes Orchester</description>
+			<description>für im Publikumsraum verteiltes Orchester</description>
 			<length>15:17</length>
 			<player name="Orchestre Philharmonique de l'ORTF"/>
-			<conductor>Charles Br&uuml;ck</conductor>
+			<conductor>Charles Brück</conductor>
 			<composed start="1965" end="1966"/>
 			<recorded start=""/>
 			<release>RZ 1015-16</release>
@@ -367,7 +367,7 @@
 		</composition>
 		<composition>
 			<name>Polytope de Montr&eacute;al</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>6:18</length>
 			<player name="Ensemble Ars Nova de l'ORTF"/>
 			<conductor>Marius Constant</conductor>
@@ -378,10 +378,10 @@
 		</composition>
 		<composition>
 			<name>Nomos Gamma</name>
-			<description>f&uuml;r im Publikumsraum verteiltes Orchester</description>
+			<description>für im Publikumsraum verteiltes Orchester</description>
 			<length>15:17</length>
 			<player name="Orchestre Philharmonique de l'ORTF"/>
-			<conductor>Charles Br&uuml;ck</conductor>
+			<conductor>Charles Brück</conductor>
 			<composed start="1967" end="1968"/>
 			<recorded start=""/>
 			<release>RZ 1015-16</release>
@@ -992,7 +992,7 @@
 		</composition>
 		<composition>
 			<name>Ata</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>15:01</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Michael Gielen</conductor>

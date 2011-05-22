@@ -356,7 +356,7 @@
 		</composition>
 		<composition>
 			<name>Botschaft</name>
-			<description>f&uuml;r Streichorchester, zwei Klaviere und Schlaginstrumente</description>
+			<description>für Streichorchester, zwei Klaviere und Schlaginstrumente</description>
 			<length>16:04</length>
 			<player name="Latvijas Nacionalais Simfoniskais Orkestris, Riga"/>
 			<conductor>Pauls Megi</conductor>
@@ -367,7 +367,7 @@
 		</composition>
 		<composition>
 			<name>Musica dolorosa</name>
-			<description>f&uuml;r Streichorchester</description>
+			<description>für Streichorchester</description>
 			<length>13:00</length>
 			<player name="Latvijas Filharmonijas Kamerorkestris"/>
 			<conductor>Tovijs Lifsics</conductor>
@@ -377,7 +377,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Symphonie f&uuml;r Streicher &quot;Stimmen&quot;</name>
+			<name>Symphonie für Streicher &quot;Stimmen&quot;</name>
 			<length>27:14</length>
 			<player name="Latvijas Filharmonijas Kamerorkestris"/>
 			<conductor>Tovijs Lifsics</conductor>

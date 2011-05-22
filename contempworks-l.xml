@@ -67,8 +67,8 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Notturno (Musik f&uuml;r Julia)</name>
-			<description>f&uuml;r kleines Orchester mit Violoncello</description>
+			<name>Notturno (Musik für Julia)</name>
+			<description>für kleines Orchester mit Violoncello</description>
 			<length>19:00</length>
 			<instrument name="Violoncello">
 				<player name="Andreas Lindenbaum"/>
@@ -82,7 +82,7 @@
 		</composition>
 		<composition>
 			<name>Les Consolations</name>
-			<description>f&uuml;r 16 Stimmen und Orchester</description>
+			<description>für 16 Stimmen und Orchester</description>
 			<length>32:20</length>
 			<player name="Schola Heidelberg"/>
 			<conductor>Walter Nu&szlig;baum</conductor>
@@ -95,7 +95,7 @@
 		</composition>
 		<composition>
 			<name>Consolation I</name>
-			<description>f&uuml;r 12 Stimmen und 4 Schlagzeuger</description>
+			<description>für 12 Stimmen und 4 Schlagzeuger</description>
 			<length>8:33</length>
 			<player name="ensemble aisthesis"/>
 			<player name="Schola Heidelberg"/>
@@ -107,7 +107,7 @@
 		</composition>
 		<composition>
 			<name>Consolation II</name>
-			<description>f&uuml;r 16 Stimmen</description>
+			<description>für 16 Stimmen</description>
 			<length>5:39</length>
 			<player name="Schola Heidelberg"/>
 			<conductor>Walter Nu&szlig;baum</conductor>
@@ -186,7 +186,7 @@
 		</composition>
 		<composition>
 			<name>Gran Torso</name>
-			<description>Musik f&uuml;r Streichquartett</description>
+			<description>Musik für Streichquartett</description>
 			<length>23:04</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1971" end="1978"/>
@@ -216,7 +216,7 @@
 		</composition>
 		<composition>
 			<name>Fassade</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>22:08</length>
 			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
 			<conductor>Michael Gielen</conductor>
@@ -227,7 +227,7 @@
 		</composition>
 		<composition>
 			<name>Schwankungen am Rand</name>
-			<description>Musik f&uuml;r Blech und Saiten</description>
+			<description>Musik für Blech und Saiten</description>
 			<length>32:21</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
@@ -237,8 +237,8 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Salut f&uuml;r Caudwell</name>
-			<description>Musik f&uuml;r zwei Gitarristen</description>
+			<name>Salut für Caudwell</name>
+			<description>Musik für zwei Gitarristen</description>
 			<length>25:14</length>
 			<instrument name="Guitar">
 				<player name="Wilhelm Bruck"/>
@@ -263,7 +263,7 @@
 		</composition>
 		<composition>
 			<name>Mouvement (- vor der Erstarrung)</name>
-			<description>f&uuml;r Ensemble</description>
+			<description>für Ensemble</description>
 			<length>22:27</length>
 			<player name="Klangforum Wien"/>
 			<conductor>Hans Zender</conductor>
@@ -274,7 +274,7 @@
 		</composition>
 		<composition>
 			<name>Ausklang</name>
-			<description>Musik f&uuml;r Klavier mit Orchester</description>
+			<description>Musik für Klavier mit Orchester</description>
 			<length>50:05</length>
 			<instrument name="Piano">
 				<player name="Massimiliano Damerini"/>
@@ -313,7 +313,7 @@
 		</composition>
 		<composition>
 			<name>Allegro sostenuto</name>
-			<description>Musik f&uuml;r Klarinette/Bassklarinette, Violoncello und Klavier</description>
+			<description>Musik für Klarinette/Bassklarinette, Violoncello und Klavier</description>
 			<length>35:05</length>
 			<instrument name="Klavier">
 				<player name="Yukiko Sugawara"/>
@@ -343,9 +343,9 @@
 		</composition>
 		<composition>
 			<name>Tableau</name>
-			<description>St&uuml;ck f&uuml;r Orchester</description>
+			<description>Stück für Orchester</description>
 			<length>9:55</length>
-			<player name="Rundfunk-Sinfonieorchester Saarbr&uuml;cken (SR)"/>
+			<player name="Rundfunk-Sinfonieorchester Saarbrücken (SR)"/>
 			<conductor>Hans Zender</conductor>
 			<composed start="1988" end="1989"/>
 			<recorded start="1989"/>
@@ -363,8 +363,8 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>&quot;...zwei Gef&uuml;hle...&quot; Musik mit Leonardo</name>
-			<description>f&uuml;r 2 Sprecher und Ensemble</description>
+			<name>&quot;...zwei Gefühle...&quot; Musik mit Leonardo</name>
+			<description>für 2 Sprecher und Ensemble</description>
 			<length>22:48</length>
 			<player name="Klangforum Wien"/>
 			<conductor>Hans Zender</conductor>
@@ -375,7 +375,7 @@
 		</composition>
 		<composition>
 			<name>NUN</name>
-			<description>f&uuml;r Fl&ouml;te, Posaune, Orchester mit M&auml;nnerstimmen</description>
+			<description>für Fl&ouml;te, Posaune, Orchester mit M&auml;nnerstimmen</description>
 			<length>39:14</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Gaby Pas-Van Riet"/>
@@ -393,7 +393,7 @@
 		</composition>
 		<composition>
 			<name>Serynade</name>
-			<description>f&uuml;r Klavier</description>
+			<description>für Klavier</description>
 			<length>32:35</length>
 			<instrument name="Klavier">
 				<player name="Yukiko Sugawara"/>
@@ -415,7 +415,7 @@
 		</composition>
 		<composition>
 			<name>Concertini</name>
-			<description>Musik f&uuml;r Ensemble</description>
+			<description>Musik für Ensemble</description>
 			<length>37:06</length>
 			<player name="Klangforum Wien"/>
 			<conductor>Johannes Kalitzke</conductor>
@@ -492,7 +492,7 @@
 		</composition>
 		<composition>
 			<name>Par-de l&agrave;</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>20:54</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Michael Gielen</conductor>
@@ -539,7 +539,7 @@
 			</part>
 			<part>
 				<number>2</number>
-				<name>Polif&oacute;n et&uuml;d - Polyphonic &Eacute;tude</name>
+				<name>Polif&oacute;n etüd - Polyphonic &Eacute;tude</name>
 				<length>2:09</length>
 				<composed start="1943"/>
 			</part>
@@ -574,7 +574,7 @@
 		</composition>
 		<composition>
 			<name>Mag&aacute;ny</name>
-			<description>f&uuml;r dreistimmigen Chor a cappella</description>
+			<description>für dreistimmigen Chor a cappella</description>
 			<length>2:58</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -923,7 +923,7 @@
 		</composition>
 		<composition>
 			<name>P&aacute;pain&eacute;</name>
-			<description>f&uuml;r achtstimmigen Chor a cappella</description>
+			<description>für achtstimmigen Chor a cappella</description>
 			<length>3:07</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -1019,7 +1019,7 @@
 		</composition>
 		<composition>
 			<name>Atmosph&egrave;res</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>8:35</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud</conductor>
@@ -1030,7 +1030,7 @@
 		</composition>
 		<composition>
 			<name>Atmosph&egrave;res</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>9:06</length>
 			<player name="Wiener Philharmoniker"/>
 			<conductor>Claudio Abbado</conductor>
@@ -1063,7 +1063,7 @@
 		</composition>
 		<composition>
 			<name>Volumina</name>
-			<description>f&uuml;r Orgel</description>
+			<description>für Orgel</description>
 			<length>15:17</length>
 			<instrument name="Orgel">
 				<player name="Karl-Erik Welin"/>
@@ -1087,7 +1087,7 @@
 		</composition>
 		<composition>
 			<name>Aventures</name>
-			<description>f&uuml;r 3 S&auml;nger und 7 Instrumentalisten</description>
+			<description>für 3 S&auml;nger und 7 Instrumentalisten</description>
 			<length>12:06</length>
 			<instrument name="Soprano">
 				<player name="Jane Manning"/>
@@ -1107,7 +1107,7 @@
 		</composition>
 		<composition>
 			<name>Aventures</name>
-			<description>f&uuml;r 3 S&auml;nger und 7 Instrumentalisten</description>
+			<description>für 3 S&auml;nger und 7 Instrumentalisten</description>
 			<length>10:58</length>
 			<instrument name="Sopran">
 				<player name="Gertie Charlent"/>
@@ -1147,7 +1147,7 @@
 		</composition>
 		<composition>
 			<name>Nouvelles Aventures</name>
-			<description>f&uuml;r 3 S&auml;nger und 7 Instrumentalisten</description>
+			<description>für 3 S&auml;nger und 7 Instrumentalisten</description>
 			<length>11:46</length>
 			<instrument name="Sopran">
 				<player name="Gertie Charlent"/>
@@ -1187,7 +1187,7 @@
 		</composition>
 		<composition>
 			<name>Requiem</name>
-			<description>f&uuml;r Sopran, Mezzosopran, zwei gemischte Ch&ouml;re und Orchester</description>
+			<description>für Sopran, Mezzosopran, zwei gemischte Ch&ouml;re und Orchester</description>
 			<length>26:55</length>
 			<instrument name="Sopran">
 				<player name="Liliana Poli"/>
@@ -1205,7 +1205,7 @@
 		</composition>
 		<composition score="Y">
 			<name>Lux Aeterna</name>
-			<description>f&uuml;r 16 stimmigen gemischten Chor a cappella</description>
+			<description>für 16 stimmigen gemischten Chor a cappella</description>
 			<length>7:58</length>
 			<instrument name="Hamburg">
 				<player name="Chor des NDR"/>
@@ -1218,7 +1218,7 @@
 		</composition>
 		<composition score="Y">
 			<name>Lontano</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>10:32</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
@@ -1229,7 +1229,7 @@
 		</composition>
 		<composition score="Y">
 			<name>Lontano</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>12:52</length>
 			<player name="Wiener Philharmoniker"/>
 			<conductor>Claudio Abbado</conductor>
@@ -1291,7 +1291,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Zwei Et&uuml;den f&uuml;r Orgel</name>
+			<name>Zwei Etüden für Orgel</name>
 			<length>10:15</length>
 			<instrument name="Orgel">
 				<player name="Zsigmond Szathm&aacute;ry"/>
@@ -1303,7 +1303,7 @@
 		</composition>
 		<composition>
 			<name>Continuum</name>
-			<description>f&uuml;r Cembalo</description>
+			<description>für Cembalo</description>
 			<length>3:56</length>
 			<instrument name="Cembalo">
 				<player name="Antoinette Vischer"/>
@@ -1340,7 +1340,7 @@
 			<description>Adapted for 2 Player Pianos</description>
 			<length>3:44</length>
 			<instrument name="Player Pianos">
-				<player name="J&uuml;rgen Hocker"/>
+				<player name="Jürgen Hocker"/>
 			</instrument>
 			<composed start="1968"/>
 			<recorded start="1995"/>
@@ -1360,10 +1360,10 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Zehn St&uuml;cke </name>
-			<description>f&uuml;r Bl&auml;serquintett</description>
+			<name>Zehn Stücke </name>
+			<description>für Bl&auml;serquintett</description>
 			<length>12:55</length>
-			<player name="Bl&auml;serquintett des S&uuml;dwestfunks, Baden-Baden"/>
+			<player name="Bl&auml;serquintett des Südwestfunks, Baden-Baden"/>
 			<composed start="1968"/>
 			<recorded start="1970"/>
 			<release>Wergo WER 60161-50</release>
@@ -1371,7 +1371,7 @@
 		</composition>
 		<composition>
 			<name>Ramifications</name>
-			<description>f&uuml;r Streichorchester oder 12 Solostreicher</description>
+			<description>für Streichorchester oder 12 Solostreicher</description>
 			<length>8:33</length>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
@@ -1382,7 +1382,7 @@
 		</composition>
 		<composition score="Y">
 			<name>Kammerkonzert</name>
-			<description>f&uuml;r 13 Instrumentalisten</description>
+			<description>für 13 Instrumentalisten</description>
 			<length>18:36</length>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
@@ -1514,8 +1514,8 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Magyar Et&uuml;d&ouml;k</name>
-			<description>f&uuml;r Stimmen a cappella</description>
+			<name>Magyar Etüd&ouml;k</name>
+			<description>für Stimmen a cappella</description>
 			<length>5:45</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -1667,7 +1667,7 @@
 				<composed start="1988"/>
 			</part>
 			<instrument name="Player Pianos">
-				<player name="J&uuml;rgen Hocker"/>
+				<player name="Jürgen Hocker"/>
 			</instrument>
 			<composed start="1988" end="1994"/>
 			<recorded start="1995"/>

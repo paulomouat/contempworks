@@ -56,10 +56,10 @@
 			<name>Imaginary Landscape No. 3</name>
 			<description>(with Mauricio Kagel)</description>
 			<description>Sechs Schlagzeuger, elektronische Kl&auml;nge</description>
-			<player name="K&ouml;lner Ensemble f&uuml;r Neue Musik"/>
+			<player name="K&ouml;lner Ensemble für Neue Musik"/>
 			<conductor>Mauricio Kagel</conductor>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<length>3:34</length>
 			<composed start="1942"/>
@@ -924,7 +924,7 @@
 			<description>(with David Tudor)</description>
 			<length>1:48</length>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1963"/>
 			<recorded start="1963"/>
@@ -1988,7 +1988,7 @@
 	<composer name="Niccol&ograve;" surname="Castiglioni" born="1932" died="">
 		<composition>
 			<name>Quodlibet aus &quot;Figure&quot;</name>
-			<description>Mobile per voce e orchestra f&uuml;r Sopran solo</description>
+			<description>Mobile per voce e orchestra für Sopran solo</description>
 			<length>4:17</length>
 			<instrument name="Sopran">
 				<player name="Ingrid Ade-Jesemann"/>
@@ -2002,7 +2002,7 @@
 		</composition>
 		<composition>
 			<name>Hymne</name>
-			<description>f&uuml;r 12 Stimmen</description>
+			<description>für 12 Stimmen</description>
 			<length>13:44</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -2038,7 +2038,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Concerto f&uuml;r Streichorchester</name>
+			<name>Concerto für Streichorchester</name>
 			<length>10:33</length>
 			<player name="Radio Symphonieorchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2049,7 +2049,7 @@
 		</composition>
 		<composition>
 			<name>Zehn Rubaijat des Omar Chajjam</name>
-			<description>f&uuml;r gemischten Chor a cappella 1. Buch</description>
+			<description>für gemischten Chor a cappella 1. Buch</description>
 			<length>11:00</length>
 			<player name="ORF Chor"/>
 			<conductor>Erwin Ortner</conductor>
@@ -2060,7 +2060,7 @@
 		</composition>
 		<composition>
 			<name>Triptychon</name>
-			<description>Konzertante Musik f&uuml;r Kammerorchester</description>
+			<description>Konzertante Musik für Kammerorchester</description>
 			<length>10:20</length>
 			<player name="Radio Symphonieorchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2070,7 +2070,7 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Konzert f&uuml;r Klavier und Orchester</name>
+			<name>Konzert für Klavier und Orchester</name>
 			<length>31:56</length>
 			<instrument name="Klavier">
 				<player name="Thomas Larcher"/>
@@ -2083,7 +2083,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Divertimento f&uuml;r 8 Bl&auml;ser und Schlagzeug</name>
+			<name>Divertimento für 8 Bl&auml;ser und Schlagzeug</name>
 			<description>Hommage &agrave; Strawinsky</description>
 			<length>11:03</length>
 			<player name="Mitglieder des Radio Symphonie Orchesters Wien"/>
@@ -2095,10 +2095,10 @@
 		</composition>
 		<composition>
 			<name>Relazioni fragili</name>
-			<description>f&uuml;r Cembalo und Kammerensemble</description>
+			<description>für Cembalo und Kammerensemble</description>
 			<length>24:28</length>
 			<instrument name="Cembalo">
-				<player name="Florian M&uuml;ller"/>
+				<player name="Florian Müller"/>
 			</instrument>
 			<player name="Klangforum Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2109,7 +2109,7 @@
 		</composition>
 		<composition>
 			<name>Espressioni fondamentali</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>16:30</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2130,7 +2130,7 @@
 		</composition>
 		<composition>
 			<name>Intersecazioni</name>
-			<description>f&uuml;r Violine und Orchester</description>
+			<description>für Violine und Orchester</description>
 			<length>28:57</length>
 			<instrument name="Violine">
 				<player name="Ernst Kovacic"/>
@@ -2144,7 +2144,7 @@
 		</composition>
 		<composition>
 			<name>Fasce</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>22:32</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2155,7 +2155,7 @@
 		</composition>
 		<composition>
 			<name>Spiegel II</name>
-			<description>f&uuml;r 55 Streicher</description>
+			<description>für 55 Streicher</description>
 			<length>11:27</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
@@ -2166,7 +2166,7 @@
 		</composition>
 		<composition>
 			<name>Spiegel I, VI, VII</name>
-			<description>f&uuml;r gro&szlig;es Orchester und Tonband</description>
+			<description>für gro&szlig;es Orchester und Tonband</description>
 			<length>32:31</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2177,7 +2177,7 @@
 		</composition>
 		<composition>
 			<name>Spiegel I-VII</name>
-			<description>f&uuml;r Gro&szlig;es Orchester und Tonband</description>
+			<description>für Gro&szlig;es Orchester und Tonband</description>
 			<length>1:25:21</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2188,7 +2188,7 @@
 		</composition>
 		<composition>
 			<name>Netzwerk</name>
-			<description>B&uuml;hnenwerk in 3 Teilen</description>
+			<description>Bühnenwerk in 3 Teilen</description>
 			<length>1:39:17</length>
 			<instrument name="Sprecher">
 				<player name="Mircea Mihalache"/>
@@ -2217,7 +2217,7 @@
 				<player name="Ernst Meister"/>
 				<player name="Helmut Janatsch"/>
 				<player name="Guido Wieland"/>
-				<player name="G&uuml;nther Anders"/>
+				<player name="Günther Anders"/>
 				<player name="Grete Zimmer"/>
 			</instrument>
 			<player name="2 Singstimmen (ORF Chor)"/>
@@ -2232,7 +2232,7 @@
 		</composition>
 		<composition>
 			<name>Verzeichnis</name>
-			<description>f&uuml;r 16-stimmigen Chor a cappella</description>
+			<description>für 16-stimmigen Chor a cappella</description>
 			<length>9:23</length>
 			<player name="ORF Chor"/>
 			<conductor>Erwin Ortner</conductor>
@@ -2243,7 +2243,7 @@
 		</composition>
 		<composition>
 			<name>Langegger Nachtmusik I</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>10:00</length>
 			<player name="Ensemble &quot;die reihe&quot;"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2254,7 +2254,7 @@
 		</composition>
 		<composition>
 			<name>Curriculum</name>
-			<description>f&uuml;r Bl&auml;ser</description>
+			<description>für Bl&auml;ser</description>
 			<length>17:23</length>
 			<player name="Radio Symphonieorchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2265,7 +2265,7 @@
 		</composition>
 		<composition>
 			<name>Baal</name>
-			<description>B&uuml;hnenwerk in 2 Teilen</description>
+			<description>Bühnenwerk in 2 Teilen</description>
 			<length>2:43:18</length>
 			<player name="Wiener Philharmoniker"/>
 			<conductor>Christoph von Dohn&aacute;nyi</conductor>
@@ -2276,7 +2276,7 @@
 		</composition>
 		<composition>
 			<name>Keintate</name>
-			<description>f&uuml;r mittlere Stimme (Chansonnier) und Instrumente nach Wiener Spr&uuml;chen von Ernst Kein</description>
+			<description>für mittlere Stimme (Chansonnier) und Instrumente nach Wiener Sprüchen von Ernst Kein</description>
 			<length>48:12</length>
 			<instrument name="Chansonnier">
 				<player name="Heinz Karl Gruber"/>
@@ -2289,7 +2289,7 @@
 		</composition>
 		<composition>
 			<name>Eine Art Chansons</name>
-			<description>f&uuml;r einen Chansonnier, Schlagzeug, Klavier und Kontrabass</description>
+			<description>für einen Chansonnier, Schlagzeug, Klavier und Kontrabass</description>
 			<length>28:25</length>
 			<instrument name="Chansonnier">
 				<player name="Heinz Karl Gruber"/>
@@ -2309,8 +2309,8 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Monumentum f&uuml;r Karl Prantl</name>
-			<description>f&uuml;r Gro&szlig;es Orchester</description>
+			<name>Monumentum für Karl Prantl</name>
+			<description>für Gro&szlig;es Orchester</description>
 			<length>20:15</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Michael Gielen</conductor>
@@ -2338,8 +2338,8 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>Phantasiest&uuml;ck in C.'s Manier</name>
-			<description>f&uuml;r Violoncello und Orchester/Ensemble</description>
+			<name>Phantasiestück in C.'s Manier</name>
+			<description>für Violoncello und Orchester/Ensemble</description>
 			<length>10:49</length>
 			<instrument name="Violoncello">
 				<player name="Heinrich Schiff"/>
@@ -2362,7 +2362,7 @@
 		</composition>
 		<composition>
 			<name>Langegger Nachtmusik III</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>22:44</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2382,7 +2382,7 @@
 		</composition>
 		<composition>
 			<name>Quellen</name>
-			<description>f&uuml;r Ensemble</description>
+			<description>für Ensemble</description>
 			<length>12:43</length>
 			<player name="Radio Symphonieorchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2393,7 +2393,7 @@
 		</composition>
 		<composition>
 			<name>Impulse</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>21:49</length>
 			<player name="Wiener Philharmoniker"/>
 			<conductor>Pierre Boulez</conductor>
@@ -2403,8 +2403,8 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>F&uuml;r K</name>
-			<description>f&uuml;r Kammerorchester</description>
+			<name>Für K</name>
+			<description>für Kammerorchester</description>
 			<length>17:24</length>
 			<player name="Klangforum Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2414,8 +2414,8 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>F&uuml;r K</name>
-			<description>f&uuml;r Kammerorchester</description>
+			<name>Für K</name>
+			<description>für Kammerorchester</description>
 			<length>17:00</length>
 			<player name="Radio Symphonieorchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2435,7 +2435,7 @@
 		</composition>
 		<composition>
 			<name>Acht S&auml;tze nach H&ouml;lderlin-Fragmenten</name>
-			<description>f&uuml;r Streichsextett</description>
+			<description>für Streichsextett</description>
 			<length>21:26</length>
 			<player name="Arditti String Quartet"/>
 			<player name="Thomas Kakuska"/>
@@ -2507,7 +2507,7 @@
 				<player name="Urs Bumbacher"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="Viktor M&uuml;ller"/>
+				<player name="Viktor Müller"/>
 			</instrument>
 			<composed start="1964"/>
 			<recorded start="1996"/>
@@ -2528,7 +2528,7 @@
 				<player name="Hansruedi Bissegger"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="Viktor M&uuml;ller"/>
+				<player name="Viktor Müller"/>
 			</instrument>
 			<composed start="1966"/>
 			<recorded start="1996"/>
@@ -2546,7 +2546,7 @@
 				<player name="Samuel Brunner"/>
 			</instrument>
 			<instrument name="Amplified piano">
-				<player name="Viktor M&uuml;ller"/>
+				<player name="Viktor Müller"/>
 			</instrument>
 			<composed start="1971"/>
 			<recorded start="1996"/>
@@ -2577,7 +2577,7 @@
 				<player name="Urs Bumbacher"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="Viktor M&uuml;ller"/>
+				<player name="Viktor Müller"/>
 			</instrument>
 			<instrument name="Percussion">
 				<player name="Matthias Eser"/>

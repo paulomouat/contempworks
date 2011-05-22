@@ -4,10 +4,10 @@
 <list>
 	<composer name="Hans" surname="Haass" born="1897" died="1955">
 		<composition>
-			<name>Capriccio, Fuge und Intermezzo f&uuml;r mechanisches Klavier</name>
+			<name>Capriccio, Fuge und Intermezzo für mechanisches Klavier</name>
 			<length>8:02</length>
 			<instrument name="Player Piano">
-				<player name="J&uuml;rgen Hocker"/>
+				<player name="Jürgen Hocker"/>
 			</instrument>
 			<composed start="?"/>
 			<recorded start="1927" end="94"/>
@@ -41,7 +41,7 @@
 	<composer name="Crist&oacute;bal" surname="Halffter" born="1930" died="">
 		<composition>
 			<name>Planto por las v&iacute;ctimas de la violencia</name>
-			<description>f&uuml;r Kammerensemble und elektronische Klangumwandlung</description>
+			<description>für Kammerensemble und elektronische Klangumwandlung</description>
 			<length>16:51</length>
 			<instrument name="Altsaxophon">
 				<player name="Kurt Edelhagen"/>
@@ -107,7 +107,7 @@
 		</composition>
 		<composition>
 			<name>Variaciones sobre la resonancia de un grito</name>
-			<description>f&uuml;r 11 Instrumente, Tonband und live-elektronische Klangumwandlung</description>
+			<description>für 11 Instrumente, Tonband und live-elektronische Klangumwandlung</description>
 			<length>26:50</length>
 			<player name="Mitglieder des SWF-Sinfonieorchesters Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
@@ -132,7 +132,7 @@
 		</composition>
 		<composition>
 			<name>Jarchas de dolor de ausencia</name>
-			<description>f&uuml;r gemischten Chor</description>
+			<description>für gemischten Chor</description>
 			<length>21:53</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -259,7 +259,7 @@
 	<composer name="Karl Amadeus" surname="Hartmann" born="1905" died="1963">
 		<composition>
 			<name>Adagio (2. Sinfonie)</name>
-			<description>f&uuml;r Gro&szlig;es Orchester</description>
+			<description>für Gro&szlig;es Orchester</description>
 			<length>15:26</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud</conductor>
@@ -565,7 +565,7 @@
 		</composition>
 		<composition>
 			<name>Credentials or Think, Think Lucky</name>
-			<description>f&uuml;r Sprechstimme und acht Instrumente</description>
+			<description>für Sprechstimme und acht Instrumente</description>
 			<length>13:01</length>
 			<instrument name="Sprechstimme">
 				<player name="Cathy Berberian"/>
@@ -715,7 +715,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>F&uuml;r Kandinsky</name>
+			<name>Für Kandinsky</name>
 			<length>12:14</length>
 			<player name="Ensemble Recherche"/>
 			<composed start="1987"/>
@@ -777,7 +777,7 @@
 	</composer>
 	<composer name="Hans Werner" surname="Henze" born="1926" died="">
 		<composition>
-			<name>1. Konzert f&uuml;r Klavier und Orchester</name>
+			<name>1. Konzert für Klavier und Orchester</name>
 			<length>18:17</length>
 			<instrument name="Klavier">
 				<player name="Christopher Tainton"/>
@@ -791,7 +791,7 @@
 		</composition>
 		<composition>
 			<name>Antifone</name>
-			<description>f&uuml;r 11 Solostreicher, Bl&auml;ser und Schlagzeug</description>
+			<description>für 11 Solostreicher, Bl&auml;ser und Schlagzeug</description>
 			<length>16:59</length>
 			<player name="NDR Sinfonieorchester"/>
 			<conductor>Peter Ruzicka</conductor>
@@ -802,7 +802,7 @@
 		</composition>
 		<composition>
 			<name>Scorribanda sinfonica sopra la tomba di una maratona</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>15:11</length>
 			<player name="NDR Sinfonieorchester"/>
 			<conductor>Peter Ruzicka</conductor>
@@ -814,7 +814,7 @@
 	</composer>
 	<composer name="J&ouml;rg" surname="Herchet" born="1943" died="">
 		<composition>
-			<name>Komposition f&uuml;r Posaune, Bariton und Orchester</name>
+			<name>Komposition für Posaune, Bariton und Orchester</name>
 			<length>29:29</length>
 			<instrument name="Bariton">
 				<player name="Armin Rosin"/>
@@ -863,7 +863,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>7 Triost&uuml;cke f&uuml;r 3 Trautonien</name>
+			<name>7 Triostücke für 3 Trautonien</name>
 			<length>11:11</length>
 			<instrument name="Mixturtrautonium und elektronisches Studio, Berlin">
 				<player name="Oskar Sala"/>
@@ -874,12 +874,12 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Konzertst&uuml;ck f&uuml;r Trautonium mit Begleitung des Streichorchesters</name>
+			<name>Konzertstück für Trautonium mit Begleitung des Streichorchesters</name>
 			<length>8:48</length>
 			<instrument name="Mixturtrautonium">
 				<player name="Oskar Sala"/>
 			</instrument>
-			<player name="M&uuml;nchner Kammerorchester"/>
+			<player name="Münchner Kammerorchester"/>
 			<conductor>Hans Stadlmair</conductor>
 			<composed start="1931"/>
 			<recorded start="1976" end="77"/>
@@ -903,10 +903,10 @@
 	<composer name="York" surname="H&ouml;ller" born="1944" died="">
 		<composition>
 			<name>Antiphon</name>
-			<description>f&uuml;r Streichquartett auf Tonband</description>
+			<description>für Streichquartett auf Tonband</description>
 			<length>17:29</length>
-			<player name="Saarbr&uuml;cker Streichquartett"/>
-			<player name="Elektronisches Studio der Staatlichen Hochschule f&uuml;r Musik K&ouml;ln"/>
+			<player name="Saarbrücker Streichquartett"/>
+			<player name="Elektronisches Studio der Staatlichen Hochschule für Musik K&ouml;ln"/>
 			<composed start="1976"/>
 			<recorded start="1981"/>
 			<release>Wergo WER 6515-2</release>
@@ -914,11 +914,11 @@
 		</composition>
 		<composition>
 			<name>Mythos</name>
-			<description>Klanggedicht f&uuml;r 13 Instrumente, Schlagzeug und elektronische Kl&auml;nge</description>
+			<description>Klanggedicht für 13 Instrumente, Schlagzeug und elektronische Kl&auml;nge</description>
 			<length>22:57</length>
-			<player name="Mitglieder des Rundfunk-Sinfonieorchesters des S&uuml;dwestfunks"/>
+			<player name="Mitglieder des Rundfunk-Sinfonieorchesters des Südwestfunks"/>
 			<instrument name="K&ouml;ln">
-				<player name="Studio f&uuml;r Elektronische Musik des WDR"/>
+				<player name="Studio für Elektronische Musik des WDR"/>
 			</instrument>
 			<conductor>Johannes Kalitzke</conductor>
 			<composed start="1979" end="1980"/>
@@ -928,7 +928,7 @@
 		</composition>
 		<composition>
 			<name>Traumspiel</name>
-			<description>Klanggedicht f&uuml;r Sopran, gro&szlig;es Orchester und elektronische Kl&auml;nge</description>
+			<description>Klanggedicht für Sopran, gro&szlig;es Orchester und elektronische Kl&auml;nge</description>
 			<length>25:41</length>
 			<instrument name="Sopran">
 				<player name="Karan Armstrong"/>
@@ -946,7 +946,7 @@
 		</composition>
 		<composition>
 			<name>Improvisation sur le nom de Pierre Boulez</name>
-			<description>f&uuml;r 17 Instrumentalisten</description>
+			<description>für 17 Instrumentalisten</description>
 			<length>3:40</length>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Peter E&ouml;tv&ouml;s</conductor>
@@ -959,7 +959,7 @@
 	<composer name="Heinz" surname="Holliger" born="1939" died="">
 		<composition>
 			<name>Pneuma</name>
-			<description>f&uuml;r Bl&auml;ser, Schlagzeug, Orgel und Radios</description>
+			<description>für Bl&auml;ser, Schlagzeug, Orgel und Radios</description>
 			<length>15:48</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
@@ -975,25 +975,25 @@
 			<part>
 				<number>1</number>
 				<name>Die Jahreszeiten</name>
-				<description>dreimal vier Lieder f&uuml;r Chor a cappella</description>
+				<description>dreimal vier Lieder für Chor a cappella</description>
 				<composed start="1975" end="1978"/>
 			</part>
 			<part>
 				<number>2</number>
 				<name>&Uuml;bungen zu Scardanelli</name>
-				<description>f&uuml;r kleines Orchester - Kommentare, Spiegel, Entgegnungen, Marginalien zu den Jahreszeiten</description>
+				<description>für kleines Orchester - Kommentare, Spiegel, Entgegnungen, Marginalien zu den Jahreszeiten</description>
 				<composed start="1975" end="1985"/>
 			</part>
 			<part>
 				<number>3</number>
 				<name>(T)air(e)</name>
-				<description>f&uuml;r Fl&ouml;te solo</description>
+				<description>für Fl&ouml;te solo</description>
 				<composed start="1978" end="1983"/>
 			</part>
 			<part>
 				<number>4</number>
 				<name>Turm-Musik</name>
-				<description>f&uuml;r Fl&ouml;te solo, kleines Orchester und Tonband</description>
+				<description>für Fl&ouml;te solo, kleines Orchester und Tonband</description>
 				<composed start="1984"/>
 			</part>
 			<instrument name="Fl&ouml;te">
@@ -1141,7 +1141,7 @@
 		</composition>
 		<composition>
 			<name>...nudo que ainsi junt&aacute;is</name>
-			<description>f&uuml;r 16 Stimmen in 3 Gruppen</description>
+			<description>für 16 Stimmen in 3 Gruppen</description>
 			<length>16:15</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>

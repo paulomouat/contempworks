@@ -18,7 +18,7 @@
 		</composition>
 		<composition>
 			<name>Ember</name>
-			<description>f&uuml;r Orchester und Zuspielband</description>
+			<description>für Orchester und Zuspielband</description>
 			<length>26:30</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden und Freiburg"/>
 			<instrument name="Klangregie">
@@ -1111,7 +1111,7 @@
 		</composition>
 		<composition>
 			<name>For Samuel Beckett</name>
-			<description>f&uuml;r 23 Spieler</description>
+			<description>für 23 Spieler</description>
 			<length>54:38</length>
 			<player name="Klangforum Wien"/>
 			<conductor>Sylvain Cambreling</conductor>
@@ -1230,7 +1230,7 @@
 		</composition>
 		<composition>
 			<name>Time and Motion Study II</name>
-			<description>f&uuml;r vokalisierenden Cellisten und Live-Elektronik</description>
+			<description>für vokalisierenden Cellisten und Live-Elektronik</description>
 			<length>22:12</length>
 			<instrument name="Violoncello">
 				<player name="Werner Taube"/>
@@ -1634,7 +1634,7 @@
 	<composer name="Silvia" surname="F&oacute;mina" born="1962" died="">
 		<composition>
 			<name>Auguri Aquae</name>
-			<description>Klang-Bewegung f&uuml;r Stimmen und Orchester</description>
+			<description>Klang-Bewegung für Stimmen und Orchester</description>
 			<length>18:42</length>
 			<instrument name="Klavier">
 				<player name="Yukiko Sugawara"/>
@@ -1643,7 +1643,7 @@
 				<player name="Tomoka Hemmi"/>
 			</instrument>
 			<player name="SWF-Sinfonieorchester Baden-Baden und Freiburg"/>
-			<player name="Experimentalstudio der Heinrich-Strobel-Stiftung des S&uuml;dwestfunks Freiburg"/>
+			<player name="Experimentalstudio der Heinrich-Strobel-Stiftung des Südwestfunks Freiburg"/>
 			<instrument name="Klangregie">
 				<player name="Joachim Haas"/>
 				<player name="Andr&eacute; Richard"/>
@@ -1710,7 +1710,7 @@
 	<composer name="Beat" surname="Furrer" born="1954" died="">
 		<composition>
 			<name>Fama</name>
-			<description>H&ouml;rtheater f&uuml;r gro&szlig;es Ensemble, acht Stimmen, Schauspielerin und Klanggeb&auml;ude</description>
+			<description>H&ouml;rtheater für gro&szlig;es Ensemble, acht Stimmen, Schauspielerin und Klanggeb&auml;ude</description>
 			<length>1:06:35</length>
 			<instrument name="Kontrabassfl&ouml;te">
 				<player name="Eva Furrer"/>

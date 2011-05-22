@@ -19,7 +19,7 @@
 	<composer name="Younghi" surname="Pagh-Paan" born="1945" died="">
 		<composition>
 			<name>NIM</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>15:07</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Michael Gielen</conductor>
@@ -814,7 +814,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>F&uuml;r Alina</name>
+			<name>Für Alina</name>
 			<length>10:47</length>
 			<instrument name="Piano">
 				<player name="Alexander Malter"/>
@@ -825,7 +825,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>F&uuml;r Alina</name>
+			<name>Für Alina</name>
 			<length>10:53</length>
 			<instrument name="Piano">
 				<player name="Alexander Malter"/>
@@ -839,7 +839,7 @@
 	<composer name="Brice" surname="Pauset" born="1965" died="">
 		<composition>
 			<name>Perspectivae Sintagma I (canons)</name>
-			<description>f&uuml;r MIDI-Klavier und Elektronik</description>
+			<description>für MIDI-Klavier und Elektronik</description>
 			<length>23:01</length>
 			<instrument name="Klavier">
 				<player name="Jean-Luc Plouvier"/>
@@ -857,7 +857,7 @@
 	<composer name="Krzysztof" surname="Penderecki" born="1933" died="">
 		<composition>
 			<name>Anaklasis</name>
-			<description>f&uuml;r Streicher und Schlagzeuggruppen</description>
+			<description>für Streicher und Schlagzeuggruppen</description>
 			<length>8:28</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud</conductor>
@@ -1002,7 +1002,7 @@
 		</composition>
 		<composition>
 			<name>Ecloga VIII</name>
-			<description>f&uuml;r 6 M&auml;nnerstimmen</description>
+			<description>für 6 M&auml;nnerstimmen</description>
 			<length>8:14</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -1025,7 +1025,7 @@
 	<composer name="Mats" surname="Persson" born="1943" died="">
 		<composition>
 			<name>Stilleben mit Sweelinck</name>
-			<description>f&uuml;r zwei Klaviere und Tonband</description>
+			<description>für zwei Klaviere und Tonband</description>
 			<length>16:40</length>
 			<instrument name="Piano">
 				<player name="Mats Persson"/>
@@ -1076,7 +1076,7 @@
 				<length>0:43</length>
 			</part>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1965"/>
 			<recorded start="1965"/>
@@ -1087,7 +1087,7 @@
 	<composer name="Henri" surname="Pousseur" born="1929" died="">
 		<composition>
 			<name>Quintette &agrave; la m&eacute;moire d'Anton Webern</name>
-			<description>f&uuml;r Klarinette, Ba&szlig;klarinette, Violine, Violoncello und Klavier</description>
+			<description>für Klarinette, Ba&szlig;klarinette, Violine, Violoncello und Klavier</description>
 			<length>12:50</length>
 			<instrument name="Klarinette">
 				<player name="Sepp Fackler"/>
@@ -1114,7 +1114,7 @@
 			<name>Ziele und Aussichten der elektronischen Musik Vortrag mit Klangbeispielen/Ausschnitt</name>
 			<length>1:27</length>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="?"/>
 			<recorded start="?"/>
@@ -1209,10 +1209,10 @@
 	<composer name="Bernfried" surname="Pr&ouml;ve" born="1963" died="">
 		<composition>
 			<name>Fernung - Horizont - N&auml;he</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>15:33</length>
 			<player name="Dresdner Philharmonie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1991" end="1992"/>
 			<recorded start="1992"/>
 			<release>Col Legno WWE 3CD 31860</release>
@@ -1222,7 +1222,7 @@
 	<composer name="Wolfgang" surname="Puschnig" born="1956" died="">
 		<composition>
 			<name>Rotationen 1</name>
-			<description>f&uuml;r Altsaxophon solo</description>
+			<description>für Altsaxophon solo</description>
 			<length>8:08</length>
 			<instrument name="Altsaxophon">
 				<player name="Wolfgang Puschnig"/>

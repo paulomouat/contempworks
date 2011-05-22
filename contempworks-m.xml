@@ -238,7 +238,7 @@
 			<released>1980/2005</released>
 		</composition>
 		<composition>
-			<name>St&auml;ndchen f&uuml;r Tini</name>
+			<name>St&auml;ndchen für Tini</name>
 			<description>for violin and viola</description>
 			<length>1:23</length>
 			<player name="Arditti String Quartet"/>
@@ -267,7 +267,7 @@
 		</composition>
 		<composition>
 			<name>Sacateca's Dance</name>
-			<description>f&uuml;r Fl&ouml;te, Tonband, Radio Baton und Computer</description>
+			<description>für Fl&ouml;te, Tonband, Radio Baton und Computer</description>
 			<length>10:16</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Bettina Geiger"/>
@@ -285,7 +285,7 @@
 		</composition>
 		<composition>
 			<name>The Wings of Perception II</name>
-			<description>Tonbandst&uuml;ck aus elektronischen und Metallobjekt-Kl&auml;ngen</description>
+			<description>Tonbandstück aus elektronischen und Metallobjekt-Kl&auml;ngen</description>
 			<length>10:31</length>
 			<composed start="1985" end="1992"/>
 			<recorded start="?"/>
@@ -294,7 +294,7 @@
 		</composition>
 		<composition>
 			<name>El Oro</name>
-			<description>f&uuml;r Fl&ouml;te, Violoncello, Sprecher und Tonband</description>
+			<description>für Fl&ouml;te, Violoncello, Sprecher und Tonband</description>
 			<length>14:49</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Bettina Geiger"/>
@@ -312,7 +312,7 @@
 		</composition>
 		<composition>
 			<name>The Spirit Catcher</name>
-			<description>f&uuml;r Cello, Tonband, Radio Baton und Computer</description>
+			<description>für Cello, Tonband, Radio Baton und Computer</description>
 			<length>10:34</length>
 			<instrument name="Violoncello">
 				<player name="Gaby Schumacher"/>
@@ -330,7 +330,7 @@
 		</composition>
 		<composition>
 			<name>The Tonal</name>
-			<description>f&uuml;r Metallobjekte</description>
+			<description>für Metallobjekte</description>
 			<length>10:59</length>
 			<instrument name="Metallobjekte">
 				<player name="Bassam Abdul-Salam"/>
@@ -343,7 +343,7 @@
 		</composition>
 		<composition>
 			<name>The Nagual</name>
-			<description>f&uuml;r Metallobjekte, Radio Baton, Computer und Tonband</description>
+			<description>für Metallobjekte, Radio Baton, Computer und Tonband</description>
 			<length>9:58</length>
 			<instrument name="Metallobjekte">
 				<player name="Bassam Abdul-Salam"/>
@@ -437,7 +437,7 @@
 	<composer name="Tom&aacute;s" surname="Marco" born="1942" died="">
 		<composition>
 			<name>Transfiguraci&oacute;n</name>
-			<description>f&uuml;r 16 Solostimmen</description>
+			<description>für 16 Solostimmen</description>
 			<length>9:43</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -601,7 +601,7 @@
 		</composition>
 		<composition>
 			<name>R&eacute;veil des Oiseaux</name>
-			<description>f&uuml;r Klavier und Orchester</description>
+			<description>für Klavier und Orchester</description>
 			<length>21:11</length>
 			<instrument name="Klavier">
 				<player name="Yvonne Loriod"/>
@@ -629,11 +629,11 @@
 	</composer>
 	<composer name="Diego" surname="Minciacchi" born="1955" died="">
 		<composition>
-			<name>Klavierst&uuml;ck Nr.4: Vae Victis</name>
-			<description>f&uuml;r Klavier, Tonband und Live-Elektronik</description>
+			<name>Klavierstück Nr.4: Vae Victis</name>
+			<description>für Klavier, Tonband und Live-Elektronik</description>
 			<length>13:53</length>
 			<instrument name="Klavier">
-				<player name="Ortwin St&uuml;rmer"/>
+				<player name="Ortwin Stürmer"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Joachim Haas"/>
@@ -662,7 +662,7 @@
 		</composition>
 		<composition>
 			<name>Obsoderso</name>
-			<description>f&uuml;r Altsaxophon, Orgel und Computer</description>
+			<description>für Altsaxophon, Orgel und Computer</description>
 			<length>22:55</length>
 			<instrument name="Altsaxophon">
 				<player name="Wolfgang Puschnig"/>
@@ -677,7 +677,7 @@
 		</composition>
 		<composition>
 			<name>Ostinato</name>
-			<description>f&uuml;r Altsaxophon und Synthesizer</description>
+			<description>für Altsaxophon und Synthesizer</description>
 			<length>1:29</length>
 			<instrument name="Altsaxophon">
 				<player name="Wolfgang Puschnig"/>
@@ -692,7 +692,7 @@
 		</composition>
 		<composition>
 			<name>Holladijodldijo</name>
-			<description>f&uuml;r Altsaxophon und Orgel</description>
+			<description>für Altsaxophon und Orgel</description>
 			<length>8:03</length>
 			<instrument name="Altsaxophon">
 				<player name="Wolfgang Puschnig"/>
@@ -707,7 +707,7 @@
 		</composition>
 		<composition>
 			<name>Ive</name>
-			<description>f&uuml;r Altsaxophon, Orgel und Computer</description>
+			<description>für Altsaxophon, Orgel und Computer</description>
 			<length>15:03</length>
 			<instrument name="Altsaxophon">
 				<player name="Wolfgang Puschnig"/>
@@ -788,7 +788,7 @@
 		<composition>
 			<name>Im Sturm</name>
 			<description>Liederzyklus, frei nach Franz Schubert</description>
-			<description>f&uuml;r Bariton, pr&auml;pariertes Klavier und electronics</description>
+			<description>für Bariton, pr&auml;pariertes Klavier und electronics</description>
 			<description>Georg Nigl gewidmet</description>
 			<length>46:41</length>
 			<instrument name="Baritone">
@@ -816,7 +816,7 @@
 		</composition>
 		<composition>
 			<name>Coloured noise</name>
-			<description>Brachialsymphonie f&uuml;r 23 Musiker und electronics</description>
+			<description>Brachialsymphonie für 23 Musiker und electronics</description>
 			<length>1:08:16</length>
 			<instrument name="Orgel">
 				<player name="Wolfgang Mitterer"/>
@@ -830,7 +830,7 @@
 		</composition>
 		<composition>
 			<name>Das tapfere Schneiderlein</name>
-			<description>Kleine Oper nach den Br&uuml;dern Grimm</description>
+			<description>Kleine Oper nach den Brüdern Grimm</description>
 			<length>52:56</length>
 			<player name="Wiener Taschenoper"/>
 			<composed start="2006"/>
@@ -840,7 +840,7 @@
 		</composition>
 		<composition>
 			<name>Leblos</name>
-			<description>f&uuml;r pr&auml;pariertes Klavier in zwei schichten</description>
+			<description>für pr&auml;pariertes Klavier in zwei schichten</description>
 			<length>12:19</length>
 			<instrument name="Prepared piano and electronics">
 				<player name="Wolfgang Mitterer"/>
@@ -994,7 +994,7 @@
 	<composer name="Isabel" surname="Mundry" born="1963" died="">
 		<composition>
 			<name>Gesichter</name>
-			<description>f&uuml;r S&auml;ngerin, Sprechs&auml;ngerin, 2 Schlagzeuger und Live-Elektronik</description>
+			<description>für S&auml;ngerin, Sprechs&auml;ngerin, 2 Schlagzeuger und Live-Elektronik</description>
 			<length>24:30</length>
 			<instrument name="Stimme und Gesang">
 				<player name="Salome Kammer"/>

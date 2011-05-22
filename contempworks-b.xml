@@ -480,7 +480,7 @@
 	<composer name="Alban" surname="Berg" born="1885" died="1935">
 		<composition>
 			<name>Die Nachtigall</name>
-			<description>bearbeitet f&uuml;r 16 Stimmen a cappella von Clytus Gottwald</description>
+			<description>bearbeitet für 16 Stimmen a cappella von Clytus Gottwald</description>
 			<length>2:35</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -538,7 +538,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Symphonische St&uuml;cke aus der Oper "Lulu" (Lulu-Suite)</name>
+			<name>Symphonische Stücke aus der Oper "Lulu" (Lulu-Suite)</name>
 			<description>for soprano and orchestra</description>
 			<length>34:14</length>
 			<instrument name="Soprano">
@@ -730,7 +730,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Sinfonia f&uuml;r acht Stimmen und Orchester</name>
+			<name>Sinfonia für acht Stimmen und Orchester</name>
 			<length>32:24</length>
 			<player name="Swingle Singers"/>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
@@ -953,7 +953,7 @@
 	<composer name="Antoine" surname="Beuger" born="1955" died="">
 		<composition>
 			<name>Fourth Music for Marcia Hafif (3)</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>13:50</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden und Freiburg"/>
 			<conductor>Olaf Henzold</conductor>
@@ -1214,7 +1214,7 @@
 		</composition>
 		<composition>
 			<name>Polyphonie X</name>
-			<description>f&uuml;r 18 Solo-Instrumente</description>
+			<description>für 18 Solo-Instrumente</description>
 			<length>16:36</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud</conductor>
@@ -1352,7 +1352,7 @@
 				<player name="Ludwig Heck"/>
 			</instrument>
 			<instrument name="Toningenieure">
-				<player name="Fred B&uuml;rck"/>
+				<player name="Fred Bürck"/>
 				<player name="Suzanne Vogt"/>
 				<player name="Hans Wurm"/>
 			</instrument>
@@ -1364,7 +1364,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Tombeau &agrave; la m&eacute;moire du Prince Max Egon zu F&uuml;rstenberg</name>
+			<name>Tombeau &agrave; la m&eacute;moire du Prince Max Egon zu Fürstenberg</name>
 			<description>Un peu profond ruisseau calomni&eacute;e la mort (Mallarm&eacute;)</description>
 			<length>7:18</length>
 			<instrument name="Sopran">
@@ -1706,7 +1706,7 @@
 		</composition>
 		<composition>
 			<name>Anth&egrave;mes</name>
-			<description>Version f&uuml;r Violine solo, Computer und sechs Lautsprecher</description>
+			<description>Version für Violine solo, Computer und sechs Lautsprecher</description>
 			<length>21:17</length>
 			<instrument name="Violine">
 				<player name="Hae Sun Kang"/>
@@ -1750,7 +1750,7 @@
 	<composer name="Nikolaus" surname="Brass" born="1949" died="">
 		<composition>
 			<name>Traumrede</name>
-			<description>f&uuml;r 4 Singstimmen</description>
+			<description>für 4 Singstimmen</description>
 			<length>18:33</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -2088,7 +2088,7 @@
 			<released>2007</released>
 		</composition>
 	</composer>
-	<composer name="Herbert" surname="Br&uuml;n" born="1918" died="2000">
+	<composer name="Herbert" surname="Brün" born="1918" died="2000">
 		<composition>
 			<name>Anepigraphe</name>
 			<length>7:42</length>
@@ -2104,7 +2104,7 @@
 			<name>Wayfaring Sounds</name>
 			<length>4:05</length>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1961"/>
 			<recorded start="1961"/>

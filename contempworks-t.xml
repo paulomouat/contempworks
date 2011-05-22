@@ -161,17 +161,17 @@
 	<composer name="Dimitri" surname="Terzakis" born="1938" died="">
 		<composition>
 			<name>Rabasso</name>
-			<description>f&uuml;r Saxophonquartett, Viola, Violoncello und Kontraba&szlig;</description>
+			<description>für Saxophonquartett, Viola, Violoncello und Kontraba&szlig;</description>
 			<length>10:07</length>
 			<player name="The Rasch&egrave;r Saxophone Quartet"/>
 			<instrument name="Viola">
-				<player name="Hans Br&uuml;ning"/>
+				<player name="Hans Brüning"/>
 			</instrument>
 			<instrument name="Violoncello">
 				<player name="Othello Liesmann"/>
 			</instrument>
 			<instrument name="Kontraba&szlig;">
-				<player name="Wolfgang G&uuml;ttler"/>
+				<player name="Wolfgang Güttler"/>
 			</instrument>
 			<composed start="1992"/>
 			<recorded start="1992"/>
@@ -209,7 +209,7 @@
 	<composer name="Manfred" surname="Trojahn" born="1949" died="">
 		<composition>
 			<name>Aubade</name>
-			<description>f&uuml;r 2 Soprane</description>
+			<description>für 2 Soprane</description>
 			<length>2:17</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>

@@ -5,7 +5,7 @@
 	<composer name="Peter" surname="Ablinger" born="1959" died="">
 		<composition>
 			<name>IEAOV Instrumente und ElektroAkustisch Ortsbezogene Verdichtung</name>
-			<description>f&uuml;r 2 Posaunen und 2 Violoncelli</description>
+			<description>für 2 Posaunen und 2 Violoncelli</description>
 			<length>22:29</length>
 			<instrument name="Posaune">
 				<player name="Michael Svoboda"/>
@@ -15,7 +15,7 @@
 				<player name="Gregory Johns"/>
 				<player name="Scott Roller"/>
 			</instrument>
-			<player name="Experimentalstudio der Heinrich-Strobel-Stiftung des S&uuml;dwestfunks Freiburg"/>
+			<player name="Experimentalstudio der Heinrich-Strobel-Stiftung des Südwestfunks Freiburg"/>
 			<instrument name="Musikinformatik und Klangregie">
 				<player name="Kent Clelland"/>
 				<player name="Joachim Haas"/>
@@ -222,7 +222,7 @@
 	<composer name="Marc" surname="Andr&eacute;" born="1964" died="">
 		<composition>
 			<name>AB II</name>
-			<description>f&uuml;r Kontraba&szlig;klarinette, Violoncello, Cymbalon, Schlagzeug, Klavier und Live-Elektronik</description>
+			<description>für Kontraba&szlig;klarinette, Violoncello, Cymbalon, Schlagzeug, Klavier und Live-Elektronik</description>
 			<length>24:55</length>
 			<player name="Ensemble Recherche"/>
 			<instrument name="Klangregie">
@@ -248,7 +248,7 @@
 			<released>1991</released>
 		</composition>
 	</composer>
-	<composer name="B&uuml;lent" surname="Arel" born="1919" died="">
+	<composer name="Bülent" surname="Arel" born="1919" died="">
 		<composition>
 			<name>Stereo Electronic Music No. 2</name>
 			<length>14:18</length>

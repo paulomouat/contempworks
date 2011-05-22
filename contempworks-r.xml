@@ -169,7 +169,7 @@
 	<composer name="Andreas" surname="Raseghi" born="1964" died="">
 		<composition>
 			<name>Kammerquartett</name>
-			<description>f&uuml;r zwei Violinen, Viola und Violoncello</description>
+			<description>für zwei Violinen, Viola und Violoncello</description>
 			<length>9:14</length>
 			<player name="Auryn Quartett"/>
 			<composed start="1982" end="1984"/>
@@ -207,7 +207,7 @@
 	<composer name="Aribert" surname="Reimann" born="1936" died="">
 		<composition>
 			<name>John III, 16</name>
-			<description>Motette f&uuml;r Chor a cappella</description>
+			<description>Motette für Chor a cappella</description>
 			<length>11:41</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -318,7 +318,7 @@
 	<composer name="Andr&eacute;" surname="Richard" born="1944" died="">
 		<composition>
 			<name>Echanges</name>
-			<description>f&uuml;r Orchester und Live-Elektronik</description>
+			<description>für Orchester und Live-Elektronik</description>
 			<length>17:53</length>
 			<player name="SWF-Sinfonieorchester BadenBaden"/>
 			<conductor>Lothar Zagrosek</conductor>
@@ -358,7 +358,7 @@
 				<length>5:43</length>
 			</part>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="?"/>
 			<recorded start="?"/>
@@ -371,7 +371,7 @@
 			<description>Ausschnitt aus Studie 59/I</description>
 			<length>5:56</length>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1959" end="1975"/>
 			<recorded start="1975"/>
@@ -383,7 +383,7 @@
 			<description>Vier Kl&auml;nge</description>
 			<length>0:42</length>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1962"/>
 			<recorded start="1962"/>
@@ -394,7 +394,7 @@
 			<name>Titelmusik</name>
 			<length>0:45</length>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1962"/>
 			<recorded start="1962"/>
@@ -412,7 +412,7 @@
 				<player name="Alexander Kluge"/>
 			</instrument>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1962" end="1965"/>
 			<recorded start="1965"/>
@@ -421,8 +421,8 @@
 		</composition>
 		<composition>
 			<name>Leonce und Lena</name>
-			<description>(von Georg B&uuml;chner)</description>
-			<description>Sprache, Instrumentalkl&auml;nge, elektronische ver&auml;nderte Sprache, elektronische ver&auml;nderte Instrumentalkl&auml;nge (Zwei St&uuml;cke)</description>
+			<description>(von Georg Büchner)</description>
+			<description>Sprache, Instrumentalkl&auml;nge, elektronische ver&auml;nderte Sprache, elektronische ver&auml;nderte Instrumentalkl&auml;nge (Zwei Stücke)</description>
 			<length>2:15</length>
 			<part>
 				<number>1</number>
@@ -434,12 +434,12 @@
 				<name>Nr. 1</name>
 				<length>0:30</length>
 			</part>
-			<player name="M&uuml;ncher Kammerspiele"/>
+			<player name="Müncher Kammerspiele"/>
 			<instrument name="Inszenierung">
 				<player name="Fritz Kortner"/>
 			</instrument>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1963"/>
 			<recorded start="1963"/>
@@ -451,7 +451,7 @@
 			<description>Elektronische und konkrete Kl&auml;nge, Fran&ccedil;ois Bayle, Alfred Feussner u.a., Stimme</description>
 			<length>6:50</length>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1965" end="1967"/>
 			<recorded start="1967"/>
@@ -462,7 +462,7 @@
 	<composer name="Rolf" surname="Riehm" born="1937" died="">
 		<composition>
 			<name>O Daddy</name>
-			<description>f&uuml;r Orchester und Tonband</description>
+			<description>für Orchester und Tonband</description>
 			<length>16:24</length>
 			<player name="Realisierung des Tonbandes durch den Komponisten im Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
 			<player name="SWF-Sinfonieorchester Baden Baden"/>
@@ -490,7 +490,7 @@
 	<composer name="Wolfgang" surname="Rihm" born="1952" died="">
 		<composition>
 			<name>Zweites Streichtrio</name>
-			<description>f&uuml;r Violine, Viola und Violoncello</description>
+			<description>für Violine, Viola und Violoncello</description>
 			<length>4:52</length>
 			<player name="ensemble recherche"/>
 			<composed start="1969"/>
@@ -500,7 +500,7 @@
 		</composition>
 		<composition>
 			<name>Symphonie op. 3</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<description>in memoriam Karl Amadeus Hartmann</description>
 			<length>10:16</length>
 			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
@@ -520,7 +520,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck Nr. 1 op.8a</name>
+			<name>Klavierstück Nr. 1 op.8a</name>
 			<length>18:28</length>
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
@@ -540,7 +540,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck Nr. 2 op.8b</name>
+			<name>Klavierstück Nr. 2 op.8b</name>
 			<length>19:37</length>
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
@@ -567,7 +567,7 @@
 		</composition>
 		<composition>
 			<name>Paraphrase</name>
-			<description>f&uuml;r Violoncello, Percussion und Klavier</description>
+			<description>für Violoncello, Percussion und Klavier</description>
 			<length>23:50</length>
 			<instrument name="Klavier">
 				<player name="Yukiko Sugawara"/>
@@ -580,7 +580,7 @@
 		</composition>
 		<composition>
 			<name>Morphonie</name>
-			<description>f&uuml;r Orchester mit Solostreichquartett</description>
+			<description>für Orchester mit Solostreichquartett</description>
 			<length>40:10</length>
 			<instrument name="1. Violine">
 				<player name="Wolfgang Hock"/>
@@ -603,7 +603,7 @@
 		</composition>
 		<composition>
 			<name>D&eacute;ploration</name>
-			<description>f&uuml;r Fl&ouml;te, Violoncello und Percussion</description>
+			<description>für Fl&ouml;te, Violoncello und Percussion</description>
 			<length>12:27</length>
 			<player name="ensemble recherche"/>
 			<composed start="1973"/>
@@ -613,7 +613,7 @@
 		</composition>
 		<composition>
 			<name>Dis-Kontur</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>22:44</length>
 			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
 			<conductor>Sylvain Cambreling</conductor>
@@ -624,7 +624,7 @@
 		</composition>
 		<composition>
 			<name>Dis-Kontur</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>21:36</length>
 			<player name="Sinfonieorchester des Bayerischen Rundfunks"/>
 			<conductor>Leif Segerstam</conductor>
@@ -634,7 +634,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck Nr. 4</name>
+			<name>Klavierstück Nr. 4</name>
 			<length>14:37</length>
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
@@ -660,7 +660,7 @@
 		</composition>
 		<composition>
 			<name>Sub-Kontur</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>26:42</length>
 			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
 			<conductor>Ernest Bour</conductor>
@@ -671,7 +671,7 @@
 		</composition>
 		<composition>
 			<name>Sub-Kontur</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>21:36</length>
 			<player name="Sinfonieorchester des Bayerischen Rundfunks"/>
 			<conductor>Sian Edwards</conductor>
@@ -681,7 +681,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck Nr. 5</name>
+			<name>Klavierstück Nr. 5</name>
 			<description>Tombeau</description>
 			<length>12:14</length>
 			<instrument name="Piano">
@@ -694,7 +694,7 @@
 		</composition>
 		<composition>
 			<name>Symphonie</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<description>Erster und letzter Satz</description>
 			<length>14:17</length>
 			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
@@ -706,14 +706,14 @@
 		</composition>
 		<composition>
 			<name>O Notte</name>
-			<description>f&uuml;r Bariton und kleines Orchester</description>
+			<description>für Bariton und kleines Orchester</description>
 			<description>Hommage &agrave; Dallapiccola</description>
 			<length>6:51</length>
 			<instrument name="Bariton">
 				<player name="Ned Barth"/>
 			</instrument>
 			<player name="Badische Staatskapelle"/>
-			<conductor>G&uuml;nter Neuhold</conductor>
+			<conductor>Günter Neuhold</conductor>
 			<composed start="1975"/>
 			<recorded start="1992"/>
 			<release>Cadenza CAD 800 886</release>
@@ -721,7 +721,7 @@
 		</composition>
 		<composition>
 			<name>Lichtzwang</name>
-			<description>Musik f&uuml;r Violine und Orchester</description>
+			<description>Musik für Violine und Orchester</description>
 			<length>18:06</length>
 			<instrument name="Violine">
 				<player name="J&aacute;nos N&eacute;gyesy"/>
@@ -753,7 +753,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck Nr. 6</name>
+			<name>Klavierstück Nr. 6</name>
 			<length>18:00</length>
 			<instrument name="Piano">
 				<player name="Siegfried Mauser"/>
@@ -764,7 +764,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Musik f&uuml;r drei Streicher</name>
+			<name>Musik für drei Streicher</name>
 			<length>54:55</length>
 			<player name="Trio Recherche"/>
 			<composed start="1977"/>
@@ -797,17 +797,17 @@
 			<name>Bratschenkonzert</name>
 			<length>21:49</length>
 			<instrument name="Viola">
-				<player name="Franziska D&uuml;rr"/>
+				<player name="Franziska Dürr"/>
 			</instrument>
 			<player name="Badische Staatskapelle"/>
-			<conductor>G&uuml;nter Neuhold</conductor>
+			<conductor>Günter Neuhold</conductor>
 			<composed start="1979" end="1983"/>
 			<recorded start="1992"/>
 			<release>Cadenza CAD 800 886</release>
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck Nr. 7</name>
+			<name>Klavierstück Nr. 7</name>
 			<length>10:58</length>
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
@@ -819,7 +819,7 @@
 		</composition>
 		<composition>
 			<name>Erster Doppelgesang</name>
-			<description>Musik f&uuml;r Viola, Violoncello und Orchester</description>
+			<description>Musik für Viola, Violoncello und Orchester</description>
 			<length>14:04</length>
 			<instrument name="Viola">
 				<player name="Hirofumi Fukai"/>
@@ -836,7 +836,7 @@
 		</composition>
 		<composition>
 			<name>Tutuguri</name>
-			<description>Po&egrave;me dans&eacute; f&uuml;r einem Sprecher, Chor und gro&szlig;es Orchester</description>
+			<description>Po&egrave;me dans&eacute; für einem Sprecher, Chor und gro&szlig;es Orchester</description>
 			<length>1:56:50</length>
 			<instrument name="Speaker, Choir master">
 				<player name="Rupert Huber"/>
@@ -851,7 +851,7 @@
 		</composition>
 		<composition>
 			<name>Chiffre I</name>
-			<description>f&uuml;r Klavier und 7 Instrumente</description>
+			<description>für Klavier und 7 Instrumente</description>
 			<length>9:31</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -862,7 +862,7 @@
 		</composition>
 		<composition>
 			<name>Chiffre I</name>
-			<description>f&uuml;r Klavier und 7 Instrumente</description>
+			<description>für Klavier und 7 Instrumente</description>
 			<length>8:51</length>
 			<player name="Klangforum Wien"/>
 			<conductor>Sylvain Cambreling</conductor>
@@ -873,7 +873,7 @@
 		</composition>
 		<composition>
 			<name>Fremde Szenen I-III</name>
-			<description>Versuche f&uuml;r Klaviertrio</description>
+			<description>Versuche für Klaviertrio</description>
 			<length>43:38</length>
 			<player name="Beethoven Trio Ravensburg"/>
 			<composed start="1982" end="1984"/>
@@ -903,10 +903,10 @@
 		<composition>
 			<name>Schwarzer und Roter Tanz</name>
 			<description>(Fragment aus Tutuguri)</description>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>15:54</length>
 			<player name="Badische Staatskapelle"/>
-			<conductor>G&uuml;nter Neuhold</conductor>
+			<conductor>Günter Neuhold</conductor>
 			<composed start="1982" end="1983"/>
 			<recorded start="1992"/>
 			<release>Cadenza CAD 800 886</release>
@@ -914,7 +914,7 @@
 		</composition>
 		<composition>
 			<name>Nach-Schrift (eine Chiffre)</name>
-			<description>f&uuml;r Ensemble</description>
+			<description>für Ensemble</description>
 			<length>9:15</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -925,7 +925,7 @@
 		</composition>
 		<composition>
 			<name>Silence to be beaten (Chiffre II)</name>
-			<description>f&uuml;r 14 Spieler</description>
+			<description>für 14 Spieler</description>
 			<length>13:10</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -946,7 +946,7 @@
 		</composition>
 		<composition>
 			<name>Chiffre III</name>
-			<description>f&uuml;r 12 Spieler</description>
+			<description>für 12 Spieler</description>
 			<length>9:10</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -957,7 +957,7 @@
 		</composition>
 		<composition>
 			<name>Chiffre IV</name>
-			<description>f&uuml;r Bassklarinette, Violoncello &amp; Klavier</description>
+			<description>für Bassklarinette, Violoncello &amp; Klavier</description>
 			<length>8:46</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -968,7 +968,7 @@
 		</composition>
 		<composition>
 			<name>Chiffre IV</name>
-			<description>f&uuml;r Ba&szlig;klarinette, Violoncello und Klavier</description>
+			<description>für Ba&szlig;klarinette, Violoncello und Klavier</description>
 			<length>10:20</length>
 			<player name="ensemble recherche"/>
 			<composed start="1984"/>
@@ -987,7 +987,7 @@
 		</composition>
 		<composition>
 			<name>Chiffre V</name>
-			<description>f&uuml;r Ensemble</description>
+			<description>für Ensemble</description>
 			<length>9:40</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -998,7 +998,7 @@
 		</composition>
 		<composition>
 			<name>Bild (eine Chiffre)</name>
-			<description>f&uuml;r 9 Spieler</description>
+			<description>für 9 Spieler</description>
 			<length>7:56</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -1009,7 +1009,7 @@
 		</composition>
 		<composition>
 			<name>Chiffre VI</name>
-			<description>f&uuml;r 8 Instrumente</description>
+			<description>für 8 Instrumente</description>
 			<length>4:43</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -1020,7 +1020,7 @@
 		</composition>
 		<composition>
 			<name>Chiffre VII</name>
-			<description>f&uuml;r Ensemble</description>
+			<description>für Ensemble</description>
 			<length>9:38</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -1031,7 +1031,7 @@
 		</composition>
 		<composition>
 			<name>Die Hamletmaschine</name>
-			<description>Musiktheater in f&uuml;nf Teilen</description>
+			<description>Musiktheater in fünf Teilen</description>
 			<length>1:32:03</length>
 			<player name="Chor und Orchester des Nationaltheaters Mannheim"/>
 			<conductor>Peter Schneider</conductor>
@@ -1051,7 +1051,7 @@
 		</composition>
 		<composition>
 			<name>Sine Nomine</name>
-			<description>Studie f&uuml;r f&uuml;nf Blechbl&auml;ser</description>
+			<description>Studie für fünf Blechbl&auml;ser</description>
 			<length>9:23</length>
 			<player name="Ensemble 13"/>
 			<conductor>Manfred Reichert</conductor>
@@ -1062,7 +1062,7 @@
 		</composition>
 		<composition>
 			<name>Chiffre VIII</name>
-			<description>f&uuml;r 8 Spieler</description>
+			<description>für 8 Spieler</description>
 			<length>4:17</length>
 			<player name="musikFabrik"/>
 			<conductor>Stefan Asbury</conductor>
@@ -1073,7 +1073,7 @@
 		</composition>
 		<composition>
 			<name>Verzeichnung - Studie</name>
-			<description>f&uuml;r Viola, Violoncello und Kontraba&szlig;</description>
+			<description>für Viola, Violoncello und Kontraba&szlig;</description>
 			<length>7:30</length>
 			<player name="ensemble recherche"/>
 			<composed start="1986"/>
@@ -1083,7 +1083,7 @@
 		</composition>
 		<composition>
 			<name>Klangbeschreibung I</name>
-			<description>f&uuml;r drei Orchestergruppen</description>
+			<description>für drei Orchestergruppen</description>
 			<length>20:15</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
@@ -1094,7 +1094,7 @@
 		</composition>
 		<composition>
 			<name>Klangbeschreibung II</name>
-			<description>f&uuml;r vier Frauenstimmen, f&uuml;nf Blechbl&auml;ser und sechs Schlagzeuger auf ein Gedicht von Friedrich Nietzsche</description>
+			<description>für vier Frauenstimmen, fünf Blechbl&auml;ser und sechs Schlagzeuger auf ein Gedicht von Friedrich Nietzsche</description>
 			<length>28:40</length>
 			<instrument name="Sopran">
 				<player name="Ingrid Ade-Jesemann"/>
@@ -1117,7 +1117,7 @@
 		</composition>
 		<composition>
 			<name>Klangbeschreibung III</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>38:15</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
@@ -1147,7 +1147,7 @@
 		</composition>
 		<composition>
 			<name>Nachtwach</name>
-			<description>f&uuml;r 8 Soli, gem. Chor, 4 Posaunen und Woodblock</description>
+			<description>für 8 Soli, gem. Chor, 4 Posaunen und Woodblock</description>
 			<length>10:10</length>
 			<instrument name="Soprano">
 				<player name="Barbara van den Boom"/>
@@ -1158,7 +1158,7 @@
 				<player name="Susanne Mei&szlig;ner-Schaufelberger"/>
 			</instrument>
 			<instrument name="Tenor">
-				<player name="R&uuml;diger Linn"/>
+				<player name="Rüdiger Linn"/>
 				<player name="Hubert Mayer"/>
 			</instrument>
 			<instrument name="Bass">
@@ -1183,10 +1183,10 @@
 		</composition>
 		<composition>
 			<name>Schwebende Begegnung</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>11:18</length>
 			<player name="Badische Staatskapelle"/>
-			<conductor>G&uuml;nter Neuhold</conductor>
+			<conductor>Günter Neuhold</conductor>
 			<composed start="1988"/>
 			<recorded start="1992"/>
 			<release>Cadenza CAD 800 886</release>
@@ -1194,7 +1194,7 @@
 		</composition>
 		<composition>
 			<name>D&eacute;part</name>
-			<description>f&uuml;r gemischten Chor, Sprechchor und 22 Spieler</description>
+			<description>für gemischten Chor, Sprechchor und 22 Spieler</description>
 			<length>8:55</length>
 			<player name="Wiener Philharmoniker"/>
 			<conductor>Claudio Abbado</conductor>
@@ -1205,7 +1205,7 @@
 		</composition>
 		<composition>
 			<name>Kein Firmament</name>
-			<description>f&uuml;r 14 Spieler</description>
+			<description>für 14 Spieler</description>
 			<length>37:47</length>
 			<player name="Ensemble 13"/>
 			<conductor>Manfred Reichert</conductor>
@@ -1216,10 +1216,10 @@
 		</composition>
 		<composition>
 			<name>Dunkles Spiel</name>
-			<description>f&uuml;r kleines Orchester</description>
+			<description>für kleines Orchester</description>
 			<length>11:05</length>
 			<player name="Badische Staatskapelle"/>
-			<conductor>G&uuml;nter Neuhold</conductor>
+			<conductor>Günter Neuhold</conductor>
 			<composed start="1988" end="1990"/>
 			<recorded start="1992"/>
 			<release>Cadenza CAD 800 886</release>
@@ -1227,8 +1227,8 @@
 		</composition>
 		<composition>
 			<name>Frau/Stimme</name>
-			<description>f&uuml;r Sopranund Orchester mit Sopran</description>
-			<description>W&ouml;rter von Heiner M&uuml;ller</description>
+			<description>für Sopranund Orchester mit Sopran</description>
+			<description>W&ouml;rter von Heiner Müller</description>
 			<length>19:56</length>
 			<instrument name="Sopran">
 				<player name="Isolde Siebert"/>
@@ -1243,7 +1243,7 @@
 		</composition>
 		<composition>
 			<name>Frau/Stimme</name>
-			<description>f&uuml;r Sopran und Orchester</description>
+			<description>für Sopran und Orchester</description>
 			<length>19:57</length>
 			<instrument name="Sopran">
 				<player name="Isolde Siebert"/>
@@ -1259,7 +1259,7 @@
 		<composition>
 			<name>Ins Offene...</name>
 			<description>Zweite Fassung</description>
-			<description>f&uuml;r Orchester </description>
+			<description>für Orchester </description>
 			<length>28:37</length>
 			<player name="Tschechische Philharmonie"/>
 			<conductor>Gerd Albrecht</conductor>
@@ -1270,7 +1270,7 @@
 		</composition>
 		<composition>
 			<name>Am Horizont</name>
-			<description>Stille Szene f&uuml;r Violine, Violoncello und Akkordeon</description>
+			<description>Stille Szene für Violine, Violoncello und Akkordeon</description>
 			<length>6:50</length>
 			<instrument name="Akkordeon">
 				<player name="Teodoro Anzellotti"/>
@@ -1316,7 +1316,7 @@
 		</composition>
 		<composition>
 			<name>sphere</name>
-			<description>Kontrafaktur mit Klavier-Gegenk&ouml;rper f&uuml;r Klavier, Bl&auml;ser und Schlagzeug</description>
+			<description>Kontrafaktur mit Klavier-Gegenk&ouml;rper für Klavier, Bl&auml;ser und Schlagzeug</description>
 			<length>22:36</length>
 			<instrument name="Klavier">
 				<player name="Siegfried Mauser"/>
@@ -1330,7 +1330,7 @@
 		</composition>
 		<composition>
 			<name>Vers une symphonie fleuve III</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>22:57</length>
 			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
 			<conductor>Gianluigi Gelmetti</conductor>
@@ -1356,7 +1356,7 @@
 		</composition>
 		<composition>
 			<name>Dritte Music</name>
-			<description>Musik f&uuml;r Violine und Orchester</description>
+			<description>Musik für Violine und Orchester</description>
 			<length>17:42</length>
 			<instrument name="Violine">
 				<player name="Gottfried Schneider"/>
@@ -1370,7 +1370,7 @@
 		</composition>
 		<composition>
 			<name>In nuce</name>
-			<description>f&uuml;r Viola, Violoncello und Kontraba&szlig;</description>
+			<description>für Viola, Violoncello und Kontraba&szlig;</description>
 			<length>5:00</length>
 			<player name="ensemble recherche"/>
 			<composed start="1994"/>
@@ -1391,7 +1391,7 @@
 		</composition>
 		<composition>
 			<name>Raumauge</name>
-			<description>f&uuml;r Chor und Schlagzeug</description>
+			<description>für Chor und Schlagzeug</description>
 			<length>5:01</length>
 			<player name="SWR Vokalensemble Stuttgart"/>
 			<player name="Varianti"/>
@@ -1403,7 +1403,7 @@
 		</composition>
 		<composition>
 			<name>Ungemaltes Bild</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>15:54</length>
 			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
 			<conductor>Friedrich Goldmann</conductor>
@@ -1434,7 +1434,7 @@
 		</composition>
 		<composition>
 			<name>Jagden und Formen</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>51:02</length>
 			<player name="Ensemble Modern"/>
 			<conductor>Dominique My</conductor>
@@ -1444,7 +1444,7 @@
 			<released>2002</released>
 		</composition>
 		<composition>
-			<name>Musik f&uuml;r Oboe und Orchester</name>
+			<name>Musik für Oboe und Orchester</name>
 			<length>16:09</length>
 			<instrument name="Oboe">
 				<player name="Alexander Ott"/>
@@ -1458,7 +1458,7 @@
 		</composition>
 		<composition>
 			<name>Styx und Lethe</name>
-			<description>Musik f&uuml;r Violoncello und Orchester</description>
+			<description>Musik für Violoncello und Orchester</description>
 			<length>23:34</length>
 			<instrument name="Violoncello">
 				<player name="Lucas Fels"/>
@@ -1508,7 +1508,7 @@
 		</composition>
 		<composition>
 			<name>Sotto voce - Notturno</name>
-			<description>f&uuml;r Klavier und kleines Orchester</description>
+			<description>für Klavier und kleines Orchester</description>
 			<length>17:41</length>
 			<instrument name="Piano">
 				<player name="Nicholas Hodges"/>
@@ -1522,7 +1522,7 @@
 		</composition>
 		<composition>
 			<name>Deus Passus</name>
-			<description>Passions-St&uuml;cke nach Lukas</description>
+			<description>Passions-Stücke nach Lukas</description>
 			<length>1:30:21</length>
 			<instrument name="Soprano">
 				<player name="Juliane Banse"/>
@@ -1560,7 +1560,7 @@
 		</composition>
 		<composition>
 			<name>&quot;Vier Male&quot;</name>
-			<description>f&uuml;r Klarinette solo</description>
+			<description>für Klarinette solo</description>
 			<length>25:44</length>
 			<instrument name="Klarinette">
 				<player name="J&ouml;rg Widmann"/>
@@ -1572,7 +1572,7 @@
 		</composition>
 		<composition>
 			<name>&quot;Concerto&quot; Dithyrambe</name>
-			<description>f&uuml;r Streichquartett und Orchester</description>
+			<description>für Streichquartett und Orchester</description>
 			<length>25:45</length>
 			<player name="Arditti String Quartett"/>
 			<player name="Luzerner Sinfonieorchester"/>
@@ -1615,7 +1615,7 @@
 		</composition>
 		<composition>
 			<name>Unbenannt IV</name>
-			<description>f&uuml;r Orchester mit Orgel</description>
+			<description>für Orchester mit Orgel</description>
 			<length>21:36</length>
 			<instrument name="Orgel">
 				<player name="Leo van Doeselaar"/>
@@ -1663,7 +1663,7 @@
 		</composition>
 		<composition>
 			<name>Sotto voce 2 - Capriccio</name>
-			<description>f&uuml;r Klavier und kleines Orchester</description>
+			<description>für Klavier und kleines Orchester</description>
 			<length>17:41</length>
 			<instrument name="Piano">
 				<player name="Nicholas Hodges"/>
@@ -1677,7 +1677,7 @@
 		</composition>
 		<composition>
 			<name>Quid est Deus</name>
-			<description>f&uuml;r Chor und Orchester</description>
+			<description>für Chor und Orchester</description>
 			<length>33:02</length>
 			<player name="SWR Vokalensemble"/>
 			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
@@ -1689,7 +1689,7 @@
 		</composition>
 		<composition>
 			<name>Verwandlungen I-IV</name>
-			<description>Musik f&uuml;r Orchester</description>
+			<description>Musik für Orchester</description>
 			<length>1:00:13</length>
 			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
 			<conductor>Christian Arming (I-II)</conductor>
@@ -1930,7 +1930,7 @@
 			</part>
 			<part>
 				<number>4</number>
-				<name>Der Pianist f&uuml;hrt</name>
+				<name>Der Pianist führt</name>
 				<length>5:29</length>
 			</part>
 			<player name="SWF-Sinfonieorchester Baden-Baden und Freiburg"/>

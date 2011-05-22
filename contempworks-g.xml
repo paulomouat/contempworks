@@ -367,7 +367,7 @@
 	<composer name="Vinko" surname="Globokar" born="1934" died="">
 		<composition>
 			<name>aus: Laboratorium 1973</name>
-			<description>f&uuml;r 11 Spieler</description>
+			<description>für 11 Spieler</description>
 			<length>21:54</length>
 			<player name="Ensemble Musique Vivante Paris"/>
 			<composed start="?"/>
@@ -697,7 +697,7 @@
 		</composition>
 		<composition>
 			<name>Les Chants de l'Amour</name>
-			<description>f&uuml;r 12 Stimmen und Tonband</description>
+			<description>für 12 Stimmen und Tonband</description>
 			<length>35:23</length>
 			<player name="Schola Heidelberg"/>
 			<conductor>Walter Nu&szlig;baum</conductor>
@@ -778,7 +778,7 @@
 		</composition>
 		<composition>
 			<name>Le Temps et l'&Eacute;cume</name>
-			<description>f&uuml;r 4 Schlagzeuger, 2 Synthesizer und Kammerorchester</description>
+			<description>für 4 Schlagzeuger, 2 Synthesizer und Kammerorchester</description>
 			<length>20:27</length>
 			<player name="Ensemble S"/>
 			<instrument name="Synthesizer">
@@ -825,7 +825,7 @@
 		</composition>
 		<composition>
 			<name>Quatre chants pour franchir le seuil</name>
-			<description>f&uuml;r Sopran und Ensemble</description>
+			<description>für Sopran und Ensemble</description>
 			<length>41:34</length>
 			<player name="Klangforum Wien"/>
 			<conductor>Sylvain Cambreling</conductor>
@@ -837,7 +837,7 @@
 	</composer>
 	<composer name="Johannes" surname="Goebel" born="1949" died="">
 		<composition>
-			<name>Vom &uuml;bersetzen &uuml;ber den Flu&szlig;</name>
+			<name>Vom übersetzen über den Flu&szlig;</name>
 			<length>17:47</length>
 			<player name="CCRMA, Stanford University"/>
 			<composed start="1987" end="1988"/>
@@ -874,7 +874,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Kleines Requiem f&uuml;r eine Polka, op. 66</name>
+			<name>Kleines Requiem für eine Polka, op. 66</name>
 			<length>23:32</length>
 			<player name="London Sinfonietta"/>
 			<conductor>David Zinman</conductor>

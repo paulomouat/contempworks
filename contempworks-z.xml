@@ -5,10 +5,10 @@
 	<composer name="Helmut" surname="Zapf" born="1958" died="">
 		<composition>
 			<name>Dreiklang</name>
-			<description>f&uuml;r gro&szlig;es Orchester</description>
+			<description>für gro&szlig;es Orchester</description>
 			<length>18:14</length>
 			<player name="Dresdner Philharmonie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1991" end="1992"/>
 			<recorded start="1992"/>
 			<release>Col Legno WWE 3CD 31860</release>
@@ -31,7 +31,7 @@
 	<composer name="Hans" surname="Zender" born="1936" died="">
 		<composition>
 			<name>Muji no Kyo</name>
-			<description>nach einem mittelalterlichen japanischen Gedicht f&uuml;r Stimme, Fl&ouml;te, Violoncello, Klavier mit elektronischer Orgel und Tutti-Instrumente</description>
+			<description>nach einem mittelalterlichen japanischen Gedicht für Stimme, Fl&ouml;te, Violoncello, Klavier mit elektronischer Orgel und Tutti-Instrumente</description>
 			<length>18:13</length>
 			<instrument name="Bariton">
 				<player name="Roland Hermann"/>
@@ -54,7 +54,7 @@
 		</composition>
 		<composition>
 			<name>Muji no kyo</name>
-			<description>f&uuml;r Stimme, Fl&ouml;te, Violine, Klavier mit Synthesizer und Tutti-Instrumente</description>
+			<description>für Stimme, Fl&ouml;te, Violine, Klavier mit Synthesizer und Tutti-Instrumente</description>
 			<length>17:12</length>
 			<instrument name="Stimme">
 				<player name="Johann Leutgeb"/>
@@ -66,7 +66,7 @@
 				<player name="Annette Bik"/>
 			</instrument>
 			<instrument name="Klavier">
-				<player name="Florian M&uuml;ller"/>
+				<player name="Florian Müller"/>
 			</instrument>
 			<player name="Klangforum Wien"/>
 			<conductor>Hans Zender</conductor>
@@ -77,7 +77,7 @@
 		</composition>
 		<composition>
 			<name>Litanei</name>
-			<description>f&uuml;r 3 Violoncelli</description>
+			<description>für 3 Violoncelli</description>
 			<length>18:08</length>
 			<instrument name="Violoncelli">
 				<player name="Andreas Lindenbaum"/>
@@ -91,7 +91,7 @@
 		</composition>
 		<composition>
 			<name>Furin no kyo</name>
-			<description>f&uuml;r Sopran, Klarinette und Ensemble</description>
+			<description>für Sopran, Klarinette und Ensemble</description>
 			<length>21:45</length>
 			<instrument name="Sopran">
 				<player name="Julie Moffat"/>
@@ -109,7 +109,7 @@
 		<composition>
 			<name>Music to hear</name>
 			<description>nach dem 8. Sonett von William Shakespeare</description>
-			<description>f&uuml;r Sopran, Solofl&ouml;te, Echofl&ouml;te und Ensemble</description>
+			<description>für Sopran, Solofl&ouml;te, Echofl&ouml;te und Ensemble</description>
 			<length>17:27</length>
 			<instrument name="Sopran">
 				<player name="Julie Moffat"/>
@@ -130,7 +130,7 @@
 	</composer>
 	<composer name="Bernd Alois" surname="Zimmermann" born="1918" died="1970">
 		<composition>
-			<name>Sonate f&uuml;r Viola solo</name>
+			<name>Sonate für Viola solo</name>
 			<length>5:55</length>
 			<instrument name="Viola">
 				<player name="Albert Dietrich"/>
@@ -141,7 +141,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Requiem f&uuml;r einen jungen dichter</name>
+			<name>Requiem für einen jungen dichter</name>
 			<length>1:03:10</length>
 			<instrument name="Sopran">
 				<player name="Claudia Barainsky"/>

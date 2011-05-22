@@ -27,7 +27,7 @@
 	<composer name="Olga" surname="Neuwirth" born="1968" died="">
 		<composition>
 			<name>Akroate Hadal</name>
-			<description>f&uuml;r Streichquartett</description>
+			<description>für Streichquartett</description>
 			<length>12:34</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1995"/>
@@ -37,7 +37,7 @@
 		</composition>
 		<composition>
 			<name>Quasare/Pulsare</name>
-			<description>f&uuml;r Violine und Klavier</description>
+			<description>für Violine und Klavier</description>
 			<length>10:31</length>
 			<instrument name="Violine">
 				<player name="Irvine Arditti"/>
@@ -52,7 +52,7 @@
 		</composition>
 		<composition>
 			<name>...?risonanze!...</name>
-			<description>f&uuml;r Viola d'amore</description>
+			<description>für Viola d'amore</description>
 			<length>9:49</length>
 			<instrument name="Viola d'amore">
 				<player name="Garth Knox"/>
@@ -64,7 +64,7 @@
 		</composition>
 		<composition>
 			<name>...ad auras... in memoriam H.</name>
-			<description>f&uuml;r zwei Violinen und Holztrommel (Getabera)</description>
+			<description>für zwei Violinen und Holztrommel (Getabera)</description>
 			<length>12:24</length>
 			<instrument name="Violine">
 				<player name="Irvine Arditti"/>
@@ -82,7 +82,7 @@
 		</composition>
 		<composition>
 			<name>settori</name>
-			<description>f&uuml;r Streichquartett</description>
+			<description>für Streichquartett</description>
 			<length>5:41</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1999"/>
@@ -92,7 +92,7 @@
 		</composition>
 		<composition>
 			<name>incidendo/fluido</name>
-			<description>f&uuml;r Klavier und Zuspiel-CD</description>
+			<description>für Klavier und Zuspiel-CD</description>
 			<length>11:33</length>
 			<instrument name="Klavier">
 				<player name="Nicolas Hodges"/>
@@ -172,7 +172,7 @@
 		</composition>
 		<composition>
 			<name>Due espressioni</name>
-			<description>Musik f&uuml;r Donaueschingen</description>
+			<description>Musik für Donaueschingen</description>
 			<length>12:00</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud</conductor>
@@ -183,7 +183,7 @@
 		</composition>
 		<composition>
 			<name>Liebeslied</name>
-			<description>f&uuml;r gemischten Chor und Instrumente</description>
+			<description>für gemischten Chor und Instrumente</description>
 			<length>5:07</length>
 			<player name="Wiener Philharmoniker"/>
 			<conductor>Claudio Abbado</conductor>
@@ -194,7 +194,7 @@
 		</composition>
 		<composition>
 			<name>Il canto sospeso</name>
-			<description>f&uuml;r Sopran-, Alt- und Tenor-Solo, gemischten Chor und Orchester</description>
+			<description>für Sopran-, Alt- und Tenor-Solo, gemischten Chor und Orchester</description>
 			<length>37:19</length>
 			<instrument name="Reciters">
 				<player name="Susanne Lothar"/>
@@ -256,7 +256,7 @@
 		</composition>
 		<composition>
 			<name>Ha venido, Canciones para Silvia</name>
-			<description>f&uuml;r Sopran solo und sechsstimmingen Sopranchor</description>
+			<description>für Sopran solo und sechsstimmingen Sopranchor</description>
 			<length>6:24</length>
 			<instrument name="Sopran">
 				<player name="Barbara Miller"/>
@@ -280,7 +280,7 @@
 		</composition>
 		<composition>
 			<name>Omaggio a Vedova</name>
-			<description>f&uuml;r Tonband</description>
+			<description>für Tonband</description>
 			<length>4:28</length>
 			<composed start="1960"/>
 			<recorded start="1960"/>
@@ -299,7 +299,7 @@
 		<composition>
 			<name>Canti di vita e d'amore</name>
 			<description>Sul Ponte di Hiroshima</description>
-			<description>f&uuml;r Sopran- und Tenor-solo und Orchester</description>
+			<description>für Sopran- und Tenor-solo und Orchester</description>
 			<length>17:22</length>
 			<instrument name="Sopran">
 				<player name="Slavka Taskova"/>
@@ -307,7 +307,7 @@
 			<instrument name="Tenor">
 				<player name="Loren Driscoll"/>
 			</instrument>
-			<player name="Sinfonieorchester des Saarl&auml;ndischen Rundfunks, Saarbr&uuml;cken"/>
+			<player name="Sinfonieorchester des Saarl&auml;ndischen Rundfunks, Saarbrücken"/>
 			<conductor>Michael Gielen</conductor>
 			<composed start="1962"/>
 			<recorded start="?"/>
@@ -353,7 +353,7 @@
 		</composition>
 		<composition>
 			<name>La fabbrica illuminata</name>
-			<description>f&uuml;r Stimme und Tonband</description>
+			<description>für Stimme und Tonband</description>
 			<length>16:36</length>
 			<instrument name="Sopran">
 				<player name="Carla Henius"/>
@@ -375,7 +375,7 @@
 		</composition>
 		<composition>
 			<name>Ricorda cosa ti hanno fatto in Auschwitz</name>
-			<description>f&uuml;r Stimmen und Tonband</description>
+			<description>für Stimmen und Tonband</description>
 			<length>11:10</length>
 			<instrument name="Sopran">
 				<player name="Stefania Woytowitz"/>
@@ -429,7 +429,7 @@
 		<composition>
 			<name>Per Bastiana</name>
 			<description>Tai-Yang Cheng</description>
-			<description>f&uuml;r Orchester und Tonband</description>
+			<description>für Orchester und Tonband</description>
 			<length>15:07</length>
 			<player name="Radio-Symphonie-Orchester, Berlin"/>
 			<conductor>Michael Gielen</conductor>
@@ -503,7 +503,7 @@
 			<released>1988</released>
 		</composition>
 		<composition>
-			<name>F&uuml;r Paul Dessau</name>
+			<name>Für Paul Dessau</name>
 			<length>7:07</length>
 			<composed start="1974"/>
 			<recorded start="1974"/>
@@ -524,7 +524,7 @@
 		</composition>
 		<composition>
 			<name>...sofferte onde serene...</name>
-			<description>f&uuml;r Klavier und Zweispur-Tonband</description>
+			<description>für Klavier und Zweispur-Tonband</description>
 			<length>13:58</length>
 			<instrument name="Klavier">
 				<player name="Markus Hinterh&auml;user"/>
@@ -539,7 +539,7 @@
 		</composition>
 		<composition>
 			<name>Con Luigi Dallapiccola</name>
-			<description>f&uuml;r sechs Schlagzeuger, vier Pickups, drei Ringmodulatoren und drei Frequenzgeneratoren</description>
+			<description>für sechs Schlagzeuger, vier Pickups, drei Ringmodulatoren und drei Frequenzgeneratoren</description>
 			<length>19:11</length>
 			<instrument name="Schlagzeug">
 				<player name="Bj&ouml;rn Wilker"/>
@@ -562,7 +562,7 @@
 		</composition>
 		<composition score="Y">
 			<name>Fragmente - Stille, An Diotima</name>
-			<description>f&uuml;r Streichquartett</description>
+			<description>für Streichquartett</description>
 			<length>35:51</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1979" end="1980"/>
@@ -572,9 +572,9 @@
 		</composition>
 		<composition>
 			<name>Das atmende Klarsein</name>
-			<description>f&uuml;r kleinen Chor, Ba&szlig;fl&ouml;te, Live-Elektronik und Tonband</description>
+			<description>für kleinen Chor, Ba&szlig;fl&ouml;te, Live-Elektronik und Tonband</description>
 			<length>44:40</length>
-			<player name="Mitglieder des S&uuml;dfunk-Chors Stuttgart"/>
+			<player name="Mitglieder des Südfunk-Chors Stuttgart"/>
 			<instrument name="Einstudierung">
 				<player name="Rupert Huber"/>
 			</instrument>
@@ -688,7 +688,7 @@
 		</composition>
 		<composition>
 			<name>Quando stanno morendo, Diario Polacco No. 2</name>
-			<description>f&uuml;r 4 Frauenstimmen, Ba&szlig;fl&ouml;te, Violoncello und Live-Elektronik</description>
+			<description>für 4 Frauenstimmen, Ba&szlig;fl&ouml;te, Violoncello und Live-Elektronik</description>
 			<length>35:34</length>
 			<instrument name="Sopran">
 				<player name="Monika Bair-Ivenz"/>
@@ -839,7 +839,7 @@
 			<instrument name="Flute">
 				<player name="Roberto Fabbriciani"/>
 			</instrument>
-			<player name="Experimentalstudio f&uuml;r akustische Kunst e.V."/>
+			<player name="Experimentalstudio für akustische Kunst e.V."/>
 			<player name="Solistenchor Freiburg"/>
 			<conductor>Andr&eacute; Richard</conductor>
 			<player name="WDR Rundfunkchor K&ouml;ln"/>
@@ -875,7 +875,7 @@
 		</composition>
 		<composition>
 			<name>Post-Prae-Ludium</name>
-			<description>f&uuml;r Tuba und Live-Elektronik</description>
+			<description>für Tuba und Live-Elektronik</description>
 			<length>13:37</length>
 			<instrument name="Tuba">
 				<player name="Giancarlo Schiaffini"/>
@@ -936,7 +936,7 @@
 		</composition>
 		<composition score="Y">
 			<name>"Hay que caminar" sognando</name>
-			<description>f&uuml;r zwei Violinen</description>
+			<description>für zwei Violinen</description>
 			<length>27:40</length>
 			<instrument name="Violino">
 				<player name="Irvine Arditti"/>
@@ -1192,7 +1192,7 @@
 		</composition>
 		<composition>
 			<name>Wandlungen</name>
-			<description>F&uuml;nf Passacaglien f&uuml;r 25 Instrumente und Live-Elektronik</description>
+			<description>Fünf Passacaglien für 25 Instrumente und Live-Elektronik</description>
 			<length>32:17</length>
 			<player name="Ensemble Modern der Jungen Deutschen Philharmonie"/>
 			<conductor>Ernest Bour</conductor>

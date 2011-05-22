@@ -577,7 +577,7 @@
 			<description>ciascuno su una nota sola</description>
 			<length>15:59</length>
 			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1959"/>
 			<recorded start="1989"/>
 			<release>Accord 200612</release>
@@ -602,7 +602,7 @@
 			<description>pour orchestre</description>
 			<length>17:23</length>
 			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1960"/>
 			<recorded start="1990"/>
 			<release>Accord 201112</release>
@@ -613,7 +613,7 @@
 			<description>pour orchestre</description>
 			<length>20:14</length>
 			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1961"/>
 			<recorded start="1988"/>
 			<release>Accord 200402</release>
@@ -654,7 +654,7 @@
 			<description>pour orchestre</description>
 			<length>11:30</length>
 			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1963"/>
 			<recorded start="1990"/>
 			<release>Accord 201112</release>
@@ -665,7 +665,7 @@
 			<description>pour orchestre</description>
 			<length>17:19</length>
 			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1963"/>
 			<recorded start="1990"/>
 			<release>Accord 201112</release>
@@ -709,7 +709,7 @@
 		</composition>
 		<composition>
 			<name>Elohim</name>
-			<description>f&uuml;r Streichquartett, zwei Soloviolinen und je zwei elektrisch verst&auml;rkte Violinen und Violoncelli</description>
+			<description>für Streichquartett, zwei Soloviolinen und je zwei elektrisch verst&auml;rkte Violinen und Violoncelli</description>
 			<length>4:39</length>
 			<player name="Streichquartett des Klangforum Wien"/>
 			<composed start="1965" end="1967"/>
@@ -718,7 +718,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Duo f&uuml;r Violine und Violoncello</name>
+			<name>Duo für Violine und Violoncello</name>
 			<length>14:05</length>
 			<instrument name="Violine">
 				<player name="Annette Bik"/>
@@ -733,7 +733,7 @@
 		</composition>
 		<composition>
 			<name>Anagamin</name>
-			<description>f&uuml;r zw&ouml;lf Streichinstrumente</description>
+			<description>für zw&ouml;lf Streichinstrumente</description>
 			<length>8:20</length>
 			<player name="Klangforum Wien"/>
 			<conductor>Hans Zender</conductor>
@@ -750,7 +750,7 @@
 				<player name="Carmen Fournier"/>
 			</instrument>
 			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1965"/>
 			<recorded start="1989"/>
 			<release>Accord 200612</release>
@@ -794,7 +794,7 @@
 				<player name="Tristan Murail"/>
 			</instrument>
 			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1966"/>
 			<recorded start="1989"/>
 			<release>Accord 200612</release>
@@ -802,7 +802,7 @@
 		</composition>
 		<composition>
 			<name>Natura Renovatur</name>
-			<description>f&uuml;r elf Streichinstrumente</description>
+			<description>für elf Streichinstrumente</description>
 			<length>12:59</length>
 			<player name="Klangforum Wien"/>
 			<conductor>Hans Zender</conductor>
@@ -870,7 +870,7 @@
 			<description>pour orchestre et choeur</description>
 			<length>18:03</length>
 			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1969"/>
 			<recorded start="1988"/>
 			<release>Accord 200402</release>
@@ -979,7 +979,7 @@
 			<description>pour orchestre et choeur</description>
 			<length>8:41</length>
 			<player name="Orchestre de la Radio-T&eacute;l&eacute;vision Polonaise de Cracovie"/>
-			<conductor>J&uuml;rg Wyttenbach</conductor>
+			<conductor>Jürg Wyttenbach</conductor>
 			<composed start="1974"/>
 			<recorded start="1988"/>
 			<release>Accord 200402</release>
@@ -1053,8 +1053,8 @@
 		</composition>
 		<composition>
 			<name>Maknongan</name>
-			<description>f&uuml;r Bassinstrument oder -stimme</description>
-			<description>Fassung f&uuml;r Kontrabass</description>
+			<description>für Bassinstrument oder -stimme</description>
+			<description>Fassung für Kontrabass</description>
 			<length>4:05</length>
 			<instrument name="Kontrabass">
 				<player name="Uli Fussenegger"/>
@@ -1581,7 +1581,7 @@
 	</composer>
 	<composer name="Dieter" surname="Schnebel" born="1930" died="">
 		<composition>
-			<name>DIAPASON, Kanon &agrave; 13 f&uuml;r ungleichartige Instrumentalgruppen</name>
+			<name>DIAPASON, Kanon &agrave; 13 für ungleichartige Instrumentalgruppen</name>
 			<length>18:55</length>
 			<instrument name="Kontraba&szlig;">
 				<player name="Barry Guy"/>
@@ -1595,11 +1595,11 @@
 		</composition>
 		<composition>
 			<name>KI-NO</name>
-			<description>Nachtmusik f&uuml;r Projektoren und H&ouml;rer</description>
+			<description>Nachtmusik für Projektoren und H&ouml;rer</description>
 			<description>Konkrete Kl&auml;nge und Ger&auml;usche Klangreihung von Josef Anton Riedl</description>
 			<length>6:26</length>
 			<instrument name="Realisation">
-				<player name="Siemens Studio f&uuml;r elektronische Musik"/>
+				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
 			<composed start="1963" end="1967"/>
 			<recorded start="1967"/>
@@ -1608,7 +1608,7 @@
 		</composition>
 		<composition>
 			<name>Monotonien I, IV, V</name>
-			<description>f&uuml;r Klavier und Live-Elektronik</description>
+			<description>für Klavier und Live-Elektronik</description>
 			<length>27:13</length>
 			<instrument name="Klavier">
 				<player name="Marianne Schroeder"/>
@@ -1626,7 +1626,7 @@
 		</composition>
 		<composition>
 			<name>Sinfonie X</name>
-			<description>f&uuml;r gro&szlig;es Orchester, Altstimme,</description>
+			<description>für gro&szlig;es Orchester, Altstimme,</description>
 			<description>Live-Elektronik und Tonband</description>
 			<length>2:36:34</length>
 			<instrument name="Klangregie">
@@ -1664,7 +1664,7 @@
 			<released/>
 		</composition>
 		<composition>
-			<name>3 Klavierst&uuml;cke, op.11</name>
+			<name>3 Klavierstücke, op.11</name>
 			<length>13:36</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -1675,7 +1675,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>5 Orchesterst&uuml;cke, op.16</name>
+			<name>5 Orchesterstücke, op.16</name>
 			<description>original version</description>
 			<length>18:39</length>
 			<player name="City of Birmingham Symphony Orchestra"/>
@@ -1700,7 +1700,7 @@
 			<released/>
 		</composition>
 		<composition>
-			<name>6 kleine Klavierst&uuml;cke, op.19</name>
+			<name>6 kleine Klavierstücke, op.19</name>
 			<length>5:10</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -1712,7 +1712,7 @@
 		</composition>
 		<composition>
 			<name>Pierrot Lunaire, op.21</name>
-			<description>f&uuml;r eine Sprechstimme, Klavier, Fl&ouml;te/ Piccolofl&ouml;te, Klarinette/ Ba&szlig;klarinette, Violine/ Bratsche und Violoncello</description>
+			<description>für eine Sprechstimme, Klavier, Fl&ouml;te/ Piccolofl&ouml;te, Klarinette/ Ba&szlig;klarinette, Violine/ Bratsche und Violoncello</description>
 			<length>33:51</length>
 			<instrument name="Reciter">
 				<player name="Yvonne Minton"/>
@@ -1739,7 +1739,7 @@
 			<released/>
 		</composition>
 		<composition>
-			<name>5 Klavierst&uuml;cke, op.23</name>
+			<name>5 Klavierstücke, op.23</name>
 			<length>10:12</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -1750,7 +1750,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Serenade op. 24 f&uuml;r Klarinette und Orchester</name>
+			<name>Serenade op. 24 für Klarinette und Orchester</name>
 			<length>35:36</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud</conductor>
@@ -1760,7 +1760,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Suite f&uuml;r Klavier, op.25</name>
+			<name>Suite für Klavier, op.25</name>
 			<length>14:16</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -1772,7 +1772,7 @@
 		</composition>
 		<composition>
 			<name>Lied der Waldtaube</name>
-			<description>Fassung f&uuml;r Kammerorchester</description>
+			<description>Fassung für Kammerorchester</description>
 			<length>12:40</length>
 			<instrument name="Mezzo-Soprano">
 				<player name="Jessie Norman"/>
@@ -1785,7 +1785,7 @@
 			<released/>
 		</composition>
 		<composition>
-			<name>Variationen f&uuml;r Orchester, op.31</name>
+			<name>Variationen für Orchester, op.31</name>
 			<length>22:21</length>
 			<player name="Berliner Philharmoniker"/>
 			<conductor>Herbert von Karajan</conductor>
@@ -1796,7 +1796,7 @@
 		</composition>
 		<composition>
 			<name>Die Jakobsleiter</name>
-			<description>Oratorium f&uuml;r Soli, Ch&ouml;re und Orchester</description>
+			<description>Oratorium für Soli, Ch&ouml;re und Orchester</description>
 			<length>47:08</length>
 			<player name="BBC Singers"/>
 			<player name="BBC Symphony Orchestra"/>
@@ -1807,7 +1807,7 @@
 			<released/>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck, op.33a</name>
+			<name>Klavierstück, op.33a</name>
 			<length>2:06</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -1818,7 +1818,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck, op.33b</name>
+			<name>Klavierstück, op.33b</name>
 			<length>3:31</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -1954,7 +1954,7 @@
 			<instrument name="Piano">
 				<player name="Massimiliano Damerini"/>
 			</instrument>
-			<player name="Choeur et Orchestre du S&uuml;dwestfunk"/>
+			<player name="Choeur et Orchestre du Südwestfunk"/>
 			<conductor>Ernest Bour</conductor>
 			<composed start="1974" end="1979"/>
 			<recorded start="1979"/>
@@ -1996,7 +1996,7 @@
 		</composition>
 		<composition>
 			<name>Introduzione all'oscuro</name>
-			<description>f&uuml;r Fl&ouml;te, Oboe, Klarinette, Fagott, Horn, Trompete, Posaune und Streichquintett</description>
+			<description>für Fl&ouml;te, Oboe, Klarinette, Fagott, Horn, Trompete, Posaune und Streichquintett</description>
 			<length>17:48</length>
 			<player name="Ensemble Recherche"/>
 			<conductor>Kwam&eacute; Ryan</conductor>
@@ -2157,7 +2157,7 @@
 		</composition>
 		<composition>
 			<name>Codex purpureus</name>
-			<description>f&uuml;r Streichtrio</description>
+			<description>für Streichtrio</description>
 			<length>11:05</length>
 			<player name="Ensemble Recherche"/>
 			<conductor>Kwam&eacute; Ryan</conductor>
@@ -2206,7 +2206,7 @@
 		</composition>
 		<composition>
 			<name>Lo spazio inverso</name>
-			<description>f&uuml;r Fl&ouml;te, Klarinette, Celesta, Violine und Violoncello</description>
+			<description>für Fl&ouml;te, Klarinette, Celesta, Violine und Violoncello</description>
 			<length>7:25</length>
 			<player name="Ensemble Recherche"/>
 			<conductor>Kwam&eacute; Ryan</conductor>
@@ -2397,7 +2397,7 @@
 		</composition>
 		<composition>
 			<name>Ommagio a Burri</name>
-			<description>f&uuml;r Altfl&ouml;te, Bassklarinette und Violine</description>
+			<description>für Altfl&ouml;te, Bassklarinette und Violine</description>
 			<length>12:53</length>
 			<player name="Ensemble Recherche"/>
 			<conductor>Kwam&eacute; Ryan</conductor>
@@ -2418,7 +2418,7 @@
 		</composition>
 		<composition>
 			<name>Muro d'orizzonte</name>
-			<description>f&uuml;r Altfl&ouml;te, Englischhorn und Bassklarinette</description>
+			<description>für Altfl&ouml;te, Englischhorn und Bassklarinette</description>
 			<length>11:14</length>
 			<player name="Ensemble Recherche"/>
 			<conductor>Kwam&eacute; Ryan</conductor>
@@ -2654,7 +2654,7 @@
 	<composer name="Agostino di" surname="Scipio" born="1962" died="">
 		<composition>
 			<name>Texture/Multiple</name>
-			<description>f&uuml;r sechs instrumente und raumabh&auml;ngige signalverarbeitung</description>
+			<description>für sechs instrumente und raumabh&auml;ngige signalverarbeitung</description>
 			<length>12:25</length>
 			<player name="Ensemble Mosaik"/>
 			<instrument name="Signalverarbeitung">
@@ -2667,7 +2667,7 @@
 		</composition>
 		<composition>
 			<name>5 interazioni cicliche alle differenze sensibili</name>
-			<description>f&uuml;r streichquartett und raumabh&auml;ngige signalverarbeitung</description>
+			<description>für streichquartett und raumabh&auml;ngige signalverarbeitung</description>
 			<length>11:28</length>
 			<part>
 				<number>1</number>
@@ -2700,7 +2700,7 @@
 		</composition>
 		<composition>
 			<name>Craquelure</name>
-			<description>2 pezzi silenziosi, a Giuliano, f&uuml;r klangsynthese und raumabh&auml;ngige signalverarbeitung</description>
+			<description>2 pezzi silenziosi, a Giuliano, für klangsynthese und raumabh&auml;ngige signalverarbeitung</description>
 			<length>10:01</length>
 			<part>
 				<number>1</number>
@@ -2720,31 +2720,31 @@
 		</composition>
 		<composition>
 			<name>H&ouml;rbare &ouml;kosysteme</name>
-			<description>f&uuml;r Live-elektronik</description>
+			<description>für Live-elektronik</description>
 			<length>34:23</length>
 			<part>
 				<number>1</number>
-				<name>studie &uuml;ber impulsantworten</name>
+				<name>studie über impulsantworten</name>
 				<length>8:16</length>
 			</part>
 			<part>
 				<number>2a</number>
-				<name>studie &uuml;ber r&uuml;ckkopplungen</name>
+				<name>studie über rückkopplungen</name>
 				<length>5:50</length>
 			</part>
 			<part>
 				<number>2b</number>
-				<name>studie &uuml;ber r&uuml;ckkopplungen, mit vokalresonanzen</name>
+				<name>studie über rückkopplungen, mit vokalresonanzen</name>
 				<length>4:40</length>
 			</part>
 			<part>
 				<number>3a</number>
-				<name>studie &uuml;ber hintergrundger&auml;usche</name>
+				<name>studie über hintergrundger&auml;usche</name>
 				<length>6:55</length>
 			</part>
 			<part>
 				<number>3b</number>
-				<name>studie &uuml;ber hintergrundger&auml;usche im vokaltrakt</name>
+				<name>studie über hintergrundger&auml;usche im vokaltrakt</name>
 				<length>8:42</length>
 			</part>
 			<instrument name="Lieve-elektronik">
@@ -2852,7 +2852,7 @@
 	<composer name="Martin" surname="Smolka" born="1959" died="">
 		<composition>
 			<name>&quot;rain. a window, roofs, chimneys, pigeons and so... and railway-bridges, too&quot;</name>
-			<description>f&uuml;r Bl&auml;seroktett und andere Instrumente</description>
+			<description>für Bl&auml;seroktett und andere Instrumente</description>
 			<length>23:17</length>
 			<player name="Musikfabrik NRW"/>
 			<conductor>Johannes Kalitzke</conductor>
@@ -2901,7 +2901,7 @@
 		</composition>
 		<composition>
 			<name>Apo do</name>
-			<description>f&uuml;r Streichquartett</description>
+			<description>für Streichquartett</description>
 			<length>12:06</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1982"/>
@@ -2911,7 +2911,7 @@
 		</composition>
 		<composition>
 			<name>Furioso</name>
-			<description>f&uuml;r Ensemble</description>
+			<description>für Ensemble</description>
 			<length>20:02</length>
 			<player name="Ensemble Modern"/>
 			<conductor>Hans Zender</conductor>
@@ -2922,7 +2922,7 @@
 		</composition>
 		<composition>
 			<name>Und als wir</name>
-			<description>f&uuml;r 54 Streicher</description>
+			<description>für 54 Streicher</description>
 			<length>16:10</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Lothar Zagrosek</conductor>
@@ -2933,7 +2933,7 @@
 		</composition>
 		<composition>
 			<name>Gegen unendlich</name>
-			<description>f&uuml;r Bassklarinette, Posaune, Violoncello und Klavier</description>
+			<description>für Bassklarinette, Posaune, Violoncello und Klavier</description>
 			<length>16:28</length>
 			<player name="Ensemble Recherche"/>
 			<composed start="1995"/>
@@ -2942,8 +2942,8 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Farben der Fr&uuml;he</name>
-			<description>f&uuml;r sieben Klaviere</description>
+			<name>Farben der Frühe</name>
+			<description>für sieben Klaviere</description>
 			<length>46:47</length>
 			<player name="Ensemble Surplus"/>
 			<composed start="2005"/>
@@ -2953,7 +2953,7 @@
 		</composition>
 		<composition>
 			<name>Fugitive beaut&eacute;</name>
-			<description>f&uuml;r Oboe, Altfl&ouml;te und Violine, Bassklarinette, Viola und Violoncello</description>
+			<description>für Oboe, Altfl&ouml;te und Violine, Bassklarinette, Viola und Violoncello</description>
 			<length>16:58</length>
 			<player name="Ensemble Recherche"/>
 			<composed start="2006"/>
@@ -2965,7 +2965,7 @@
 	<composer name="Manfred" surname="Stahnke" born="1951" died="">
 		<composition>
 			<name>Trace des sorciers</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>17:19</length>
 			<part>
 				<number>I</number>
@@ -2987,21 +2987,21 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="G&uuml;nter" surname="Steinke" born="1956" died="">
+	<composer name="Günter" surname="Steinke" born="1956" died="">
 		<composition>
 			<name>Arcade</name>
-			<description>f&uuml;r Violoncello und Live-Elektronik</description>
+			<description>für Violoncello und Live-Elektronik</description>
 			<length>10:42</length>
 			<instrument name="Violoncello">
 				<player name="Lucas Fels"/>
 			</instrument>
-			<player name="Experimentalstudio der Heinrich-Strobel-Stiftung des S&uuml;dwestfunks Freiburg"/>
+			<player name="Experimentalstudio der Heinrich-Strobel-Stiftung des Südwestfunks Freiburg"/>
 			<instrument name="Musikinformatik und Klangregie">
 				<player name="Kent Clelland"/>
 				<player name="Joachim Haas"/>
 				<player name="Thomas Hummel"/>
 				<player name="Andr&eacute; Richard"/>
-				<player name="G&uuml;nter Steinke"/>
+				<player name="Günter Steinke"/>
 			</instrument>
 			<composed start="1991" end="1992"/>
 			<recorded start="1997"/>
@@ -3011,8 +3011,8 @@
 	</composer>
 	<composer name="Karlheinz" surname="Stockhausen" born="1928" died="2007">
 		<composition>
-			<name>Ch&ouml;re f&uuml;r Doris</name>
-			<description>f&uuml;r Chor a Capella</description>
+			<name>Ch&ouml;re für Doris</name>
+			<description>für Chor a Capella</description>
 			<length>9:21</length>
 			<player name="Chor des Norddeutschen Rundfunks"/>
 			<conductor>Karlheinz Stockhausen</conductor>
@@ -3023,7 +3023,7 @@
 		</composition>
 		<composition>
 			<name>Choral</name>
-			<description>f&uuml;r Chor a Capella</description>
+			<description>für Chor a Capella</description>
 			<length>4:05</length>
 			<player name="Chor des Norddeutschen Rundfunks"/>
 			<conductor>Karlheinz Stockhausen</conductor>
@@ -3034,12 +3034,12 @@
 		</composition>
 		<composition>
 			<name>Drei Lieder</name>
-			<description>f&uuml;r Altstimme und Kammerorchester</description>
+			<description>für Altstimme und Kammerorchester</description>
 			<length>19:26</length>
 			<instrument name="Altstimme">
 				<player name="Sylvia Anderson"/>
 			</instrument>
-			<player name="Sinfonie-Orchester des S&uuml;dwestfunks Baden-Baden"/>
+			<player name="Sinfonie-Orchester des Südwestfunks Baden-Baden"/>
 			<conductor>Karlheinz Stockhausen</conductor>
 			<composed start="1950"/>
 			<recorded start="1975"/>
@@ -3048,7 +3048,7 @@
 		</composition>
 		<composition>
 			<name>Sonatine</name>
-			<description>f&uuml;r Violine und Klavier</description>
+			<description>für Violine und Klavier</description>
 			<length>10:32</length>
 			<instrument name="Violine">
 				<player name="Saschko Gawriloff"/>
@@ -3063,7 +3063,7 @@
 		</composition>
 		<composition>
 			<name>Kreuzspiel</name>
-			<description>f&uuml;r Oboe, Ba&szlig;klarinette, Klavier, 3 Schlagzeuger</description>
+			<description>für Oboe, Ba&szlig;klarinette, Klavier, 3 Schlagzeuger</description>
 			<length>11:29</length>
 			<player name="London Sinfonietta"/>
 			<conductor>Karlheinz Stockhausen</conductor>
@@ -3085,7 +3085,7 @@
 		</composition>
 		<composition>
 			<name>Kreuzspiel</name>
-			<description>f&uuml;r Oboe, Ba&szlig;klarinette, Klavier, 3 Schlagzeuger</description>
+			<description>für Oboe, Ba&szlig;klarinette, Klavier, 3 Schlagzeuger</description>
 			<length>11:43</length>
 			<player name="Ives Ensemble"/>
 			<composed start="1951"/>
@@ -3095,7 +3095,7 @@
 		</composition>
 		<composition>
 			<name>Formel</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>12:57</length>
 			<player name="Sinfonie-Orchester des Südwestfunks"/>
 			<conductor>Karlheinz Stockhausen</conductor>
@@ -3106,7 +3106,7 @@
 		</composition>
 		<composition>
 			<name>Schlagtrio</name>
-			<description>f&uuml;r Klavier und 2x3 Pauken</description>
+			<description>für Klavier und 2x3 Pauken</description>
 			<length>15:15</length>
 			<instrument name="Klavier">
 				<player name="Aloys Kontarsky"/>
@@ -3122,7 +3122,7 @@
 		</composition>
 		<composition>
 			<name>Spiel</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>16:01</length>
 			<player name="Sinfonie-Orchester des Südwestfunks"/>
 			<conductor>Karlheinz Stockhausen</conductor>
@@ -3133,7 +3133,7 @@
 		</composition>
 		<composition>
 			<name>Punkte</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>27:37</length>
 			<player name="Sinfonie-Orchester des NDR"/>
 			<conductor>Karlheinz Stockhausen</conductor>
@@ -3144,7 +3144,7 @@
 		</composition>
 		<composition>
 			<name>Punkte</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>18:53</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Pierre Boulez</conductor>
@@ -3164,7 +3164,7 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke I</name>
+			<name>Klavierstücke I</name>
 			<length>3:00</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3175,7 +3175,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke II</name>
+			<name>Klavierstücke II</name>
 			<length>1:52</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3186,7 +3186,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke III</name>
+			<name>Klavierstücke III</name>
 			<length>0:32</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3197,7 +3197,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke IV</name>
+			<name>Klavierstücke IV</name>
 			<length>2:05</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3209,7 +3209,7 @@
 		</composition>
 		<composition>
 			<name>Kontra-Punkte</name>
-			<description>f&uuml;r 10 Instrumente</description>
+			<description>für 10 Instrumente</description>
 			<length>14:13</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Sebastian Bell"/>
@@ -3268,7 +3268,7 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke V</name>
+			<name>Klavierstücke V</name>
 			<length>5:29</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3279,7 +3279,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke VI</name>
+			<name>Klavierstücke VI</name>
 			<length>25:28</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3290,7 +3290,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke VII</name>
+			<name>Klavierstücke VII</name>
 			<length>6:39</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3301,7 +3301,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke VIII</name>
+			<name>Klavierstücke VIII</name>
 			<length>1:47</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3312,7 +3312,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke IX</name>
+			<name>Klavierstücke IX</name>
 			<length>9:46</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3323,7 +3323,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke X</name>
+			<name>Klavierstücke X</name>
 			<length>22:22</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3335,7 +3335,7 @@
 		</composition>
 		<composition>
 			<name>Zeitmasze</name>
-			<description>f&uuml;r 5 Holzbl&auml;ser</description>
+			<description>für 5 Holzbl&auml;ser</description>
 			<length>14:47</length>
 			<instrument name="Oboe">
 				<player name="Janet Craxton"/>
@@ -3359,7 +3359,7 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>Gesang der J&uuml;nglinge</name>
+			<name>Gesang der Jünglinge</name>
 			<description>Elektronische Musik</description>
 			<length>13:14</length>
 			<player name="WDR K&ouml;ln"/>
@@ -3369,7 +3369,7 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;cke XI</name>
+			<name>Klavierstücke XI</name>
 			<length>14:00</length>
 			<instrument name="Piano">
 				<player name="Aloys Kontarsky"/>
@@ -3381,7 +3381,7 @@
 		</composition>
 		<composition>
 			<name>Gruppen</name>
-			<description>f&uuml;r drei Orchester</description>
+			<description>für drei Orchester</description>
 			<length>22:20</length>
 			<player name="Berliner Philharmoniker"/>
 			<conductor>Friedrich Goldman (I), Claudio Abbado (II), Marcus Creed (III)</conductor>
@@ -3392,7 +3392,7 @@
 		</composition>
 		<composition>
 			<name>Gruppen</name>
-			<description>f&uuml;r drei Orchester</description>
+			<description>für drei Orchester</description>
 			<length>24:25</length>
 			<player name="WDR Sinfonie-Orchester"/>
 			<conductor>Karlheinz Stockhausen (I), Bruno Maderna (II), Michael Gielen (III)</conductor>
@@ -3404,7 +3404,7 @@
 		<composition>
 			<name>Zyklus</name>
 			<description>1. Version</description>
-			<description>f&uuml;r einen Schlagzeuger</description>
+			<description>für einen Schlagzeuger</description>
 			<length>11:32</length>
 			<instrument name="Percuss&atilde;o">
 				<player name="Mircea Ardeleanu"/>
@@ -3417,7 +3417,7 @@
 		<composition>
 			<name>Zyklus</name>
 			<description>2. Version</description>
-			<description>f&uuml;r einen Schlagzeuger</description>
+			<description>für einen Schlagzeuger</description>
 			<length>11:09</length>
 			<instrument name="Percuss&atilde;o">
 				<player name="Mircea Ardeleanu"/>
@@ -3429,7 +3429,7 @@
 		</composition>
 		<composition>
 			<name>Zyklus</name>
-			<description>f&uuml;r einen Schlagzeuger</description>
+			<description>für einen Schlagzeuger</description>
 			<length>11:46</length>
 			<instrument name="Schlagzeug">
 				<player name="Christoph Caskel"/>
@@ -3441,7 +3441,7 @@
 		</composition>
 		<composition>
 			<name>Refrain</name>
-			<description>f&uuml;r drei Spieler</description>
+			<description>für drei Spieler</description>
 			<length>11:40</length>
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
@@ -3459,7 +3459,7 @@
 		</composition>
 		<composition>
 			<name>Refrain</name>
-			<description>f&uuml;r drei Spieler</description>
+			<description>für drei Spieler</description>
 			<length>11:54</length>
 			<instrument name="Klavier">
 				<player name="Aloys Kontarsky"/>
@@ -3477,7 +3477,7 @@
 		</composition>
 		<composition>
 			<name>Refrain</name>
-			<description>f&uuml;r drei Spieler</description>
+			<description>für drei Spieler</description>
 			<length>9:53</length>
 			<player name="Ives Ensemble"/>
 			<composed start="1959"/>
@@ -3497,7 +3497,7 @@
 		</composition>
 		<composition>
 			<name>Kontakte</name>
-			<description>f&uuml;r elektronische Kl&auml;nge, Klavier und Schlagzeug</description>
+			<description>für elektronische Kl&auml;nge, Klavier und Schlagzeug</description>
 			<length>35:07</length>
 			<instrument name="Klavier">
 				<player name="Aloys Kontarsky"/>
@@ -3512,7 +3512,7 @@
 		</composition>
 		<composition>
 			<name>Kontakte</name>
-			<description>f&uuml;r elektronische Kl&auml;nge, Klavier und Schlagzeug</description>
+			<description>für elektronische Kl&auml;nge, Klavier und Schlagzeug</description>
 			<length>34:50</length>
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
@@ -3527,7 +3527,7 @@
 		</composition>
 		<composition>
 			<name>Carr&eacute;</name>
-			<description>f&uuml;r 4 Orchester und 4 Ch&ouml;re</description>
+			<description>für 4 Orchester und 4 Ch&ouml;re</description>
 			<length>30:50</length>
 			<player name="Chor und Sinfonie-Orchester des NDR"/>
 			<conductor>Mauricio Kagel (I), Karlheinz Stockhausen (II), Andrzej Markowski (III), Michael Gielen (IV)</conductor>
@@ -3538,7 +3538,7 @@
 		</composition>
 		<composition>
 			<name>Momente</name>
-			<description>f&uuml;r Solosopran, 4 Chorgruppen und 13 Instrumentalisten</description>
+			<description>für Solosopran, 4 Chorgruppen und 13 Instrumentalisten</description>
 			<description>Europa Version 1972</description>
 			<length>1:52:35</length>
 			<instrument name="Solosopran">
@@ -3555,7 +3555,7 @@
 		</composition>
 		<composition>
 			<name>Momente</name>
-			<description>f&uuml;r Solosopran, 4 Chorgruppen und 13 Instrumentalisten</description>
+			<description>für Solosopran, 4 Chorgruppen und 13 Instrumentalisten</description>
 			<description>Donaueschinger Version 1965</description>
 			<length>29:20 (Ausschnitt)</length>
 			<instrument name="Solosopran">
@@ -3572,7 +3572,7 @@
 		</composition>
 		<composition>
 			<name>Momente</name>
-			<description>f&uuml;r Solosopran, 4 Chorgruppen und 13 Instrumentalisten</description>
+			<description>für Solosopran, 4 Chorgruppen und 13 Instrumentalisten</description>
 			<description>Version 1998</description>
 			<length>1:46:21</length>
 			<instrument name="Solosopran">
@@ -3601,7 +3601,7 @@
 		</composition>
 		<composition>
 			<name>Mikrophonie I</name>
-			<description>f&uuml;r Tamtam, zwei Mikrophone, zwei Filter und Regler</description>
+			<description>für Tamtam, zwei Mikrophone, zwei Filter und Regler</description>
 			<length>26:35</length>
 			<instrument name="Tamtam">
 				<player name="Aloys Kontarsky"/>
@@ -3623,7 +3623,7 @@
 		</composition>
 		<composition>
 			<name>Mikrophonie I</name>
-			<description>f&uuml;r Tamtam, zwei Mikrophone, zwei Filter und Regler</description>
+			<description>für Tamtam, zwei Mikrophone, zwei Filter und Regler</description>
 			<length>26:21</length>
 			<instrument name="Tamtam">
 				<player name="Aloys Kontarsky"/>
@@ -3645,7 +3645,7 @@
 		</composition>
 		<composition>
 			<name>Stop</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<length>20:36</length>
 			<conductor>Karlheinz Stockhausen</conductor>
 			<composed start="1965"/>
@@ -3655,7 +3655,7 @@
 		</composition>
 		<composition>
 			<name>Mikrophonie II</name>
-			<description>f&uuml;r Chor, Hammondorgel und Ringmodulatoren</description>
+			<description>für Chor, Hammondorgel und Ringmodulatoren</description>
 			<length>14:53</length>
 			<instrument name="Hammondorgel">
 				<player name="Aloys Kontarsky"/>
@@ -3673,7 +3673,7 @@
 		</composition>
 		<composition>
 			<name>Mikrophonie II</name>
-			<description>f&uuml;r Chor, Hammondorgel und 4 Ringmodulatoren</description>
+			<description>für Chor, Hammondorgel und 4 Ringmodulatoren</description>
 			<length>14:52</length>
 			<instrument name="Hammondorgel">
 				<player name="Aloys Kontarsky"/>
@@ -3701,7 +3701,7 @@
 		</composition>
 		<composition>
 			<name>Adieu</name>
-			<description>f&uuml;r Bl&auml;serquintett</description>
+			<description>für Bl&auml;serquintett</description>
 			<length>16:13</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Sebastian Bell"/>
@@ -3726,8 +3726,8 @@
 		</composition>
 		<composition>
 			<name>Solo</name>
-			<description>f&uuml;r Melodie-Instrument mit R&uuml;ckkopplung</description>
-			<description>Version f&uuml;r Fl&ouml;te (1994)</description>
+			<description>für Melodie-Instrument mit Rückkopplung</description>
+			<description>Version für Fl&ouml;te (1994)</description>
 			<length>17:13</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Dietmar Wiesner"/>
@@ -3739,8 +3739,8 @@
 		</composition>
 		<composition>
 			<name>Solo</name>
-			<description>f&uuml;r Melodie-Instrument mit R&uuml;ckkopplung</description>
-			<description>Version f&uuml;r Synthesizer, Sampler, Sequenzer, 8-Spur-Tonband (1994)</description>
+			<description>für Melodie-Instrument mit Rückkopplung</description>
+			<description>Version für Synthesizer, Sampler, Sequenzer, 8-Spur-Tonband (1994)</description>
 			<length>17:17</length>
 			<instrument name="Synthesizer">
 				<player name="Simon Stockhausen"/>
@@ -3754,7 +3754,7 @@
 			<name>Hymnen</name>
 			<description>Elektronische und Konkrete Musik</description>
 			<length>1:53:59</length>
-			<player name="Studio f&uuml;r Elektronische Musik, WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik, WDR K&ouml;ln"/>
 			<composed start="1966" end="1967"/>
 			<recorded start="1966" end="1967"/>
 			<release>Stockhausen-Verlag CD10ABCD</release>
@@ -3780,7 +3780,7 @@
 			<instrument name="Filter und Regler">
 				<player name="Karlheinz Stockhausen"/>
 			</instrument>
-			<player name="Studio f&uuml;r Elektronische Musik, WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik, WDR K&ouml;ln"/>
 			<composed start="1967"/>
 			<recorded start="1969"/>
 			<release>Stockhausen-Verlag CD10ABCD</release>
@@ -3788,8 +3788,8 @@
 		</composition>
 		<composition>
 			<name>Mixtur</name>
-			<description>R&uuml;ckw&auml;rts-Version, Kleine Besetzung</description>
-			<description>f&uuml;r 5 Orchestergruppen, 4 Sinusgeneratoren, 4 Ringmodulatoren</description>
+			<description>Rückw&auml;rts-Version, Kleine Besetzung</description>
+			<description>für 5 Orchestergruppen, 4 Sinusgeneratoren, 4 Ringmodulatoren</description>
 			<length>27:10</length>
 			<instrument name="Sinusgeneratoren">
 				<player name="Johannes Fritsch"/>
@@ -3809,7 +3809,7 @@
 		<composition>
 			<name>Mixtur</name>
 			<description>Vorw&auml;rts-Version, Kleine Besetzung</description>
-			<description>f&uuml;r 5 Orchestergruppen, 4 Sinusgeneratoren, 4 Ringmodulatoren</description>
+			<description>für 5 Orchestergruppen, 4 Sinusgeneratoren, 4 Ringmodulatoren</description>
 			<length>26:12</length>
 			<instrument name="Sinusgeneratoren">
 				<player name="Johannes Fritsch"/>
@@ -3854,7 +3854,7 @@
 		</composition>
 		<composition>
 			<name>Stimmung</name>
-			<description>f&uuml;r 6 Vokalisten</description>
+			<description>für 6 Vokalisten</description>
 			<description>Pariser Version</description>
 			<length>1:15:00</length>
 			<player name="Collegium Vocale K&ouml;ln"/>
@@ -3865,7 +3865,7 @@
 		</composition>
 		<composition>
 			<name>Stimmung</name>
-			<description>f&uuml;r 6 Vokalisten</description>
+			<description>für 6 Vokalisten</description>
 			<description>Pariser Version</description>
 			<length>1:03:00</length>
 			<player name="Collegium Vocale K&ouml;ln"/>
@@ -3876,7 +3876,7 @@
 		</composition>
 		<composition>
 			<name>Kurzwellen</name>
-			<description>f&uuml;r 6 Spieler</description>
+			<description>für 6 Spieler</description>
 			<description>Version 9. April 1969, WDR K&ouml;ln</description>
 			<length>54:05</length>
 			<instrument name="Klavier und Kurzwellen-Empf&auml;nger">
@@ -3903,7 +3903,7 @@
 		<composition>
 			<name>Spiral</name>
 			<description>1. Version</description>
-			<description>f&uuml;r einen Solisten</description>
+			<description>für einen Solisten</description>
 			<length>15:30</length>
 			<instrument name="Elektrochord mit Synthesizer und Kurzwellen-Empf&auml;nger">
 				<player name="P&eacute;ter E&ouml;tv&ouml;s"/>
@@ -3916,7 +3916,7 @@
 		<composition>
 			<name>Spiral</name>
 			<description>2. Version</description>
-			<description>f&uuml;r einen Solisten</description>
+			<description>für einen Solisten</description>
 			<length>17:30</length>
 			<instrument name="Elektronium und Kurzwellen-Empf&auml;nger">
 				<player name="Harald Boj&eacute;"/>
@@ -3929,7 +3929,7 @@
 		<composition>
 			<name>Spiral</name>
 			<description>Integrale Version</description>
-			<description>f&uuml;r einen Solisten mit Kurzwellen-Empf&auml;nger</description>
+			<description>für einen Solisten mit Kurzwellen-Empf&auml;nger</description>
 			<length>2:18:00</length>
 			<instrument name="Stimme und Kurzwellen-Empf&auml;nger">
 				<player name="Michael Vetter"/>
@@ -3941,8 +3941,8 @@
 		</composition>
 		<composition>
 			<name>Spiral</name>
-			<description>f&uuml;r einen Solisten</description>
-			<description>Version f&uuml;r Oboe, Stimme, Didjeridoo, Kurzwellen-Empf&auml;nger (1994)</description>
+			<description>für einen Solisten</description>
+			<description>Version für Oboe, Stimme, Didjeridoo, Kurzwellen-Empf&auml;nger (1994)</description>
 			<length>20:20</length>
 			<instrument name="Oboe">
 				<player name="Cathy Milliken"/>
@@ -4040,42 +4040,42 @@
 			<name>Hymnen (Dritte Region)</name>
 			<description>Elektronische und Konkrete Musik mit Orchester</description>
 			<length>41:51</length>
-			<player name="G&uuml;rzenich-Orchester"/>
+			<player name="Gürzenich-Orchester"/>
 			<conductor>Karlheinz Stockhausen</conductor>
 			<instrument name="Klangregisseur">
 				<player name="Markus Stockhausen"/>
 			</instrument>
-			<player name="Studio f&uuml;r Elektronische Musik, WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik, WDR K&ouml;ln"/>
 			<composed start="1969"/>
 			<recorded start="1994"/>
 			<release>Stockhausen-Verlag CD47</release>
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Hymnen (Dritte Region - Russische Br&uuml;cke 1. Version)</name>
+			<name>Hymnen (Dritte Region - Russische Brücke 1. Version)</name>
 			<description>Elektronische und Konkrete Musik mit Orchester</description>
 			<length>9:23</length>
-			<player name="G&uuml;rzenich-Orchester"/>
+			<player name="Gürzenich-Orchester"/>
 			<conductor>Karlheinz Stockhausen</conductor>
 			<instrument name="Klangregisseur">
 				<player name="Markus Stockhausen"/>
 			</instrument>
-			<player name="Studio f&uuml;r Elektronische Musik, WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik, WDR K&ouml;ln"/>
 			<composed start="1969"/>
 			<recorded start="1994"/>
 			<release>Stockhausen-Verlag CD47</release>
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Hymnen (Dritte Region - Russische Br&uuml;cke 2. Version)</name>
+			<name>Hymnen (Dritte Region - Russische Brücke 2. Version)</name>
 			<description>Elektronische und Konkrete Musik mit Orchester</description>
 			<length>10:14</length>
-			<player name="G&uuml;rzenich-Orchester"/>
+			<player name="Gürzenich-Orchester"/>
 			<conductor>Karlheinz Stockhausen</conductor>
 			<instrument name="Klangregisseur">
 				<player name="Markus Stockhausen"/>
 			</instrument>
-			<player name="Studio f&uuml;r Elektronische Musik, WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik, WDR K&ouml;ln"/>
 			<composed start="1969"/>
 			<recorded start="1994"/>
 			<release>Stockhausen-Verlag CD47</release>
@@ -4083,8 +4083,8 @@
 		</composition>
 		<composition>
 			<name>Ceylon</name>
-			<description>f&uuml;r kleines Ensemble</description>
-			<description>Intuitive Musik aus dem Zyklus &quot;F&uuml;r Kommende Zeiten&quot;</description>
+			<description>für kleines Ensemble</description>
+			<description>Intuitive Musik aus dem Zyklus &quot;Für Kommende Zeiten&quot;</description>
 			<length>22:47</length>
 			<instrument name="Elektronium">
 				<player name="Harald Boj&eacute;"/>
@@ -4108,7 +4108,7 @@
 		</composition>
 		<composition>
 			<name>Mantra</name>
-			<description>f&uuml;r 2 Pianisten</description>
+			<description>für 2 Pianisten</description>
 			<length>1:05:20</length>
 			<instrument name="Mikrophonverst&auml;rker, Kompressor, Filter, Ringmodulator, Sinusgenerator, Lautst&auml;rkeregler">
 				<player name="Aloys Kontarsky"/>
@@ -4123,7 +4123,7 @@
 		</composition>
 		<composition>
 			<name>Pole</name>
-			<description>f&uuml;r 2</description>
+			<description>für 2</description>
 			<length>23:07</length>
 			<instrument name="Elektrochord mit Synthesizer und Kurzwellen-Empf&auml;nger">
 				<player name="P&eacute;ter E&ouml;tv&ouml;s"/>
@@ -4138,7 +4138,7 @@
 		</composition>
 		<composition>
 			<name>Sternklang</name>
-			<description>Parkmusik f&uuml;r 5 Gruppen</description>
+			<description>Parkmusik für 5 Gruppen</description>
 			<length>2:10:20</length>
 			<composed start="1969" end="1971"/>
 			<recorded start="1975"/>
@@ -4147,10 +4147,10 @@
 		</composition>
 		<composition>
 			<name>Trans</name>
-			<description>f&uuml;r Orchester</description>
-			<description>Aufnahme der Urauff&uuml;hrung 16. Oktober 1971</description>
+			<description>für Orchester</description>
+			<description>Aufnahme der Uraufführung 16. Oktober 1971</description>
 			<length>28:20</length>
-			<player name="Sinfonie-Orchester des S&uuml;dwestfunks Baden-Baden"/>
+			<player name="Sinfonie-Orchester des Südwestfunks Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
 			<instrument name="Klangregie">
 				<player name="Karlheinz Stockhausen"/>
@@ -4162,7 +4162,7 @@
 		</composition>
 		<composition>
 			<name>Trans</name>
-			<description>f&uuml;r Orchester</description>
+			<description>für Orchester</description>
 			<description>Studioproduktion November 1973</description>
 			<length>26:50</length>
 			<player name="Orchester des Saarl&auml;ndischen Rundfunks"/>
@@ -4177,7 +4177,7 @@
 		</composition>
 		<composition>
 			<name>Ylem</name>
-			<description>f&uuml;r 19 Spieler</description>
+			<description>für 19 Spieler</description>
 			<description>Londoner Version 1973</description>
 			<length>25:35</length>
 			<player name="London Sinfonietta"/>
@@ -4189,7 +4189,7 @@
 		</composition>
 		<composition>
 			<name>Ylem</name>
-			<description>f&uuml;r 19 Spieler</description>
+			<description>für 19 Spieler</description>
 			<description>Londoner Version 1973 - andere Version</description>
 			<length>26:00</length>
 			<player name="London Sinfonietta"/>
@@ -4213,7 +4213,7 @@
 		</composition>
 		<composition>
 			<name>Laub und Regen</name>
-			<description>f&uuml;r Klarinette und Bratsche</description>
+			<description>für Klarinette und Bratsche</description>
 			<length>10:39</length>
 			<instrument name="Klarinette">
 				<player name="Suzanne Stephens"/>
@@ -4228,7 +4228,7 @@
 		</composition>
 		<composition>
 			<name>Tierkreis</name>
-			<description>f&uuml;r 12 Spieluhren</description>
+			<description>für 12 Spieluhren</description>
 			<length>25:10</length>
 			<composed start="1975"/>
 			<recorded start=""/>
@@ -4237,7 +4237,7 @@
 		</composition>
 		<composition>
 			<name>Tierkreis</name>
-			<description>f&uuml;r Klarinette und Klavier</description>
+			<description>für Klarinette und Klavier</description>
 			<length>23:01</length>
 			<instrument name="Klarinette">
 				<player name="Suzanne Stephens"/>
@@ -4253,7 +4253,7 @@
 		<composition>
 			<name>Tierkreis</name>
 			<description>Trio-Version</description>
-			<description>f&uuml;r Klarinette, Fl&ouml;te und Piccolo, Trompete und Klavier</description>
+			<description>für Klarinette, Fl&ouml;te und Piccolo, Trompete und Klavier</description>
 			<length>29:00</length>
 			<instrument name="Klarinette">
 				<player name="Suzanne Stephens"/>
@@ -4271,7 +4271,7 @@
 		</composition>
 		<composition>
 			<name>Musik im Bauch</name>
-			<description>f&uuml;r 6 Schlagzeuger, Spieluhren und Klangregisseur</description>
+			<description>für 6 Schlagzeuger, Spieluhren und Klangregisseur</description>
 			<length>34:00</length>
 			<composed start="1975"/>
 			<recorded start=""/>
@@ -4280,7 +4280,7 @@
 		</composition>
 		<composition>
 			<name>Harlekin</name>
-			<description>f&uuml;r Klarinette</description>
+			<description>für Klarinette</description>
 			<length>44:06</length>
 			<instrument name="Klarinette">
 				<player name="Suzanne Stephens"/>
@@ -4292,7 +4292,7 @@
 		</composition>
 		<composition>
 			<name>Der kleine Harlekin</name>
-			<description>f&uuml;r Klarinette</description>
+			<description>für Klarinette</description>
 			<length>9:25</length>
 			<instrument name="Klarinette">
 				<player name="Suzanne Stephens"/>
@@ -4304,7 +4304,7 @@
 		</composition>
 		<composition>
 			<name>Amour</name>
-			<description>5 St&uuml;cke f&uuml;r Klarinette</description>
+			<description>5 Stücke für Klarinette</description>
 			<length>8:31</length>
 			<instrument name="Klarinette">
 				<player name="Suzanne Stephens"/>
@@ -4316,7 +4316,7 @@
 		</composition>
 		<composition>
 			<name>Amour</name>
-			<description>f&uuml;r Fl&ouml;te</description>
+			<description>für Fl&ouml;te</description>
 			<length>28:52</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4328,7 +4328,7 @@
 		</composition>
 		<composition>
 			<name>Der Jahreslauf</name>
-			<description>f&uuml;r Orchester und Tonband</description>
+			<description>für Orchester und Tonband</description>
 			<length>46:07</length>
 			<composed start="1977"/>
 			<recorded start="1979"/>
@@ -4337,7 +4337,7 @@
 		</composition>
 		<composition>
 			<name>Libra</name>
-			<description>f&uuml;r Ba&szlig;klarinette und Elektronische Musik</description>
+			<description>für Ba&szlig;klarinette und Elektronische Musik</description>
 			<length>32:15</length>
 			<instrument name="Ba&szlig;klarinette">
 				<player name="Suzanne Stephens"/>
@@ -4352,7 +4352,7 @@
 		</composition>
 		<composition>
 			<name>In Freundschaft</name>
-			<description>f&uuml;r Klarinette</description>
+			<description>für Klarinette</description>
 			<length>14:22</length>
 			<instrument name="Klarinette">
 				<player name="Suzanne Stephens"/>
@@ -4364,7 +4364,7 @@
 		</composition>
 		<composition>
 			<name>In Freundschaft</name>
-			<description>f&uuml;r Fl&ouml;te</description>
+			<description>für Fl&ouml;te</description>
 			<length>14:47</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4376,7 +4376,7 @@
 		</composition>
 		<composition>
 			<name>In Freundschaft</name>
-			<description>f&uuml;r Bassetthorn</description>
+			<description>für Bassetthorn</description>
 			<length>16:49</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4389,7 +4389,7 @@
 		<composition>
 			<name>Piccolo</name>
 			<description>aus Jahreslauf</description>
-			<description>Solo f&uuml;r Piccolo-Fl&ouml;te</description>
+			<description>Solo für Piccolo-Fl&ouml;te</description>
 			<length>3:20</length>
 			<instrument name="Piccolo-Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4401,7 +4401,7 @@
 		</composition>
 		<composition>
 			<name>Michaels Reise</name>
-			<description>Solisten-Version f&uuml;r einen Trompeter, 9 Mitspieler und Klangregisseur</description>
+			<description>Solisten-Version für einen Trompeter, 9 Mitspieler und Klangregisseur</description>
 			<length>49:04</length>
 			<instrument name="Trompete">
 				<player name="Markus Stockhausen"/>
@@ -4437,7 +4437,7 @@
 		</composition>
 		<composition>
 			<name>Tanze Luzefa!</name>
-			<description>f&uuml;r Bassetthorn</description>
+			<description>für Bassetthorn</description>
 			<length>5:38</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4449,7 +4449,7 @@
 		</composition>
 		<composition>
 			<name>Bijou</name>
-			<description>f&uuml;r Altfl&ouml;te, Ba&szlig;klarinette und Tonband</description>
+			<description>für Altfl&ouml;te, Ba&szlig;klarinette und Tonband</description>
 			<length>14:11</length>
 			<instrument name="Altfl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4467,7 +4467,7 @@
 		</composition>
 		<composition>
 			<name>Mondeva</name>
-			<description>f&uuml;r Tenor und Bassetthorn</description>
+			<description>für Tenor und Bassetthorn</description>
 			<length>11:20</length>
 			<instrument name="Tenor">
 				<player name="Julian Pike"/>
@@ -4482,7 +4482,7 @@
 		</composition>
 		<composition>
 			<name>Mission und Himmelfahrt</name>
-			<description>f&uuml;r Trompete und Bassetthorn</description>
+			<description>für Trompete und Bassetthorn</description>
 			<length>18:23</length>
 			<instrument name="Trompete">
 				<player name="Markus Stockhausen"/>
@@ -4497,7 +4497,7 @@
 		</composition>
 		<composition>
 			<name>Eingang und Formel</name>
-			<description>f&uuml;r Trompete</description>
+			<description>für Trompete</description>
 			<length>2:31</length>
 			<instrument name="Trompete">
 				<player name="Markus Stockhausen"/>
@@ -4509,7 +4509,7 @@
 		</composition>
 		<composition>
 			<name>Examen</name>
-			<description>f&uuml;r Tenor, Trompete, Bassetthorn, Klavier, Sopran, Ba&szlig;, 2 Sprecher-Mimen</description>
+			<description>für Tenor, Trompete, Bassetthorn, Klavier, Sopran, Ba&szlig;, 2 Sprecher-Mimen</description>
 			<length>25:22</length>
 			<instrument name="Tenor">
 				<player name="Julian Pike"/>
@@ -4540,7 +4540,7 @@
 		</composition>
 		<composition>
 			<name>Drachenkampf</name>
-			<description>f&uuml;r Trompete, Posaune, Synthesizer-Spieler, Schlagzeuger</description>
+			<description>für Trompete, Posaune, Synthesizer-Spieler, Schlagzeuger</description>
 			<length>15:19</length>
 			<instrument name="Trompete">
 				<player name="Markus Stockhausen"/>
@@ -4561,7 +4561,7 @@
 		</composition>
 		<composition>
 			<name>Traum-Formel</name>
-			<description>f&uuml;r Bassetthorn</description>
+			<description>für Bassetthorn</description>
 			<length>7:54</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4573,7 +4573,7 @@
 		</composition>
 		<composition>
 			<name>Zungenspitzentanz</name>
-			<description>f&uuml;r Piccolo-Fl&ouml;te, Euphonium, einen Synthesizer-Spieler, einen Schlagzeuger</description>
+			<description>für Piccolo-Fl&ouml;te, Euphonium, einen Synthesizer-Spieler, einen Schlagzeuger</description>
 			<length>10:37</length>
 			<instrument name="Piccolo-Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4594,7 +4594,7 @@
 		</composition>
 		<composition>
 			<name>Zungenspitzentanz</name>
-			<description>f&uuml;r Piccolo-Fl&ouml;te</description>
+			<description>für Piccolo-Fl&ouml;te</description>
 			<length>9:04</length>
 			<instrument name="Piccolo-Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4606,7 +4606,7 @@
 		</composition>
 		<composition>
 			<name>Oberlippentanz</name>
-			<description>f&uuml;r Piccolo-Trompete, Euphonium, 4 H&ouml;rner, 2 Schlagzeuger</description>
+			<description>für Piccolo-Trompete, Euphonium, 4 H&ouml;rner, 2 Schlagzeuger</description>
 			<length>14:25</length>
 			<instrument name="Piccolo-Trompete">
 				<player name="Markus Stockhausen"/>
@@ -4631,7 +4631,7 @@
 		</composition>
 		<composition>
 			<name>Oberlippentanz</name>
-			<description>f&uuml;r Piccolo-Trompete</description>
+			<description>für Piccolo-Trompete</description>
 			<length>14:19</length>
 			<instrument name="Piccolo-Trompete">
 				<player name="Markus Stockhausen"/>
@@ -4642,8 +4642,8 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Nasenfl&uuml;geltanz</name>
-			<description>f&uuml;r einen Schlagzeuger und einen Synthesizer-Spieler</description>
+			<name>Nasenflügeltanz</name>
+			<description>für einen Schlagzeuger und einen Synthesizer-Spieler</description>
 			<length>8:01</length>
 			<instrument name="Schlagzeug">
 				<player name="Stuart Gerber"/>
@@ -4659,7 +4659,7 @@
 		<composition>
 			<name>Kathinkas Gesang</name>
 			<description>als Luzifers Requiem</description>
-			<description>f&uuml;r Fl&ouml;te und Elektronische Musik</description>
+			<description>für Fl&ouml;te und Elektronische Musik</description>
 			<length>32:40</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4674,7 +4674,7 @@
 		</composition>
 		<composition>
 			<name>Evas Spiegel</name>
-			<description>f&uuml;r Bassetthorn</description>
+			<description>für Bassetthorn</description>
 			<length>2:57</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4686,7 +4686,7 @@
 		</composition>
 		<composition>
 			<name>Susani</name>
-			<description>f&uuml;r Bassetthorn</description>
+			<description>für Bassetthorn</description>
 			<length>7:00</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4698,7 +4698,7 @@
 		</composition>
 		<composition>
 			<name>Ave</name>
-			<description>f&uuml;r Bassetthorn und Altfl&ouml;te</description>
+			<description>für Bassetthorn und Altfl&ouml;te</description>
 			<length>23:30</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4713,7 +4713,7 @@
 		</composition>
 		<composition>
 			<name>Susanis Echo</name>
-			<description>f&uuml;r Altfl&ouml;te</description>
+			<description>für Altfl&ouml;te</description>
 			<length>7:11</length>
 			<instrument name="Altfl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4725,7 +4725,7 @@
 		</composition>
 		<composition>
 			<name>Xi</name>
-			<description>f&uuml;r Bassetthorn</description>
+			<description>für Bassetthorn</description>
 			<length>8:16</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4738,7 +4738,7 @@
 		<composition>
 			<name>Xi</name>
 			<description>mit Mikro-T&ouml;nen</description>
-			<description>Version f&uuml;r Fl&ouml;te</description>
+			<description>Version für Fl&ouml;te</description>
 			<length>6:40</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4749,8 +4749,8 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>Entf&uuml;hrung</name>
-			<description>f&uuml;r Piccolo-Fl&ouml;te</description>
+			<name>Entführung</name>
+			<description>für Piccolo-Fl&ouml;te</description>
 			<length>12:01</length>
 			<instrument name="Piccolo-Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4762,7 +4762,7 @@
 		</composition>
 		<composition>
 			<name>Wochenkreis</name>
-			<description>f&uuml;r Bassetthorn und elektronische Tasteninstrumente</description>
+			<description>für Bassetthorn und elektronische Tasteninstrumente</description>
 			<length>25:20</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4777,7 +4777,7 @@
 		</composition>
 		<composition>
 			<name>Flautina</name>
-			<description>f&uuml;r Fl&ouml;te mit Piccolo und Altfl&ouml;te</description>
+			<description>für Fl&ouml;te mit Piccolo und Altfl&ouml;te</description>
 			<length>5:50</length>
 			<instrument name="Fl&ouml;te, Piccolo, Altfl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4789,7 +4789,7 @@
 		</composition>
 		<composition>
 			<name>Ypsilon</name>
-			<description>f&uuml;r Fl&ouml;te</description>
+			<description>für Fl&ouml;te</description>
 			<length>9:20</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4801,7 +4801,7 @@
 		</composition>
 		<composition>
 			<name>Ypsilon</name>
-			<description>f&uuml;r Bassetthorn</description>
+			<description>für Bassetthorn</description>
 			<length>9:01</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4813,7 +4813,7 @@
 		</composition>
 		<composition>
 			<name>Sukat</name>
-			<description>f&uuml;r Bassetthorn und Altfl&ouml;te</description>
+			<description>für Bassetthorn und Altfl&ouml;te</description>
 			<length>7:22</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4828,9 +4828,9 @@
 		</composition>
 		<composition>
 			<name>Piet&agrave;-Solo</name>
-			<description>f&uuml;r Fl&uuml;gelhorn und Elektronische Musik</description>
+			<description>für Flügelhorn und Elektronische Musik</description>
 			<length>27:45</length>
-			<instrument name="Fl&uuml;gelhorn">
+			<instrument name="Flügelhorn">
 				<player name="Markus Stockhausen"/>
 			</instrument>
 			<composed start="1990"/>
@@ -4840,9 +4840,9 @@
 		</composition>
 		<composition>
 			<name>Piet&agrave;-Duo</name>
-			<description>f&uuml;r Fl&uuml;gelhorn, Sopran und Elektronische Musik</description>
+			<description>für Flügelhorn, Sopran und Elektronische Musik</description>
 			<length>28:15</length>
-			<instrument name="Fl&uuml;gelhorn">
+			<instrument name="Flügelhorn">
 				<player name="Markus Stockhausen"/>
 			</instrument>
 			<instrument name="Sopran">
@@ -4878,8 +4878,8 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Synthi-Fou/Klavierst&uuml;ck XV</name>
-			<description>f&uuml;r einem Synthesizer-Spieler und Elektronische Musik</description>
+			<name>Synthi-Fou/Klavierstück XV</name>
+			<description>für einem Synthesizer-Spieler und Elektronische Musik</description>
 			<length>22:45</length>
 			<instrument name="Synthesizer">
 				<player name="Simon Stockhausen"/>
@@ -4894,7 +4894,7 @@
 		</composition>
 		<composition>
 			<name>Dienstags-Abschied</name>
-			<description>f&uuml;r Chor, einem Synthesizer-Spieler und Elektronische Musik</description>
+			<description>für Chor, einem Synthesizer-Spieler und Elektronische Musik</description>
 			<length>22:45</length>
 			<player name="Chor des WDR K&ouml;ln"/>
 			<conductor>Karlheinz Stockhausen</conductor>
@@ -4922,7 +4922,7 @@
 		</composition>
 		<composition>
 			<name>Freia</name>
-			<description>f&uuml;r Fl&ouml;te</description>
+			<description>für Fl&ouml;te</description>
 			<length>6:11</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -4934,7 +4934,7 @@
 		</composition>
 		<composition>
 			<name>Freia</name>
-			<description>f&uuml;r Bassetthorn</description>
+			<description>für Bassetthorn</description>
 			<length>7:00</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -4947,15 +4947,15 @@
 		<composition>
 			<name>Elektronische Musik mit Tonszenen vom Freitag aus Licht</name>
 			<length>2:25:00</length>
-			<player name="Studio f&uuml;r Elektronische Musik des WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik des WDR K&ouml;ln"/>
 			<composed start="1991" end="1994"/>
 			<recorded start="1991" end="1994"/>
 			<release>Stockhausen-Verlag CD49AB</release>
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Komet als Klavierst&uuml;ck XVII</name>
-			<description>f&uuml;r elektronisches Klavier mit Tonband und Klangregisseur</description>
+			<name>Komet als Klavierstück XVII</name>
+			<description>für elektronisches Klavier mit Tonband und Klangregisseur</description>
 			<length>15:12</length>
 			<player name="Antonio P&eacute;rez Abell&aacute;n"/>
 			<composed start="1994" end="1999"/>
@@ -4965,7 +4965,7 @@
 		</composition>
 		<composition>
 			<name>Komet</name>
-			<description>Version f&uuml;r einen Schlagzeuger, Elektronische und Konkrete Musik, Klangregisseur</description>
+			<description>Version für einen Schlagzeuger, Elektronische und Konkrete Musik, Klangregisseur</description>
 			<length>15:46</length>
 			<instrument name="Schlagzeug">
 				<player name="Andreas Boettger"/>
@@ -4979,8 +4979,8 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck XVI</name>
-			<description>f&uuml;r Tonband, Saitenklavier, elektronische Klaviere ad lib</description>
+			<name>Klavierstück XVI</name>
+			<description>für Tonband, Saitenklavier, elektronische Klaviere ad lib</description>
 			<length>7:50</length>
 			<player name="Antonio P&eacute;rez Abell&aacute;n"/>
 			<composed start="1995"/>
@@ -4990,10 +4990,10 @@
 		</composition>
 		<composition>
 			<name>Orchester-Finalisten</name>
-			<description>f&uuml;r Orchester und Elektronische Musik</description>
+			<description>für Orchester und Elektronische Musik</description>
 			<length>48:00</length>
 			<player name="Asko-Ensemble Amsterdam"/>
-			<player name="Studio f&uuml;r Elektronische Musik des WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik des WDR K&ouml;ln"/>
 			<composed start="1995" end="1996"/>
 			<recorded start="1996"/>
 			<release>Stockhausen-Verlag CD52</release>
@@ -5001,7 +5001,7 @@
 		</composition>
 		<composition>
 			<name>Fl&ouml;te aus Orchester-Finalisten</name>
-			<description>f&uuml;r Fl&ouml;te und Elektronische Musik mit Klangregisseur</description>
+			<description>für Fl&ouml;te und Elektronische Musik mit Klangregisseur</description>
 			<length>5:14</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -5013,10 +5013,10 @@
 		</composition>
 		<composition>
 			<name>Helikopter-Streichquartett</name>
-			<description>f&uuml;r Streichquartett, 4 Helikopter mit Piloten und 4 Tontechnikern/4 Fernseh-Sender, 4x3 Ton-Sender/Auditorium mit 4 Fernseh-S&auml;ulen und 4 Lautsprecher-S&auml;ulen/Klangregisseur mit Mischpult/Moderator (ad lib.)</description>
+			<description>für Streichquartett, 4 Helikopter mit Piloten und 4 Tontechnikern/4 Fernseh-Sender, 4x3 Ton-Sender/Auditorium mit 4 Fernseh-S&auml;ulen und 4 Lautsprecher-S&auml;ulen/Klangregisseur mit Mischpult/Moderator (ad lib.)</description>
 			<length>51:07</length>
 			<player name="Arditti String Quartet"/>
-			<player name="Studio f&uuml;r Elektronische Musik des WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik des WDR K&ouml;ln"/>
 			<composed start="1992" end="1993"/>
 			<recorded start="1995"/>
 			<release>Stockhausen-Verlag CD53AB</release>
@@ -5024,11 +5024,11 @@
 		</composition>
 		<composition>
 			<name>Helikopter-Streichquartett</name>
-			<description>f&uuml;r Streichquartett, 4 Helikopter mit Piloten und 4 Tontechnikern/4 Fernseh-Sender, 4x3 Ton-Sender/Auditorium mit 4 Fernseh-S&auml;ulen und 4 Lautsprecher-S&auml;ulen/Klangregisseur mit Mischpult/Moderator (ad lib.)</description>
+			<description>für Streichquartett, 4 Helikopter mit Piloten und 4 Tontechnikern/4 Fernseh-Sender, 4x3 Ton-Sender/Auditorium mit 4 Fernseh-S&auml;ulen und 4 Lautsprecher-S&auml;ulen/Klangregisseur mit Mischpult/Moderator (ad lib.)</description>
 			<description>Studioproduktion</description>
 			<length>32:00</length>
 			<player name="Arditti String Quartet"/>
-			<player name="Studio f&uuml;r Elektronische Musik des WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik des WDR K&ouml;ln"/>
 			<composed start="1992" end="1993"/>
 			<recorded start="1996"/>
 			<release>Stockhausen-Verlag CD53AB</release>
@@ -5039,7 +5039,7 @@
 			<description>Elektronische und Konkrete Musik</description>
 			<description>vom Mittwoch aus Licht</description>
 			<length>44:16</length>
-			<player name="Studio f&uuml;r Elektronische Musik des WDR K&ouml;ln"/>
+			<player name="Studio für Elektronische Musik des WDR K&ouml;ln"/>
 			<composed start="1996"/>
 			<recorded start="1996"/>
 			<release>Stockhausen-Verlag CD55</release>
@@ -5047,7 +5047,7 @@
 		</composition>
 		<composition>
 			<name>Bassetsu-Trio</name>
-			<description>f&uuml;r Bassetthorn, Trompete und Posaune</description>
+			<description>für Bassetthorn, Trompete und Posaune</description>
 			<description>vom Mittwoch aus Licht</description>
 			<length>26:03</length>
 			<instrument name="Bassetthorn">
@@ -5066,7 +5066,7 @@
 		</composition>
 		<composition>
 			<name>Thinki</name>
-			<description>f&uuml;r Fl&ouml;te</description>
+			<description>für Fl&ouml;te</description>
 			<length>5:05</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Kathinka Pasveer"/>
@@ -5094,7 +5094,7 @@
 		<composition>
 			<name>Lichter-Wasser</name>
 			<description>Sonntags-Gruss</description>
-			<description>f&uuml;r Sopran, Tenor und Orchester mit Synthesizer</description>
+			<description>für Sopran, Tenor und Orchester mit Synthesizer</description>
 			<length>52:07</length>
 			<instrument name="Sopran">
 				<player name="Barbara van den Boom"/>
@@ -5136,7 +5136,7 @@
 		<composition>
 			<name>Hoch-Zeiten</name>
 			<description>5. Szene vom Sonntag aus Licht</description>
-			<description>f&uuml;r Orchester und Chor</description>
+			<description>für Orchester und Chor</description>
 			<length>1:14:00</length>
 			<instrument name="Synthesizer">
 				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
@@ -5154,9 +5154,9 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>D&uuml;fte-Zeichen</name>
+			<name>Düfte-Zeichen</name>
 			<description>4. Szene vom Sonntag aus Licht</description>
-			<description>f&uuml;r 7 Singstimmen, Knaben-Stimme, Synthesizer</description>
+			<description>für 7 Singstimmen, Knaben-Stimme, Synthesizer</description>
 			<length>58:00</length>
 			<instrument name="hoher Sopran">
 				<player name="Isolde Siebert"/>
@@ -5196,7 +5196,7 @@
 		<composition>
 			<name>Licht-Bilder</name>
 			<description>3. Szene vom Sonntag aus Licht</description>
-			<description>f&uuml;r Bassetthorn, Fl&ouml;te mit Ringmodulation, Tenor, Trompete mit Ringmodulation, Synthesizer, Klangregisseur, Licht-Bilder ad lib</description>
+			<description>für Bassetthorn, Fl&ouml;te mit Ringmodulation, Tenor, Trompete mit Ringmodulation, Synthesizer, Klangregisseur, Licht-Bilder ad lib</description>
 			<length>41:56</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -5224,7 +5224,7 @@
 		<composition>
 			<name>Licht-Bilder ohne Ringmodulation</name>
 			<description>3. Szene vom Sonntag aus Licht</description>
-			<description>f&uuml;r Bassetthorn, Fl&ouml;te, Tenor, Trompete, Synthesizer, Klangregisseur, Licht-Bilder ad lib</description>
+			<description>für Bassetthorn, Fl&ouml;te, Tenor, Trompete, Synthesizer, Klangregisseur, Licht-Bilder ad lib</description>
 			<length>41:56</length>
 			<instrument name="Bassetthorn">
 				<player name="Suzanne Stephens"/>
@@ -5251,7 +5251,7 @@
 		</composition>
 		<composition>
 			<name>Vibra-Elufa</name>
-			<description>f&uuml;r Vibraphone</description>
+			<description>für Vibraphone</description>
 			<length>7:22</length>
 			<instrument name="Vibraphone">
 				<player name="Michael Pattmann"/>
@@ -5280,8 +5280,8 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Klavierst&uuml;ck XVIII</name>
-			<description>Mittwoch-Formel f&uuml;r Elektronisches Klavier</description>
+			<name>Klavierstück XVIII</name>
+			<description>Mittwoch-Formel für Elektronisches Klavier</description>
 			<length>12:12</length>
 			<instrument name="Synthesizer">
 				<player name="Antonio P&eacute;rez Abell&aacute;n"/>
@@ -5293,7 +5293,7 @@
 		</composition>
 		<composition>
 			<name>Freude</name>
-			<description>f&uuml;r 2 Harfen</description>
+			<description>für 2 Harfen</description>
 			<description>2. Stunde aus Klang</description>
 			<length>39:46</length>
 			<instrument name="Harfen">
@@ -5306,8 +5306,8 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Nat&uuml;rliche Dauern</name>
-			<description>f&uuml;r Klavier</description>
+			<name>Natürliche Dauern</name>
+			<description>für Klavier</description>
 			<description>3. Stunde aus Klang</description>
 			<length>2:18:18</length>
 			<instrument name="Piano">
@@ -5321,8 +5321,8 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Himmels-T&uuml;r</name>
-			<description>f&uuml;r einen Schlagzeuger und eines kleines M&auml;dchen</description>
+			<name>Himmels-Tür</name>
+			<description>für einen Schlagzeuger und eines kleines M&auml;dchen</description>
 			<description>4. Stunde aus Klang</description>
 			<length>27:27</length>
 			<instrument name="Schlagzeug">
@@ -5334,8 +5334,8 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>24 T&uuml;rin</name>
-			<description>f&uuml;r T&uuml;r, Rin und Sprechstimme (Deutsch)</description>
+			<name>24 Türin</name>
+			<description>für Tür, Rin und Sprechstimme (Deutsch)</description>
 			<length>13:00</length>
 			<instrument name="Schlagzeug">
 				<player name="Stuart Gerber"/>
@@ -5349,8 +5349,8 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>24 T&uuml;rin</name>
-			<description>f&uuml;r T&uuml;r, Rin und Sprechstimme (Englisch)</description>
+			<name>24 Türin</name>
+			<description>für Tür, Rin und Sprechstimme (Englisch)</description>
 			<length>13:00</length>
 			<instrument name="Schlagzeug">
 				<player name="Stuart Gerber"/>
@@ -5698,7 +5698,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Sonate f&uuml;r Klavier Nr. 2</name>
+			<name>Sonate für Klavier Nr. 2</name>
 			<length>10:55</length>
 			<instrument name="Klavier">
 				<player name="Maria Bergman"/>
@@ -5917,14 +5917,14 @@
 		</composition>
 		<composition>
 			<name>In memoriam Dylan Thomas</name>
-			<description>Trauerkanons und Lied f&uuml;r Tenor, Streichquartett un vier Posaunen</description>
+			<description>Trauerkanons und Lied für Tenor, Streichquartett un vier Posaunen</description>
 			<length>7:35</length>
 			<instrument name="Piano">
 				<player name="Peter Piers"/>
 			</instrument>
 			<instrument name="Violine">
 				<player name="Heinz Stanske"/>
-				<player name="G&uuml;nther Weigmann"/>
+				<player name="Günther Weigmann"/>
 			</instrument>
 			<instrument name="Viola">
 				<player name="Albert Dietrich"/>
@@ -5972,7 +5972,7 @@
 		</composition>
 		<composition>
 			<name>Epitaphium</name>
-			<description>f&uuml;r das Grabmal des Prinzen Max Egon zu F&uuml;rstenberg</description>
+			<description>für das Grabmal des Prinzen Max Egon zu Fürstenberg</description>
 			<length>1:23</length>
 			<instrument name="Fl&ouml;te">
 				<player name="Kraft-Thorwald Dilloo"/>
@@ -6061,7 +6061,7 @@
 	<composer name="Hubert" surname="Stuppner" born="1944" died="">
 		<composition>
 			<name>Palinodie IV, Vier Liebeslieder</name>
-			<description>f&uuml;r gemischten Chor a cappella</description>
+			<description>für gemischten Chor a cappella</description>
 			<length>10:27</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
