@@ -2,7 +2,7 @@ class Player(object):
 	def __init__(self, name=""):
 		self.name = name
 	def display(self, indent=""):
-		return indent + "Player name = %s" % self.name
+		return "%sPlayer name = %s" % (indent, self.name)
 			
 class Instrument(object):
 	def __init__(self, name="", players=None):
@@ -11,9 +11,9 @@ class Instrument(object):
 			players = []
 		self.players = players
 	def display(self, indent=""):
-		output = indent + "Instrument name = %s" % self.name
+		output = "%sInstrument name = %s" % (indent, self.name)
 		for player in self.players:
-			output += "\n" + indent + player.display("  ")
+			output += "\n" + indent + "  " + player.display("  ")
 		return output
 
 class Conductor(object):
@@ -45,12 +45,12 @@ class Part(object):
 		self.composed = composed
 		self.recorded = recorded
 	def display(self, indent=""):
-		output = indent + "Part number = %s" % self.number
-		output += "\n" + indent + "  name = %s" % self.name
-		output += "\n" + indent + "  description = %s" % self.description
-		output += "\n" + indent + "  length = %s" % self.length
-		output += "\n" + indent + "  composed = %s" % self.composed.display()
-		output += "\n" + indent + "  recorded = %s" % self.recorded.display()
+		output = "%sPart number = %s" % (indent, self.number)
+		output += "\n%s  name = %s" % (indent, self.name)
+		output += "\n%s  description = %s" % (indent, self.description)
+		output += "\n%s  length = %s" % (indent, self.length)
+		output += "\n%s  composed = %s" % (indent, self.composed.display())
+		output += "\n%s  recorded = %s" % (indent, self.recorded.display())
 		return output
 				
 class Composition(object):

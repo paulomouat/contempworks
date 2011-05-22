@@ -6,7 +6,7 @@ from xmlutilities import *
 
 def filesToProcess():
 	import glob
-	return glob.glob("contempworks-o.xml")
+	return glob.glob("contempworks-*.xml")
 
 def parseFile(fileName):
 	from xml.dom.minidom import parseString
@@ -17,13 +17,16 @@ def parseFile(fileName):
 	return dom
 
 def readDom(dom):
-	composers = dom.getElementsByTagName('composer')
-	readComposers(composers)
+	composerNodes = dom.getElementsByTagName('composer')
+	return readComposers(composerNodes)
 
-def readComposers(composers):
-	if composers:
-		for composer in composers:
-			readComposer(composer)
+def readComposers(composerNodes):
+	composers = []
+	if composerNodes:
+		for composerNode in composerNodes:
+			composer = readComposer(composerNode)
+			composers.append(composer)
+	return composers
 
 def readComposer(node):
 	composer = Composer()
@@ -36,7 +39,7 @@ def readComposer(node):
 	composer.born = born
 	composer.died = died
 	composer.compositions = readCompositions(node)
-	print composer.display()
+	return composer
 	
 def readCompositions(node):
 	compositions = selectChildren(node, "composition")
@@ -51,6 +54,7 @@ def readComposition(node):
 	composition.name = readValue(node, "name")
 	composition.descriptions = readDescriptions(node)
 	composition.length = readValue(node, "length")
+	composition.parts = readParts(node)
 	composition.participants = readParticipants(node)
 	composition.composed = readComposed(node)
 	composition.recorded = readRecorded(node)
@@ -66,6 +70,25 @@ def readDescriptions(node):
 			text = getTextValue(description)
 			results.append(text)	
 	return results
+
+def readParts(node):
+	partNodes = selectChildren(node, "part")
+	results = []
+	if partNodes:
+		for partNode in partNodes:
+			part = readPart(partNode)
+			results.append(part)
+	return results
+
+def readPart(node):
+	part = Part()
+	part.number = readValue(node, "number")
+	part.name = readValue(node, "name")
+	part.description = readValue(node, "description")
+	part.length = readValue(node, "length")
+	part.composed = readComposed(node)
+	part.recorded = readRecorded(node)
+	return part
 
 def readParticipants(node):
 	participantNodes = selectChildren(node, ["instrument", "player", "conductor"])
@@ -121,7 +144,12 @@ def readRecorded(node):
 	period.end = getAttributeValue(recorded, "end")
 	return period
 
+allComposers = []
+
 files = filesToProcess()
 for f in files:
 	dom = parseFile(f)
-	readDom(dom)
+	allComposers.extend(readDom(dom))
+	
+for composer in allComposers:
+	print composer.display()

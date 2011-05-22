@@ -1,5 +1,7 @@
 # coding: utf-8
 
+from xml.dom import Node
+
 def selectChildren(node, names):
 	children = []
 	if isinstance(names, (str, unicode)):
@@ -26,12 +28,13 @@ def readValue(node, name):
 def getTextValue(node):
 	if node:
 		textNode = node.firstChild
-		return textNode.nodeValue
+		if textNode and textNode.nodeType == Node.TEXT_NODE:
+			return textNode.nodeValue
 	return None
 
 def getAttributeValue(node, name):
 	v = None
-	if node.hasAttribute(name):
+	if node and node.hasAttribute(name):
 		attribute = node.attributes[name]
 		v = attribute.value
 	return v
