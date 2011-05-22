@@ -38,9 +38,9 @@
 			<released>2007</released>
 		</composition>
 	</composer>
-	<composer name="Crist&oacute;bal" surname="Halffter" born="1930" died="">
+	<composer name="Cristóbal" surname="Halffter" born="1930" died="">
 		<composition>
-			<name>Planto por las v&iacute;ctimas de la violencia</name>
+			<name>Planto por las víctimas de la violencia</name>
 			<description>für Kammerensemble und elektronische Klangumwandlung</description>
 			<length>16:51</length>
 			<instrument name="Altsaxophon">
@@ -429,7 +429,7 @@
 			<released>2009</released>
 		</composition>
 		<composition>
-			<name>Homage to Cage, &agrave; Chopin (und Ligeti ist auch dabei)</name>
+			<name>Homage to Cage, à Chopin (und Ligeti ist auch dabei)</name>
 			<description>for piano and Digital Audio Tape</description>
 			<length>1:40</length>
 			<instrument name="piano">
@@ -791,7 +791,7 @@
 		</composition>
 		<composition>
 			<name>Antifone</name>
-			<description>für 11 Solostreicher, Bl&auml;ser und Schlagzeug</description>
+			<description>für 11 Solostreicher, Bläser und Schlagzeug</description>
 			<length>16:59</length>
 			<player name="NDR Sinfonieorchester"/>
 			<conductor>Peter Ruzicka</conductor>
@@ -822,7 +822,7 @@
 				<player name="Gerhard Faulstich"/>
 			</instrument>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
-			<conductor>Crist&oacute;bal Halffter</conductor>
+			<conductor>Cristóbal Halffter</conductor>
 			<composed start="?"/>
 			<recorded start="1980"/>
 			<release>Col Legno CD1 31906</release>
@@ -914,7 +914,7 @@
 		</composition>
 		<composition>
 			<name>Mythos</name>
-			<description>Klanggedicht für 13 Instrumente, Schlagzeug und elektronische Kl&auml;nge</description>
+			<description>Klanggedicht für 13 Instrumente, Schlagzeug und elektronische Klänge</description>
 			<length>22:57</length>
 			<player name="Mitglieder des Rundfunk-Sinfonieorchesters des Südwestfunks"/>
 			<instrument name="Köln">
@@ -928,7 +928,7 @@
 		</composition>
 		<composition>
 			<name>Traumspiel</name>
-			<description>Klanggedicht für Sopran, großes Orchester und elektronische Kl&auml;nge</description>
+			<description>Klanggedicht für Sopran, großes Orchester und elektronische Klänge</description>
 			<length>25:41</length>
 			<instrument name="Sopran">
 				<player name="Karan Armstrong"/>
@@ -959,7 +959,7 @@
 	<composer name="Heinz" surname="Holliger" born="1939" died="">
 		<composition>
 			<name>Pneuma</name>
-			<description>für Bl&auml;ser, Schlagzeug, Orgel und Radios</description>
+			<description>für Bläser, Schlagzeug, Orgel und Radios</description>
 			<length>15:48</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
@@ -980,7 +980,7 @@
 			</part>
 			<part>
 				<number>2</number>
-				<name>&Uuml;bungen zu Scardanelli</name>
+				<name>Übungen zu Scardanelli</name>
 				<description>für kleines Orchester - Kommentare, Spiegel, Entgegnungen, Marginalien zu den Jahreszeiten</description>
 				<composed start="1975" end="1985"/>
 			</part>
@@ -997,7 +997,7 @@
 				<composed start="1984"/>
 			</part>
 			<instrument name="Flöte">
-				<player name="Aur&egrave;le Nicolet"/>
+				<player name="Aurèle Nicolet"/>
 			</instrument>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -1013,7 +1013,7 @@
 			<description>pour alto</description>
 			<length>13:35</length>
 			<instrument name="Alto">
-				<player name="Genevi&egrave;ve Strosser"/>
+				<player name="Geneviève Strosser"/>
 			</instrument>
 			<composed start="1981"/>
 			<recorded start="2009"/>
@@ -1060,7 +1060,7 @@
 		</composition>
 		<composition>
 			<name>Landscape V</name>
-			<description>for sh&ocirc; and string quartet</description>
+			<description>for shô and string quartet</description>
 			<length>15:28</length>
 			<instrument name="Shô">
 				<player name="Mayumi Miyata"/>
@@ -1158,7 +1158,7 @@
 				<player name="Alexis Descharmes"/>
 			</instrument>
 			<instrument name="Buk">
-				<player name="Jean-Baptiste Lecl&egrave;re"/>
+				<player name="Jean-Baptiste Leclère"/>
 			</instrument>
 			<composed start="1992"/>
 			<recorded start="2009"/>

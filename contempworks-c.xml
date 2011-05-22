@@ -55,7 +55,7 @@
 		<composition>
 			<name>Imaginary Landscape No. 3</name>
 			<description>(with Mauricio Kagel)</description>
-			<description>Sechs Schlagzeuger, elektronische Kl&auml;nge</description>
+			<description>Sechs Schlagzeuger, elektronische Klänge</description>
 			<player name="Kölner Ensemble für Neue Musik"/>
 			<conductor>Mauricio Kagel</conductor>
 			<instrument name="Realisation">
@@ -1534,7 +1534,7 @@
 	</composer>
 	<composer name="Edgardo" surname="Canton" born="" died="">
 		<composition>
-			<name>Rengaine &agrave; pleurer (extrait)</name>
+			<name>Rengaine à pleurer (extrait)</name>
 			<length>2:51</length>
 			<instrument name="Texte">
 				<player name="Jean Tardieu"/>
@@ -1985,7 +1985,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Niccol&ograve;" surname="Castiglioni" born="1932" died="">
+	<composer name="Niccolò" surname="Castiglioni" born="1932" died="">
 		<composition>
 			<name>Quodlibet aus &quot;Figure&quot;</name>
 			<description>Mobile per voce e orchestra für Sopran solo</description>
@@ -2013,7 +2013,7 @@
 		</composition>
 		<composition>
 			<name>Romanze</name>
-			<description>pour quatuor &agrave; cordes</description>
+			<description>pour quatuor à cordes</description>
 			<length>8:05</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1990"/>
@@ -2083,8 +2083,8 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Divertimento für 8 Bl&auml;ser und Schlagzeug</name>
-			<description>Hommage &agrave; Strawinsky</description>
+			<name>Divertimento für 8 Bläser und Schlagzeug</name>
+			<description>Hommage à Strawinsky</description>
 			<length>11:03</length>
 			<player name="Mitglieder des Radio Symphonie Orchesters Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2254,7 +2254,7 @@
 		</composition>
 		<composition>
 			<name>Curriculum</name>
-			<description>für Bl&auml;ser</description>
+			<description>für Bläser</description>
 			<length>17:23</length>
 			<player name="Radio Symphonieorchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2434,7 +2434,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Acht S&auml;tze nach Hölderlin-Fragmenten</name>
+			<name>Acht Sätze nach Hölderlin-Fragmenten</name>
 			<description>für Streichsextett</description>
 			<length>21:26</length>
 			<player name="Arditti String Quartet"/>

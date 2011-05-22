@@ -5,7 +5,7 @@
 	<composer name="Alain" surname="Gaussin" born="1943" died="">
 		<composition>
 			<name>Chakra</name>
-			<description>pour quatour &agrave; cordes</description>
+			<description>pour quatour à cordes</description>
 			<length>10:38</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1984"/>
@@ -273,7 +273,7 @@
 			</part>
 			<part>
 				<number>5</number>
-				<name>Fa&ccedil;ades</name>
+				<name>Façades</name>
 				<length>7:19</length>
 			</part>
 			<part>
@@ -732,7 +732,7 @@
 		</composition>
 		<composition>
 			<name>Anubis-Nout</name>
-			<description>deux pi&egrave;ces pour clarinette contrebasse &agrave; la mémoire de mon ami Claude Vivier, assassiné en mars 1983</description>
+			<description>deux pièces pour clarinette contrebasse à la mémoire de mon ami Claude Vivier, assassiné en mars 1983</description>
 			<length>12:32</length>
 			<instrument name="clarinet">
 				<player name="Ernesto Molinari"/>
@@ -767,7 +767,7 @@
 		</composition>
 		<composition>
 			<name>Talea</name>
-			<description>pour fl&ucirc;te, clarinette, violon, violoncelle et piano</description>
+			<description>pour flûte, clarinette, violon, violoncelle et piano</description>
 			<length>16:38</length>
 			<player name="Ensemble Recherche"/>
 			<conductor>Kwamé Ryan</conductor>
@@ -777,7 +777,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Le Temps et l'&Eacute;cume</name>
+			<name>Le Temps et l'Écume</name>
 			<description>für 4 Schlagzeuger, 2 Synthesizer und Kammerorchester</description>
 			<length>20:27</length>
 			<player name="Ensemble S"/>
@@ -793,7 +793,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Le Noir de l'&Eacute;toile</name>
+			<name>Le Noir de l'Étoile</name>
 			<description>pour six percussionnistes disposés autour du public, bande magnétique et transmission in situ de signaux astronomiques</description>
 			<length>1:02:42</length>
 			<player name="Les Percussions de Strasbourg"/>
@@ -804,7 +804,7 @@
 		</composition>
 		<composition>
 			<name>Vortex Temporum</name>
-			<description>pour fl&ucirc;te, clarinette, piano, violon, alto et violoncelle</description>
+			<description>pour flûte, clarinette, piano, violon, alto et violoncelle</description>
 			<length>40:28</length>
 			<player name="Ensemble Recherche"/>
 			<conductor>Kwamé Ryan</conductor>
@@ -814,7 +814,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>St&egrave;le</name>
+			<name>Stèle</name>
 			<description>pour deux percussionistes</description>
 			<length>6:28</length>
 			<player name="ensemble S"/>
@@ -846,7 +846,7 @@
 			<released>1989</released>
 		</composition>
 	</composer>
-	<composer name="Henryk" surname="G&oacute;recki" born="1933" died="">
+	<composer name="Henryk" surname="Górecki" born="1933" died="">
 		<composition>
 			<name>Concerto for Harpsichord and String Orchestra, op. 40</name>
 			<length>8:50</length>

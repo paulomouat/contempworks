@@ -272,7 +272,7 @@
 			<released/>
 		</composition>
 	</composer>
-	<composer name="Ram&oacute;n" surname="Gonzales-Arroyo" born="" died="">
+	<composer name="Ramón" surname="Gonzales-Arroyo" born="" died="">
 		<composition>
 			<name>De la distance</name>
 			<description>pour contrebasse et bande magnétique</description>
@@ -291,7 +291,7 @@
 	</composer>
 	<composer name="Philippe" surname="Arthuys" born="1928" died="">
 		<composition>
-			<name>Bo&icirc;te &agrave; musique</name>
+			<name>Boîte à musique</name>
 			<length>2:55</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>

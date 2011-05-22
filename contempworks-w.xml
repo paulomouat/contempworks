@@ -70,7 +70,7 @@
 			</part>
 			<part>
 				<number>II</number>
-				<name>Aufblick: &quot;&Uuml;ber unsre Liebe h&auml;ngt eine tiefe Trauerweide&quot;</name>
+				<name>Aufblick: &quot;Über unsre Liebe hängt eine tiefe Trauerweide&quot;</name>
 				<length>2:42</length>
 			</part>
 			<part>
@@ -100,7 +100,7 @@
 			</part>
 			<part>
 				<number>VIII</number>
-				<name>Heimgang in der Frühe: &quot;In der D&auml;mmerung&quot;</name>
+				<name>Heimgang in der Frühe: &quot;In der Dämmerung&quot;</name>
 				<length>3:35</length>
 			</part>
 			<instrument name="Soprano">
@@ -236,7 +236,7 @@
 			</part>
 			<part>
 				<number>IV</number>
-				<name>N&auml;chtliche Scheu: &quot;Zaghaft vom Gewölk ins Land&quot;</name>
+				<name>Nächtliche Scheu: &quot;Zaghaft vom Gewölk ins Land&quot;</name>
 				<length>2:37</length>
 			</part>
 			<part>
@@ -277,7 +277,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>&quot;Entflieht auf leichten K&auml;hnen&quot;, op. 2</name>
+			<name>&quot;Entflieht auf leichten Kähnen&quot;, op. 2</name>
 			<length>2:32</length>
 			<player name="John Alldis Choir"/>
 			<conductor>Pierre Boulez</conductor>
@@ -287,7 +287,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>&quot;Entflieht auf leichten K&auml;hnen&quot; op. 2</name>
+			<name>&quot;Entflieht auf leichten Kähnen&quot; op. 2</name>
 			<description>for mixed choir</description>
 			<length>2:43</length>
 			<player name="BBC Singers"/>
@@ -438,7 +438,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Fünf S&auml;tze, op. 5</name>
+			<name>Fünf Sätze, op. 5</name>
 			<description>für Streichquartett</description>
 			<length>12:10</length>
 			<player name="Juilliard String Quartet"/>
@@ -448,7 +448,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>Fünf S&auml;tze, op. 5</name>
+			<name>Fünf Sätze, op. 5</name>
 			<description>für Orchester arrangiert</description>
 			<length>9:45</length>
 			<player name="London Symphony Orchestra"/>
@@ -566,7 +566,7 @@
 				<length>1:14</length>
 			</part>
 			<instrument name="Soprano">
-				<player name="Fran&ccedil;oise Pollet"/>
+				<player name="Françoise Pollet"/>
 			</instrument>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
@@ -808,11 +808,11 @@
 			</part>
 			<part>
 				<number>IV</number>
-				<name>Ein Winterabend: &quot;Wenn der Schnee ans Fenster f&auml;llt&quot;</name>
+				<name>Ein Winterabend: &quot;Wenn der Schnee ans Fenster fällt&quot;</name>
 				<length>2:16</length>
 			</part>
 			<instrument name="Soprano">
-				<player name="Fran&ccedil;oise Pollet"/>
+				<player name="Françoise Pollet"/>
 			</instrument>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
@@ -840,27 +840,27 @@
 			<length>8:12</length>
 			<part>
 				<number>I</number>
-				<name>Die Sonne: &quot;T&auml;gliche kommt die gelbe Sonne&quot;</name>
+				<name>Die Sonne: &quot;Tägliche kommt die gelbe Sonne&quot;</name>
 				<length>1:42</length>
 			</part>
 			<part>
 				<number>II</number>
-				<name>Abendland I: &quot;Mond, als tr&auml;te ein Totes&quot;</name>
+				<name>Abendland I: &quot;Mond, als träte ein Totes&quot;</name>
 				<length>1:27</length>
 			</part>
 			<part>
 				<number>III</number>
-				<name>Abendland II: &quot;So leise sind die grünen W&auml;lder&quot;</name>
+				<name>Abendland II: &quot;So leise sind die grünen Wälder&quot;</name>
 				<length>1:16</length>
 			</part>
 			<part>
 				<number>IV</number>
-				<name>Abendland IV: &quot;Ihr großen St&auml;dte steinem aufgebaut&quot;</name>
+				<name>Abendland IV: &quot;Ihr großen Städte steinem aufgebaut&quot;</name>
 				<length>1:35</length>
 			</part>
 			<part>
 				<number>V</number>
-				<name>Nachts: &quot;Die Bl&auml;ue meiner Augen&quot;</name>
+				<name>Nachts: &quot;Die Bläue meiner Augen&quot;</name>
 				<length>0:51</length>
 			</part>
 			<part>
@@ -869,7 +869,7 @@
 				<length>1:21</length>
 			</part>
 			<instrument name="Soprano">
-				<player name="Fran&ccedil;oise Pollet"/>
+				<player name="Françoise Pollet"/>
 			</instrument>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
@@ -1211,7 +1211,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Drei Ges&auml;nge, op. 23</name>
+			<name>Drei Gesänge, op. 23</name>
 			<length>6:51</length>
 			<instrument name="Soprano">
 				<player name="Halina Lukomska"/>
@@ -1513,7 +1513,7 @@
 			<part>
 				<number>IV</number>
 				<length>1:12</length>
-				<name>&quot;Leichteste Bürden der B&auml;ume&quot;</name>
+				<name>&quot;Leichteste Bürden der Bäume&quot;</name>
 			</part>
 			<part>
 				<number>V</number>
@@ -1541,7 +1541,7 @@
 		</composition>
 		<composition>
 			<name>J. S. Bach: Fuga Ricercata Nr. 2 aus dem &quot;Musikalischen Opfer&quot;</name>
-			<description>Orquestra&ccedil;ão de Anton Webern</description>
+			<description>Orquestração de Anton Webern</description>
 			<length>7:01</length>
 			<player name="London Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>

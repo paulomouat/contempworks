@@ -66,7 +66,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Pr&egrave;s</name>
+			<name>Près</name>
 			<description>for cello and electronics</description>
 			<length>19:18</length>
 			<instrument name="Cello">
@@ -294,7 +294,7 @@
 	</composer>
 	<composer name="Alain" surname="Savouret" born="1942" died="">
 		<composition>
-			<name>&Eacute;tude aux sons réalistes</name>
+			<name>Étude aux sons réalistes</name>
 			<length>4:09</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -316,7 +316,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude numérique</name>
+			<name>Étude numérique</name>
 			<length>6:37</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -344,7 +344,7 @@
 	</composer>
 	<composer name="Giacinto" surname="Scelsi" born="1905" died="1988">
 		<composition>
-			<name>Po&egrave;me pour piano N&ordm; 2</name>
+			<name>Poème pour piano Nº 2</name>
 			<length>2:51</length>
 			<instrument name="Piano">
 				<player name="Jacqueline Méfano"/>
@@ -366,7 +366,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Quatuor &agrave; cordes n&ordm; 1</name>
+			<name>Quatuor à cordes nº 1</name>
 			<length>30:37</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1944"/>
@@ -413,10 +413,10 @@
 		</composition>
 		<composition>
 			<name>Pwyll</name>
-			<description>pour fl&ucirc;te solo</description>
+			<description>pour flûte solo</description>
 			<length>4:38</length>
-			<instrument name="Fl&ucirc;te">
-				<player name="Renaud Fran&ccedil;ois"/>
+			<instrument name="Flûte">
+				<player name="Renaud François"/>
 			</instrument>
 			<composed start="1954"/>
 			<recorded start=""/>
@@ -484,7 +484,7 @@
 		</composition>
 		<composition>
 			<name>Ixor</name>
-			<description>pour instrument &agrave; anche</description>
+			<description>pour instrument à anche</description>
 			<length>4:40</length>
 			<instrument name="Hautbois">
 				<player name="Jean-Pierre Arnaud"/>
@@ -556,7 +556,7 @@
 			<description>pour alto</description>
 			<length>14:29</length>
 			<instrument name="Alto">
-				<player name="Genevi&egrave;ve Strosser"/>
+				<player name="Geneviève Strosser"/>
 			</instrument>
 			<composed start="1957"/>
 			<recorded start="2009"/>
@@ -564,7 +564,7 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>Trio &agrave; cordes</name>
+			<name>Trio à cordes</name>
 			<length>13:17</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1958"/>
@@ -620,7 +620,7 @@
 			<released>1988</released>
 		</composition>
 		<composition>
-			<name>Quatuor &agrave; cordes n&ordm; 2</name>
+			<name>Quatuor à cordes nº 2</name>
 			<length>17:24</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1961"/>
@@ -672,7 +672,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Quatuor &agrave; cordes n&ordm; 3</name>
+			<name>Quatuor à cordes nº 3</name>
 			<length>18:42</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1963"/>
@@ -681,7 +681,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Quartetto N&ordm; 4</name>
+			<name>Quartetto Nº 4</name>
 			<length>9:51</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1964"/>
@@ -699,7 +699,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Quatuor &agrave; cordes n&ordm; 4</name>
+			<name>Quatuor à cordes nº 4</name>
 			<length>9:55</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1964"/>
@@ -709,7 +709,7 @@
 		</composition>
 		<composition>
 			<name>Elohim</name>
-			<description>für Streichquartett, zwei Soloviolinen und je zwei elektrisch verst&auml;rkte Violinen und Violoncelli</description>
+			<description>für Streichquartett, zwei Soloviolinen und je zwei elektrisch verstärkte Violinen und Violoncelli</description>
 			<length>4:39</length>
 			<player name="Streichquartett des Klangforum Wien"/>
 			<composed start="1965" end="1967"/>
@@ -758,10 +758,10 @@
 		</composition>
 		<composition>
 			<name>Ko-Lho</name>
-			<description>pour pour fl&ucirc;te et clarinette</description>
+			<description>pour pour flûte et clarinette</description>
 			<length>7:59</length>
-			<instrument name="Fl&ucirc;te">
-				<player name="Renaud Fran&ccedil;ois"/>
+			<instrument name="Flûte">
+				<player name="Renaud François"/>
 			</instrument>
 			<instrument name="Clarinette">
 				<player name="Véronique Fevre"/>
@@ -951,7 +951,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Et maintenant c'est &agrave; vous de jouer...</name>
+			<name>Et maintenant c'est à vous de jouer...</name>
 			<description>for double bass</description>
 			<length>6:21</length>
 			<instrument name="Double bass">
@@ -1077,7 +1077,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Quatuor &agrave; cordes n&ordm; 5</name>
+			<name>Quatuor à cordes nº 5</name>
 			<length>6:32</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1974" end="1985"/>
@@ -1133,7 +1133,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude pathéetique</name>
+			<name>Étude pathéetique</name>
 			<length>4:05</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -1221,7 +1221,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Variations sur une fl&ucirc;te mentscaine</name>
+			<name>Variations sur une flûte mentscaine</name>
 			<length>3:45</length>
 			<player name="GRM, Paris"/>
 			<composed start="1949"/>
@@ -1336,7 +1336,7 @@
 			</part>
 			<part>
 				<number>8</number>
-				<name>Ero&iuml;ca</name>
+				<name>Eroïca</name>
 				<length>1:57</length>
 			</part>
 			<part>
@@ -1401,7 +1401,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude aux allures</name>
+			<name>Étude aux allures</name>
 			<length>3:28</length>
 			<player name="GRM, Paris"/>
 			<composed start="1958" end="1971"/>
@@ -1410,7 +1410,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude aux allures</name>
+			<name>Étude aux allures</name>
 			<length>3:31</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -1421,7 +1421,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude aux sons animés</name>
+			<name>Étude aux sons animés</name>
 			<length>4:12</length>
 			<player name="GRM, Paris"/>
 			<composed start="1958" end="1971"/>
@@ -1430,7 +1430,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude aux objets</name>
+			<name>Étude aux objets</name>
 			<length>17:10</length>
 			<part>
 				<number>1</number>
@@ -1464,7 +1464,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude aux objets, 1er mouvement</name>
+			<name>Étude aux objets, 1er mouvement</name>
 			<length>3:37</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -1475,7 +1475,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Le tri&egrave;dre fertile</name>
+			<name>Le trièdre fertile</name>
 			<length>11:37</length>
 			<part>
 				<number>1</number>
@@ -1505,7 +1505,7 @@
 		<composition>
 			<name>écho d'Orphée</name>
 			<description>pour Pierre Schaeffer - 1988 Pierre Henry</description>
-			<description>d'apr&egrave;s Orphée 51 et 53 de P. Schaeffer et P. Henry</description>
+			<description>d'après Orphée 51 et 53 de P. Schaeffer et P. Henry</description>
 			<length>39:58</length>
 			<part>
 				<number>1</number>
@@ -1554,7 +1554,7 @@
 			</part>
 			<part>
 				<number>10</number>
-				<name>Les t&acirc;tons</name>
+				<name>Les tâtons</name>
 				<length>2:43</length>
 			</part>
 			<part>
@@ -1581,7 +1581,7 @@
 	</composer>
 	<composer name="Dieter" surname="Schnebel" born="1930" died="">
 		<composition>
-			<name>DIAPASON, Kanon &agrave; 13 für ungleichartige Instrumentalgruppen</name>
+			<name>DIAPASON, Kanon à 13 für ungleichartige Instrumentalgruppen</name>
 			<length>18:55</length>
 			<instrument name="Kontrabaß">
 				<player name="Barry Guy"/>
@@ -1596,7 +1596,7 @@
 		<composition>
 			<name>KI-NO</name>
 			<description>Nachtmusik für Projektoren und Hörer</description>
-			<description>Konkrete Kl&auml;nge und Ger&auml;usche Klangreihung von Josef Anton Riedl</description>
+			<description>Konkrete Klänge und Geräusche Klangreihung von Josef Anton Riedl</description>
 			<length>6:26</length>
 			<instrument name="Realisation">
 				<player name="Siemens Studio für elektronische Musik"/>
@@ -1644,7 +1644,7 @@
 	</composer>
 	<composer name="Arnold" surname="Schönberg" born="1874" died="1951">
 		<composition>
-			<name>Verkl&auml;rte Nacht, op.4</name>
+			<name>Verklärte Nacht, op.4</name>
 			<length>29:53</length>
 			<player name="Berliner Philharmoniker"/>
 			<conductor>Herbert von Karajan</conductor>
@@ -2654,7 +2654,7 @@
 	<composer name="Agostino di" surname="Scipio" born="1962" died="">
 		<composition>
 			<name>Texture/Multiple</name>
-			<description>für sechs instrumente und raumabh&auml;ngige signalverarbeitung</description>
+			<description>für sechs instrumente und raumabhängige signalverarbeitung</description>
 			<length>12:25</length>
 			<player name="Ensemble Mosaik"/>
 			<instrument name="Signalverarbeitung">
@@ -2667,7 +2667,7 @@
 		</composition>
 		<composition>
 			<name>5 interazioni cicliche alle differenze sensibili</name>
-			<description>für streichquartett und raumabh&auml;ngige signalverarbeitung</description>
+			<description>für streichquartett und raumabhängige signalverarbeitung</description>
 			<length>11:28</length>
 			<part>
 				<number>1</number>
@@ -2700,7 +2700,7 @@
 		</composition>
 		<composition>
 			<name>Craquelure</name>
-			<description>2 pezzi silenziosi, a Giuliano, für klangsynthese und raumabh&auml;ngige signalverarbeitung</description>
+			<description>2 pezzi silenziosi, a Giuliano, für klangsynthese und raumabhängige signalverarbeitung</description>
 			<length>10:01</length>
 			<part>
 				<number>1</number>
@@ -2739,12 +2739,12 @@
 			</part>
 			<part>
 				<number>3a</number>
-				<name>studie über hintergrundger&auml;usche</name>
+				<name>studie über hintergrundgeräusche</name>
 				<length>6:55</length>
 			</part>
 			<part>
 				<number>3b</number>
-				<name>studie über hintergrundger&auml;usche im vokaltrakt</name>
+				<name>studie über hintergrundgeräusche im vokaltrakt</name>
 				<length>8:42</length>
 			</part>
 			<instrument name="Lieve-elektronik">
@@ -2759,7 +2759,7 @@
 	<composer name="Stefano" surname="Scodanibbio" born="1956" died="">
 		<composition>
 			<name>Visas</name>
-			<description>pour quatuor &agrave; cordes</description>
+			<description>pour quatuor à cordes</description>
 			<length>19:32</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1987"/>
@@ -2852,7 +2852,7 @@
 	<composer name="Martin" surname="Smolka" born="1959" died="">
 		<composition>
 			<name>&quot;rain. a window, roofs, chimneys, pigeons and so... and railway-bridges, too&quot;</name>
-			<description>für Bl&auml;seroktett und andere Instrumente</description>
+			<description>für Bläseroktett und andere Instrumente</description>
 			<length>23:17</length>
 			<player name="Musikfabrik NRW"/>
 			<conductor>Johannes Kalitzke</conductor>
@@ -2862,7 +2862,7 @@
 			<released>1993</released>
 		</composition>
 	</composer>
-	<composer name="Bent" surname="S&oslash;rensen" born="1958" died="">
+	<composer name="Bent" surname="Sørensen" born="1958" died="">
 		<composition>
 			<name>Angels' Music</name>
 			<description>for string quartet</description>
@@ -3155,7 +3155,7 @@
 		</composition>
 		<composition>
 			<name>Etude</name>
-			<description>Musique Concr&egrave;te</description>
+			<description>Musique Concrète</description>
 			<length>3:15</length>
 			<player name="O.R.T.F. Club d'Essai"/>
 			<composed start="1952"/>
@@ -3335,7 +3335,7 @@
 		</composition>
 		<composition>
 			<name>Zeitmasze</name>
-			<description>für 5 Holzbl&auml;ser</description>
+			<description>für 5 Holzbläser</description>
 			<length>14:47</length>
 			<instrument name="Oboe">
 				<player name="Janet Craxton"/>
@@ -3497,7 +3497,7 @@
 		</composition>
 		<composition>
 			<name>Kontakte</name>
-			<description>für elektronische Kl&auml;nge, Klavier und Schlagzeug</description>
+			<description>für elektronische Klänge, Klavier und Schlagzeug</description>
 			<length>35:07</length>
 			<instrument name="Klavier">
 				<player name="Aloys Kontarsky"/>
@@ -3512,7 +3512,7 @@
 		</composition>
 		<composition>
 			<name>Kontakte</name>
-			<description>für elektronische Kl&auml;nge, Klavier und Schlagzeug</description>
+			<description>für elektronische Klänge, Klavier und Schlagzeug</description>
 			<length>34:50</length>
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
@@ -3701,7 +3701,7 @@
 		</composition>
 		<composition>
 			<name>Adieu</name>
-			<description>für Bl&auml;serquintett</description>
+			<description>für Bläserquintett</description>
 			<length>16:13</length>
 			<instrument name="Flöte">
 				<player name="Sebastian Bell"/>
@@ -3788,7 +3788,7 @@
 		</composition>
 		<composition>
 			<name>Mixtur</name>
-			<description>Rückw&auml;rts-Version, Kleine Besetzung</description>
+			<description>Rückwärts-Version, Kleine Besetzung</description>
 			<description>für 5 Orchestergruppen, 4 Sinusgeneratoren, 4 Ringmodulatoren</description>
 			<length>27:10</length>
 			<instrument name="Sinusgeneratoren">
@@ -3808,7 +3808,7 @@
 		</composition>
 		<composition>
 			<name>Mixtur</name>
-			<description>Vorw&auml;rts-Version, Kleine Besetzung</description>
+			<description>Vorwärts-Version, Kleine Besetzung</description>
 			<description>für 5 Orchestergruppen, 4 Sinusgeneratoren, 4 Ringmodulatoren</description>
 			<length>26:12</length>
 			<instrument name="Sinusgeneratoren">
@@ -3879,17 +3879,17 @@
 			<description>für 6 Spieler</description>
 			<description>Version 9. April 1969, WDR Köln</description>
 			<length>54:05</length>
-			<instrument name="Klavier und Kurzwellen-Empf&auml;nger">
+			<instrument name="Klavier und Kurzwellen-Empfänger">
 				<player name="Aloys Kontarsky"/>
 			</instrument>
-			<instrument name="Elektronium und Kurzwellen-Empf&auml;nger">
+			<instrument name="Elektronium und Kurzwellen-Empfänger">
 				<player name="Harald Bojé"/>
 			</instrument>
-			<instrument name="Tamtam und Kurzwellen-Empf&auml;nger">
+			<instrument name="Tamtam und Kurzwellen-Empfänger">
 				<player name="Alfred Alings"/>
 				<player name="Rolf Gehlhaar"/>
 			</instrument>
-			<instrument name="elektrische Bratsche und Kurzwellen-Empf&auml;nger">
+			<instrument name="elektrische Bratsche und Kurzwellen-Empfänger">
 				<player name="Johannes Fritsch"/>
 			</instrument>
 			<instrument name="elektrische Filter und Regler">
@@ -3905,7 +3905,7 @@
 			<description>1. Version</description>
 			<description>für einen Solisten</description>
 			<length>15:30</length>
-			<instrument name="Elektrochord mit Synthesizer und Kurzwellen-Empf&auml;nger">
+			<instrument name="Elektrochord mit Synthesizer und Kurzwellen-Empfänger">
 				<player name="Péter Eötvös"/>
 			</instrument>
 			<composed start="1968"/>
@@ -3918,7 +3918,7 @@
 			<description>2. Version</description>
 			<description>für einen Solisten</description>
 			<length>17:30</length>
-			<instrument name="Elektronium und Kurzwellen-Empf&auml;nger">
+			<instrument name="Elektronium und Kurzwellen-Empfänger">
 				<player name="Harald Bojé"/>
 			</instrument>
 			<composed start="1968"/>
@@ -3929,9 +3929,9 @@
 		<composition>
 			<name>Spiral</name>
 			<description>Integrale Version</description>
-			<description>für einen Solisten mit Kurzwellen-Empf&auml;nger</description>
+			<description>für einen Solisten mit Kurzwellen-Empfänger</description>
 			<length>2:18:00</length>
-			<instrument name="Stimme und Kurzwellen-Empf&auml;nger">
+			<instrument name="Stimme und Kurzwellen-Empfänger">
 				<player name="Michael Vetter"/>
 			</instrument>
 			<composed start="1968"/>
@@ -3942,7 +3942,7 @@
 		<composition>
 			<name>Spiral</name>
 			<description>für einen Solisten</description>
-			<description>Version für Oboe, Stimme, Didjeridoo, Kurzwellen-Empf&auml;nger (1994)</description>
+			<description>Version für Oboe, Stimme, Didjeridoo, Kurzwellen-Empfänger (1994)</description>
 			<length>20:20</length>
 			<instrument name="Oboe">
 				<player name="Cathy Milliken"/>
@@ -3987,22 +3987,22 @@
 			</part>
 			<part>
 				<number>7</number>
-				<name>Abw&auml;rts, 1. Version</name>
+				<name>Abwärts, 1. Version</name>
 				<length>31:30</length>
 			</part>
 			<part>
 				<number>8</number>
-				<name>Abw&auml;rts, 2. Version</name>
+				<name>Abwärts, 2. Version</name>
 				<length>19:07</length>
 			</part>
 			<part>
 				<number>9</number>
-				<name>Aufw&auml;rts</name>
+				<name>Aufwärts</name>
 				<length>30:30</length>
 			</part>
 			<part>
 				<number>10</number>
-				<name>Intensit&auml;t</name>
+				<name>Intensität</name>
 				<length>32:07</length>
 			</part>
 			<part>
@@ -4110,10 +4110,10 @@
 			<name>Mantra</name>
 			<description>für 2 Pianisten</description>
 			<length>1:05:20</length>
-			<instrument name="Mikrophonverst&auml;rker, Kompressor, Filter, Ringmodulator, Sinusgenerator, Lautst&auml;rkeregler">
+			<instrument name="Mikrophonverstärker, Kompressor, Filter, Ringmodulator, Sinusgenerator, Lautstärkeregler">
 				<player name="Aloys Kontarsky"/>
 			</instrument>
-			<instrument name="Mikrophonverst&auml;rker, Kompressor, Filter, Ringmodulator, Sinusgenerator, Lautst&auml;rkeregler">
+			<instrument name="Mikrophonverstärker, Kompressor, Filter, Ringmodulator, Sinusgenerator, Lautstärkeregler">
 				<player name="Alfons Kontarsky"/>
 			</instrument>
 			<composed start="1970"/>
@@ -4125,10 +4125,10 @@
 			<name>Pole</name>
 			<description>für 2</description>
 			<length>23:07</length>
-			<instrument name="Elektrochord mit Synthesizer und Kurzwellen-Empf&auml;nger">
+			<instrument name="Elektrochord mit Synthesizer und Kurzwellen-Empfänger">
 				<player name="Péter Eötvös"/>
 			</instrument>
-			<instrument name="Elektronium und Kurzwellen-Empf&auml;nger">
+			<instrument name="Elektronium und Kurzwellen-Empfänger">
 				<player name="Harald Bojé"/>
 			</instrument>
 			<composed start="1970"/>
@@ -4165,7 +4165,7 @@
 			<description>für Orchester</description>
 			<description>Studioproduktion November 1973</description>
 			<length>26:50</length>
-			<player name="Orchester des Saarl&auml;ndischen Rundfunks"/>
+			<player name="Orchester des Saarländischen Rundfunks"/>
 			<conductor>Hans Zender</conductor>
 			<instrument name="Klangregie">
 				<player name="Karlheinz Stockhausen"/>
@@ -4827,7 +4827,7 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Piet&agrave;-Solo</name>
+			<name>Pietà-Solo</name>
 			<description>für Flügelhorn und Elektronische Musik</description>
 			<length>27:45</length>
 			<instrument name="Flügelhorn">
@@ -4839,7 +4839,7 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Piet&agrave;-Duo</name>
+			<name>Pietà-Duo</name>
 			<description>für Flügelhorn, Sopran und Elektronische Musik</description>
 			<length>28:15</length>
 			<instrument name="Flügelhorn">
@@ -5013,7 +5013,7 @@
 		</composition>
 		<composition>
 			<name>Helikopter-Streichquartett</name>
-			<description>für Streichquartett, 4 Helikopter mit Piloten und 4 Tontechnikern/4 Fernseh-Sender, 4x3 Ton-Sender/Auditorium mit 4 Fernseh-S&auml;ulen und 4 Lautsprecher-S&auml;ulen/Klangregisseur mit Mischpult/Moderator (ad lib.)</description>
+			<description>für Streichquartett, 4 Helikopter mit Piloten und 4 Tontechnikern/4 Fernseh-Sender, 4x3 Ton-Sender/Auditorium mit 4 Fernseh-Säulen und 4 Lautsprecher-Säulen/Klangregisseur mit Mischpult/Moderator (ad lib.)</description>
 			<length>51:07</length>
 			<player name="Arditti String Quartet"/>
 			<player name="Studio für Elektronische Musik des WDR Köln"/>
@@ -5024,7 +5024,7 @@
 		</composition>
 		<composition>
 			<name>Helikopter-Streichquartett</name>
-			<description>für Streichquartett, 4 Helikopter mit Piloten und 4 Tontechnikern/4 Fernseh-Sender, 4x3 Ton-Sender/Auditorium mit 4 Fernseh-S&auml;ulen und 4 Lautsprecher-S&auml;ulen/Klangregisseur mit Mischpult/Moderator (ad lib.)</description>
+			<description>für Streichquartett, 4 Helikopter mit Piloten und 4 Tontechnikern/4 Fernseh-Sender, 4x3 Ton-Sender/Auditorium mit 4 Fernseh-Säulen und 4 Lautsprecher-Säulen/Klangregisseur mit Mischpult/Moderator (ad lib.)</description>
 			<description>Studioproduktion</description>
 			<length>32:00</length>
 			<player name="Arditti String Quartet"/>
@@ -5171,7 +5171,7 @@
 				<player name="Hubert Mayer"/>
 			</instrument>
 			<instrument name="Tenor">
-				<player name="Bernhard G&auml;rtner"/>
+				<player name="Bernhard Gärtner"/>
 			</instrument>
 			<instrument name="Bariton">
 				<player name="Jonathan de la Paz Zaens"/>
@@ -5322,7 +5322,7 @@
 		</composition>
 		<composition>
 			<name>Himmels-Tür</name>
-			<description>für einen Schlagzeuger und eines kleines M&auml;dchen</description>
+			<description>für einen Schlagzeuger und eines kleines Mädchen</description>
 			<description>4. Stunde aus Klang</description>
 			<length>27:27</length>
 			<instrument name="Schlagzeug">
@@ -5387,7 +5387,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Quatre &Eacute;tudes</name>
+			<name>Quatre Études</name>
 			<description>pour orchestre</description>
 			<length>9:36</length>
 			<player name="The Cleveland Orchestra"/>
@@ -5398,7 +5398,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Deux Po&egrave;mes de Paul Verlaine, op. 9</name>
+			<name>Deux Poèmes de Paul Verlaine, op. 9</name>
 			<length>4:55</length>
 			<instrument name="baritone">
 				<player name="John Shirley-Quirk"/>
@@ -5423,7 +5423,7 @@
 		</composition>
 		<composition>
 			<name>Pétrouchka</name>
-			<description>Sc&egrave;nes burlesques en quatre tableaux, version de 1911</description>
+			<description>Scènes burlesques en quatre tableaux, version de 1911</description>
 			<length>34:58</length>
 			<player name="The Cleveland Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -5434,7 +5434,7 @@
 		</composition>
 		<composition>
 			<name>Pétrouchka</name>
-			<description>Sc&egrave;nes burlesques en quatre tableaux, version originale de 1911</description>
+			<description>Scènes burlesques en quatre tableaux, version originale de 1911</description>
 			<length>34:58</length>
 			<player name="The Cleveland Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -5495,7 +5495,7 @@
 		</composition>
 		<composition>
 			<name>Le Sacre du printemps</name>
-			<description>Tableaux de la Russie pa&iuml;enne en deux parties</description>
+			<description>Tableaux de la Russie païenne en deux parties</description>
 			<length>33:22</length>
 			<player name="The Cleveland Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -5546,7 +5546,7 @@
 		</composition>
 		<composition>
 			<name>Le Chant du Rossignol</name>
-			<description>Po&egrave;me symphonique</description>
+			<description>Poème symphonique</description>
 			<length>20:32</length>
 			<player name="The Cleveland Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -5629,7 +5629,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Symphonies d'instruments &agrave; vent</name>
+			<name>Symphonies d'instruments à vent</name>
 			<length>9:16</length>
 			<player name="Berliner Philharmoniker"/>
 			<conductor>Pierre Boulez</conductor>
@@ -5817,7 +5817,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>&Eacute;légie</name>
+			<name>Élégie</name>
 			<description>pour alto seul</description>
 			<length>5:11</length>
 			<instrument name="alto">
@@ -5935,7 +5935,7 @@
 			<instrument name="Posaune">
 				<player name="Otto Heinl"/>
 				<player name="Werner Michel"/>
-				<player name="Ferdinand Winkelstr&auml;ter"/>
+				<player name="Ferdinand Winkelsträter"/>
 				<player name="Hans Mayr"/>
 			</instrument>
 			<conductor>Hans Rosbaud</conductor>
@@ -6049,7 +6049,7 @@
 	<composer name="Marco" surname="Stroppa" born="1959" died="">
 		<composition>
 			<name>Spirali</name>
-			<description>pour quatuor &agrave; cordes avec dispositif de spatialisation du son</description>
+			<description>pour quatuor à cordes avec dispositif de spatialisation du son</description>
 			<length>18:53</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1987" end="1993"/>

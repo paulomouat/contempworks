@@ -156,7 +156,7 @@
 		</composition>
 		<composition>
 			<name>Streichquartett nr. 4 opus 33</name>
-			<description>"Infinite to be cannot be infinite, infinite anti-be could be infinite", Hommage &agrave; Leonardo da Vinci</description>
+			<description>"Infinite to be cannot be infinite, infinite anti-be could be infinite", Hommage à Leonardo da Vinci</description>
 			<description>for nine string quartets or a string quartet surrounded by an imaginary 128-string viola da gamba</description>
 			<length>49:00</length>
 			<player name="Arditti String Quartet"/>
@@ -380,7 +380,7 @@
 		</composition>
 		<composition>
 			<name>Sendezeichen</name>
-			<description>Vier Kl&auml;nge</description>
+			<description>Vier Klänge</description>
 			<length>0:42</length>
 			<instrument name="Realisation">
 				<player name="Siemens Studio für elektronische Musik"/>
@@ -422,7 +422,7 @@
 		<composition>
 			<name>Leonce und Lena</name>
 			<description>(von Georg Büchner)</description>
-			<description>Sprache, Instrumentalkl&auml;nge, elektronische ver&auml;nderte Sprache, elektronische ver&auml;nderte Instrumentalkl&auml;nge (Zwei Stücke)</description>
+			<description>Sprache, Instrumentalklänge, elektronische veränderte Sprache, elektronische veränderte Instrumentalklänge (Zwei Stücke)</description>
 			<length>2:15</length>
 			<part>
 				<number>1</number>
@@ -448,7 +448,7 @@
 		</composition>
 		<composition>
 			<name>Komposition Nr. 3</name>
-			<description>Elektronische und konkrete Kl&auml;nge, Fran&ccedil;ois Bayle, Alfred Feussner u.a., Stimme</description>
+			<description>Elektronische und konkrete Klänge, François Bayle, Alfred Feussner u.a., Stimme</description>
 			<length>6:50</length>
 			<instrument name="Realisation">
 				<player name="Siemens Studio für elektronische Musik"/>
@@ -507,7 +507,7 @@
 			<conductor>Jonathan Stockhammer</conductor>
 			<composed start="1969"/>
 			<recorded start="2007"/>
-			<release>h&auml;nssler Classic CD 93.227</release>
+			<release>hänssler Classic CD 93.227</release>
 			<released>2008</released>
 		</composition>
 		<composition>
@@ -592,13 +592,13 @@
 				<player name="Enrique Santiago"/>
 			</instrument>
 			<instrument name="Violoncello">
-				<player name="Anton K&auml;smeier"/>
+				<player name="Anton Käsmeier"/>
 			</instrument>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
 			<composed start="1972"/>
 			<recorded start="1974"/>
-			<release>h&auml;nssler Classic/SWR Media GmbH CD 93.010</release>
+			<release>hänssler Classic/SWR Media GmbH CD 93.010</release>
 			<released>2000</released>
 		</composition>
 		<composition>
@@ -619,7 +619,7 @@
 			<conductor>Sylvain Cambreling</conductor>
 			<composed start="1974"/>
 			<recorded start="2002"/>
-			<release>h&auml;nssler Classic CD 93.202</release>
+			<release>hänssler Classic CD 93.202</release>
 			<released>2007</released>
 		</composition>
 		<composition>
@@ -666,7 +666,7 @@
 			<conductor>Ernest Bour</conductor>
 			<composed start="1974" end="1975"/>
 			<recorded start="1976"/>
-			<release>h&auml;nssler Classic CD 93.202</release>
+			<release>hänssler Classic CD 93.202</release>
 			<released>2007</released>
 		</composition>
 		<composition>
@@ -701,13 +701,13 @@
 			<conductor>Jonathan Stockhammer</conductor>
 			<composed start="1975"/>
 			<recorded start="2007"/>
-			<release>h&auml;nssler Classic CD 93.227</release>
+			<release>hänssler Classic CD 93.227</release>
 			<released>2008</released>
 		</composition>
 		<composition>
 			<name>O Notte</name>
 			<description>für Bariton und kleines Orchester</description>
-			<description>Hommage &agrave; Dallapiccola</description>
+			<description>Hommage à Dallapiccola</description>
 			<length>6:51</length>
 			<instrument name="Bariton">
 				<player name="Ned Barth"/>
@@ -730,12 +730,12 @@
 			<conductor>Ernest Bour</conductor>
 			<composed start="1975" end="1976"/>
 			<recorded start="1977"/>
-			<release>h&auml;nssler Classic CD 93.202</release>
+			<release>hänssler Classic CD 93.202</release>
 			<released>2007</released>
 		</composition>
 		<composition score="Y">
 			<name>Im Innersten</name>
-			<description>Streichquartett III, in sechs S&auml;tzen</description>
+			<description>Streichquartett III, in sechs Sätzen</description>
 			<length>26:56</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1976"/>
@@ -831,12 +831,12 @@
 			<conductor>Jan Latham-Koenig</conductor>
 			<composed start="1980"/>
 			<recorded start="1984"/>
-			<release>h&auml;nssler Classic CD 93.185</release>
+			<release>hänssler Classic CD 93.185</release>
 			<released>2007</released>
 		</composition>
 		<composition>
 			<name>Tutuguri</name>
-			<description>Po&egrave;me dansé für einem Sprecher, Chor und großes Orchester</description>
+			<description>Poème dansé für einem Sprecher, Chor und großes Orchester</description>
 			<length>1:56:50</length>
 			<instrument name="Speaker, Choir master">
 				<player name="Rupert Huber"/>
@@ -846,7 +846,7 @@
 			<conductor>Fabrice Bollon</conductor>
 			<composed start="1980" end="1982"/>
 			<recorded start="2002"/>
-			<release>h&auml;nssler Classic CD 93.069</release>
+			<release>hänssler Classic CD 93.069</release>
 			<released>2002</released>
 		</composition>
 		<composition>
@@ -1041,7 +1041,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>String Quartet No. 7 &quot;Ver&auml;nderungen&quot;</name>
+			<name>String Quartet No. 7 &quot;Veränderungen&quot;</name>
 			<length>21:59</length>
 			<player name="Minguet Quartet"/>
 			<composed start="1985"/>
@@ -1051,7 +1051,7 @@
 		</composition>
 		<composition>
 			<name>Sine Nomine</name>
-			<description>Studie für fünf Blechbl&auml;ser</description>
+			<description>Studie für fünf Blechbläser</description>
 			<length>9:23</length>
 			<player name="Ensemble 13"/>
 			<conductor>Manfred Reichert</conductor>
@@ -1089,12 +1089,12 @@
 			<conductor>Ernest Bour</conductor>
 			<composed start="1987"/>
 			<recorded start="1987"/>
-			<release>h&auml;nssler Classic/SWR Media GmbH CD 93.010</release>
+			<release>hänssler Classic/SWR Media GmbH CD 93.010</release>
 			<released>2000</released>
 		</composition>
 		<composition>
 			<name>Klangbeschreibung II</name>
-			<description>für vier Frauenstimmen, fünf Blechbl&auml;ser und sechs Schlagzeuger auf ein Gedicht von Friedrich Nietzsche</description>
+			<description>für vier Frauenstimmen, fünf Blechbläser und sechs Schlagzeuger auf ein Gedicht von Friedrich Nietzsche</description>
 			<length>28:40</length>
 			<instrument name="Sopran">
 				<player name="Ingrid Ade-Jesemann"/>
@@ -1112,7 +1112,7 @@
 			<conductor>Ernest Bour</conductor>
 			<composed start="1987"/>
 			<recorded start="1987"/>
-			<release>h&auml;nssler Classic/SWR Media GmbH CD 93.010</release>
+			<release>hänssler Classic/SWR Media GmbH CD 93.010</release>
 			<released>2000</released>
 		</composition>
 		<composition>
@@ -1123,7 +1123,7 @@
 			<conductor>Ernest Bour</conductor>
 			<composed start="1987"/>
 			<recorded start="1987"/>
-			<release>h&auml;nssler Classic/SWR Media GmbH CD 93.010</release>
+			<release>hänssler Classic/SWR Media GmbH CD 93.010</release>
 			<released>2000</released>
 		</composition>
 		<composition>
@@ -1178,7 +1178,7 @@
 			<conductor>Markus Creed</conductor>
 			<composed start="1987" end="1988"/>
 			<recorded start="2004"/>
-			<release>h&auml;nssler Classic CD 93.227</release>
+			<release>hänssler Classic CD 93.227</release>
 			<released>2008</released>
 		</composition>
 		<composition>
@@ -1253,7 +1253,7 @@
 			<conductor>Michael Gielen</conductor>
 			<composed start="1989"/>
 			<recorded start="1989"/>
-			<release>h&auml;nssler Classic CD 93.236</release>
+			<release>hänssler Classic CD 93.236</release>
 			<released>2009</released>
 		</composition>
 		<composition>
@@ -1316,7 +1316,7 @@
 		</composition>
 		<composition>
 			<name>sphere</name>
-			<description>Kontrafaktur mit Klavier-Gegenkörper für Klavier, Bl&auml;ser und Schlagzeug</description>
+			<description>Kontrafaktur mit Klavier-Gegenkörper für Klavier, Bläser und Schlagzeug</description>
 			<length>22:36</length>
 			<instrument name="Klavier">
 				<player name="Siegfried Mauser"/>
@@ -1336,7 +1336,7 @@
 			<conductor>Gianluigi Gelmetti</conductor>
 			<composed start="1992" end="1995"/>
 			<recorded start="1995"/>
-			<release>h&auml;nssler Classic CD 93.227</release>
+			<release>hänssler Classic CD 93.227</release>
 			<released>2008</released>
 		</composition>
 		<composition>
@@ -1365,7 +1365,7 @@
 			<conductor>Michael Gielen</conductor>
 			<composed start="1993"/>
 			<recorded start="1993"/>
-			<release>h&auml;nssler Classic CD 93.185</release>
+			<release>hänssler Classic CD 93.185</release>
 			<released>2007</released>
 		</composition>
 		<composition>
@@ -1398,7 +1398,7 @@
 			<conductor>Rupert Huber</conductor>
 			<composed start="1994"/>
 			<recorded start="1994"/>
-			<release>h&auml;nssler Classic CD 93.227</release>
+			<release>hänssler Classic CD 93.227</release>
 			<released>2008</released>
 		</composition>
 		<composition>
@@ -1409,7 +1409,7 @@
 			<conductor>Friedrich Goldmann</conductor>
 			<composed start="1994"/>
 			<recorded start="1994"/>
-			<release>h&auml;nssler Classic CD 93.236</release>
+			<release>hänssler Classic CD 93.236</release>
 			<released>2009</released>
 		</composition>
 		<composition>
@@ -1453,7 +1453,7 @@
 			<conductor>Hans Zender</conductor>
 			<composed start="1995" end="2002"/>
 			<recorded start="2002"/>
-			<release>h&auml;nssler Classic CD 93.185</release>
+			<release>hänssler Classic CD 93.185</release>
 			<released>2007</released>
 		</composition>
 		<composition>
@@ -1467,7 +1467,7 @@
 			<conductor>Hans Zender</conductor>
 			<composed start="1997" end="1998"/>
 			<recorded start="1998"/>
-			<release>h&auml;nssler Classic CD 93.185</release>
+			<release>hänssler Classic CD 93.185</release>
 			<released>2007</released>
 		</composition>
 		<composition>
@@ -1539,12 +1539,12 @@
 			<instrument name="Baritono">
 				<player name="Andreas Schmidt"/>
 			</instrument>
-			<player name="G&auml;chinger Kantorei"/>
+			<player name="Gächinger Kantorei"/>
 			<player name="Bach-Collegium Stuttgart"/>
 			<conductor>Helmut Rilling</conductor>
 			<composed start="1999" end="2000"/>
 			<recorded start="2000"/>
-			<release>h&auml;nssler Classic CD 98.397</release>
+			<release>hänssler Classic CD 98.397</release>
 			<released>2001</released>
 		</composition>
 		<composition>
@@ -1604,7 +1604,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>&Uuml;ber-Schrift</name>
+			<name>Über-Schrift</name>
 			<description>for two pianos</description>
 			<length>26:33</length>
 			<player name="GrauSchumacher Piano Duo"/>
@@ -1684,7 +1684,7 @@
 			<conductor>Sylvain Cambreling</conductor>
 			<composed start="2007"/>
 			<recorded start="2007"/>
-			<release>h&auml;nssler Classic CD 93.236</release>
+			<release>hänssler Classic CD 93.236</release>
 			<released>2009</released>
 		</composition>
 		<composition>
@@ -1696,7 +1696,7 @@
 			<conductor>Matthias Pintscher (III-IV)</conductor>
 			<composed start="2002" end="2008"/>
 			<recorded start="2006" end="2008"/>
-			<release>h&auml;nssler Classic CD 93.263</release>
+			<release>hänssler Classic CD 93.263</release>
 			<released>2010</released>
 		</composition>
 	</composer>
@@ -1884,7 +1884,7 @@
 	</composer>
 	<composer name="Monique" surname="Rollin" born="1927" died="2002">
 		<composition>
-			<name>&Eacute;tude vocale</name>
+			<name>Étude vocale</name>
 			<length>1:12</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>

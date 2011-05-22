@@ -4,7 +4,7 @@
 <list>
 	<composer name="Akira" surname="Tamba" born="1932" died="">
 		<composition>
-			<name>&Eacute;tude no. 2</name>
+			<name>Étude no. 2</name>
 			<length>3:28</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -163,7 +163,7 @@
 			<name>Rabasso</name>
 			<description>für Saxophonquartett, Viola, Violoncello und Kontrabaß</description>
 			<length>10:07</length>
-			<player name="The Rasch&egrave;r Saxophone Quartet"/>
+			<player name="The Raschèr Saxophone Quartet"/>
 			<instrument name="Viola">
 				<player name="Hans Brüning"/>
 			</instrument>

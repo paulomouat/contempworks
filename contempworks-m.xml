@@ -2,7 +2,7 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
-	<composer name="Fran&ccedil;ois-Bernard" surname="M&acirc;che" born="1935" died="">
+	<composer name="François-Bernard" surname="Mâche" born="1935" died="">
 		<composition>
 			<name>Prélude</name>
 			<length>5:31</length>
@@ -27,7 +27,7 @@
 		</composition>
 		<composition>
 			<name>Eridan</name>
-			<description>Quatuor &agrave; cordes opus 57</description>
+			<description>Quatuor à cordes opus 57</description>
 			<length>17:30</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1986"/>
@@ -196,7 +196,7 @@
 			<released>1999/2002</released>
 		</composition>
 		<composition>
-			<name>Pi&egrave;ce pour Ivry</name>
+			<name>Pièce pour Ivry</name>
 			<description>for violin</description>
 			<length>8:53</length>
 			<player name="Arditti String Quartet"/>
@@ -238,7 +238,7 @@
 			<released>1980/2005</released>
 		</composition>
 		<composition>
-			<name>St&auml;ndchen für Tini</name>
+			<name>Ständchen für Tini</name>
 			<description>for violin and viola</description>
 			<length>1:23</length>
 			<player name="Arditti String Quartet"/>
@@ -285,7 +285,7 @@
 		</composition>
 		<composition>
 			<name>The Wings of Perception II</name>
-			<description>Tonbandstück aus elektronischen und Metallobjekt-Kl&auml;ngen</description>
+			<description>Tonbandstück aus elektronischen und Metallobjekt-Klängen</description>
 			<length>10:31</length>
 			<composed start="1985" end="1992"/>
 			<recorded start="?"/>
@@ -401,9 +401,9 @@
 	<composer name="Philippe" surname="Manoury" born="1952" died="">
 		<composition>
 			<name>La Partition du ciel et de l'enfer</name>
-			<description>pour fl&ucirc;te et 2 pianos solistes, ensemble et électronique</description>
+			<description>pour flûte et 2 pianos solistes, ensemble et électronique</description>
 			<length>39:39</length>
-			<instrument name="Fl&ucirc;te">
+			<instrument name="Flûte">
 				<player name="Sophie Cherrier"/>
 			</instrument>
 			<instrument name="Piano">
@@ -417,26 +417,26 @@
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1989"/>
 			<recorded start="1996"/>
-			<release>Ad&egrave;s/IRCAM 206 062</release>
+			<release>Adès/IRCAM 206 062</release>
 			<released>1997</released>
 		</composition>
 		<composition>
 			<name>Jupiter</name>
-			<description>pour fl&ucirc;te et électronique</description>
+			<description>pour flûte et électronique</description>
 			<length>28:31</length>
-			<instrument name="Fl&ucirc;te">
+			<instrument name="Flûte">
 				<player name="Sophie Cherrier"/>
 			</instrument>
 			<player name="Technique IRCAM"/>
 			<composed start="1986"/>
 			<recorded start="1996"/>
-			<release>Ad&egrave;s/IRCAM 206 062</release>
+			<release>Adès/IRCAM 206 062</release>
 			<released>1997</released>
 		</composition>
 	</composer>
 	<composer name="Tomás" surname="Marco" born="1942" died="">
 		<composition>
-			<name>Transfiguraci&oacute;n</name>
+			<name>Transfiguración</name>
 			<description>für 16 Solostimmen</description>
 			<length>9:43</length>
 			<player name="Schola Cantorum Stuttgart"/>
@@ -465,7 +465,7 @@
 			<name>Time Stretch (on Gesualdo)</name>
 			<description>pour orchestre</description>
 			<length>15:54</length>
-			<player name="Orchestre Philharmonique Royal de Li&egrave;ge"/>
+			<player name="Orchestre Philharmonique Royal de Liège"/>
 			<conductor>Pascal Rophé</conductor>
 			<composed start="2005"/>
 			<recorded start="2009"/>
@@ -476,7 +476,7 @@
 			<name>Finale</name>
 			<description>pour orchestre</description>
 			<length>14:48</length>
-			<player name="Orchestre Philharmonique Royal de Li&egrave;ge"/>
+			<player name="Orchestre Philharmonique Royal de Liège"/>
 			<conductor>Pascal Rophé</conductor>
 			<composed start="2007"/>
 			<recorded start="2009"/>
@@ -493,7 +493,7 @@
 			<instrument name="Alto">
 				<player name="Antoine Tamestit"/>
 			</instrument>
-			<player name="Orchestre Philharmonique Royal de Li&egrave;ge"/>
+			<player name="Orchestre Philharmonique Royal de Liège"/>
 			<conductor>Pascal Rophé</conductor>
 			<composed start="2007" end="2008"/>
 			<recorded start="2009"/>
@@ -531,7 +531,7 @@
 	<composer name="Alessandro" surname="Melchiorre" born="1951" died="">
 		<composition>
 			<name>Secondo Quartetto</name>
-			<description>deuxi&egrave;me quatuor &agrave; cordes</description>
+			<description>deuxième quatuor à cordes</description>
 			<length>15:45</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1990"/>
@@ -540,7 +540,7 @@
 			<released>1995</released>
 		</composition>
 	</composer>
-	<composer name="Arne" surname="Melln&auml;s" born="1933" died="">
+	<composer name="Arne" surname="Mellnäs" born="1933" died="">
 		<composition>
 			<name>Fragile</name>
 			<description>version for piano</description>
@@ -554,7 +554,7 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="Usko" surname="Meril&auml;inen" born="1930" died="2004">
+	<composer name="Usko" surname="Meriläinen" born="1930" died="2004">
 		<composition>
 			<name>Zimbal</name>
 			<length>7:15</length>
@@ -616,7 +616,7 @@
 	</composer>
 	<composer name="Darius" surname="Milhaud" born="1892" died="1974">
 		<composition>
-			<name>La rivi&egrave;re endormie</name>
+			<name>La rivière endormie</name>
 			<length>7:35</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -788,7 +788,7 @@
 		<composition>
 			<name>Im Sturm</name>
 			<description>Liederzyklus, frei nach Franz Schubert</description>
-			<description>für Bariton, pr&auml;pariertes Klavier und electronics</description>
+			<description>für Bariton, präpariertes Klavier und electronics</description>
 			<description>Georg Nigl gewidmet</description>
 			<length>46:41</length>
 			<instrument name="Baritone">
@@ -840,7 +840,7 @@
 		</composition>
 		<composition>
 			<name>Leblos</name>
-			<description>für pr&auml;pariertes Klavier in zwei schichten</description>
+			<description>für präpariertes Klavier in zwei schichten</description>
 			<length>12:19</length>
 			<instrument name="Prepared piano and electronics">
 				<player name="Wolfgang Mitterer"/>
@@ -941,7 +941,7 @@
 		</composition>
 		<composition>
 			<name>Sea of Singularity</name>
-			<description>R&ecirc;ve de l'aube</description>
+			<description>Rêve de l'aube</description>
 			<length>31:48</length>
 			<instrument name="Electroacoustic realisation">
 				<player name="University of Sheffield Sound Studios"/>
@@ -953,7 +953,7 @@
 		</composition>
 		<composition>
 			<name>Dreaming of the Dawn</name>
-			<description>R&ecirc;ve de l'aube</description>
+			<description>Rêve de l'aube</description>
 			<length>14:01</length>
 			<instrument name="Electroacoustic realisation">
 				<player name="GRM, Paris"/>
@@ -965,7 +965,7 @@
 		</composition>
 		<composition>
 			<name>Power Tools</name>
-			<description>R&ecirc;ve de l'aube</description>
+			<description>Rêve de l'aube</description>
 			<length>14:25</length>
 			<instrument name="Electroacoustic realisation">
 				<player name="Private studio of the composer"/>
@@ -977,7 +977,7 @@
 		</composition>
 		<composition>
 			<name>Piano Piece (for Peter)</name>
-			<description>R&ecirc;ve de l'aube</description>
+			<description>Rêve de l'aube</description>
 			<length>7:19</length>
 			<instrument name="piano">
 				<player name="Peter Hill"/>
@@ -994,7 +994,7 @@
 	<composer name="Isabel" surname="Mundry" born="1963" died="">
 		<composition>
 			<name>Gesichter</name>
-			<description>für S&auml;ngerin, Sprechs&auml;ngerin, 2 Schlagzeuger und Live-Elektronik</description>
+			<description>für Sängerin, Sprechsängerin, 2 Schlagzeuger und Live-Elektronik</description>
 			<length>24:30</length>
 			<instrument name="Stimme und Gesang">
 				<player name="Salome Kammer"/>
@@ -1002,7 +1002,7 @@
 			</instrument>
 			<instrument name="Schlagzeug">
 				<player name="Christian Dierstein"/>
-				<player name="Fran&ccedil;oise Rivalland"/>
+				<player name="Françoise Rivalland"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="Joachim Haas"/>
@@ -1044,7 +1044,7 @@
 			<description>pour cor et ensemble instrumental</description>
 			<length>17:39</length>
 			<instrument name="Cor">
-				<player name="Alain No&euml;l"/>
+				<player name="Alain Noël"/>
 			</instrument>
 			<player name="Ensemble l'Itinéraire"/>
 			<conductor>Charles Bruck</conductor>
@@ -1079,22 +1079,22 @@
 		</composition>
 		<composition>
 			<name>Ethers</name>
-			<description>pour fl&ucirc;te et 5 instruments</description>
+			<description>pour flûte et 5 instruments</description>
 			<length>20:38</length>
-			<instrument name="Fl&ucirc;te">
+			<instrument name="Flûte">
 				<player name="Pierre-Yves Artaud"/>
 			</instrument>
 			<instrument name="Violon">
 				<player name="Ami Flamer"/>
 			</instrument>
 			<instrument name="Alto">
-				<player name="Genevi&egrave;ve Renon"/>
+				<player name="Geneviève Renon"/>
 			</instrument>
 			<instrument name="Violoncelle">
 				<player name="David Simpson"/>
 			</instrument>
 			<instrument name="Contrebasse">
-				<player name="Jo&euml;lle Léandre"/>
+				<player name="Joëlle Léandre"/>
 			</instrument>
 			<instrument name="Trombone">
 				<player name="Christian Marchand"/>
@@ -1139,7 +1139,7 @@
 			<conductor>David Robertson</conductor>
 			<composed start="1982" end="1983"/>
 			<recorded start="1993"/>
-			<release>Ad&egrave;s/IRCAM 205 212</release>
+			<release>Adès/IRCAM 205 212</release>
 			<released>1996</released>
 		</composition>
 		<composition>
@@ -1155,7 +1155,7 @@
 		</composition>
 		<composition>
 			<name>Allégories</name>
-			<description>pour 6 instruments et dispositif de synth&egrave;se</description>
+			<description>pour 6 instruments et dispositif de synthèse</description>
 			<length>10:15</length>
 			<player name="Ensemble Fa"/>
 			<conductor>Dominique My</conductor>
@@ -1172,7 +1172,7 @@
 			<conductor>David Robertson</conductor>
 			<composed start="1991" end="1992"/>
 			<recorded start="1993"/>
-			<release>Ad&egrave;s/IRCAM 205 212</release>
+			<release>Adès/IRCAM 205 212</release>
 			<released>1996</released>
 		</composition>
 		<composition>
@@ -1207,7 +1207,7 @@
 			<conductor>David Robertson</conductor>
 			<composed start="1993" end="1994"/>
 			<recorded start="1994"/>
-			<release>Ad&egrave;s/IRCAM 205 212</release>
+			<release>Adès/IRCAM 205 212</release>
 			<released>1996</released>
 		</composition>
 	</composer>

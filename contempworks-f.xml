@@ -858,7 +858,7 @@
 			<name>Piano and Orchestra</name>
 			<length>19:13</length>
 			<instrument name="Piano">
-				<player name="Markus Hinterh&auml;user"/>
+				<player name="Markus Hinterhäuser"/>
 			</instrument>
 			<player name="RSO Frankfurt"/>
 			<conductor>Arturo Tamayo</conductor>
@@ -871,7 +871,7 @@
 			<name>Piano</name>
 			<length>29:41</length>
 			<instrument name="Piano">
-				<player name="Markus Hinterh&auml;user"/>
+				<player name="Markus Hinterhäuser"/>
 			</instrument>
 			<composed start="1977"/>
 			<recorded start="2000"/>
@@ -970,7 +970,7 @@
 				<player name="Carol Robinson"/>
 			</instrument>
 			<instrument name="Percussion">
-				<player name="Fran&ccedil;oise Rivalland"/>
+				<player name="Françoise Rivalland"/>
 				<player name="Peppie Wiersma"/>
 			</instrument>
 			<composed start="1981"/>
@@ -1060,7 +1060,7 @@
 			<name>For Bunita Marcus</name>
 			<length>1:12:46</length>
 			<instrument name="Piano">
-				<player name="Markus Hinterh&auml;user"/>
+				<player name="Markus Hinterhäuser"/>
 			</instrument>
 			<composed start="1985"/>
 			<recorded start="1995"/>
@@ -1091,7 +1091,7 @@
 			<name>Palais de Mari</name>
 			<length>27:10</length>
 			<instrument name="Piano">
-				<player name="Markus Hinterh&auml;user"/>
+				<player name="Markus Hinterhäuser"/>
 			</instrument>
 			<composed start="1986"/>
 			<recorded start="1999"/>
@@ -1145,7 +1145,7 @@
 				<player name="Kolbeinn Bjarnason"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="Valgerdur Andrésd&oacute;ttir"/>
+				<player name="Valgerdur Andrésdóttir"/>
 			</instrument>
 			<composed start="1965"/>
 			<recorded start="2000"/>
@@ -1154,7 +1154,7 @@
 		</composition>
 		<composition>
 			<name>Prometheus</name>
-			<description>pour sextuor &agrave; vent</description>
+			<description>pour sextuor à vent</description>
 			<length>16:15</length>
 			<player name="Ensemble Contrechamps"/>
 			<conductor>Giorgio Bernasconi</conductor>
@@ -1268,7 +1268,7 @@
 			<name>Superscriptio</name>
 			<description>pour piccolo solo</description>
 			<length>6:09</length>
-			<instrument name="Fl&ucirc;te">
+			<instrument name="Flûte">
 				<player name="Félix Renggli"/>
 			</instrument>
 			<conductor>Zsolt Nagy</conductor>
@@ -1325,7 +1325,7 @@
 			<description>pour vents et percussions</description>
 			<length>11:22</length>
 			<player name="Ensemble Contrechamps"/>
-			<conductor>Emilio Pom&agrave;rico</conductor>
+			<conductor>Emilio Pomàrico</conductor>
 			<composed start="1986"/>
 			<recorded start="1995"/>
 			<release>Accord 205772</release>
@@ -1523,7 +1523,7 @@
 			<released>2010</released>
 		</composition>		
 		<composition>
-			<name>&Eacute;tude aux sons tendus</name>
+			<name>Étude aux sons tendus</name>
 			<length>2:49</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -1534,7 +1534,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude floue</name>
+			<name>Étude floue</name>
 			<length>2:18</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -1545,7 +1545,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tude aux accidents</name>
+			<name>Étude aux accidents</name>
 			<length>2:15</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -1631,7 +1631,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Silvia" surname="F&oacute;mina" born="1962" died="">
+	<composer name="Silvia" surname="Fómina" born="1962" died="">
 		<composition>
 			<name>Auguri Aquae</name>
 			<description>Klang-Bewegung für Stimmen und Orchester</description>
@@ -1647,7 +1647,7 @@
 			<instrument name="Klangregie">
 				<player name="Joachim Haas"/>
 				<player name="André Richard"/>
-				<player name="Silvia F&oacute;mina"/>
+				<player name="Silvia Fómina"/>
 			</instrument>
 			<conductor>Michael Gielen</conductor>
 			<composed start="1996" end="1997"/>
@@ -1672,7 +1672,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Richiami II, 1&ordm; studio sulla memoria</name>
+			<name>Richiami II, 1º studio sulla memoria</name>
 			<description>for amplified ensemble</description>
 			<length>15:42</length>
 			<player name="Asko Ensemble"/>
@@ -1683,7 +1683,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Riti Neutrali, 3&ordm; studio sulla memoria</name>
+			<name>Riti Neutrali, 3º studio sulla memoria</name>
 			<description>for violin and 8 instruments</description>
 			<length>15:35</length>
 			<instrument name="Violin">
@@ -1710,7 +1710,7 @@
 	<composer name="Beat" surname="Furrer" born="1954" died="">
 		<composition>
 			<name>Fama</name>
-			<description>Hörtheater für großes Ensemble, acht Stimmen, Schauspielerin und Klanggeb&auml;ude</description>
+			<description>Hörtheater für großes Ensemble, acht Stimmen, Schauspielerin und Klanggebäude</description>
 			<length>1:06:35</length>
 			<instrument name="Kontrabassflöte">
 				<player name="Eva Furrer"/>
