@@ -1,7 +1,11 @@
 # coding: utf-8
 
-def selectChildren(node, name):
-	children = [child for child in node.childNodes if child.nodeName == name]
+def selectChildren(node, names):
+	children = []
+	if isinstance(names, (str, unicode)):
+		children = [child for child in node.childNodes if child.nodeName == names]
+	elif isinstance(names, list):
+		children = [child for child in node.childNodes if child.nodeName in names]
 	return children
 
 def selectSingleChild(node, name):
@@ -14,7 +18,11 @@ def selectSingleChildValue(node, name):
 	child = selectSingleChild(node, name)
 	value = getTextValue(child)
 	return value
-	
+
+def readValue(node, name):
+	value = selectSingleChildValue(node, name)
+	return value
+
 def getTextValue(node):
 	if node:
 		textNode = node.firstChild
@@ -22,8 +30,10 @@ def getTextValue(node):
 	return None
 
 def getAttributeValue(node, name):
-	attribute = node.attributes[name]
-	v = attribute.value
+	v = None
+	if node.hasAttribute(name):
+		attribute = node.attributes[name]
+		v = attribute.value
 	return v
 
 def debugNodes(nodes):

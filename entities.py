@@ -2,7 +2,7 @@ class Player(object):
 	def __init__(self, name=""):
 		self.name = name
 	def display(self, indent=""):
-		return indent + "Player name = " + self.name
+		return indent + "Player name = %s" % self.name
 			
 class Instrument(object):
 	def __init__(self, name="", players=None):
@@ -11,24 +11,30 @@ class Instrument(object):
 			players = []
 		self.players = players
 	def display(self, indent=""):
-		output = indent + "Instrument name = " + self.name
+		output = indent + "Instrument name = %s" % self.name
 		for player in self.players:
 			output += "\n" + indent + player.display("  ")
 		return output
+
+class Conductor(object):
+	def __init__(self, name=""):
+		self.name = name
+	def display(self, indent=""):
+		return indent + "Conductor name = %s" % self.name
 
 class ComposedPeriod(object):
 	def __init__(self, start="", end=""):
 		self.start = start
 		self.end = end
 	def display(self, indent=""):
-		return indent + "Composed start = " + self.start + ", end = " + self.end
+		return indent + "Composed start = %s, end = %s" % (self.start, self.end)
 		
 class RecordedPeriod(object):
 	def __init__(self, start="", end=""):
 		self.start = start
 		self.end = end
 	def display(self, indent=""):
-		return indent + "Recorded start = " + self.start + ", end = " + self.end
+		return indent + "Recorded start = %s, end = %s" % (self.start, self.end)
 
 class Part(object):
 	def __init__(self, number="", name="", length="", description="", composed=None, recorded=None):
@@ -39,12 +45,12 @@ class Part(object):
 		self.composed = composed
 		self.recorded = recorded
 	def display(self, indent=""):
-		output = indent + "Part number = " + self.number
-		output += "\n" + indent + "  name = " + self.name
-		output += "\n" + indent + "  description = " + self.description
-		output += "\n" + indent + "  length = " + self.length
-		output += "\n" + indent + "  composed = " + self.composed.display()
-		output += "\n" + indent + "  recorded = " + self.recorded.display()
+		output = indent + "Part number = %s" % self.number
+		output += "\n" + indent + "  name = %s" % self.name
+		output += "\n" + indent + "  description = %s" % self.description
+		output += "\n" + indent + "  length = %s" % self.length
+		output += "\n" + indent + "  composed = %s" % self.composed.display()
+		output += "\n" + indent + "  recorded = %s" % self.recorded.display()
 		return output
 				
 class Composition(object):
@@ -53,30 +59,24 @@ class Composition(object):
 		self.descriptions = []
 		self.length = ""
 		self.parts = []
-		self.instruments = []
-		self.players = []
-		self.conductors = []
+		self.participants = []
 		self.composed = ComposedPeriod()
 		self.recorded = RecordedPeriod()
 		self.release = ""
 		self.released = ""
 	def display(self, indent=""):
-		output = indent + "Composition name = " + self.name
+		output = indent + "Composition name = %s" % self.name
 		for description in self.descriptions:
-			output += "\n" + indent + "  description = " + description
-		output += "\n" + indent + "  length = " + self.length
+			output += "\n" + indent + "  description = %s" % description
+		output += "\n" + indent + "  length = %s" % self.length
 		for part in self.parts:
 			output += "\n" + indent + part.display("  ")
-		for instrument in self.instruments:
-			output += "\n" + indent + instrument.display("  ")
-		for player in self.players:
-			output += "\n" + indent + player.display("  ")
-		for conductor in self.conductors:
-			output += "\n" + indent + "  conductor = " + conductor
+		for participant in self.participants:
+			output += "\n" + indent + participant.display("  ")
 		output += "\n" + indent + self.composed.display("  ")
 		output += "\n" + indent + self.recorded.display("  ")
-		output += "\n" + indent + "  release = " + self.release
-		output += "\n" + indent + "  released = " + self.released
+		output += "\n" + indent + "  release = %s" % self.release
+		output += "\n" + indent + "  released = %s" % self.released
 		return output
 
 class Composer(object):
@@ -87,8 +87,7 @@ class Composer(object):
 		self.died = died
 		self.compositions = []
 	def display(self, indent=""):
-		output = indent + "Composer name = " + self.name + ", surname = " + self.surname
-		output += ", born = " + self.born + ", died = " + self.died
+		output = indent + "Composer name = %s, surname = %s, born = %s, died = %s" % (self.name, self.surname, self.born, self.died)
 		for composition in self.compositions:
 			output += "\n" + indent + composition.display("  ")
 		return output

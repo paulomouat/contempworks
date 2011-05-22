@@ -35,24 +35,91 @@ def readComposer(node):
 	composer.surname = surname
 	composer.born = born
 	composer.died = died
-	readCompositions(node, composer)
+	composer.compositions = readCompositions(node)
 	print composer.display()
 	
-def readCompositions(node, composer):
+def readCompositions(node):
 	compositions = selectChildren(node, "composition")
+	results = []
 	for composition in compositions:
-		readComposition(composition, composer)
+		c = readComposition(composition)
+		results.append(c)
+	return results
 		
-def readComposition(node, composer):
+def readComposition(node):
 	composition = Composition()
-	name = selectSingleChildValue(node, "name")
-	composition.name = name
+	composition.name = readValue(node, "name")
+	composition.descriptions = readDescriptions(node)
+	composition.length = readValue(node, "length")
+	composition.participants = readParticipants(node)
+	composition.composed = readComposed(node)
+	composition.recorded = readRecorded(node)
+	composition.release = readValue(node, "release")
+	composition.released = readValue(node, "released")
+	return composition
+
+def readDescriptions(node):
 	descriptions = selectChildren(node, "description")
+	results = []
 	if descriptions:
 		for description in descriptions:
 			text = getTextValue(description)
-			composition.descriptions.append(text)
-	composer.compositions.append(composition)
+			results.append(text)	
+	return results
+
+def readParticipants(node):
+	participantNodes = selectChildren(node, ["instrument", "player", "conductor"])
+	results = []
+	if participantNodes:
+		for participantNode in participantNodes:
+			participant = None
+			if participantNode.nodeName == "instrument":
+				participant = readInstrument(participantNode)
+			elif participantNode.nodeName == "player":
+				participant = readPlayer(participantNode)
+			elif participantNode.nodeName == "conductor":
+				participant = readConductor(participantNode)
+			if participant:
+				results.append(participant)
+	return results
+
+def readInstrument(node):
+	instrument = Instrument()
+	instrument.name = getAttributeValue(node, "name")
+	instrument.players = readPlayers(node)
+	return instrument
+
+def readPlayers(node):
+	playerNodes = selectChildren(node, "player")
+	results = []
+	if playerNodes:
+		for playerNode in playerNodes:
+			results.append(readPlayer(playerNode))
+	return results
+
+def readPlayer(node):
+	player = Player()
+	player.name = getAttributeValue(node, "name")
+	return player
+
+def readConductor(node):
+	conductor = Conductor()
+	conductor.name = getTextValue(node)
+	return conductor
+
+def readComposed(node):
+	composed = selectSingleChild(node, "composed")
+	period = ComposedPeriod()
+	period.start = getAttributeValue(composed, "start")
+	period.end = getAttributeValue(composed, "end")
+	return period
+	
+def readRecorded(node):
+	recorded = selectSingleChild(node, "recorded")
+	period = RecordedPeriod()
+	period.start = getAttributeValue(recorded, "start")
+	period.end = getAttributeValue(recorded, "end")
+	return period
 
 files = filesToProcess()
 for f in files:
