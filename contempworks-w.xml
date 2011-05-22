@@ -1561,7 +1561,7 @@
 			<released>1991</released>
 		</composition>
 	</composer>
-	<composer name="Jörg" surname="Widmann" born="1973">
+	<composer name="Jörg" surname="Widmann" born="1973" died="">
 		<composition>
 			<name>1. Streichquartett</name>
 			<length>13:05</length>
