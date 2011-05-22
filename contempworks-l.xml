@@ -52,7 +52,7 @@
 			<description>for clarinet, viola and percussion</description>
 			<length>19:04</length>
 			<instrument name="Clarinet">
-				<player name="Uwe M&ouml;ckel"/>
+				<player name="Uwe Möckel"/>
 			</instrument>
 			<instrument name="Viola">
 				<player name="Barbara Maurer"/>
@@ -86,7 +86,7 @@
 			<length>32:20</length>
 			<player name="Schola Heidelberg"/>
 			<conductor>Walter Nu&szlig;baum</conductor>
-			<player name="WDR Sinfonieorchester K&ouml;ln"/>
+			<player name="WDR Sinfonieorchester Köln"/>
 			<conductor>Johannes Kalitzke</conductor>
 			<composed start="1967" end="1978"/>
 			<recorded start="2005"/>
@@ -153,7 +153,7 @@
 			<description>for a solo clarinettist</description>
 			<length>14:12</length>
 			<instrument name="Clarinet">
-				<player name="Uwe M&ouml;ckel"/>
+				<player name="Uwe Möckel"/>
 			</instrument>
 			<player name="Ensemble Recherche"/>
 			<composed start="1970"/>
@@ -279,8 +279,8 @@
 			<instrument name="Piano">
 				<player name="Massimiliano Damerini"/>
 			</instrument>
-			<player name="K&ouml;lner Rundfunk Sinfonieorchester (WDR)"/>
-			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<player name="Kölner Rundfunk Sinfonieorchester (WDR)"/>
+			<conductor>Peter Eötvös</conductor>
 			<composed start="1984" end="1985"/>
 			<recorded start="1986"/>
 			<release>Col Legno WWE 1CD 31862</release>
@@ -330,7 +330,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Das M&auml;dchen mit den Schwefelh&ouml;lzern</name>
+			<name>Das M&auml;dchen mit den Schwefelhölzern</name>
 			<description>Musik mit Bildern</description>
 			<length>2:00:52</length>
 			<player name="Staatsopernchor Stuttgart"/>
@@ -375,16 +375,16 @@
 		</composition>
 		<composition>
 			<name>NUN</name>
-			<description>für Fl&ouml;te, Posaune, Orchester mit M&auml;nnerstimmen</description>
+			<description>für Flöte, Posaune, Orchester mit M&auml;nnerstimmen</description>
 			<length>39:14</length>
-			<instrument name="Fl&ouml;te">
+			<instrument name="Flöte">
 				<player name="Gaby Pas-Van Riet"/>
 			</instrument>
 			<instrument name="Posaune">
 				<player name="Michael Svoboda"/>
 			</instrument>
 			<player name="Neue Vocalsolisten Stuttgart"/>
-			<player name="WDR Sinfonieorchester K&ouml;n"/>
+			<player name="WDR Sinfonieorchester Kön"/>
 			<conductor>Jonathan Nott</conductor>
 			<composed start="1997" end="1999"/>
 			<recorded start="1999"/>
@@ -511,7 +511,7 @@
 				<player name="Franz von Klenck"/>
 			</instrument>
 			<instrument name="">
-				<player name="Heinz Hermannsd&ouml;rfer"/>
+				<player name="Heinz Hermannsdörfer"/>
 				<player name="Posaune"/>
 				<player name="Hans Wilfert"/>
 				<player name="Trompete"/>
@@ -527,7 +527,7 @@
 			<released>1996</released>
 		</composition>
 	</composer>
-	<composer name="Gy&ouml;rgy" surname="Ligeti" born="1923" died="2006">
+	<composer name="György" surname="Ligeti" born="1923" died="2006">
 		<composition>
 			<name>Five Pieces for Piano Four-Hands</name>
 			<length>11:44</length>
@@ -680,7 +680,7 @@
 			<description>Old hungarian ballroom dances, for flute, clarinet and strings</description>
 			<length>10:26</length>
 			<player name="Asko Ensemble"/>
-			<player name="Sch&ouml;nberg Ensemble"/>
+			<player name="Schönberg Ensemble"/>
 			<conductor>Reinbert de Leeuw</conductor>
 			<composed start="1950"/>
 			<recorded start="2002"/>
@@ -717,7 +717,7 @@
 			<description>Ballad and dance after romanian folksongs, for school orchestra</description>
 			<length>3:08</length>
 			<player name="Asko Ensemble"/>
-			<player name="Sch&ouml;nberg Ensemble"/>
+			<player name="Schönberg Ensemble"/>
 			<conductor>Reinbert de Leeuw</conductor>
 			<composed start="1950"/>
 			<recorded start="2001"/>
@@ -957,7 +957,7 @@
 			<name>Glissandi</name>
 			<description>elektronische Komposition</description>
 			<length>7:43</length>
-			<player name="Elektronisches Studio des WDR, K&ouml;ln"/>
+			<player name="Elektronisches Studio des WDR, Köln"/>
 			<composed start="1957"/>
 			<recorded start="1957"/>
 			<release>Wergo WER 60161-50</release>
@@ -967,7 +967,7 @@
 			<name>Glissandi</name>
 			<length>7:30</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1957"/>
 			<recorded start="1957"/>
@@ -978,7 +978,7 @@
 			<name>Artikulation</name>
 			<description>elektronische Komposition</description>
 			<length>3:55</length>
-			<player name="Elektronisches Studio des WDR, K&ouml;ln"/>
+			<player name="Elektronisches Studio des WDR, Köln"/>
 			<composed start="1958"/>
 			<recorded start="1958"/>
 			<release>Wergo WER 60161-50</release>
@@ -988,7 +988,7 @@
 			<name>Artikulation</name>
 			<length>3:45</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1958"/>
 			<recorded start="1958"/>
@@ -1000,7 +1000,7 @@
 			<description>for tape</description>
 			<description>2-channel mixdown of the original 4-channel tape</description>
 			<length>3:49</length>
-			<player name="WDR, K&ouml;ln"/>
+			<player name="WDR, Köln"/>
 			<composed start="1958"/>
 			<recorded start="1958" end="2003"/>
 			<release>Teldec 8573-88262-2</release>
@@ -1138,7 +1138,7 @@
 			<instrument name="baritone">
 				<player name="Omar Ebrahim"/>
 			</instrument>
-			<player name="Sch&ouml;nberg Ensemble"/>
+			<player name="Schönberg Ensemble"/>
 			<conductor>Reinbert de Leeuw</conductor>
 			<composed start="1962"/>
 			<recorded start="2002"/>
@@ -1178,7 +1178,7 @@
 			<instrument name="baritone">
 				<player name="Omar Ebrahim"/>
 			</instrument>
-			<player name="Sch&ouml;nberg Ensemble"/>
+			<player name="Schönberg Ensemble"/>
 			<conductor>Reinbert de Leeuw</conductor>
 			<composed start="1962" end="1965"/>
 			<recorded start="2002"/>
@@ -1187,7 +1187,7 @@
 		</composition>
 		<composition>
 			<name>Requiem</name>
-			<description>für Sopran, Mezzosopran, zwei gemischte Ch&ouml;re und Orchester</description>
+			<description>für Sopran, Mezzosopran, zwei gemischte Chöre und Orchester</description>
 			<length>26:55</length>
 			<instrument name="Sopran">
 				<player name="Liliana Poli"/>
@@ -1514,7 +1514,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Magyar Etüd&ouml;k</name>
+			<name>Magyar Etüdök</name>
 			<description>für Stimmen a cappella</description>
 			<length>5:45</length>
 			<player name="Schola Cantorum Stuttgart"/>
@@ -1766,7 +1766,7 @@
 			<length>26:40</length>
 			<player name="Ensemble InterContemporain"/>
 			<player name="Technique IRCAM"/>
-			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<conductor>Peter Eötvös</conductor>
 			<composed start="1989" end="1990"/>
 			<recorded start="1991"/>
 			<release>Ad&egrave;s/IRCAM 203 582</release>
@@ -1799,7 +1799,7 @@
 			<description>pour clarinette, violoncelle et ensemble</description>
 			<length>9:56</length>
 			<player name="Ensemble InterContemporain"/>
-			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<conductor>Peter Eötvös</conductor>
 			<composed start="1990" end="1992"/>
 			<recorded start="1993"/>
 			<release>Ad&egrave;s/IRCAM 203 582</release>
@@ -1810,7 +1810,7 @@
 			<description>pour ensemble</description>
 			<length>11:46</length>
 			<player name="Ensemble InterContemporain"/>
-			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<conductor>Peter Eötvös</conductor>
 			<composed start="1991" end="1992"/>
 			<recorded start="1993"/>
 			<release>Ad&egrave;s/IRCAM 203 582</release>

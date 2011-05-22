@@ -160,7 +160,7 @@
 	<composer name="Luigi" surname="Nono" born="1924" died="1990">
 		<composition score="Y">
 			<name>Variazioni canoniche</name>
-			<description>sur la série de l'opus 41 de Sch&ouml;nberg</description>
+			<description>sur la série de l'opus 41 de Schönberg</description>
 			<description>pour orchestre de chambre</description>
 			<length>20:07</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
@@ -342,7 +342,7 @@
 			<name>Da un diario italiano</name>
 			<description>per due cori</description>
 			<length>7:37</length>
-			<player name="WDR Rundfunkchor K&ouml;ln"/>
+			<player name="WDR Rundfunkchor Köln"/>
 			<conductor>Christoph Adt</conductor>
 			<player name="SWR Vokalensemble Stuttgart"/>
 			<conductor>Rupert Huber</conductor>
@@ -542,7 +542,7 @@
 			<description>für sechs Schlagzeuger, vier Pickups, drei Ringmodulatoren und drei Frequenzgeneratoren</description>
 			<length>19:11</length>
 			<instrument name="Schlagzeug">
-				<player name="Bj&ouml;rn Wilker"/>
+				<player name="Björn Wilker"/>
 				<player name="Robyn Schulkowsky"/>
 				<player name="Lukas Schiske"/>
 				<player name="Charly Fischer"/>
@@ -550,7 +550,7 @@
 				<player name="Niklas Brommare"/>
 			</instrument>
 			<instrument name="Klangsteuerung">
-				<player name="Peter B&ouml;hm"/>
+				<player name="Peter Böhm"/>
 			</instrument>
 			<instrument name="Einstudierung">
 				<player name="Robyn Schulkowsky"/>
@@ -572,17 +572,17 @@
 		</composition>
 		<composition>
 			<name>Das atmende Klarsein</name>
-			<description>für kleinen Chor, Ba&szlig;fl&ouml;te, Live-Elektronik und Tonband</description>
+			<description>für kleinen Chor, Ba&szlig;flöte, Live-Elektronik und Tonband</description>
 			<length>44:40</length>
 			<player name="Mitglieder des Südfunk-Chors Stuttgart"/>
 			<instrument name="Einstudierung">
 				<player name="Rupert Huber"/>
 			</instrument>
-			<instrument name="Ba&szlig;fl&ouml;te">
+			<instrument name="Ba&szlig;flöte">
 				<player name="Eva Furrer"/>
 			</instrument>
 			<instrument name="Klangsteuerung">
-				<player name="Peter B&ouml;hm"/>
+				<player name="Peter Böhm"/>
 			</instrument>
 			<conductor>Beat Furrer</conductor>
 			<composed start="1980" end="1981"/>
@@ -613,11 +613,11 @@
 			<name>Das atmende Klarsein</name>
 			<description>per piccolo coro, fiauto basso, live-electronic</description>
 			<length>36:35</length>
-			<instrument name="Bassfl&ouml;te">
+			<instrument name="Bassflöte">
 				<player name="Eva Furrer"/>
 			</instrument>
 			<instrument name="Live-Electronik">
-				<player name="Peter B&ouml;hm"/>
+				<player name="Peter Böhm"/>
 			</instrument>
 			<player name="SWR Vokalensemble Stuttgart"/>
 			<conductor>Rupert Huber</conductor>
@@ -688,7 +688,7 @@
 		</composition>
 		<composition>
 			<name>Quando stanno morendo, Diario Polacco No. 2</name>
-			<description>für 4 Frauenstimmen, Ba&szlig;fl&ouml;te, Violoncello und Live-Elektronik</description>
+			<description>für 4 Frauenstimmen, Ba&szlig;flöte, Violoncello und Live-Elektronik</description>
 			<length>35:34</length>
 			<instrument name="Sopran">
 				<player name="Monika Bair-Ivenz"/>
@@ -698,7 +698,7 @@
 			<instrument name="Alt">
 				<player name="Susanne Otto"/>
 			</instrument>
-			<instrument name="Ba&szlig;fl&ouml;te">
+			<instrument name="Ba&szlig;flöte">
 				<player name="Martin Fahlenbock"/>
 			</instrument>
 			<instrument name="Violoncello">
@@ -801,7 +801,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>Omaggio a Gy&ouml;rgy Kurtág</name>
+			<name>Omaggio a György Kurtág</name>
 			<description>for contralto, flute, clarinet, tuba and live electronics</description>
 			<length>17:20</length>
 			<player name="Ensemble Recherche"/>
@@ -842,9 +842,9 @@
 			<player name="Experimentalstudio für akustische Kunst e.V."/>
 			<player name="Solistenchor Freiburg"/>
 			<conductor>André Richard</conductor>
-			<player name="WDR Rundfunkchor K&ouml;ln"/>
-			<conductor>J&ouml;rg Ritter</conductor>
-			<player name="WDR Sinfonieorchester K&ouml;ln"/>
+			<player name="WDR Rundfunkchor Köln"/>
+			<conductor>Jörg Ritter</conductor>
+			<player name="WDR Sinfonieorchester Köln"/>
 			<conductor>Emilio Pomárico</conductor>
 			<composed start="1986" end="1987"/>
 			<recorded start="2004"/>
@@ -866,7 +866,7 @@
 			<name>No hay caminos, hay que caminar... Andrej Tarkowskij</name>
 			<description>for seven orchestral groups</description>
 			<length>24:21</length>
-			<player name="WDR Sinfonieorchester K&ouml;ln"/>
+			<player name="WDR Sinfonieorchester Köln"/>
 			<conductor>Emilio Pomárico</conductor>
 			<composed start="1987"/>
 			<recorded start="2004"/>
@@ -928,7 +928,7 @@
 			<instrument name="Klangregie">
 				<player name="Salvatore Sciarrino"/>
 			</instrument>
-			<player name="WDR, K&ouml;ln"/>
+			<player name="WDR, Köln"/>
 			<composed start="1988"/>
 			<recorded start="1991"/>
 			<release>Kairos 0012102KAI</release>

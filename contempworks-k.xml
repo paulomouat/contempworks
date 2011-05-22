@@ -21,7 +21,7 @@
 		</composition>
 		<composition>
 			<name>Antithese</name>
-			<description>Komposition für elektronische und &ouml;ffentliche Kl&auml;nge</description>
+			<description>Komposition für elektronische und öffentliche Kl&auml;nge</description>
 			<length>9:24</length>
 			<instrument name="Realisation">
 				<player name="Siemens Studio für elektronische Musik"/>
@@ -249,7 +249,7 @@
 			<name>Interferenzen</name>
 			<length>4:38</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1955"/>
 			<recorded start="1955"/>
@@ -262,7 +262,7 @@
 			<name>Klangfiguren I</name>
 			<length>4:00</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1955"/>
 			<recorded start="1955"/>
@@ -273,7 +273,7 @@
 			<name>Klangfiguren II</name>
 			<length>10:30</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1955" end="1956"/>
 			<recorded start="1956"/>
@@ -302,7 +302,7 @@
 		<composition>
 			<name>Essay</name>
 			<length>8:00</length>
-			<player name="WDR, K&ouml;ln"/>
+			<player name="WDR, Köln"/>
 			<composed start="1957" end="1958"/>
 			<recorded start="1958"/>
 			<release>BVHaast CD 9001/2</release>
@@ -321,7 +321,7 @@
 			<name>Suite</name>
 			<description>Materialien zu einem Ballett</description>
 			<length>20:48</length>
-			<player name="WDR, K&ouml;ln"/>
+			<player name="WDR, Köln"/>
 			<composed start="1961"/>
 			<recorded start="1961"/>
 			<release>RZ 2003-4</release>
@@ -330,7 +330,7 @@
 		<composition>
 			<name>Terminus I</name>
 			<length>14:35</length>
-			<player name="WDR, K&ouml;ln"/>
+			<player name="WDR, Köln"/>
 			<composed start="1962"/>
 			<recorded start="1962"/>
 			<release>BVHaast CD 9001/2</release>
@@ -460,7 +460,7 @@
 	</composer>
 	<composer name="Ferdinand" surname="Kriwet" born="1942" died="">
 		<composition>
-			<name>JAJA - H&ouml;rtext 2</name>
+			<name>JAJA - Hörtext 2</name>
 			<description>Stimmen, elektronische ver&auml;nderte Stimmen (Zwei Ausschnitte)</description>
 			<length>4:47</length>
 			<part>
@@ -480,7 +480,7 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="Gy&ouml;rgy" surname="Kurtág" born="1926" died="">
+	<composer name="György" surname="Kurtág" born="1926" died="">
 		<composition>
 			<name>Praeludium und Choral</name>
 			<description>für Klavier</description>
@@ -498,7 +498,7 @@
 			<description>für Klavier, auch vierh&auml;ndig und für zwei Klaviere</description>
 			<length>10:17</length>
 			<instrument name="Klavier">
-				<player name="Márta und Gy&ouml;rgy Kurtág"/>
+				<player name="Márta und György Kurtág"/>
 			</instrument>
 			<composed start="1973"/>
 			<recorded start="1993"/>
@@ -622,7 +622,7 @@
 				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<player name="Budapester Festival Orchester"/>
-			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<conductor>Peter Eötvös</conductor>
 			<composed start="1987" end="1988"/>
 			<recorded start="1993"/>
 			<release>Col Legno WWE 31870</release>
@@ -651,7 +651,7 @@
 				<player name="Jürgen Ruck"/>
 			</instrument>
 			<player name="Budapester Festival Orchester"/>
-			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<conductor>Peter Eötvös</conductor>
 			<composed start="1989"/>
 			<recorded start="1993"/>
 			<release>Col Legno WWE 31870</release>
@@ -688,7 +688,7 @@
 				<player name="Mikl&oacute;s Perényi"/>
 			</instrument>
 			<player name="Budapester Festival Orchester"/>
-			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<conductor>Peter Eötvös</conductor>
 			<composed start="1989" end="1990"/>
 			<recorded start="1993"/>
 			<release>Col Legno WWE 31870</release>
@@ -703,7 +703,7 @@
 			</instrument>
 			<player name="Solisten des Tomkins Vokalensemble"/>
 			<player name="Budapester Festival Orchester"/>
-			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<conductor>Peter Eötvös</conductor>
 			<composed start="1990" end="1991"/>
 			<recorded start="1993"/>
 			<release>Col Legno WWE 31870</release>

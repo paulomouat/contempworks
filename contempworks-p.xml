@@ -1050,7 +1050,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Paul" surname="P&ouml;rtner" born="1925" died="1984">
+	<composer name="Paul" surname="Pörtner" born="1925" died="1984">
 		<composition>
 			<name>Schallspielstudie 2</name>
 			<description>Stimmen, elektronische ver&auml;nderte Stimmen (Vier Ausschnitte)</description>
@@ -1125,7 +1125,7 @@
 			<name>Seismogramme I-II</name>
 			<length>6:18</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1955"/>
 			<recorded start="1955"/>
@@ -1206,7 +1206,7 @@
 			<released>?</released>
 		</composition>
 	</composer>
-	<composer name="Bernfried" surname="Pr&ouml;ve" born="1963" died="">
+	<composer name="Bernfried" surname="Pröve" born="1963" died="">
 		<composition>
 			<name>Fernung - Horizont - N&auml;he</name>
 			<description>für gro&szlig;es Orchester</description>

@@ -424,7 +424,7 @@
 			<name>Compositie Nr. 5</name>
 			<description>met zuivere tonen</description>
 			<length>2:40</length>
-			<player name="WDR, K&ouml;ln"/>
+			<player name="WDR, Köln"/>
 			<composed start="1953"/>
 			<recorded start="1953"/>
 			<release>Megadisc MDC 7845</release>
@@ -434,7 +434,7 @@
 			<name>Komposition Nr. 5</name>
 			<length>2:32</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1953"/>
 			<recorded start="1953"/>
@@ -456,7 +456,7 @@
 			<name>Komposition Nr. 7</name>
 			<length>1:29</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1955"/>
 			<recorded start="1955"/>
@@ -467,7 +467,7 @@
 			<name>Compositie Nr. 7</name>
 			<description>met convergerende en divergerende niveaus</description>
 			<length>1:29</length>
-			<player name="WDR, K&ouml;ln"/>
+			<player name="WDR, Köln"/>
 			<composed start="1955"/>
 			<recorded start="1955"/>
 			<release>Megadisc MDC 7845</release>
@@ -555,7 +555,7 @@
 			<name>Formanten I-II</name>
 			<length>4:32</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1954"/>
 			<recorded start="1954"/>
@@ -785,7 +785,7 @@
 				<player name="Paulo Alvares"/>
 				<player name="Benjamin Kobler"/>
 			</instrument>
-			<player name="WDR Sinfonieorchester K&ouml;ln"/>
+			<player name="WDR Sinfonieorchester Köln"/>
 			<conductor>Emilio Pomárico</conductor>
 			<composed start="1988" end="1989"/>
 			<recorded start="2007"/>

@@ -267,9 +267,9 @@
 		</composition>
 		<composition>
 			<name>Sacateca's Dance</name>
-			<description>für Fl&ouml;te, Tonband, Radio Baton und Computer</description>
+			<description>für Flöte, Tonband, Radio Baton und Computer</description>
 			<length>10:16</length>
-			<instrument name="Fl&ouml;te">
+			<instrument name="Flöte">
 				<player name="Bettina Geiger"/>
 			</instrument>
 			<instrument name="NeXT Computer">
@@ -294,9 +294,9 @@
 		</composition>
 		<composition>
 			<name>El Oro</name>
-			<description>für Fl&ouml;te, Violoncello, Sprecher und Tonband</description>
+			<description>für Flöte, Violoncello, Sprecher und Tonband</description>
 			<length>14:49</length>
-			<instrument name="Fl&ouml;te">
+			<instrument name="Flöte">
 				<player name="Bettina Geiger"/>
 			</instrument>
 			<instrument name="Violoncello">

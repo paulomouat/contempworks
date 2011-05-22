@@ -56,7 +56,7 @@
 			<name>Imaginary Landscape No. 3</name>
 			<description>(with Mauricio Kagel)</description>
 			<description>Sechs Schlagzeuger, elektronische Kl&auml;nge</description>
-			<player name="K&ouml;lner Ensemble für Neue Musik"/>
+			<player name="Kölner Ensemble für Neue Musik"/>
 			<conductor>Mauricio Kagel</conductor>
 			<instrument name="Realisation">
 				<player name="Siemens Studio für elektronische Musik"/>
@@ -1115,7 +1115,7 @@
 			<length>30:55</length>
 			<instrument name="Speakers">
 				<player name="John Cage"/>
-				<player name="Klaus Sch&ouml;ning"/>
+				<player name="Klaus Schöning"/>
 			</instrument>
 			<composed start="1979"/>
 			<recorded start="1979"/>
@@ -1439,7 +1439,7 @@
 			<instrument name="Sho">
 				<player name="Mayumi Miyata"/>
 			</instrument>
-			<player name="WDR Sinfonie Orchester K&ouml;ln"/>
+			<player name="WDR Sinfonie Orchester Köln"/>
 			<composed start="1991"/>
 			<recorded start="2000"/>
 			<release>Mode 108</release>
@@ -1449,7 +1449,7 @@
 			<name>103</name>
 			<description>for orchestra</description>
 			<length>1:30:00</length>
-			<player name="WDR Sinfonieorchester K&ouml;ln"/>
+			<player name="WDR Sinfonieorchester Köln"/>
 			<conductor>Arturo Tamayo</conductor>
 			<composed start="1991"/>
 			<recorded start="1992"/>
@@ -2434,7 +2434,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Acht S&auml;tze nach H&ouml;lderlin-Fragmenten</name>
+			<name>Acht S&auml;tze nach Hölderlin-Fragmenten</name>
 			<description>für Streichsextett</description>
 			<length>21:26</length>
 			<player name="Arditti String Quartet"/>
@@ -2446,7 +2446,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Eight Movements after H&ouml;lderlin Fragments</name>
+			<name>Eight Movements after Hölderlin Fragments</name>
 			<description>for string sextet</description>
 			<length>24:57</length>
 			<player name="Arditti String Quartet"/>
@@ -2464,7 +2464,7 @@
 	</composer>
 	<composer name="Nicola" surname="Cisternino" born="1957" died="">
 		<composition>
-			<name>X&ouml;&ouml;mij</name>
+			<name>Xöömij</name>
 			<description>for bass voice and UPIC</description>
 			<length>11:57</length>
 			<instrument name="Bass">

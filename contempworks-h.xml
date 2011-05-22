@@ -48,7 +48,7 @@
 				<player name="Franz von Klenck"/>
 			</instrument>
 			<instrument name="Trompete">
-				<player name="Heinz Hermannsd&ouml;rfer"/>
+				<player name="Heinz Hermannsdörfer"/>
 				<player name="Posaune"/>
 				<player name="Hans Wilfert"/>
 			</instrument>
@@ -205,7 +205,7 @@
 			<name>Doppelrohr II</name>
 			<length>3:55</length>
 			<instrument name="Elektronische Realisation">
-				<player name="WDR, K&ouml;ln"/>
+				<player name="WDR, Köln"/>
 			</instrument>
 			<composed start="1956"/>
 			<recorded start="1956"/>
@@ -812,7 +812,7 @@
 			<released>2003</released>
 		</composition>
 	</composer>
-	<composer name="J&ouml;rg" surname="Herchet" born="1943" died="">
+	<composer name="Jörg" surname="Herchet" born="1943" died="">
 		<composition>
 			<name>Komposition für Posaune, Bariton und Orchester</name>
 			<length>29:29</length>
@@ -900,13 +900,13 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="York" surname="H&ouml;ller" born="1944" died="">
+	<composer name="York" surname="Höller" born="1944" died="">
 		<composition>
 			<name>Antiphon</name>
 			<description>für Streichquartett auf Tonband</description>
 			<length>17:29</length>
 			<player name="Saarbrücker Streichquartett"/>
-			<player name="Elektronisches Studio der Staatlichen Hochschule für Musik K&ouml;ln"/>
+			<player name="Elektronisches Studio der Staatlichen Hochschule für Musik Köln"/>
 			<composed start="1976"/>
 			<recorded start="1981"/>
 			<release>Wergo WER 6515-2</release>
@@ -917,7 +917,7 @@
 			<description>Klanggedicht für 13 Instrumente, Schlagzeug und elektronische Kl&auml;nge</description>
 			<length>22:57</length>
 			<player name="Mitglieder des Rundfunk-Sinfonieorchesters des Südwestfunks"/>
-			<instrument name="K&ouml;ln">
+			<instrument name="Köln">
 				<player name="Studio für Elektronische Musik des WDR"/>
 			</instrument>
 			<conductor>Johannes Kalitzke</conductor>
@@ -949,7 +949,7 @@
 			<description>für 17 Instrumentalisten</description>
 			<length>3:40</length>
 			<player name="Ensemble InterContemporain"/>
-			<conductor>Peter E&ouml;tv&ouml;s</conductor>
+			<conductor>Peter Eötvös</conductor>
 			<composed start="1984" end="1985"/>
 			<recorded start="1985"/>
 			<release>Wergo WER 6515-2</release>
@@ -970,7 +970,7 @@
 		</composition>
 		<composition>
 			<name>Scardanelli-Zyklus</name>
-			<description>auf texte von Friedrich H&ouml;lderlin</description>
+			<description>auf texte von Friedrich Hölderlin</description>
 			<length>2:12:25</length>
 			<part>
 				<number>1</number>
@@ -987,16 +987,16 @@
 			<part>
 				<number>3</number>
 				<name>(T)air(e)</name>
-				<description>für Fl&ouml;te solo</description>
+				<description>für Flöte solo</description>
 				<composed start="1978" end="1983"/>
 			</part>
 			<part>
 				<number>4</number>
 				<name>Turm-Musik</name>
-				<description>für Fl&ouml;te solo, kleines Orchester und Tonband</description>
+				<description>für Flöte solo, kleines Orchester und Tonband</description>
 				<composed start="1984"/>
 			</part>
-			<instrument name="Fl&ouml;te">
+			<instrument name="Flöte">
 				<player name="Aur&egrave;le Nicolet"/>
 			</instrument>
 			<player name="Schola Cantorum Stuttgart"/>

@@ -1710,9 +1710,9 @@
 	<composer name="Beat" surname="Furrer" born="1954" died="">
 		<composition>
 			<name>Fama</name>
-			<description>H&ouml;rtheater für gro&szlig;es Ensemble, acht Stimmen, Schauspielerin und Klanggeb&auml;ude</description>
+			<description>Hörtheater für gro&szlig;es Ensemble, acht Stimmen, Schauspielerin und Klanggeb&auml;ude</description>
 			<length>1:06:35</length>
-			<instrument name="Kontrabassfl&ouml;te">
+			<instrument name="Kontrabassflöte">
 				<player name="Eva Furrer"/>
 			</instrument>
 			<instrument name="Bassklarinette">

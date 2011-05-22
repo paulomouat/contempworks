@@ -31,12 +31,12 @@
 	<composer name="Hans" surname="Zender" born="1936" died="">
 		<composition>
 			<name>Muji no Kyo</name>
-			<description>nach einem mittelalterlichen japanischen Gedicht für Stimme, Fl&ouml;te, Violoncello, Klavier mit elektronischer Orgel und Tutti-Instrumente</description>
+			<description>nach einem mittelalterlichen japanischen Gedicht für Stimme, Flöte, Violoncello, Klavier mit elektronischer Orgel und Tutti-Instrumente</description>
 			<length>18:13</length>
 			<instrument name="Bariton">
 				<player name="Roland Hermann"/>
 			</instrument>
-			<instrument name="Fl&ouml;te">
+			<instrument name="Flöte">
 				<player name="Roswitha Staege"/>
 			</instrument>
 			<instrument name="Violoncello">
@@ -54,12 +54,12 @@
 		</composition>
 		<composition>
 			<name>Muji no kyo</name>
-			<description>für Stimme, Fl&ouml;te, Violine, Klavier mit Synthesizer und Tutti-Instrumente</description>
+			<description>für Stimme, Flöte, Violine, Klavier mit Synthesizer und Tutti-Instrumente</description>
 			<length>17:12</length>
 			<instrument name="Stimme">
 				<player name="Johann Leutgeb"/>
 			</instrument>
-			<instrument name="Fl&ouml;te">
+			<instrument name="Flöte">
 				<player name="Eva Furrer"/>
 			</instrument>
 			<instrument name="Violine">
@@ -109,15 +109,15 @@
 		<composition>
 			<name>Music to hear</name>
 			<description>nach dem 8. Sonett von William Shakespeare</description>
-			<description>für Sopran, Solofl&ouml;te, Echofl&ouml;te und Ensemble</description>
+			<description>für Sopran, Soloflöte, Echoflöte und Ensemble</description>
 			<length>17:27</length>
 			<instrument name="Sopran">
 				<player name="Julie Moffat"/>
 			</instrument>
-			<instrument name="Fl&ouml;te">
+			<instrument name="Flöte">
 				<player name="Eva Furrer"/>
 			</instrument>
-			<instrument name="Fl&ouml;te">
+			<instrument name="Flöte">
 				<player name="Katrina Emtage"/>
 			</instrument>
 			<player name="Klangforum Wien"/>

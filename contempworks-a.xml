@@ -196,7 +196,7 @@
 	</composer>
 	<composer name="Carl-Olof" surname="Anderberg" born="1914" died="1972">
 		<composition>
-			<name>Tre Stycken f&ouml;r piano</name>
+			<name>Tre Stycken för piano</name>
 			<length>9:37</length>
 			<instrument name="Piano">
 				<player name="Kristine Scholz"/>

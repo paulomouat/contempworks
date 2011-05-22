@@ -603,7 +603,7 @@
 		</composition>
 		<composition>
 			<name>Déploration</name>
-			<description>für Fl&ouml;te, Violoncello und Percussion</description>
+			<description>für Flöte, Violoncello und Percussion</description>
 			<length>12:27</length>
 			<player name="ensemble recherche"/>
 			<composed start="1973"/>
@@ -1169,7 +1169,7 @@
 				<player name="Angelika Frei"/>
 				<player name="Martin Huber"/>
 				<player name="Michael Peuse"/>
-				<player name="Heinrich G&ouml;lzenleuchter"/>
+				<player name="Heinrich Gölzenleuchter"/>
 			</instrument>
 			<instrument name="Woodblock">
 				<player name="Marcus Creed"/>
@@ -1228,7 +1228,7 @@
 		<composition>
 			<name>Frau/Stimme</name>
 			<description>für Sopranund Orchester mit Sopran</description>
-			<description>W&ouml;rter von Heiner Müller</description>
+			<description>Wörter von Heiner Müller</description>
 			<length>19:56</length>
 			<instrument name="Sopran">
 				<player name="Isolde Siebert"/>
@@ -1316,7 +1316,7 @@
 		</composition>
 		<composition>
 			<name>sphere</name>
-			<description>Kontrafaktur mit Klavier-Gegenk&ouml;rper für Klavier, Bl&auml;ser und Schlagzeug</description>
+			<description>Kontrafaktur mit Klavier-Gegenkörper für Klavier, Bl&auml;ser und Schlagzeug</description>
 			<length>22:36</length>
 			<instrument name="Klavier">
 				<player name="Siegfried Mauser"/>
@@ -1563,7 +1563,7 @@
 			<description>für Klarinette solo</description>
 			<length>25:44</length>
 			<instrument name="Klarinette">
-				<player name="J&ouml;rg Widmann"/>
+				<player name="Jörg Widmann"/>
 			</instrument>
 			<composed start="2000"/>
 			<recorded start="2003"/>
@@ -1596,7 +1596,7 @@
 			<length>44:17</length>
 			<player name="Minguet Quartett"/>
 			<instrument name="Klarinette">
-				<player name="J&ouml;rg Widmann"/>
+				<player name="Jörg Widmann"/>
 			</instrument>
 			<composed start="2002"/>
 			<recorded start="2004"/>

@@ -148,7 +148,7 @@
 			<name>ST/48-1,240162</name>
 			<description>für Orchester</description>
 			<length>8:22</length>
-			<player name="WDR Sinfonieorchester K&ouml;ln"/>
+			<player name="WDR Sinfonieorchester Köln"/>
 			<conductor>Michel Tabachnik</conductor>
 			<composed start="1959" end="1962"/>
 			<recorded start="1974"/>
@@ -678,7 +678,7 @@
 			<name>La Légende d'Eer</name>
 			<description>for 8-channel electronic tape</description>
 			<length>45:28</length>
-			<player name="WDR, K&ouml;ln"/>
+			<player name="WDR, Köln"/>
 			<composed start="1977" end="1978"/>
 			<recorded start="1977" end="1978"/>
 			<release>Montaigne 782058</release>
