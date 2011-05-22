@@ -480,13 +480,13 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="Gy&ouml;rgy" surname="Kurt&aacute;g" born="1926" died="">
+	<composer name="Gy&ouml;rgy" surname="Kurtág" born="1926" died="">
 		<composition>
 			<name>Praeludium und Choral</name>
 			<description>für Klavier</description>
 			<length>1:34</length>
 			<instrument name="Klavier">
-				<player name="Zolt&aacute;n Kocsis"/>
+				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<composed start="1961" end="1981"/>
 			<recorded start="1993"/>
@@ -494,11 +494,11 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>J&aacute;t&eacute;kok (Spiele) - Auswahl (seit 1973)</name>
+			<name>Ját&eacute;kok (Spiele) - Auswahl (seit 1973)</name>
 			<description>für Klavier, auch vierh&auml;ndig und für zwei Klaviere</description>
 			<length>10:17</length>
 			<instrument name="Klavier">
-				<player name="M&aacute;rta und Gy&ouml;rgy Kurt&aacute;g"/>
+				<player name="Márta und Gy&ouml;rgy Kurtág"/>
 			</instrument>
 			<composed start="1973"/>
 			<recorded start="1993"/>
@@ -510,7 +510,7 @@
 			<description>für Klavier</description>
 			<length>0:42</length>
 			<instrument name="Klavier">
-				<player name="Zolt&aacute;n Kocsis"/>
+				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<composed start="1973" end="1976"/>
 			<recorded start="1993"/>
@@ -525,7 +525,7 @@
 				<player name="Adrienne Csengery"/>
 			</instrument>
 			<instrument name="Violine">
-				<player name="Andr&aacute;s Keller"/>
+				<player name="András Keller"/>
 			</instrument>
 			<composed start="1975"/>
 			<recorded start="1993"/>
@@ -550,7 +550,7 @@
 				<player name="Adrienne Csengery"/>
 			</instrument>
 			<instrument name="Klavier">
-				<player name="Zolt&aacute;n Kocsis"/>
+				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<composed start="1981"/>
 			<recorded start="1993"/>
@@ -558,7 +558,7 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>J&aacute;nos Pilinszky: G&eacute;rard de Nerval</name>
+			<name>János Pilinszky: G&eacute;rard de Nerval</name>
 			<description>für Violoncello</description>
 			<length>1:18</length>
 			<instrument name="Violoncello">
@@ -577,7 +577,7 @@
 				<player name="Adrienne Csengery"/>
 			</instrument>
 			<instrument name="Klavier">
-				<player name="Zolt&aacute;n Kocsis"/>
+				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<composed start="1986"/>
 			<recorded start="1993"/>
@@ -592,7 +592,7 @@
 				<player name="Adrienne Csengery"/>
 			</instrument>
 			<instrument name="Klavier">
-				<player name="Zolt&aacute;n Kocsis"/>
+				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<composed start="1986" end="1987"/>
 			<recorded start="1993"/>
@@ -607,7 +607,7 @@
 				<player name="Adrienne Csengery"/>
 			</instrument>
 			<instrument name="Klavier">
-				<player name="Zolt&aacute;n Kocsis"/>
+				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<composed start="1986" end="1987"/>
 			<recorded start="1993"/>
@@ -619,7 +619,7 @@
 			<description>für Klavier und Instrumentengruppen</description>
 			<length>10:36</length>
 			<instrument name="Klavier">
-				<player name="Zolt&aacute;n Kocsis"/>
+				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<player name="Budapester Festival Orchester"/>
 			<conductor>Peter E&ouml;tv&ouml;s</conductor>
@@ -666,10 +666,10 @@
 				<player name="Mikl&oacute;s Per&eacute;nyi"/>
 			</instrument>
 			<instrument name="Violine">
-				<player name="Andr&aacute;s Keller"/>
+				<player name="András Keller"/>
 			</instrument>
 			<instrument name="Celesta">
-				<player name="Zolt&aacute;n Kocsis"/>
+				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<player name="Solisten des Budapester Festival Orchester"/>
 			<composed start="1989"/>
@@ -682,7 +682,7 @@
 			<description>für Klavier, Violoncello und zwei Ensembles</description>
 			<length>16:45</length>
 			<instrument name="Klavier">
-				<player name="Zolt&aacute;n Kocsis"/>
+				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<instrument name="Violoncello">
 				<player name="Mikl&oacute;s Per&eacute;nyi"/>
@@ -710,11 +710,11 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Tam&aacute;s Blum in memoriam</name>
+			<name>Tamás Blum in memoriam</name>
 			<description>für Viola</description>
 			<length>2:27</length>
 			<instrument name="Viola">
-				<player name="Zolt&aacute;n G&aacute;l"/>
+				<player name="Zoltán Gál"/>
 			</instrument>
 			<composed start="1992"/>
 			<recorded start="1993"/>

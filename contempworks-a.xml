@@ -138,7 +138,7 @@
 	</composer>
 	<composer name="Pedro" surname="Amaral" born="1972" died="">
 		<composition>
-			<name>...Textos, Par&aacute;frases, Perspectivas...</name>
+			<name>...Textos, Paráfrases, Perspectivas...</name>
 			<description>for piano and 9 instruments</description>
 			<length>19:35</length>
 			<player name="London Sinfonietta"/>

@@ -13,7 +13,7 @@
 			<released>1999</released>
 		</composition>
 	</composer>
-	<composer name="Iv&aacute;n" surname="Naranjo" born="1977" died="">
+	<composer name="Iván" surname="Naranjo" born="1977" died="">
 		<composition>
 			<name>Uno</name>
 			<length>13:40</length>
@@ -801,7 +801,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>Omaggio a Gy&ouml;rgy Kurt&aacute;g</name>
+			<name>Omaggio a Gy&ouml;rgy Kurtág</name>
 			<description>for contralto, flute, clarinet, tuba and live electronics</description>
 			<length>17:20</length>
 			<player name="Ensemble Recherche"/>
@@ -821,7 +821,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>D&oacute;nde est&aacute;s, hermano?</name>
+			<name>D&oacute;nde estás, hermano?</name>
 			<description>for 4 female voices</description>
 			<length>5:33</length>
 			<composed start="1982"/>
@@ -845,7 +845,7 @@
 			<player name="WDR Rundfunkchor K&ouml;ln"/>
 			<conductor>J&ouml;rg Ritter</conductor>
 			<player name="WDR Sinfonieorchester K&ouml;ln"/>
-			<conductor>Emilio Pom&aacute;rico</conductor>
+			<conductor>Emilio Pomárico</conductor>
 			<composed start="1986" end="1987"/>
 			<recorded start="2004"/>
 			<release>Kairos 0012512KAI</release>
@@ -867,7 +867,7 @@
 			<description>for seven orchestral groups</description>
 			<length>24:21</length>
 			<player name="WDR Sinfonieorchester K&ouml;ln"/>
-			<conductor>Emilio Pom&aacute;rico</conductor>
+			<conductor>Emilio Pomárico</conductor>
 			<composed start="1987"/>
 			<recorded start="2004"/>
 			<release>Kairos 0012512KAI</release>
@@ -1238,7 +1238,7 @@
 			<length>56:21</length>
 			<player name="Ensemble Modern"/>
 			<player name="Orquestra Gulbenkian Lisboa"/>
-			<conductor>Kasper de Roo, Emilio Pom&aacute;rico</conductor>
+			<conductor>Kasper de Roo, Emilio Pomárico</conductor>
 			<composed start="1990" end="1991"/>
 			<recorded start="1995"/>
 			<release>Montaigne 782055</release>

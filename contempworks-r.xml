@@ -724,7 +724,7 @@
 			<description>Musik für Violine und Orchester</description>
 			<length>18:06</length>
 			<instrument name="Violine">
-				<player name="J&aacute;nos N&eacute;gyesy"/>
+				<player name="János N&eacute;gyesy"/>
 			</instrument>
 			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
 			<conductor>Ernest Bour</conductor>
@@ -1895,7 +1895,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Germ&aacute;n" surname="Romero" born="1966" died="">
+	<composer name="Germán" surname="Romero" born="1966" died="">
 		<composition>
 			<name>Ramas</name>
 			<description>for amplified solo violin</description>

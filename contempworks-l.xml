@@ -202,7 +202,7 @@
 				<player name="Peter Roggenkamp"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="Zsigmond Szathm&aacute;ry"/>
+				<player name="Zsigmond Szathmáry"/>
 			</instrument>
 			<instrument name="Piano">
 				<player name="Gerhard Gregor"/>
@@ -545,7 +545,7 @@
 			</part>
 			<part>
 				<number>3</number>
-				<name>H&aacute;rom lakodalmi t&aacute;nc - Three wedding dances</name>
+				<name>Három lakodalmi tánc - Three wedding dances</name>
 				<length>2:38</length>
 				<composed start="1950"/>
 			</part>
@@ -573,7 +573,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Mag&aacute;ny</name>
+			<name>Magány</name>
 			<description>für dreistimmigen Chor a cappella</description>
 			<length>2:58</length>
 			<player name="Schola Cantorum Stuttgart"/>
@@ -676,7 +676,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>R&eacute;gi magyar t&aacute;rsas t&aacute;ncok</name>
+			<name>R&eacute;gi magyar társas táncok</name>
 			<description>Old hungarian ballroom dances, for flute, clarinet and strings</description>
 			<length>10:26</length>
 			<player name="Asko Ensemble"/>
@@ -729,7 +729,7 @@
 			<description>Omaggio a Girolamo Frescobaldi</description>
 			<length>4:34</length>
 			<instrument name="Organ">
-				<player name="Zsigmond Szathm&aacute;ry"/>
+				<player name="Zsigmond Szathmáry"/>
 			</instrument>
 			<composed start="1951"/>
 			<recorded start="1995"/>
@@ -922,7 +922,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>P&aacute;pain&eacute;</name>
+			<name>Pápain&eacute;</name>
 			<description>für achtstimmigen Chor a cappella</description>
 			<length>3:07</length>
 			<player name="Schola Cantorum Stuttgart"/>
@@ -1054,7 +1054,7 @@
 			<name>Volumina</name>
 			<length>14:41</length>
 			<instrument name="Organ">
-				<player name="Zsigmond Szathm&aacute;ry"/>
+				<player name="Zsigmond Szathmáry"/>
 			</instrument>
 			<composed start="1961" end="1962"/>
 			<recorded start="1995"/>
@@ -1283,7 +1283,7 @@
 				<composed start="1969"/>
 			</part>
 			<instrument name="Organ">
-				<player name="Zsigmond Szathm&aacute;ry"/>
+				<player name="Zsigmond Szathmáry"/>
 			</instrument>
 			<composed start="1967" end="1969"/>
 			<recorded start="1995"/>
@@ -1294,7 +1294,7 @@
 			<name>Zwei Etüden für Orgel</name>
 			<length>10:15</length>
 			<instrument name="Orgel">
-				<player name="Zsigmond Szathm&aacute;ry"/>
+				<player name="Zsigmond Szathmáry"/>
 			</instrument>
 			<composed start="1967" end="1969"/>
 			<recorded start="?"/>
