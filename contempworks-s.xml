@@ -3406,7 +3406,7 @@
 			<description>1. Version</description>
 			<description>für einen Schlagzeuger</description>
 			<length>11:32</length>
-			<instrument name="Percuss&atilde;o">
+			<instrument name="Percussão">
 				<player name="Mircea Ardeleanu"/>
 			</instrument>
 			<composed start="1959"/>
@@ -3419,7 +3419,7 @@
 			<description>2. Version</description>
 			<description>für einen Schlagzeuger</description>
 			<length>11:09</length>
-			<instrument name="Percuss&atilde;o">
+			<instrument name="Percussão">
 				<player name="Mircea Ardeleanu"/>
 			</instrument>
 			<composed start="1959"/>
@@ -3446,7 +3446,7 @@
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
 			</instrument>
-			<instrument name="Persuss&atilde;o">
+			<instrument name="Persussão">
 				<player name="Mircea Ardeleanu"/>
 			</instrument>
 			<instrument name="Celesta">
@@ -3517,7 +3517,7 @@
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
 			</instrument>
-			<instrument name="Percuss&atilde;o">
+			<instrument name="Percussão">
 				<player name="Mircea Ardeleanu"/>
 			</instrument>
 			<composed start="1959" end="1960"/>
