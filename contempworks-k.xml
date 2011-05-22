@@ -21,7 +21,7 @@
 		</composition>
 		<composition>
 			<name>Antithese</name>
-			<description>Komposition für elektronische und öffentliche Klßauml;nge</description>
+			<description>Komposition für elektronische und öffentliche Kl&auml;nge</description>
 			<length>9:24</length>
 			<instrument name="Realisation">
 				<player name="Siemens Studio für elektronische Musik"/>
@@ -63,7 +63,7 @@
 		</composition>
 		<composition>
 			<name>Atem</name>
-			<description>für einen Blßauml;ser</description>
+			<description>für einen Bl&auml;ser</description>
 			<length>10:31</length>
 			<instrument name="Posaune">
 				<player name="Vinko Globokar"/>
@@ -75,7 +75,7 @@
 		</composition>
 		<composition>
 			<name>Exotica</name>
-			<description>für außszlig;ereuropßauml;ische Instrumente</description>
+			<description>für außereurop&auml;ische Instrumente</description>
 			<length>37:31</length>
 			<player name="Ensemble Modern"/>
 			<conductor>Mauricio Kagel</conductor>
@@ -147,8 +147,8 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>ßEacute;tudes 1-3</name>
-			<description>für großszlig;es Orchester</description>
+			<name>&Eacute;tudes 1-3</name>
+			<description>für großes Orchester</description>
 			<length>25:58</length>
 			<part>
 				<number>1</number>
@@ -212,7 +212,7 @@
 	<composer name="Milko" surname="Kelemen" born="1924" died="">
 		<composition>
 			<name>Judith</name>
-			<description>Orchesterklßauml;nge, elektronisch verßauml;nderte Orchesterklßauml;nge, elektronische Klßauml;nge (Zwei Ausschnitte)</description>
+			<description>Orchesterkl&auml;nge, elektronisch ver&auml;nderte Orchesterkl&auml;nge, elektronische Kl&auml;nge (Zwei Ausschnitte)</description>
 			<length>2:58</length>
 			<part>
 				<number>1</number>
@@ -427,7 +427,7 @@
 			<released>?</released>
 		</composition>
 		<composition>
-			<name>60 Blßauml;tter für Streichtrio</name>
+			<name>60 Bl&auml;tter für Streichtrio</name>
 			<length>38:45</length>
 			<player name="Trio Recherche"/>
 			<composed start="1992"/>
@@ -448,7 +448,7 @@
 	</composer>
 	<composer name="Ernst" surname="Krenek" born="1900" died="1991">
 		<composition>
-			<name>Drei lustige Mßauml;rsche für Blasorchester op. 34</name>
+			<name>Drei lustige M&auml;rsche für Blasorchester op. 34</name>
 			<length>6:17</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Erich Schmid</conductor>
@@ -461,7 +461,7 @@
 	<composer name="Ferdinand" surname="Kriwet" born="1942" died="">
 		<composition>
 			<name>JAJA - Hörtext 2</name>
-			<description>Stimmen, elektronische verßauml;nderte Stimmen (Zwei Ausschnitte)</description>
+			<description>Stimmen, elektronische ver&auml;nderte Stimmen (Zwei Ausschnitte)</description>
 			<length>4:47</length>
 			<part>
 				<number>1</number>
@@ -495,7 +495,7 @@
 		</composition>
 		<composition>
 			<name>Játékok (Spiele) - Auswahl (seit 1973)</name>
-			<description>für Klavier, auch vierhßauml;ndig und für zwei Klaviere</description>
+			<description>für Klavier, auch vierh&auml;ndig und für zwei Klaviere</description>
 			<length>10:17</length>
 			<instrument name="Klavier">
 				<player name="Márta und György Kurtág"/>
@@ -562,7 +562,7 @@
 			<description>für Violoncello</description>
 			<length>1:18</length>
 			<instrument name="Violoncello">
-				<player name="Miklßoacute;s Perényi"/>
+				<player name="Mikl&oacute;s Perényi"/>
 			</instrument>
 			<composed start="1986"/>
 			<recorded start="1993"/>
@@ -659,11 +659,11 @@
 		</composition>
 		<composition>
 			<name>The Answered Unanswered Question op. 31b</name>
-			<description>Message-Hommage ßagrave; Frances-Marie Uitti</description>
+			<description>Message-Hommage &agrave; Frances-Marie Uitti</description>
 			<description>Version Nr. 2 für zwei Violoncelli, zwei Violinen und Celesta</description>
 			<length>3:42</length>
 			<instrument name="Violoncello">
-				<player name="Miklßoacute;s Perényi"/>
+				<player name="Mikl&oacute;s Perényi"/>
 			</instrument>
 			<instrument name="Violine">
 				<player name="András Keller"/>
@@ -685,7 +685,7 @@
 				<player name="Zoltán Kocsis"/>
 			</instrument>
 			<instrument name="Violoncello">
-				<player name="Miklßoacute;s Perényi"/>
+				<player name="Mikl&oacute;s Perényi"/>
 			</instrument>
 			<player name="Budapester Festival Orchester"/>
 			<conductor>Peter Eötvös</conductor>
@@ -699,7 +699,7 @@
 			<description>für Altstimme (Rezitation), Vokalensemble und Kammerensemble</description>
 			<length>16:39</length>
 			<instrument name="Alt (Rezitation)">
-				<player name="Ildikßoacute; Monyßoacute;k"/>
+				<player name="Ildik&oacute; Mony&oacute;k"/>
 			</instrument>
 			<player name="Solisten des Tomkins Vokalensemble"/>
 			<player name="Budapester Festival Orchester"/>
@@ -723,7 +723,7 @@
 		</composition>
 		<composition>
 			<name>????? [Stele]</name>
-			<description>Versßatilde;o revista</description>
+			<description>Vers&atilde;o revista</description>
 			<length>12:33</length>
 			<player name="Berliner Philharmoniker"/>
 			<conductor>Claudio Abbado</conductor>
@@ -751,7 +751,7 @@
 	</composer>
 	<composer name="Mireille" surname="Kyrou" born="" died="">
 		<composition>
-			<name>ßEacute;tude 1</name>
+			<name>&Eacute;tude 1</name>
 			<length>5:13</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>

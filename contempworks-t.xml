@@ -4,7 +4,7 @@
 <list>
 	<composer name="Akira" surname="Tamba" born="1932" died="">
 		<composition>
-			<name>ßEacute;tude no. 2</name>
+			<name>&Eacute;tude no. 2</name>
 			<length>3:28</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -161,16 +161,16 @@
 	<composer name="Dimitri" surname="Terzakis" born="1938" died="">
 		<composition>
 			<name>Rabasso</name>
-			<description>für Saxophonquartett, Viola, Violoncello und Kontrabaßszlig;</description>
+			<description>für Saxophonquartett, Viola, Violoncello und Kontrabaß</description>
 			<length>10:07</length>
-			<player name="The Raschßegrave;r Saxophone Quartet"/>
+			<player name="The Rasch&egrave;r Saxophone Quartet"/>
 			<instrument name="Viola">
 				<player name="Hans Brüning"/>
 			</instrument>
 			<instrument name="Violoncello">
 				<player name="Othello Liesmann"/>
 			</instrument>
-			<instrument name="Kontrabaßszlig;">
+			<instrument name="Kontrabaß">
 				<player name="Wolfgang Güttler"/>
 			</instrument>
 			<composed start="1992"/>

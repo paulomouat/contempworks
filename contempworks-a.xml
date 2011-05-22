@@ -109,7 +109,7 @@
 	<composer name="Claude Loyola" surname="Allgén" born="1920" died="1990">
 		<composition>
 			<name>Det gar ett tyst och taligt lamm</name>
-			<description>from ßquot;Fyra liturgiska melodierßquot;</description>
+			<description>from &quot;Fyra liturgiska melodier&quot;</description>
 			<description>arrangement for two pianos</description>
 			<length>2:57</length>
 			<instrument name="Piano">
@@ -123,7 +123,7 @@
 		</composition>
 		<composition>
 			<name>Et verbum caro factum est</name>
-			<description>from ßquot;Fyra liturgiska melodierßquot;</description>
+			<description>from &quot;Fyra liturgiska melodier&quot;</description>
 			<description>arrangement for two pianos</description>
 			<length>2:16</length>
 			<instrument name="Piano">
@@ -222,7 +222,7 @@
 	<composer name="Marc" surname="André" born="1964" died="">
 		<composition>
 			<name>AB II</name>
-			<description>für Kontrabaßszlig;klarinette, Violoncello, Cymbalon, Schlagzeug, Klavier und Live-Elektronik</description>
+			<description>für Kontrabaßklarinette, Violoncello, Cymbalon, Schlagzeug, Klavier und Live-Elektronik</description>
 			<length>24:55</length>
 			<player name="Ensemble Recherche"/>
 			<instrument name="Klangregie">
@@ -272,7 +272,7 @@
 			<released/>
 		</composition>
 	</composer>
-	<composer name="Ramßoacute;n" surname="Gonzales-Arroyo" born="" died="">
+	<composer name="Ram&oacute;n" surname="Gonzales-Arroyo" born="" died="">
 		<composition>
 			<name>De la distance</name>
 			<description>pour contrebasse et bande magnétique</description>
@@ -291,7 +291,7 @@
 	</composer>
 	<composer name="Philippe" surname="Arthuys" born="1928" died="">
 		<composition>
-			<name>Boßicirc;te ßagrave; musique</name>
+			<name>Bo&icirc;te &agrave; musique</name>
 			<length>2:55</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>

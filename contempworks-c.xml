@@ -55,7 +55,7 @@
 		<composition>
 			<name>Imaginary Landscape No. 3</name>
 			<description>(with Mauricio Kagel)</description>
-			<description>Sechs Schlagzeuger, elektronische Klßauml;nge</description>
+			<description>Sechs Schlagzeuger, elektronische Kl&auml;nge</description>
 			<player name="Kölner Ensemble für Neue Musik"/>
 			<conductor>Mauricio Kagel</conductor>
 			<instrument name="Realisation">
@@ -565,7 +565,7 @@
 			<instrument name="Narrator">
 				<player name="Burgess Meredith"/>
 			</instrument>
-			<instrument name="Percussion ßamp; tape collage">
+			<instrument name="Percussion &amp; tape collage">
 				<player name="John Cage"/>
 			</instrument>
 			<instrument name="Prepared Piano">
@@ -823,7 +823,7 @@
 		<composition>
 			<name>Concert for Piano</name>
 			<length>30:05</length>
-			<instrument name="Piano ßamp; live electronics">
+			<instrument name="Piano &amp; live electronics">
 				<player name="David Tudor"/>
 			</instrument>
 			<player name="Ensemble Modern"/>
@@ -837,7 +837,7 @@
 			<name>Music Walk</name>
 			<description>for 1 or more pianists, at a single piano, using also radio and/or recordings</description>
 			<length>10:53</length>
-			<instrument name="piano ßamp; devices">
+			<instrument name="piano &amp; devices">
 				<player name="Stephen Drury"/>
 			</instrument>
 			<composed start="1958"/>
@@ -933,7 +933,7 @@
 		</composition>
 		<composition>
 			<name>Variations VII</name>
-			<description>9 Evenings: Theatre ßamp; Engineering</description>
+			<description>9 Evenings: Theatre &amp; Engineering</description>
 			<length>1:25:00</length>
 			<composed start="1966"/>
 			<recorded start="1966"/>
@@ -1048,7 +1048,7 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Freeman Etudes books 1 ßamp; 2</name>
+			<name>Freeman Etudes books 1 &amp; 2</name>
 			<length>49:57</length>
 			<instrument name="Violino">
 				<player name="Irvine Arditti"/>
@@ -1297,7 +1297,7 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Freeman Etudes books 3 ßamp; 4</name>
+			<name>Freeman Etudes books 3 &amp; 4</name>
 			<length>51:11</length>
 			<instrument name="Violino">
 				<player name="Irvine Arditti"/>
@@ -1379,13 +1379,13 @@
 			<description>for 12 rainsticks, violin and 2 pianos</description>
 			<description>for Merce Cunningham's dance Beach Birds</description>
 			<length>30:36</length>
-			<instrument name="Violin ßamp; rainsticks">
+			<instrument name="Violin &amp; rainsticks">
 				<player name="Ami Flammer"/>
 			</instrument>
-			<instrument name="Piano ßamp; rainsticks">
+			<instrument name="Piano &amp; rainsticks">
 				<player name="Martine Joste"/>
 			</instrument>
-			<instrument name="Piano ßamp; rainsticks">
+			<instrument name="Piano &amp; rainsticks">
 				<player name="Dominique Alchourroun"/>
 			</instrument>
 			<instrument name="Rainsticks">
@@ -1469,7 +1469,7 @@
 		</composition>
 		<composition>
 			<name>Five3</name>
-			<description>for trombone ßamp; string quartet</description>
+			<description>for trombone &amp; string quartet</description>
 			<length>39:59</length>
 			<instrument name="Trombone">
 				<player name="Monique Buzzarté"/>
@@ -1534,7 +1534,7 @@
 	</composer>
 	<composer name="Edgardo" surname="Canton" born="" died="">
 		<composition>
-			<name>Rengaine ßagrave; pleurer (extrait)</name>
+			<name>Rengaine &agrave; pleurer (extrait)</name>
 			<length>2:51</length>
 			<instrument name="Texte">
 				<player name="Jean Tardieu"/>
@@ -1916,7 +1916,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Black, White ßamp; Rose</name>
+			<name>Black, White &amp; Rose</name>
 			<description>for marimba, gongs, woodblocks and tape</description>
 			<length>21:47</length>
 			<instrument name="Percussion">
@@ -1929,7 +1929,7 @@
 		</composition>
 		<composition>
 			<name>The Impossible Piano</name>
-			<description>(Homage to CN) for sequencer ßamp; sampled piano (7 excerpts)</description>
+			<description>(Homage to CN) for sequencer &amp; sampled piano (7 excerpts)</description>
 			<length>14:37</length>
 			<part>
 				<number>1</number>
@@ -1985,9 +1985,9 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Niccolßograve;" surname="Castiglioni" born="1932" died="">
+	<composer name="Niccol&ograve;" surname="Castiglioni" born="1932" died="">
 		<composition>
-			<name>Quodlibet aus ßquot;Figureßquot;</name>
+			<name>Quodlibet aus &quot;Figure&quot;</name>
 			<description>Mobile per voce e orchestra für Sopran solo</description>
 			<length>4:17</length>
 			<instrument name="Sopran">
@@ -2013,7 +2013,7 @@
 		</composition>
 		<composition>
 			<name>Romanze</name>
-			<description>pour quatuor ßagrave; cordes</description>
+			<description>pour quatuor &agrave; cordes</description>
 			<length>8:05</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1990"/>
@@ -2083,8 +2083,8 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Divertimento für 8 Blßauml;ser und Schlagzeug</name>
-			<description>Hommage ßagrave; Strawinsky</description>
+			<name>Divertimento für 8 Bl&auml;ser und Schlagzeug</name>
+			<description>Hommage &agrave; Strawinsky</description>
 			<length>11:03</length>
 			<player name="Mitglieder des Radio Symphonie Orchesters Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2144,7 +2144,7 @@
 		</composition>
 		<composition>
 			<name>Fasce</name>
-			<description>für großszlig;es Orchester</description>
+			<description>für großes Orchester</description>
 			<length>22:32</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2166,7 +2166,7 @@
 		</composition>
 		<composition>
 			<name>Spiegel I, VI, VII</name>
-			<description>für großszlig;es Orchester und Tonband</description>
+			<description>für großes Orchester und Tonband</description>
 			<length>32:31</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2177,7 +2177,7 @@
 		</composition>
 		<composition>
 			<name>Spiegel I-VII</name>
-			<description>für Großszlig;es Orchester und Tonband</description>
+			<description>für Großes Orchester und Tonband</description>
 			<length>1:25:21</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2203,11 +2203,11 @@
 			<instrument name="Koloratursopran">
 				<player name="Donna Robin"/>
 			</instrument>
-			<player name="Ensemble ßquot;die reiheßquot;"/>
+			<player name="Ensemble &quot;die reihe&quot;"/>
 			<conductor>Friedrich Cerha</conductor>
 			<composed start="1962" end="1980"/>
 			<recorded start="?"/>
-			<release>ORF CD 180 (CD5 ßamp; 6)</release>
+			<release>ORF CD 180 (CD5 &amp; 6)</release>
 			<released>2001</released>
 		</composition>
 		<composition>
@@ -2221,7 +2221,7 @@
 				<player name="Grete Zimmer"/>
 			</instrument>
 			<player name="2 Singstimmen (ORF Chor)"/>
-			<player name="Ensemble ßquot;die reiheßquot;"/>
+			<player name="Ensemble &quot;die reihe&quot;"/>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<player name="Elektronik (ORF Technik)"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2245,7 +2245,7 @@
 			<name>Langegger Nachtmusik I</name>
 			<description>für Orchester</description>
 			<length>10:00</length>
-			<player name="Ensemble ßquot;die reiheßquot;"/>
+			<player name="Ensemble &quot;die reihe&quot;"/>
 			<conductor>Friedrich Cerha</conductor>
 			<composed start="1969"/>
 			<recorded start="?"/>
@@ -2254,7 +2254,7 @@
 		</composition>
 		<composition>
 			<name>Curriculum</name>
-			<description>für Blßauml;ser</description>
+			<description>für Bl&auml;ser</description>
 			<length>17:23</length>
 			<player name="Radio Symphonieorchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2310,7 +2310,7 @@
 		</composition>
 		<composition>
 			<name>Monumentum für Karl Prantl</name>
-			<description>für Großszlig;es Orchester</description>
+			<description>für Großes Orchester</description>
 			<length>20:15</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Michael Gielen</conductor>
@@ -2320,7 +2320,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Streichquartett ßquot;Maqamßquot;</name>
+			<name>Streichquartett &quot;Maqam&quot;</name>
 			<length>13:45</length>
 			<player name="Cherubini Quartett"/>
 			<composed start="1989"/>
@@ -2329,7 +2329,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>String Quartet No. 1 ßquot;Maqamßquot;</name>
+			<name>String Quartet No. 1 &quot;Maqam&quot;</name>
 			<length>15:57</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1989"/>
@@ -2362,7 +2362,7 @@
 		</composition>
 		<composition>
 			<name>Langegger Nachtmusik III</name>
-			<description>für großszlig;es Orchester</description>
+			<description>für großes Orchester</description>
 			<length>22:44</length>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -2434,7 +2434,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Acht Sßauml;tze nach Hölderlin-Fragmenten</name>
+			<name>Acht S&auml;tze nach Hölderlin-Fragmenten</name>
 			<description>für Streichsextett</description>
 			<length>21:26</length>
 			<player name="Arditti String Quartet"/>
@@ -2554,7 +2554,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Makrokosmos I ßamp; II</name>
+			<name>Makrokosmos I &amp; II</name>
 			<description>24 fantasy pieces after the Zodiac</description>
 			<description>for amplified piano</description>
 			<length>1:04:43</length>

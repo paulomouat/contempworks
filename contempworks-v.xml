@@ -15,7 +15,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Edgar" surname="Varßegrave;se" born="1883" died="1965">
+	<composer name="Edgar" surname="Var&egrave;se" born="1883" died="1965">
 		<composition>
 			<name>Un grand sommeil noir</name>
 			<description>original version</description>
@@ -24,7 +24,7 @@
 				<player name="Mireille Delunsch"/>
 			</instrument>
 			<instrument name="Piano">
-				<player name="Franßccedil;ois Kerdoncuff"/>
+				<player name="Fran&ccedil;ois Kerdoncuff"/>
 			</instrument>
 			<composed start="1906"/>
 			<recorded start="1998"/>
@@ -127,7 +127,7 @@
 		</composition>
 		<composition>
 			<name>Octandre</name>
-			<description>pour flßucirc;te, clarinette, hautbois, basson, cor, trompette, trombone et contrebasse</description>
+			<description>pour fl&ucirc;te, clarinette, hautbois, basson, cor, trompette, trombone et contrebasse</description>
 			<length>6:40</length>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
@@ -247,7 +247,7 @@
 		</composition>
 		<composition>
 			<name>Densité 21.5</name>
-			<description>pour flßucirc;te seule</description>
+			<description>pour fl&ucirc;te seule</description>
 			<length>4:12</length>
 			<instrument name="Flute">
 				<player name="Lawrence Beauregard"/>
@@ -300,7 +300,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Poßegrave;me électronique</name>
+			<name>Po&egrave;me électronique</name>
 			<length>8:02</length>
 			<composed start="1957" end="1958"/>
 			<recorded start="1958"/>
@@ -308,7 +308,7 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Poßegrave;me électronique</name>
+			<name>Po&egrave;me électronique</name>
 			<length>8:03</length>
 			<player name="Studio Philips, Eindhoven"/>
 			<composed start="1957" end="1958"/>
@@ -331,7 +331,7 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="Antßoacute;nio Pinho" surname="Vargas" born="1951" died="">
+	<composer name="Ant&oacute;nio Pinho" surname="Vargas" born="1951" died="">
 		<composition>
 			<name>Monodia - Quasi unrequiem</name>
 			<description>for string quartet</description>
@@ -377,7 +377,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Symphonie für Streicher ßquot;Stimmenßquot;</name>
+			<name>Symphonie für Streicher &quot;Stimmen&quot;</name>
 			<length>27:14</length>
 			<player name="Latvijas Filharmonijas Kamerorkestris"/>
 			<conductor>Tovijs Lifsics</conductor>

@@ -129,7 +129,7 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Quantitßauml;ten</name>
+			<name>Quantit&auml;ten</name>
 			<description>version 2</description>
 			<description>for piano</description>
 			<length>3:26</length>
@@ -228,11 +228,11 @@
 			<conductor>Rupert Huber</conductor>
 			<composed start="1958"/>
 			<recorded start="1993"/>
-			<release>hßauml;nssler Classic CD 93.022</release>
+			<release>h&auml;nssler Classic CD 93.022</release>
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Sarßagrave; dolce tacere</name>
+			<name>Sar&agrave; dolce tacere</name>
 			<description>for 8 solo voices</description>
 			<length>8:10</length>
 			<player name="Neue Vocalsolisten Stuttgart"/>
@@ -307,7 +307,7 @@
 			<instrument name="Tenor">
 				<player name="Loren Driscoll"/>
 			</instrument>
-			<player name="Sinfonieorchester des Saarlßauml;ndischen Rundfunks, Saarbrücken"/>
+			<player name="Sinfonieorchester des Saarl&auml;ndischen Rundfunks, Saarbrücken"/>
 			<conductor>Michael Gielen</conductor>
 			<composed start="1962"/>
 			<recorded start="?"/>
@@ -315,7 +315,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Djamila Boupachßagrave;</name>
+			<name>Djamila Boupach&agrave;</name>
 			<description>soprano solo from Canti di vita e d'amore: Sul ponte di Hiroshima</description>
 			<length>4:53</length>
 			<instrument name="Soprano">
@@ -327,7 +327,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Djamila Boupachßagrave;</name>
+			<name>Djamila Boupach&agrave;</name>
 			<description>for solo soprano</description>
 			<length>4:23</length>
 			<instrument name="Soprano">
@@ -348,7 +348,7 @@
 			<conductor>Rupert Huber</conductor>
 			<composed start="1963" end="1964"/>
 			<recorded start="2000"/>
-			<release>hßauml;nssler Classic CD 93.022</release>
+			<release>h&auml;nssler Classic CD 93.022</release>
 			<released>2001</released>
 		</composition>
 		<composition>
@@ -405,7 +405,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>A floresta ßegrave; jovem e cheja de vida</name>
+			<name>A floresta &egrave; jovem e cheja de vida</name>
 			<description>for soprano, three reciters, B-flat clarinet, copper plates and 8-channel tape</description>
 			<description>Texts assembled by Giovanni Pirelli</description>
 			<length>40:28</length>
@@ -478,7 +478,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Musiche per Manzßugrave;</name>
+			<name>Musiche per Manz&ugrave;</name>
 			<length>17:18</length>
 			<composed start="1969"/>
 			<recorded start="1969"/>
@@ -527,7 +527,7 @@
 			<description>für Klavier und Zweispur-Tonband</description>
 			<length>13:58</length>
 			<instrument name="Klavier">
-				<player name="Markus Hinterhßauml;user"/>
+				<player name="Markus Hinterh&auml;user"/>
 			</instrument>
 			<instrument name="Klangregie">
 				<player name="André Richard"/>
@@ -572,13 +572,13 @@
 		</composition>
 		<composition>
 			<name>Das atmende Klarsein</name>
-			<description>für kleinen Chor, Baßszlig;flöte, Live-Elektronik und Tonband</description>
+			<description>für kleinen Chor, Baßflöte, Live-Elektronik und Tonband</description>
 			<length>44:40</length>
 			<player name="Mitglieder des Südfunk-Chors Stuttgart"/>
 			<instrument name="Einstudierung">
 				<player name="Rupert Huber"/>
 			</instrument>
-			<instrument name="Baßszlig;flöte">
+			<instrument name="Baßflöte">
 				<player name="Eva Furrer"/>
 			</instrument>
 			<instrument name="Klangsteuerung">
@@ -623,7 +623,7 @@
 			<conductor>Rupert Huber</conductor>
 			<composed start="1980" end="1983"/>
 			<recorded start="1993"/>
-			<release>hßauml;nssler Classic CD 93.022</release>
+			<release>h&auml;nssler Classic CD 93.022</release>
 			<released>2001</released>
 		</composition>
 		<composition>
@@ -656,7 +656,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Quando stanno morendo, Diario Polacco 2ßordm;</name>
+			<name>Quando stanno morendo, Diario Polacco 2&ordm;</name>
 			<description>per quattro voci femminili, flauto, violoncello e live electronics</description>
 			<length>33:30</length>
 			<instrument name="">
@@ -688,7 +688,7 @@
 		</composition>
 		<composition>
 			<name>Quando stanno morendo, Diario Polacco No. 2</name>
-			<description>für 4 Frauenstimmen, Baßszlig;flöte, Violoncello und Live-Elektronik</description>
+			<description>für 4 Frauenstimmen, Baßflöte, Violoncello und Live-Elektronik</description>
 			<length>35:34</length>
 			<instrument name="Sopran">
 				<player name="Monika Bair-Ivenz"/>
@@ -698,7 +698,7 @@
 			<instrument name="Alt">
 				<player name="Susanne Otto"/>
 			</instrument>
-			<instrument name="Baßszlig;flöte">
+			<instrument name="Baßflöte">
 				<player name="Martin Fahlenbock"/>
 			</instrument>
 			<instrument name="Violoncello">
@@ -755,7 +755,7 @@
 			<instrument name="Sound direction">
 				<player name="André Richard"/>
 				<player name="Hans-Peter Haller"/>
-				<player name="Rudolf Straußszlig;"/>
+				<player name="Rudolf Strauß"/>
 				<player name="Rudolf Breitenfeld"/>
 			</instrument>
 			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
@@ -782,7 +782,7 @@
 		</composition>
 		<composition>
 			<name>A Pierre, Dell'Azzurro Silenzio, Inquietum</name>
-			<description>a pißugrave; cori, per flauto contrabbasso in Sol, clarinetto contrabasso in Si bemolle e live electronics</description>
+			<description>a pi&ugrave; cori, per flauto contrabbasso in Sol, clarinetto contrabasso in Si bemolle e live electronics</description>
 			<length>9:43</length>
 			<instrument name="Flauto">
 				<player name="Roberto Fabbriciani"/>
@@ -821,7 +821,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Dßoacute;nde estás, hermano?</name>
+			<name>D&oacute;nde estás, hermano?</name>
 			<description>for 4 female voices</description>
 			<length>5:33</length>
 			<composed start="1982"/>
@@ -991,7 +991,7 @@
 			</part>
 			<part>
 				<number>4</number>
-				<name>Terre de Sienne brßucirc;lée</name>
+				<name>Terre de Sienne br&ucirc;lée</name>
 			</part>
 			<part>
 				<number>5</number>
@@ -1019,7 +1019,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>ßEacute;clats de voix</name>
+			<name>&Eacute;clats de voix</name>
 			<length>14:45</length>
 			<part>
 				<number>1</number>
@@ -1087,7 +1087,7 @@
 			</part>
 			<part>
 				<number>3</number>
-				<name>Colßegrave;re et dynamique</name>
+				<name>Col&egrave;re et dynamique</name>
 			</part>
 			<part>
 				<number>4</number>
@@ -1208,10 +1208,10 @@
 		</composition>
 		<composition>
 			<name>Versus III</name>
-			<description>pour flßucirc;te en sol et alto</description>
+			<description>pour fl&ucirc;te en sol et alto</description>
 			<length>12:57</length>
-			<instrument name="Flßucirc;te">
-				<player name="Emmanuelle Ophßegrave;le"/>
+			<instrument name="Fl&ucirc;te">
+				<player name="Emmanuelle Oph&egrave;le"/>
 			</instrument>
 			<instrument name="Alto">
 				<player name="Christophe Desjardins"/>
@@ -1246,7 +1246,7 @@
 		</composition>
 		<composition score="Y">
 			<name>Machina Mundi</name>
-			<description>for mixed chorus, 4 soloists, orchestra and tape, after Luis de Camßotilde;es' "Os Lusßiacute;adas"</description>
+			<description>for mixed chorus, 4 soloists, orchestra and tape, after Luis de Cam&otilde;es' "Os Lus&iacute;adas"</description>
 			<length>1:07:05</length>
 			<instrument name="Flute">
 				<player name="Pierre-Yves Artaud"/>

@@ -28,7 +28,7 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Regnvßauml;der</name>
+			<name>Regnv&auml;der</name>
 			<description>for piano</description>
 			<length>4:19</length>
 			<instrument name="Piano">
@@ -42,7 +42,7 @@
 	</composer>
 	<composer name="Marc-André" surname="Dalbavie" born="1961" died="">
 		<composition>
-			<name>Diadßegrave;mes</name>
+			<name>Diad&egrave;mes</name>
 			<description>pour alto solo, ensemble et électronique</description>
 			<length>22:11</length>
 			<player name="Ensemble InterContemporain"/>
@@ -50,7 +50,7 @@
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1986"/>
 			<recorded start="1992"/>
-			<release>Adßegrave;s/IRCAM 205 202</release>
+			<release>Ad&egrave;s/IRCAM 205 202</release>
 			<released>1996</released>
 		</composition>
 		<composition>
@@ -62,7 +62,7 @@
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1991" end="1993"/>
 			<recorded start="1994"/>
-			<release>Adßegrave;s/IRCAM 205 202</release>
+			<release>Ad&egrave;s/IRCAM 205 202</release>
 			<released>1996</released>
 		</composition>
 		<composition>
@@ -160,7 +160,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Prélude ßagrave; l'aprßegrave;s-midi d'un faune</name>
+			<name>Prélude &agrave; l'apr&egrave;s-midi d'un faune</name>
 			<length>9:41</length>
 			<player name="New Philharmonia Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -219,7 +219,7 @@
 	<composer name="Francis" surname="Dhomont" born="1926" died="">
 		<composition>
 			<name>Cité du dedans (extrait)</name>
-			<description>ßEacute;tude acousmatique</description>
+			<description>&Eacute;tude acousmatique</description>
 			<length>2:48</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1972"/>
@@ -229,7 +229,7 @@
 		</composition>
 		<composition>
 			<name>Syntagmes</name>
-			<description>ßEacute;tude acousmatique</description>
+			<description>&Eacute;tude acousmatique</description>
 			<length>10:07</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1975"/>
@@ -239,7 +239,7 @@
 		</composition>
 		<composition>
 			<name>Métonymie ou le corps impossible (extrait)</name>
-			<description>ßEacute;tude acousmatique</description>
+			<description>&Eacute;tude acousmatique</description>
 			<length>5:09</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1976"/>
@@ -290,7 +290,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>Drßocirc;les d'oiseaux</name>
+			<name>Dr&ocirc;les d'oiseaux</name>
 			<description>Jalons</description>
 			<length>14:51</length>
 			<player name="Private studio of the composer"/>
@@ -323,7 +323,7 @@
 		</composition>
 		<composition>
 			<name>Poe-Debussy, autour de la Maison Usher</name>
-			<description>Musique ßEacute;lectroacoustique pour un théßacirc;tre musical</description>
+			<description>Musique &Eacute;lectroacoustique pour un thé&acirc;tre musical</description>
 			<length>40:19</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1988"/>
@@ -386,7 +386,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>Chroniques de la lumißegrave;re</name>
+			<name>Chroniques de la lumi&egrave;re</name>
 			<description>...et autres utopies</description>
 			<length>29:12</length>
 			<player name="Private studio of the composer"/>
@@ -436,7 +436,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Forßecirc;t profonde</name>
+			<name>For&ecirc;t profonde</name>
 			<description>Cycle des profondeurs</description>
 			<length>58:32</length>
 			<player name="INA-GRM, Studio Syter/Private studio of the composer"/>
@@ -466,7 +466,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Nocturne ßagrave; Combray</name>
+			<name>Nocturne &agrave; Combray</name>
 			<description>Oeuvre radiophonique</description>
 			<length>13:51</length>
 			<player name="Private studio of the composer"/>
@@ -564,7 +564,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Corps et ßacirc;me</name>
+			<name>Corps et &acirc;me</name>
 			<description>...et autres utopies</description>
 			<length>7:40</length>
 			<player name="Private studio of the composer"/>
@@ -574,7 +574,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Corps et ßacirc;me</name>
+			<name>Corps et &acirc;me</name>
 			<description>Musique acousmatique</description>
 			<length>8:00</length>
 			<player name="Private studio of the composer"/>
@@ -605,7 +605,7 @@
 		</composition>
 		<composition>
 			<name>Brief an den Vater</name>
-			<description>ßEacute;tudes pour Kafka</description>
+			<description>&Eacute;tudes pour Kafka</description>
 			<length>17:02</length>
 			<player name="Private studio of the composer"/>
 			<composed start="2005" end="2006"/>
@@ -614,8 +614,8 @@
 			<released>2009</released>
 		</composition>
 		<composition>
-			<name>Premißegrave;res traces du Choucas</name>
-			<description>ßEacute;tudes pour Kafka</description>
+			<name>Premi&egrave;res traces du Choucas</name>
+			<description>&Eacute;tudes pour Kafka</description>
 			<length>15:00</length>
 			<player name="Private studio of the composer"/>
 			<composed start="2006"/>
@@ -624,8 +624,8 @@
 			<released>2009</released>
 		</composition>
 		<composition>
-			<name>ßAgrave; propos de K</name>
-			<description>ßEacute;tudes pour Kafka</description>
+			<name>&Agrave; propos de K</name>
+			<description>&Eacute;tudes pour Kafka</description>
 			<length>21:37</length>
 			<player name="Private studio of the composer"/>
 			<composed start="2006"/>
@@ -699,7 +699,7 @@
 			<description>for solo voice</description>
 			<length>6:18</length>
 			<instrument name="Soprano">
-				<player name="Franßccedil;oise Kubler"/>
+				<player name="Fran&ccedil;oise Kubler"/>
 			</instrument>
 			<composed start="1981"/>
 			<recorded start="1995"/>
@@ -723,7 +723,7 @@
 			<description>for female voice and double-bass</description>
 			<length>12:09</length>
 			<instrument name="Soprano">
-				<player name="Franßccedil;oise Kubler"/>
+				<player name="Fran&ccedil;oise Kubler"/>
 			</instrument>
 			<instrument name="Double-Bass">
 				<player name="Jean-Paul Celea"/>
@@ -921,7 +921,7 @@
 			<description>pour alto</description>
 			<length>12:30</length>
 			<instrument name="Alto">
-				<player name="Genevißegrave;ve Strosser"/>
+				<player name="Genevi&egrave;ve Strosser"/>
 			</instrument>
 			<composed start="1977"/>
 			<recorded start="2009"/>
@@ -953,7 +953,7 @@
 		</composition>
 		<composition>
 			<name>Le souris sans sourire</name>
-			<description>pour quatuor ßagrave; cordes</description>
+			<description>pour quatuor &agrave; cordes</description>
 			<length>16:15</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1988"/>
@@ -987,7 +987,7 @@
 			<length>28:45</length>
 			<part>
 				<number>1</number>
-				<name>Trépidoptßegrave;res</name>
+				<name>Trépidopt&egrave;res</name>
 				<length>7:45</length>
 			</part>
 			<part>
@@ -1008,14 +1008,14 @@
 	</composer>
 	<composer name="Frédéric" surname="Durieux" born="1959" died="">
 		<composition>
-			<name>Lßagrave;, au-delßagrave;</name>
+			<name>L&agrave;, au-del&agrave;</name>
 			<description>pour ensemble</description>
 			<length>23:00</length>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>David Robertson</conductor>
 			<composed start="1990" end="1992"/>
 			<recorded start="1993"/>
-			<release>Adßegrave;s/IRCAM 204 552</release>
+			<release>Ad&egrave;s/IRCAM 204 552</release>
 			<released>1995</released>
 		</composition>
 		<composition>
@@ -1030,7 +1030,7 @@
 			<conductor>David Robertson</conductor>
 			<composed start="1993"/>
 			<recorded start="1993"/>
-			<release>Adßegrave;s/IRCAM 204 552</release>
+			<release>Ad&egrave;s/IRCAM 204 552</release>
 			<released>1995</released>
 		</composition>
 		<composition>
@@ -1043,7 +1043,7 @@
 			<player name="Technique IRCAM"/>
 			<composed start="1993"/>
 			<recorded start="1994"/>
-			<release>Adßegrave;s/IRCAM 204 552</release>
+			<release>Ad&egrave;s/IRCAM 204 552</release>
 			<released>1995</released>
 		</composition>
 	</composer>

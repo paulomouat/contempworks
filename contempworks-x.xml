@@ -525,7 +525,7 @@
 			<name>Erikhton</name>
 			<length>17:21</length>
 			<instrument name="Piano">
-				<player name="Hiroaki Ooßiuml;"/>
+				<player name="Hiroaki Oo&iuml;"/>
 			</instrument>
 			<player name="Orchestre Philharmonique du Luxembourg"/>
 			<conductor>Arturo Tamayo</conductor>
@@ -592,7 +592,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Mikka ßquot;Sßquot;</name>
+			<name>Mikka &quot;S&quot;</name>
 			<description>for solo violin</description>
 			<length>4:10</length>
 			<instrument name="Violin">
@@ -648,10 +648,10 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>Synaphaßiuml;</name>
+			<name>Synapha&iuml;</name>
 			<length>16:26</length>
 			<instrument name="Piano">
-				<player name="Hiroaki Ooßiuml;"/>
+				<player name="Hiroaki Oo&iuml;"/>
 			</instrument>
 			<player name="Orchestre Philharmonique du Luxembourg"/>
 			<conductor>Arturo Tamayo</conductor>
@@ -741,7 +741,7 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>Aßiuml;s</name>
+			<name>A&iuml;s</name>
 			<length>17:29</length>
 			<instrument name="Baryton">
 				<player name="Spyros Sakkas"/>
@@ -757,7 +757,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Aßiuml;s</name>
+			<name>A&iuml;s</name>
 			<length>15:29</length>
 			<instrument name="Baritone">
 				<player name="Philip Larson"/>
@@ -884,7 +884,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Thalleßiuml;n</name>
+			<name>Thalle&iuml;n</name>
 			<description>for 14 instruments</description>
 			<length>17:44</length>
 			<player name="The SONOR Ensemble of UCSD"/>
@@ -895,7 +895,7 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Thalleßiuml;n</name>
+			<name>Thalle&iuml;n</name>
 			<description>pour ensemble</description>
 			<length>17:24</length>
 			<player name="Ensemble Intercontemporain"/>
@@ -965,7 +965,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>ßAgrave; l'ßIcirc;le de Gorée</name>
+			<name>&Agrave; l'&Icirc;le de Gorée</name>
 			<description>pour clavecin et ensemble</description>
 			<length>13:34</length>
 			<instrument name="Clavecin">
@@ -979,7 +979,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>ßagrave; R.</name>
+			<name>&agrave; R.</name>
 			<description>for solo piano</description>
 			<length>2:26</length>
 			<instrument name="Piano">
@@ -1112,7 +1112,7 @@
 			<released>1996</released>
 		</composition>	
 		<composition>
-			<name>ßEacute;change</name>
+			<name>&Eacute;change</name>
 			<description>for bass-clarinet and ensemble</description>
 			<length>16:47</length>
 			<instrument name="Bass-clarinet">
@@ -1126,7 +1126,7 @@
 			<released>1996</released>
 		</composition>	
 		<composition>
-			<name>Voyage absolu des Unari vers Andromßegrave;de</name>
+			<name>Voyage absolu des Unari vers Androm&egrave;de</name>
 			<description>pour bande magnétique 2 pistes</description>
 			<length>15:29</length>
 			<player name="CEMAMu, Paris"/>
@@ -1166,7 +1166,7 @@
 			<released>2002</released>
 		</composition>
 		<composition>
-			<name>Roáßiuml;</name>
+			<name>Roá&iuml;</name>
 			<length>12:35</length>
 			<player name="Orchestre Philharmonique du Luxembourg"/>
 			<conductor>Arturo Tamayo</conductor>
@@ -1176,7 +1176,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Krinoßiuml;di</name>
+			<name>Krino&iuml;di</name>
 			<length>10:08</length>
 			<player name="Orchestre Philharmonique du Luxembourg"/>
 			<conductor>Arturo Tamayo</conductor>
@@ -1234,7 +1234,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Plektßoacute;</name>
+			<name>Plekt&oacute;</name>
 			<description>for flute, clarinet, piano, percussion, violin and cello</description>
 			<length>8:10</length>
 			<player name="ST-X Ensemble"/>
@@ -1255,7 +1255,7 @@
 			<released>2009</released>
 		</composition>
 		<composition>
-			<name>Dßauml;mmerschein</name>
+			<name>D&auml;mmerschein</name>
 			<description>for large orchestra</description>
 			<length>10:52</length>
 			<player name="Carnegie Mellon Philharmonic"/>

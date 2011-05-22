@@ -45,7 +45,7 @@
 	</composer>
 	<composer name="Jean" surname="Barraqué" born="1928" died="1973">
 		<composition>
-			<name>ßEacute;tude</name>
+			<name>&Eacute;tude</name>
 			<length>5:02</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -56,7 +56,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Béla" surname="Bartßoacute;k" born="1881" died="1945">
+	<composer name="Béla" surname="Bart&oacute;k" born="1881" died="1945">
 		<composition>
 			<name>Le Prince de bois</name>
 			<description>Op.13 (Sz 60)</description>
@@ -126,9 +126,9 @@
 			<released>1999</released>
 		</composition>
 	</composer>
-	<composer name="Franßccedil;ois" surname="Bayle" born="1932" died="">
+	<composer name="Fran&ccedil;ois" surname="Bayle" born="1932" died="">
 		<composition>
-			<name>Trois rßecirc;ves d'oiseau</name>
+			<name>Trois r&ecirc;ves d'oiseau</name>
 			<length>9:58</length>
 			<part>
 				<number>1</number>
@@ -152,7 +152,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Trois rßecirc;ves d'oiseau</name>
+			<name>Trois r&ecirc;ves d'oiseau</name>
 			<length>10:00</length>
 			<part>
 				<number>1</number>
@@ -185,7 +185,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Jeßicirc;ta ou murmure des eaux</name>
+			<name>Je&icirc;ta ou murmure des eaux</name>
 			<length>39:50</length>
 			<player name="INA-GRM, Paris"/>
 			<composed start="1970"/>
@@ -195,7 +195,7 @@
 		</composition>
 		<composition>
 			<name>It</name>
-			<description>Extrait du chapitre 3 de ßquot;L'expérience acoustiqueßquot;</description>
+			<description>Extrait du chapitre 3 de &quot;L'expérience acoustique&quot;</description>
 			<description>(avec Robert Wyatt)</description>
 			<length>3:38</length>
 			<instrument name="Réalisation">
@@ -244,23 +244,23 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Erosphßegrave;re</name>
+			<name>Erosph&egrave;re</name>
 			<length>1:09:00</length>
 			<part>
 				<number>1</number>
-				<name>Tremblement de terre trßegrave;s doux</name>
+				<name>Tremblement de terre tr&egrave;s doux</name>
 				<length>28:00</length>
 				<composed start="1978"/>
 			</part>
 			<part>
 				<number>2</number>
-				<name>ßEacute;ros bleu/La fin du bruit/ßEacute;ros rouge</name>
+				<name>&Eacute;ros bleu/La fin du bruit/&Eacute;ros rouge</name>
 				<length>16:40</length>
 				<composed start="1979"/>
 			</part>
 			<part>
 				<number>3</number>
-				<name>ßEacute;ros noir/Toupie dans le ciel/ßEacute;ros rouge et noir</name>
+				<name>&Eacute;ros noir/Toupie dans le ciel/&Eacute;ros rouge et noir</name>
 				<length>24:00</length>
 				<composed start="1979"/>
 			</part>
@@ -272,7 +272,7 @@
 		</composition>
 		<composition>
 			<name>Toupie dans le ciel</name>
-			<description>version originale ßquot;sans remixßquot;</description>
+			<description>version originale &quot;sans remix&quot;</description>
 			<length>21:00</length>
 			<player name="INA-GRM, Paris"/>
 			<composed start="1979"/>
@@ -292,7 +292,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Son Vitesse-Lumißegrave;re</name>
+			<name>Son Vitesse-Lumi&egrave;re</name>
 			<length>1:59:23</length>
 			<part>
 				<number>1</number>
@@ -306,7 +306,7 @@
 			</part>
 			<part>
 				<number>3</number>
-				<name>Voyage au centre de la tßecirc;te</name>
+				<name>Voyage au centre de la t&ecirc;te</name>
 				<length>20:25</length>
 			</part>
 			<part>
@@ -316,7 +316,7 @@
 			</part>
 			<part>
 				<number>5</number>
-				<name>Lumißegrave;re ralentie</name>
+				<name>Lumi&egrave;re ralentie</name>
 				<length>21:39</length>
 			</part>
 			<player name="INA-GRM, Paris"/>
@@ -344,7 +344,7 @@
 			<released>1989</released>
 		</composition>
 		<composition>
-			<name>Motion-ßEacute;motion</name>
+			<name>Motion-&Eacute;motion</name>
 			<length>22:01</length>
 			<player name="INA-GRM, Paris"/>
 			<composed start="1985"/>
@@ -353,7 +353,7 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Jeßicirc;ta-retour</name>
+			<name>Je&icirc;ta-retour</name>
 			<length>5:23</length>
 			<player name="INA-GRM, Paris"/>
 			<composed start="1985"/>
@@ -429,7 +429,7 @@
 			<length>42:41</length>
 			<part>
 				<number>1</number>
-				<name>Bßacirc;ton de pluie</name>
+				<name>B&acirc;ton de pluie</name>
 				<length>19:55</length>
 			</part>
 			<part>
@@ -745,7 +745,7 @@
 			<description>for oboe</description>
 			<length>6:54</length>
 			<instrument name="Oboe">
-				<player name="Lászlßoacute; Hadady"/>
+				<player name="Lászl&oacute; Hadady"/>
 			</instrument>
 			<composed start="1969"/>
 			<recorded start="1994" end="1997"/>
@@ -850,7 +850,7 @@
 			<description>for solo violin, 2 french horns and string orchestra</description>
 			<length>4:43 (excerpt)</length>
 			<instrument name="Violin">
-				<player name="Maryvonne Le Dizßegrave;s-Richard"/>
+				<player name="Maryvonne Le Diz&egrave;s-Richard"/>
 			</instrument>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
@@ -1081,9 +1081,9 @@
 		</composition>
 		<composition>
 			<name>Sonatine</name>
-			<description>pour flßucirc;te et piano</description>
+			<description>pour fl&ucirc;te et piano</description>
 			<length>11:27</length>
-			<instrument name="Flßucirc;te">
+			<instrument name="Fl&ucirc;te">
 				<player name="Sophie Cherrier"/>
 			</instrument>
 			<instrument name="Piano">
@@ -1095,7 +1095,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Premißegrave;re sonate</name>
+			<name>Premi&egrave;re sonate</name>
 			<description>pour piano</description>
 			<length>8:39</length>
 			<instrument name="Piano">
@@ -1107,7 +1107,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Premißegrave;re sonate</name>
+			<name>Premi&egrave;re sonate</name>
 			<description>pour piano</description>
 			<length>8:50</length>
 			<instrument name="Piano">
@@ -1119,7 +1119,7 @@
 			<released>1986</released>
 		</composition>
 		<composition>
-			<name>Premißegrave;re sonate</name>
+			<name>Premi&egrave;re sonate</name>
 			<description>pour piano</description>
 			<length>9:44</length>
 			<instrument name="Piano">
@@ -1131,7 +1131,7 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Premißegrave;re sonate</name>
+			<name>Premi&egrave;re sonate</name>
 			<description>pour piano</description>
 			<length>10:35</length>
 			<instrument name="Piano">
@@ -1177,7 +1177,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Deuxißegrave;me sonate</name>
+			<name>Deuxi&egrave;me sonate</name>
 			<description>pour piano</description>
 			<length>27:47</length>
 			<instrument name="Piano">
@@ -1189,7 +1189,7 @@
 			<released>1986</released>
 		</composition>
 		<composition>
-			<name>Deuxißegrave;me sonate</name>
+			<name>Deuxi&egrave;me sonate</name>
 			<description>pour piano</description>
 			<length>31:06</length>
 			<instrument name="Piano">
@@ -1201,7 +1201,7 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Deuxißegrave;me sonate</name>
+			<name>Deuxi&egrave;me sonate</name>
 			<description>pour piano</description>
 			<length>33:57</length>
 			<instrument name="Piano">
@@ -1224,7 +1224,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>ßEacute;tude I</name>
+			<name>&Eacute;tude I</name>
 			<length>2:25</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -1235,7 +1235,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>ßEacute;tude II</name>
+			<name>&Eacute;tude II</name>
 			<length>2:41</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -1259,7 +1259,7 @@
 			<released>2010</released>
 		</composition>
 		<composition score="Y">
-			<name>Le marteau sans maßicirc;tre</name>
+			<name>Le marteau sans ma&icirc;tre</name>
 			<description>pour ensemble</description>
 			<length>37:22</length>
 			<player name="Ensemble InterContemporain"/>
@@ -1270,7 +1270,7 @@
 			<released>1989</released>
 		</composition>
 		<composition score="Y">
-			<name>Le marteau sans maßicirc;tre</name>
+			<name>Le marteau sans ma&icirc;tre</name>
 			<description>pour voix d'alto et 6 instruments</description>
 			<length>38:32</length>
 			<instrument name="Mezzo-soprano">
@@ -1320,7 +1320,7 @@
 				<player name="Yvonne Loriod"/>
 				<player name="Pierre Boulez"/>
 			</instrument>
-			<player name="Blßauml;serquintett des SWF"/>
+			<player name="Bl&auml;serquintett des SWF"/>
 			<player name="Mitglieder des SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud</conductor>
 			<composed start="1956" end="1961"/>
@@ -1364,7 +1364,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Tombeau ßagrave; la mémoire du Prince Max Egon zu Fürstenberg</name>
+			<name>Tombeau &agrave; la mémoire du Prince Max Egon zu Fürstenberg</name>
 			<description>Un peu profond ruisseau calomniée la mort (Mallarmé)</description>
 			<length>7:18</length>
 			<instrument name="Sopran">
@@ -1382,7 +1382,7 @@
 			<length>1:09:24</length>
 			<player name="Ensemble Intercontemporain"/>
 			<instrument name="Soprano">
-				<player name="Christine Schßauml;fer"/>
+				<player name="Christine Sch&auml;fer"/>
 			</instrument>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1957" end="1962"/>
@@ -1434,7 +1434,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Troisißegrave;me sonate</name>
+			<name>Troisi&egrave;me sonate</name>
 			<description>pour piano</description>
 			<length>21:04</length>
 			<instrument name="Piano">
@@ -1446,7 +1446,7 @@
 			<released>1986</released>
 		</composition>
 		<composition>
-			<name>Troisißegrave;me sonate</name>
+			<name>Troisi&egrave;me sonate</name>
 			<description>pour piano</description>
 			<length>19:02</length>
 			<instrument name="Piano">
@@ -1458,7 +1458,7 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Troisißegrave;me sonate</name>
+			<name>Troisi&egrave;me sonate</name>
 			<description>pour piano</description>
 			<length>20:57</length>
 			<instrument name="Piano">
@@ -1470,7 +1470,7 @@
 			<released>2005</released>
 		</composition>
 		<composition score="Y">
-			<name>ßEacute;clat</name>
+			<name>&Eacute;clat</name>
 			<description>for 15 instruments</description>
 			<length>14:34 (excerpts and commentaries)</length>
 			<player name="Ensemble InterContemporain"/>
@@ -1519,7 +1519,7 @@
 				<player name="Sophie Cherrier"/>
 			</instrument>
 			<instrument name="flute">
-				<player name="Emmanuelle Ophßegrave;le"/>
+				<player name="Emmanuelle Oph&egrave;le"/>
 				<player name="Pierre-André Valade"/>
 			</instrument>
 			<player name="Ensemble InterContemporain"/>
@@ -1577,7 +1577,7 @@
 			<released>1990</released>
 		</composition>
 		<composition score="Y">
-			<name>ßEacute;clat</name>
+			<name>&Eacute;clat</name>
 			<description>pour 15 instruments</description>
 			<length>9:41</length>
 			<player name="Ensemble InterContemporain"/>
@@ -1619,7 +1619,7 @@
 			<instrument name="Assistant musical">
 				<player name="Andrew Gerzso"/>
 			</instrument>
-			<player name="Oeuvre réalisée ßagrave; l'IRCAM"/>
+			<player name="Oeuvre réalisée &agrave; l'IRCAM"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1981" end="1984"/>
 			<recorded start="1996"/>
@@ -1628,7 +1628,7 @@
 		</composition>
 		<composition>
 			<name>Dérive</name>
-			<description>pour flßucirc;te, clarinette en la, violon, violoncelle, vibraphone et piano</description>
+			<description>pour fl&ucirc;te, clarinette en la, violon, violoncelle, vibraphone et piano</description>
 			<length>6:07</length>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
@@ -1658,7 +1658,7 @@
 			<instrument name="Assistant musical">
 				<player name="Andrew Gerzso"/>
 			</instrument>
-			<player name="Oeuvre réalisée ßagrave; l'IRCAM"/>
+			<player name="Oeuvre réalisée &agrave; l'IRCAM"/>
 			<composed start="1982" end="1985"/>
 			<recorded start="1990"/>
 			<release>Erato 4509-98495-2</release>
@@ -1673,7 +1673,7 @@
 			<instrument name="Assistant musical">
 				<player name="Andrew Gerzso"/>
 			</instrument>
-			<player name="Oeuvre réalisée ßagrave; l'IRCAM"/>
+			<player name="Oeuvre réalisée &agrave; l'IRCAM"/>
 			<composed start="1985"/>
 			<recorded start="1996"/>
 			<release>Deutsche Grammophon 457605-2</release>
@@ -1681,9 +1681,9 @@
 		</composition>
 		<composition>
 			<name>Mémoriale (...explosante-fixe... originel)</name>
-			<description>pour flßucirc;te solo et huit instruments</description>
+			<description>pour fl&ucirc;te solo et huit instruments</description>
 			<length>5:04</length>
-			<instrument name="Flßucirc;te">
+			<instrument name="Fl&ucirc;te">
 				<player name="Sophie Cherrier"/>
 			</instrument>
 			<player name="Ensemble InterContemporain"/>
@@ -1705,7 +1705,7 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Anthßegrave;mes</name>
+			<name>Anth&egrave;mes</name>
 			<description>Version für Violine solo, Computer und sechs Lautsprecher</description>
 			<length>21:17</length>
 			<instrument name="Violine">
@@ -1732,7 +1732,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Anthßegrave;mes 2</name>
+			<name>Anth&egrave;mes 2</name>
 			<description>pour violon et dispositif eléctronique</description>
 			<length>20:27</length>
 			<instrument name="Violon solo">
@@ -1762,7 +1762,7 @@
 	</composer>
 	<composer name="Earle" surname="Brown" born="1926" died="2002">
 		<composition>
-			<name>Music for Violin, Cello ßamp; Piano</name>
+			<name>Music for Violin, Cello &amp; Piano</name>
 			<length>3:04</length>
 			<player name="Ne(x)tworks"/>
 			<composed start="1952"/>
@@ -1863,7 +1863,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>October 1952/March 1953 (MM 87 ßamp; 135)</name>
+			<name>October 1952/March 1953 (MM 87 &amp; 135)</name>
 			<length>2:16</length>
 			<instrument name="Piano">
 				<player name="Stephen Drury"/>
@@ -2241,7 +2241,7 @@
 		</composition>
 		<composition>
 			<name>Sonatina Gioacchina</name>
-			<description>Dédiée ßagrave; M. Joste</description>
+			<description>Dédiée &agrave; M. Joste</description>
 			<length>5:59</length>
 			<instrument name="piano">
 				<player name="Martine Joste"/>
@@ -2253,7 +2253,7 @@
 		</composition>
 		<composition>
 			<name>Petit bis</name>
-			<description>Dédiée ßagrave; M. Joste</description>
+			<description>Dédiée &agrave; M. Joste</description>
 			<length>1:51</length>
 			<instrument name="piano">
 				<player name="Martine Joste"/>
@@ -2265,7 +2265,7 @@
 		</composition>
 		<composition>
 			<name>Echi Danzanti</name>
-			<description>tratti da ßquot;Soloßquot; della Passion Selon Sade per arpa sola e nastro magnetico</description>
+			<description>tratti da &quot;Solo&quot; della Passion Selon Sade per arpa sola e nastro magnetico</description>
 			<length>40:14</length>
 			<instrument name="harp">
 				<player name="Giovanna Reitano"/>
