@@ -5,7 +5,7 @@
 	<composer name="Helmut" surname="Zapf" born="1958" died="">
 		<composition>
 			<name>Dreiklang</name>
-			<description>für gro&szlig;es Orchester</description>
+			<description>für großszlig;es Orchester</description>
 			<length>18:14</length>
 			<player name="Dresdner Philharmonie"/>
 			<conductor>Jürg Wyttenbach</conductor>
@@ -17,7 +17,7 @@
 	</composer>
 	<composer name="Christian" surname="Zanési" born="" died="">
 		<composition>
-			<name>Sonal &quot;voyageurs&quot; RATP</name>
+			<name>Sonal ßquot;voyageursßquot; RATP</name>
 			<length>0:04</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -171,7 +171,7 @@
 				<player name="Jan Hage"/>
 			</instrument>
 			<instrument name="Klangregie">
-				<player name="Jo&atilde;o Rafael"/>
+				<player name="Joßatilde;o Rafael"/>
 			</instrument>
 			<player name="Holland Symfonia"/>
 			<conductor>Bernhard Kontarsky</conductor>

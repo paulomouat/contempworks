@@ -2,7 +2,7 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
-	<composer name="Jo&atilde;o Pedro" surname="Oliveira" born="1959" died="">
+	<composer name="Joßatilde;o Pedro" surname="Oliveira" born="1959" died="">
 		<composition>
 			<name>Psalmus</name>
 			<description>electronic music</description>
@@ -49,7 +49,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Peregrina&ccedil;&atilde;o</name>
+			<name>Peregrinaßccedil;ßatilde;o</name>
 			<description>for string quartet</description>
 			<length>13:56</length>
 			<player name="Arditti String Quartet"/>

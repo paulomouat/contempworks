@@ -19,7 +19,7 @@
 	<composer name="Younghi" surname="Pagh-Paan" born="1945" died="">
 		<composition>
 			<name>NIM</name>
-			<description>für gro&szlig;es Orchester</description>
+			<description>für großszlig;es Orchester</description>
 			<length>15:07</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Michael Gielen</conductor>
@@ -47,7 +47,7 @@
 			<instrument name="Flute">
 				<player name="Cécile Daroux"/>
 			</instrument>
-			<instrument name="Tape &amp; Sound Projection">
+			<instrument name="Tape ßamp; Sound Projection">
 				<player name="Gerard Pape"/>
 			</instrument>
 			<composed start="1993"/>
@@ -96,7 +96,7 @@
 			<instrument name="Bass">
 				<player name="Nicholas Isherwood"/>
 			</instrument>
-			<instrument name="Tape &amp; Sound Projection">
+			<instrument name="Tape ßamp; Sound Projection">
 				<player name="Gerard Pape"/>
 			</instrument>
 			<composed start="1995"/>
@@ -124,7 +124,7 @@
 			</instrument>
 			<player name="Ensemble 2e2m"/>
 			<conductor>Paul Méfano</conductor>
-			<instrument name="Tape &amp; Sound Projection">
+			<instrument name="Tape ßamp; Sound Projection">
 				<player name="Gerard Pape"/>
 			</instrument>
 			<composed start="1996" end="1997"/>
@@ -134,7 +134,7 @@
 		</composition>
 		<composition>
 			<name>Funeral Sentences</name>
-			<description>for 2 soprano voices &amp; percussion</description>
+			<description>for 2 soprano voices ßamp; percussion</description>
 			<length>17:25</length>
 			<instrument name="Sopranos">
 				<player name="Janet Pape"/>
@@ -186,7 +186,7 @@
 		</composition>
 		<composition>
 			<name>Ascension au Purgatoire</name>
-			<description>for percussion and computer (&quot;Stochos&quot; program)</description>
+			<description>for percussion and computer (ßquot;Stochosßquot; program)</description>
 			<length>18:11</length>
 			<instrument name="Percussion">
 				<player name="Roland Auzet"/>
@@ -266,7 +266,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Capture éphém&egrave;re</name>
+			<name>Capture éphémßegrave;re</name>
 			<length>11:57</length>
 			<composed start="1967"/>
 			<recorded start="1967"/>
@@ -278,7 +278,7 @@
 			<length>23:27</length>
 			<instrument name="Guimbarde">
 				<player name="John Wright"/>
-				<player name="Tran Quang Ha&iuml;"/>
+				<player name="Tran Quang Haßiuml;"/>
 			</instrument>
 			<player name="INA/GRM"/>
 			<composed start="1971"/>
@@ -391,7 +391,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Indicatif &quot;Stade 2&quot;</name>
+			<name>Indicatif ßquot;Stade 2ßquot;</name>
 			<length>0:26</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -446,7 +446,7 @@
 			<name>Le Présent composé</name>
 			<length>23:50</length>
 			<instrument name="Mixage">
-				<player name="Fran&ccedil;ois Donato"/>
+				<player name="Franßccedil;ois Donato"/>
 				<player name="Christian Zanési"/>
 			</instrument>
 			<player name="INA/GRM"/>
@@ -520,7 +520,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Arvo" surname="P&auml;rt" born="1935" died="">
+	<composer name="Arvo" surname="Pßauml;rt" born="1935" died="">
 		<composition>
 			<name>Pari Intervallo</name>
 			<length>5:42</length>
@@ -614,7 +614,7 @@
 			<released>1988</released>
 		</composition>
 		<composition>
-			<name>An den Wassern zu Babel sa&szlig;en wir und weinten</name>
+			<name>An den Wassern zu Babel saßszlig;en wir und weinten</name>
 			<length>6:30</length>
 			<player name="The Hilliard Ensemble"/>
 			<composed start="1976" end="1984"/>
@@ -681,7 +681,7 @@
 			<length>28:43</length>
 			<player name="Estonian Philharmonic Chamber Choir"/>
 			<player name="Tallinn Chamber Orchestra"/>
-			<conductor>T&otilde;nu Kaljuste</conductor>
+			<conductor>Tßotilde;nu Kaljuste</conductor>
 			<composed start="1984" end="1986"/>
 			<recorded start="1993"/>
 			<release>ECM 1505</release>
@@ -692,7 +692,7 @@
 			<length>6:38</length>
 			<player name="Estonian Philharmonic Chamber Choir"/>
 			<player name="Tallinn Chamber Orchestra"/>
-			<conductor>T&otilde;nu Kaljuste</conductor>
+			<conductor>Tßotilde;nu Kaljuste</conductor>
 			<composed start="1989"/>
 			<recorded start="1993"/>
 			<release>ECM 1505</release>
@@ -703,7 +703,7 @@
 			<length>5:35</length>
 			<player name="Estonian Philharmonic Chamber Choir"/>
 			<player name="Tallinn Chamber Orchestra"/>
-			<conductor>T&otilde;nu Kaljuste</conductor>
+			<conductor>Tßotilde;nu Kaljuste</conductor>
 			<composed start="1991"/>
 			<recorded start="1993"/>
 			<release>ECM 1505</release>
@@ -714,7 +714,7 @@
 			<length>24:31</length>
 			<player name="Estonian Philharmonic Chamber Choir"/>
 			<player name="Tallinn Chamber Orchestra"/>
-			<conductor>T&otilde;nu Kaljuste</conductor>
+			<conductor>Tßotilde;nu Kaljuste</conductor>
 			<composed start="1990" end="1992"/>
 			<recorded start="1993"/>
 			<release>ECM 1505</release>
@@ -737,7 +737,7 @@
 			</instrument>
 			<player name="Estonian Philharmonic Chamber Choir"/>
 			<player name="Tallinn Chamber Orchestra"/>
-			<conductor>T&otilde;nu Kaljuste</conductor>
+			<conductor>Tßotilde;nu Kaljuste</conductor>
 			<composed start="1994"/>
 			<recorded start="1995"/>
 			<release>ECM 1592</release>
@@ -765,7 +765,7 @@
 			<name>Kanon Pokajanen</name>
 			<length>1:23:22</length>
 			<player name="Estonian Philharmonic Chamber Choir"/>
-			<conductor>T&otilde;nu Kaljuste</conductor>
+			<conductor>Tßotilde;nu Kaljuste</conductor>
 			<composed start="1997"/>
 			<recorded start="1997"/>
 			<release>ECM 1654/55</release>
@@ -935,7 +935,7 @@
 		<composition>
 			<name>Canticum canticorum salomonis</name>
 			<length>16:47</length>
-			<player name="Krak&oacute;w Philharmonic Chorus"/>
+			<player name="Krakßoacute;w Philharmonic Chorus"/>
 			<player name="Polish Radio National Symphony Orchestra"/>
 			<conductor>Krzysztof Penderecki</conductor>
 			<composed start="1970"/>
@@ -1002,7 +1002,7 @@
 		</composition>
 		<composition>
 			<name>Ecloga VIII</name>
-			<description>für 6 M&auml;nnerstimmen</description>
+			<description>für 6 Mßauml;nnerstimmen</description>
 			<length>8:14</length>
 			<player name="Schola Cantorum Stuttgart"/>
 			<conductor>Clytus Gottwald</conductor>
@@ -1039,7 +1039,7 @@
 	</composer>
 	<composer name="Michel" surname="Philippot" born="1925" died="1996">
 		<composition>
-			<name>&Eacute;tude no. 1</name>
+			<name>ßEacute;tude no. 1</name>
 			<length>5:14</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -1053,7 +1053,7 @@
 	<composer name="Paul" surname="Pörtner" born="1925" died="1984">
 		<composition>
 			<name>Schallspielstudie 2</name>
-			<description>Stimmen, elektronische ver&auml;nderte Stimmen (Vier Ausschnitte)</description>
+			<description>Stimmen, elektronische verßauml;nderte Stimmen (Vier Ausschnitte)</description>
 			<length>2:03</length>
 			<part>
 				<number>1</number>
@@ -1086,13 +1086,13 @@
 	</composer>
 	<composer name="Henri" surname="Pousseur" born="1929" died="">
 		<composition>
-			<name>Quintette &agrave; la mémoire d'Anton Webern</name>
-			<description>für Klarinette, Ba&szlig;klarinette, Violine, Violoncello und Klavier</description>
+			<name>Quintette ßagrave; la mémoire d'Anton Webern</name>
+			<description>für Klarinette, Baßszlig;klarinette, Violine, Violoncello und Klavier</description>
 			<length>12:50</length>
 			<instrument name="Klarinette">
 				<player name="Sepp Fackler"/>
 			</instrument>
-			<instrument name="Ba&szlig;klarinette">
+			<instrument name="Baßszlig;klarinette">
 				<player name="Hans Lemser"/>
 			</instrument>
 			<instrument name="Violine">
@@ -1142,7 +1142,7 @@
 			<released>?</released>
 		</composition>
 		<composition>
-			<name>Trois visages de Li&egrave;ge</name>
+			<name>Trois visages de Lißegrave;ge</name>
 			<length>21:07</length>
 			<part>
 				<number>1</number>
@@ -1185,11 +1185,11 @@
 			</part>
 			<part>
 				<number>5</number>
-				<name>Hymne &agrave; Zeus ornithologue</name>
+				<name>Hymne ßagrave; Zeus ornithologue</name>
 			</part>
 			<part>
 				<number>6</number>
-				<name>Aerial view of Ha&iuml;phong, Massachussets</name>
+				<name>Aerial view of Haßiuml;phong, Massachussets</name>
 			</part>
 			<part>
 				<number>7</number>
@@ -1199,7 +1199,7 @@
 				<number>8</number>
 				<name>An Heinrich, ping-pong</name>
 			</part>
-			<player name="Studio de musique électronique du Centre de Recherches musicales de Wallonie &agrave; Li&egrave;ge"/>
+			<player name="Studio de musique électronique du Centre de Recherches musicales de Wallonie ßagrave; Lißegrave;ge"/>
 			<composed start="1972"/>
 			<recorded start="1990"/>
 			<release>BVHaast 9010</release>
@@ -1208,8 +1208,8 @@
 	</composer>
 	<composer name="Bernfried" surname="Pröve" born="1963" died="">
 		<composition>
-			<name>Fernung - Horizont - N&auml;he</name>
-			<description>für gro&szlig;es Orchester</description>
+			<name>Fernung - Horizont - Nßauml;he</name>
+			<description>für großszlig;es Orchester</description>
 			<length>15:33</length>
 			<player name="Dresdner Philharmonie"/>
 			<conductor>Jürg Wyttenbach</conductor>

@@ -85,7 +85,7 @@
 			<description>für 16 Stimmen und Orchester</description>
 			<length>32:20</length>
 			<player name="Schola Heidelberg"/>
-			<conductor>Walter Nu&szlig;baum</conductor>
+			<conductor>Walter Nußszlig;baum</conductor>
 			<player name="WDR Sinfonieorchester Köln"/>
 			<conductor>Johannes Kalitzke</conductor>
 			<composed start="1967" end="1978"/>
@@ -99,7 +99,7 @@
 			<length>8:33</length>
 			<player name="ensemble aisthesis"/>
 			<player name="Schola Heidelberg"/>
-			<conductor>Walter Nu&szlig;baum</conductor>
+			<conductor>Walter Nußszlig;baum</conductor>
 			<composed start="1967" end="1990"/>
 			<recorded start="2000"/>
 			<release>Kairos 0012202KAI</release>
@@ -110,7 +110,7 @@
 			<description>für 16 Stimmen</description>
 			<length>5:39</length>
 			<player name="Schola Heidelberg"/>
-			<conductor>Walter Nu&szlig;baum</conductor>
+			<conductor>Walter Nußszlig;baum</conductor>
 			<composed start="1968"/>
 			<recorded start="1997"/>
 			<release>Kairos 0012202KAI</release>
@@ -216,7 +216,7 @@
 		</composition>
 		<composition>
 			<name>Fassade</name>
-			<description>für gro&szlig;es Orchester</description>
+			<description>für großszlig;es Orchester</description>
 			<length>22:08</length>
 			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
 			<conductor>Michael Gielen</conductor>
@@ -304,7 +304,7 @@
 			<description>pour alto</description>
 			<length>7:08</length>
 			<instrument name="Alto">
-				<player name="Genevi&egrave;ve Strosser"/>
+				<player name="Genevißegrave;ve Strosser"/>
 			</instrument>
 			<composed start="1986"/>
 			<recorded start="2009"/>
@@ -330,7 +330,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Das M&auml;dchen mit den Schwefelhölzern</name>
+			<name>Das Mßauml;dchen mit den Schwefelhölzern</name>
 			<description>Musik mit Bildern</description>
 			<length>2:00:52</length>
 			<player name="Staatsopernchor Stuttgart"/>
@@ -363,7 +363,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>&quot;...zwei Gefühle...&quot; Musik mit Leonardo</name>
+			<name>ßquot;...zwei Gefühle...ßquot; Musik mit Leonardo</name>
 			<description>für 2 Sprecher und Ensemble</description>
 			<length>22:48</length>
 			<player name="Klangforum Wien"/>
@@ -375,7 +375,7 @@
 		</composition>
 		<composition>
 			<name>NUN</name>
-			<description>für Flöte, Posaune, Orchester mit M&auml;nnerstimmen</description>
+			<description>für Flöte, Posaune, Orchester mit Mßauml;nnerstimmen</description>
 			<length>39:14</length>
 			<instrument name="Flöte">
 				<player name="Gaby Pas-Van Riet"/>
@@ -425,16 +425,16 @@
 			<released>2008</released>
 		</composition>
 	</composer>
-	<composer name="Micha&euml;l" surname="Levinas" born="1949" died="">
+	<composer name="Michaßeuml;l" surname="Levinas" born="1949" died="">
 		<composition>
-			<name>Ouverture pour une f&ecirc;te étrange</name>
+			<name>Ouverture pour une fßecirc;te étrange</name>
 			<length>16:20</length>
 			<player name="Nouvel Orchestre Philharmonique de Radio France"/>
 			<conductor>Gilbert Amy, Hubert Soudant</conductor>
 			<player name="Régie électro-acoustique INA-GRM"/>
 			<composed start="?"/>
 			<recorded start="1981"/>
-			<release>Ad&egrave;s 20 381 2</release>
+			<release>Adßegrave;s 20 381 2</release>
 			<released>1985-89</released>
 		</composition>
 		<composition>
@@ -443,17 +443,17 @@
 			<player name="Solistes de l'Ensemble 2E2M"/>
 			<composed start="?"/>
 			<recorded start="1981"/>
-			<release>Ad&egrave;s 20 381 2</release>
+			<release>Adßegrave;s 20 381 2</release>
 			<released>1985-89</released>
 		</composition>
 		<composition>
-			<name>Concerto pour un piano-espace N&ordm;2</name>
+			<name>Concerto pour un piano-espace Nßordm;2</name>
 			<length>12:30</length>
 			<player name="Ensemble l'Itineraire"/>
 			<conductor>Yves Prin</conductor>
 			<composed start="?"/>
 			<recorded start="1984"/>
-			<release>Ad&egrave;s 20 381 2</release>
+			<release>Adßegrave;s 20 381 2</release>
 			<released>1985-89</released>
 		</composition>
 		<composition>
@@ -463,20 +463,20 @@
 				<player name="Alex Perdigon"/>
 			</instrument>
 			<instrument name="Tuba">
-				<player name="Fran&ccedil;ois Poullot"/>
+				<player name="Franßccedil;ois Poullot"/>
 			</instrument>
 			<instrument name="Percussion">
 				<player name="Jean-Gillaume Cattin"/>
 			</instrument>
 			<composed start="?"/>
 			<recorded start="1974"/>
-			<release>Ad&egrave;s 20 381 2</release>
+			<release>Adßegrave;s 20 381 2</release>
 			<released>1985-89</released>
 		</composition>
 		<composition>
 			<name>Contrepoints irréels-Rencontres</name>
 			<length>4:55</length>
-			<instrument name="Fl&ucirc;tes">
+			<instrument name="Flßucirc;tes">
 				<player name="Patrice Bocquillon"/>
 				<player name="Xavier Pigeon-Saint-Bonnet"/>
 				<player name="Xavier Aragau"/>
@@ -487,11 +487,11 @@
 			</instrument>
 			<composed start="?"/>
 			<recorded start="1984"/>
-			<release>Ad&egrave;s 20 381 2</release>
+			<release>Adßegrave;s 20 381 2</release>
 			<released>1985-89</released>
 		</composition>
 		<composition>
-			<name>Par-de l&agrave;</name>
+			<name>Par-de lßagrave;</name>
 			<description>für Orchester</description>
 			<length>20:54</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
@@ -533,13 +533,13 @@
 			<length>11:44</length>
 			<part>
 				<number>1</number>
-				<name>Indul&oacute; - March</name>
+				<name>Indulßoacute; - March</name>
 				<length>2:05</length>
 				<composed start="1942"/>
 			</part>
 			<part>
 				<number>2</number>
-				<name>Polif&oacute;n etüd - Polyphonic &Eacute;tude</name>
+				<name>Polifßoacute;n etüd - Polyphonic ßEacute;tude</name>
 				<length>2:09</length>
 				<composed start="1943"/>
 			</part>
@@ -756,7 +756,7 @@
 			</part>
 			<part>
 				<number>IV</number>
-				<name>Tempo de valse (poco vivace - &quot;&agrave; l'orgue de Barbarie&quot;</name>
+				<name>Tempo de valse (poco vivace - ßquot;ßagrave; l'orgue de Barbarießquot;</name>
 				<length>2:18</length>
 			</part>
 			<part>
@@ -781,7 +781,7 @@
 			</part>
 			<part>
 				<number>IX</number>
-				<name>(Béla Bart&oacute;k in memoriam) Adagio. Mesto - Allegro maestoso</name>
+				<name>(Béla Bartßoacute;k in memoriam) Adagio. Mesto - Allegro maestoso</name>
 				<length>2:15</length>
 			</part>
 			<part>
@@ -823,7 +823,7 @@
 			</part>
 			<part>
 				<number>IV</number>
-				<name>Tempo de valse (poco vivace - &quot;&agrave; l'orgue de Barbarie&quot;</name>
+				<name>Tempo de valse (poco vivace - ßquot;ßagrave; l'orgue de Barbarießquot;</name>
 				<length>1:52</length>
 			</part>
 			<part>
@@ -848,7 +848,7 @@
 			</part>
 			<part>
 				<number>IX</number>
-				<name>(Béla Bart&oacute;k in memoriam) Adagio. Mesto - Allegro maestoso</name>
+				<name>(Béla Bartßoacute;k in memoriam) Adagio. Mesto - Allegro maestoso</name>
 				<length>2:10</length>
 			</part>
 			<part>
@@ -870,7 +870,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Eight pieces from &quot;Musica Ricercata&quot;</name>
+			<name>Eight pieces from ßquot;Musica Ricercataßquot;</name>
 			<description>for Accordion (Bayan), arranged by Max Bonnay</description>
 			<length>18:52</length>
 			<part>
@@ -885,7 +885,7 @@
 			</part>
 			<part>
 				<number>III</number>
-				<name>Tempo de valse (poco vivace - &agrave; l'orgue de Barbarie</name>
+				<name>Tempo de valse (poco vivace - ßagrave; l'orgue de Barbarie</name>
 				<length>1:53</length>
 			</part>
 			<part>
@@ -900,7 +900,7 @@
 			</part>
 			<part>
 				<number>VI</number>
-				<name>(Béla Bart&oacute;k in memoriam) Adagio. Mesto - Allegretto maestoso</name>
+				<name>(Béla Bartßoacute;k in memoriam) Adagio. Mesto - Allegretto maestoso</name>
 				<length>2:56</length>
 			</part>
 			<part>
@@ -933,7 +933,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>Concert rom&acirc;nesc</name>
+			<name>Concert romßacirc;nesc</name>
 			<description>for Orchestra</description>
 			<length>12:10</length>
 			<player name="Berliner Philharmoniker"/>
@@ -1018,8 +1018,8 @@
 			<released>2002</released>
 		</composition>
 		<composition>
-			<name>Atmosph&egrave;res</name>
-			<description>für gro&szlig;es Orchester</description>
+			<name>Atmosphßegrave;res</name>
+			<description>für großszlig;es Orchester</description>
 			<length>8:35</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Hans Rosbaud</conductor>
@@ -1029,8 +1029,8 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Atmosph&egrave;res</name>
-			<description>für gro&szlig;es Orchester</description>
+			<name>Atmosphßegrave;res</name>
+			<description>für großszlig;es Orchester</description>
 			<length>9:06</length>
 			<player name="Wiener Philharmoniker"/>
 			<conductor>Claudio Abbado</conductor>
@@ -1040,7 +1040,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Atmosph&egrave;res</name>
+			<name>Atmosphßegrave;res</name>
 			<description>for Orchestra</description>
 			<length>8:51</length>
 			<player name="Berliner Philharmoniker"/>
@@ -1074,11 +1074,11 @@
 			<released>1988</released>
 		</composition>
 		<composition>
-			<name>Po&egrave;me Symphonique</name>
+			<name>Poßegrave;me Symphonique</name>
 			<description>for 100 Metronomes</description>
 			<length>19:56</length>
 			<instrument name="Metronomes">
-				<player name="Fran&ccedil;oise Terrioux"/>
+				<player name="Franßccedil;oise Terrioux"/>
 			</instrument>
 			<composed start="1962"/>
 			<recorded start="1995"/>
@@ -1087,7 +1087,7 @@
 		</composition>
 		<composition>
 			<name>Aventures</name>
-			<description>für 3 S&auml;nger und 7 Instrumentalisten</description>
+			<description>für 3 Sßauml;nger und 7 Instrumentalisten</description>
 			<length>12:06</length>
 			<instrument name="Soprano">
 				<player name="Jane Manning"/>
@@ -1107,13 +1107,13 @@
 		</composition>
 		<composition>
 			<name>Aventures</name>
-			<description>für 3 S&auml;nger und 7 Instrumentalisten</description>
+			<description>für 3 Sßauml;nger und 7 Instrumentalisten</description>
 			<length>10:58</length>
 			<instrument name="Sopran">
 				<player name="Gertie Charlent"/>
 			</instrument>
 			<instrument name="Alt">
-				<player name="Marie-Thér&egrave;se Cahn"/>
+				<player name="Marie-Thérßegrave;se Cahn"/>
 			</instrument>
 			<instrument name="Bariton">
 				<player name="William Pearson"/>
@@ -1147,13 +1147,13 @@
 		</composition>
 		<composition>
 			<name>Nouvelles Aventures</name>
-			<description>für 3 S&auml;nger und 7 Instrumentalisten</description>
+			<description>für 3 Sßauml;nger und 7 Instrumentalisten</description>
 			<length>11:46</length>
 			<instrument name="Sopran">
 				<player name="Gertie Charlent"/>
 			</instrument>
 			<instrument name="Alt">
-				<player name="Marie-Thér&egrave;se Cahn"/>
+				<player name="Marie-Thérßegrave;se Cahn"/>
 			</instrument>
 			<instrument name="Bariton">
 				<player name="William Pearson"/>
@@ -1218,7 +1218,7 @@
 		</composition>
 		<composition score="Y">
 			<name>Lontano</name>
-			<description>für gro&szlig;es Orchester</description>
+			<description>für großszlig;es Orchester</description>
 			<length>10:32</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Ernest Bour</conductor>
@@ -1229,7 +1229,7 @@
 		</composition>
 		<composition score="Y">
 			<name>Lontano</name>
-			<description>für gro&szlig;es Orchester</description>
+			<description>für großszlig;es Orchester</description>
 			<length>12:52</length>
 			<player name="Wiener Philharmoniker"/>
 			<conductor>Claudio Abbado</conductor>
@@ -1361,9 +1361,9 @@
 		</composition>
 		<composition>
 			<name>Zehn Stücke </name>
-			<description>für Bl&auml;serquintett</description>
+			<description>für Blßauml;serquintett</description>
 			<length>12:55</length>
-			<player name="Bl&auml;serquintett des Südwestfunks, Baden-Baden"/>
+			<player name="Blßauml;serquintett des Südwestfunks, Baden-Baden"/>
 			<composed start="1968"/>
 			<recorded start="1970"/>
 			<release>Wergo WER 60161-50</release>
@@ -1428,7 +1428,7 @@
 			</part>
 			<part>
 				<number>III</number>
-				<name>In zart flie&szlig;ender Bewegung</name>
+				<name>In zart fließszlig;ender Bewegung</name>
 				<length>4:21</length>
 			</part>
 			<instrument name="Piano">
@@ -1499,7 +1499,7 @@
 			<released/>
 		</composition>
 		<composition>
-			<name>Hommage &agrave; Hilding Rosenberg</name>
+			<name>Hommage ßagrave; Hilding Rosenberg</name>
 			<description>for Violin and Violoncello</description>
 			<length>1:09</length>
 			<instrument name="Violin">
@@ -1525,7 +1525,7 @@
 			<released>1993</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tudes pour piano</name>
+			<name>ßEacute;tudes pour piano</name>
 			<description>Premier livre</description>
 			<length>19:31</length>
 			<part>
@@ -1535,7 +1535,7 @@
 			</part>
 			<part>
 				<number>II</number>
-				<name>Cordes &agrave; vide</name>
+				<name>Cordes ßagrave; vide</name>
 				<length>3:16</length>
 			</part>
 			<part>
@@ -1555,7 +1555,7 @@
 			</part>
 			<part>
 				<number>VI</number>
-				<name>Automne &agrave; Varsovie</name>
+				<name>Automne ßagrave; Varsovie</name>
 				<length>4:27</length>
 			</part>
 			<instrument name="Piano">
@@ -1567,8 +1567,8 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tudes pour piano</name>
-			<description>Deuxi&egrave;me livre</description>
+			<name>ßEacute;tudes pour piano</name>
+			<description>Deuxißegrave;me livre</description>
 			<length>23:16</length>
 			<part>
 				<number>VII</number>
@@ -1627,7 +1627,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tudes pour piano</name>
+			<name>ßEacute;tudes pour piano</name>
 			<description>Adaptations for Player Piano</description>
 			<length>12:19</length>
 			<part>
@@ -1656,7 +1656,7 @@
 			</part>
 			<part>
 				<number>XIVa</number>
-				<name>Coloana fara sf&acirc;rsit</name>
+				<name>Coloana fara sfßacirc;rsit</name>
 				<length>1:04</length>
 				<composed start="1993"/>
 			</part>
@@ -1678,7 +1678,7 @@
 			<name>Sonate pour alto</name>
 			<length>22:12</length>
 			<instrument name="Alto">
-				<player name="Genevi&egrave;ve Strosser"/>
+				<player name="Genevißegrave;ve Strosser"/>
 			</instrument>
 			<composed start="1991" end="1994"/>
 			<recorded start="2009"/>
@@ -1686,8 +1686,8 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>&Eacute;tudes pour piano</name>
-			<description>Extrait du Troisi&egrave;me livre</description>
+			<name>ßEacute;tudes pour piano</name>
+			<description>Extrait du Troisißegrave;me livre</description>
 			<length>3:52</length>
 			<part>
 				<number>XV</number>
@@ -1746,7 +1746,7 @@
 			<player name="Technique IRCAM"/>
 			<composed start="1986"/>
 			<recorded start="1993"/>
-			<release>Ad&egrave;s/IRCAM 203 582</release>
+			<release>Adßegrave;s/IRCAM 203 582</release>
 			<released>1994</released>
 		</composition>
 		<composition>
@@ -1769,7 +1769,7 @@
 			<conductor>Peter Eötvös</conductor>
 			<composed start="1989" end="1990"/>
 			<recorded start="1991"/>
-			<release>Ad&egrave;s/IRCAM 203 582</release>
+			<release>Adßegrave;s/IRCAM 203 582</release>
 			<released>1994</released>
 		</composition>
 		<composition>
@@ -1802,7 +1802,7 @@
 			<conductor>Peter Eötvös</conductor>
 			<composed start="1990" end="1992"/>
 			<recorded start="1993"/>
-			<release>Ad&egrave;s/IRCAM 203 582</release>
+			<release>Adßegrave;s/IRCAM 203 582</release>
 			<released>1994</released>
 		</composition>
 		<composition>
@@ -1813,7 +1813,7 @@
 			<conductor>Peter Eötvös</conductor>
 			<composed start="1991" end="1992"/>
 			<recorded start="1993"/>
-			<release>Ad&egrave;s/IRCAM 203 582</release>
+			<release>Adßegrave;s/IRCAM 203 582</release>
 			<released>1994</released>
 		</composition>
 		<composition>
