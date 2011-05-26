@@ -1,7 +1,10 @@
 # coding: utf-8
 
-def htmlEscape(string):
-    return string.encode('ascii', 'xmlcharrefreplace')
+def htmlEscape(text):
+	escaped = ""
+	if text:
+		escaped = text.encode('ascii', 'xmlcharrefreplace')
+	return escaped
 
 ##
 # Removes HTML or XML character references and entities from a text string.

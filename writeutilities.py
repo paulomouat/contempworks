@@ -1,6 +1,7 @@
 # coding: utf-8
 
 from textutilities import *
+from htmltemplates import *
 
 def generateComposerList(composers):
 	fileName = "generated/composerlist.html"
@@ -24,41 +25,64 @@ def generateComposerList(composers):
 	output.close()
 
 def generateInitialRow(initial):
-	row = u"""
-			<tr>
-				<td>
-					<span class='name_initial'>
-						<a name='{0}'>{0}</a>
-					</span>
-				</td>
-				<td>
-					<span>
-						<a href='#top'>back to top</a>
-					</span>
-				</td>
-			</tr>"""
-	row = row.format(initial)
+	row = initialRow.format(initial=initial)
 	return row
 
 def generateComposerInList(composer):
-	row = u"""
-			<tr>
-				<td>
-					<a href='{0}'>{1}, {2}</a> ({3}-{4})
-				</td>
-			</tr>"""
 	fileName = getFileName(composer)
-	row = row.format(fileName, htmlEscape(composer.surname), htmlEscape(composer.name), composer.born, composer.died)
+	row = composerListRow.format(filename=fileName, surname=htmlEscape(composer.surname), name=htmlEscape(composer.name), born=composer.born, died=composer.died)
 	return row
+
+def generateComposerTitle(composer):
+	row = composerTitleRow.format(surname=htmlEscape(composer.surname), name=htmlEscape(composer.name),
+		born=composer.born, died=composer.died)
+	return row
+	
+def generateCompositions(composer):
+	rows = ""
+	for composition in composer.compositions:
+		rows += generateComposition(composition)
+	return rows
+	
+def generateComposition(composition):
+	nameHtml = compositionNameRow.format(name=htmlEscape(composition.name))
+	descriptionsHtml = ""
+	for description in composition.descriptions:
+		descriptionsHtml += compositionDescriptionRow.format(description=htmlEscape(description))
+	lengthHtml = compositionLengthRow.format(length=composition.length)
+	partsHtml = ""
+	for part in composition.parts:
+		partsHtml += compositionPartRow.format(number=part.number, name=htmlEscape(part.name), length=part.length,
+			description=htmlEscape(part.description), composed=generateComposed(part.composed))
+	participantsHtml = ""
+	composedHtml = ""
+	recordedHtml = ""
+	releaseHtml = ""
+	releasedHtml = ""
+	row = compositionRow.format(name=nameHtml, descriptions=descriptionsHtml, length=lengthHtml, parts=partsHtml,
+		participants=participantsHtml, composed=composedHtml, recorded=recordedHtml, release=releaseHtml, released=releasedHtml)
+	return row
+
+def generateComposed(composed):
+	start = composed.start
+	end = composed.end
+	if not composed.start:
+		start = "?"
+	row = "(" + start + "s";
+	if composed.end:
+		row += composed.end + "e"
+	row += ")"
 
 def generateComposerFiles(composers):
 	for composer in composers:
 		generateComposerFile(composer)
 
 def generateComposerFile(composer):
-	fileName = "generated/" + getFileName(composer) + "2"
+	fileName = "generated2/" + getFileName(composer)
 	output = open(fileName, "w")
-	contents = "<html></html>"
+	titleHtml = generateComposerTitle(composer)
+	compositionsHtml = generateCompositions(composer)
+	contents = composerFileTemplate.format(composerTitle=titleHtml, compositions=compositionsHtml)
 	output.write(contents)
 	output.close()
 
