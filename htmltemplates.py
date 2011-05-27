@@ -129,10 +129,9 @@ compositionRow = u"""
 			{participants}
 		</td>
 		<td width="25%">
-			{composed}<br/>
-			{recorded}<br/>
-			{release}<br/>
-			{released}
+			({composed})<br/>
+			Rec.: {recorded}<br/>
+			{release} ({released})
 		</td>
 	</tr>"""
 	
@@ -150,9 +149,6 @@ compositionPartRow = u"""
 			{number}. <i>{name}</i> {description} {composed} {length}
 			<br/>"""
 
-compositionPlayerRow = u"""
-			{name}"""
-
 compositionInstrumentRow = u"""
 			{players}<span class="instrument">{name}</span>
 			<br/>"""
@@ -161,14 +157,6 @@ compositionConductorRow = u"""
 			Dir.: {name}
 			<br/>"""
 
-compositionComposedRow = u"""
-			({composed})"""
+compositionParticipantRow = u"""{participant}<br/>"""
 
-compositionRecordedRow = u"""
-			Rec.: {recorded}"""
-
-compositionReleaseRow = u"""
-			{release}"""
-
-compositionReleasedRow = u"""
-			{released}"""
+compositionComposedRow = u"""{composed}"""

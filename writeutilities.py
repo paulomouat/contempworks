@@ -73,8 +73,8 @@ def generateComposition(composition):
 	participantsHtml = generateParticipants(composition.participants)
 	composedHtml = generateComposed(composition.composed)
 	recordedHtml = generateRecorded(composition.recorded)
-	releaseHtml = generateRelease(composition.release)
-	releasedHtml = generateReleased(composition.released)
+	releaseHtml = htmlEscape(composition.release)
+	releasedHtml = htmlEscape(composition.released)
 	row = compositionRow.format(name=nameHtml, descriptions=descriptionsHtml, length=lengthHtml, parts=partsHtml,
 		participants=participantsHtml, composed=composedHtml, recorded=recordedHtml, release=releaseHtml, released=releasedHtml)
 	return row
@@ -84,17 +84,20 @@ def generateParticipants(participants):
 	for participant in participants:
 		if isinstance(participant, Conductor):
 			name = htmlEscape(participant.name)
-			row += compositionConductorRow.format(name=name)
+			conductorRow = compositionConductorRow.format(name=name)
+			row += compositionParticipantRow.format(participant=conductorRow)
 		elif isinstance(participant, Player):
 			name = htmlEscape(participant.name)
-			row += compositionPlayerRow.format(name=name)
+			playerRow = name
+			row += compositionParticipantRow.format(participant=playerRow)
 		elif isinstance(participant, Instrument):
 			name = htmlEscape(participant.name)
 			players = ""
 			for player in participant.players:
 				playerName = htmlEscape(player.name)
-				players += compositionPlayerRow.format(name=playerName) + ", "
-			row += compositionInstrumentRow.format(name=name, players=players)
+				players += playerName + ", "
+			instrumentRow = compositionInstrumentRow.format(name=name, players=players)
+			row += compositionParticipantRow.format(participant=instrumentRow)
 	return row
 
 def generateComposed(composed):
@@ -116,20 +119,7 @@ def generateRecorded(recorded):
 	v = start;
 	if recorded.end:
 		v += "-" + recorded.end
-	row = compositionRecordedRow.format(recorded=htmlEscape(v))
-	return row
-
-def generateRelease(release):
-	row =""
-	if release:
-		row = compositionReleaseRow.format(release=htmlEscape(release))
-	return row
-
-def generateReleased(released):
-	row =""
-	if released:
-		row = compositionReleasedRow.format(released=htmlEscape(released))
-	return row
+	return htmlEscape(v)
 
 def generateComposerFiles(composers):
 	for composer in composers:
