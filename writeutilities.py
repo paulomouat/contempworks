@@ -6,11 +6,7 @@ from entities import *
 
 def generateComposerList(composers):
 	fileName = "generated/composerlist.html"
-	header = open("composerlist-header.html")
-	footer = open("composerlist-footer.html")
-	contents = header.read()
-	header.close()
-	
+	contents = ""
 	previous = " "
 	for composer in composers:
 		current = composer.surname[0]
@@ -18,9 +14,7 @@ def generateComposerList(composers):
 			contents += generateInitialRow(current)
 			previous = current
 		contents += generateComposerInList(composer)
-	contents += footer.read()
-	footer.close()
-		
+	contents = composerListTemplate.format(composerList=contents)		
 	output = open(fileName, "w")
 	output.write(contents)
 	output.close()
