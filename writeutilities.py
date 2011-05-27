@@ -41,7 +41,9 @@ def generateComposerTitle(composer):
 	
 def generateCompositions(composer):
 	rows = ""
-	for composition in composer.compositions:
+	compositions = sorted(composer.compositions, sortCompositionsByEnd)
+	compositions = sorted(compositions, sortCompositionsByStart)
+	for composition in compositions:
 		rows += generateComposition(composition)
 	return rows
 	
@@ -65,13 +67,14 @@ def generateComposition(composition):
 		description = ""
 		if part.description:
 			description = htmlEscape(part.description)
+		composed = ""
 		if part.composed:
 			composed = generateComposed(part.composed)
-		else:
-			composed = ""
 		partsHtml += compositionPartRow.format(number=number, name=name, length=length, description=description, composed=composed)
 	participantsHtml = generateParticipants(composition.participants)
 	composedHtml = generateComposed(composition.composed)
+	if composedHtml == "":
+		composedHtml = "(?)"
 	recordedHtml = generateRecorded(composition.recorded)
 	releaseHtml = htmlEscape(composition.release)
 	releasedHtml = htmlEscape(composition.released)
@@ -105,10 +108,12 @@ def generateComposed(composed):
 	end = composed.end
 	if not composed.start:
 		start = "?"
-	v = start;
+	result = start;
 	if composed.end:
-		v += "-" + composed.end
-	row = compositionComposedRow.format(composed=htmlEscape(v))
+		result += "-" + composed.end
+	row = ""
+	if result != "?":
+		row = compositionComposedRow.format(composed=htmlEscape(result))
 	return row
 
 def generateRecorded(recorded):
@@ -126,7 +131,7 @@ def generateComposerFiles(composers):
 		generateComposerFile(composer)
 
 def generateComposerFile(composer):
-	fileName = "generated2/" + getFileName(composer)
+	fileName = "generated/" + getFileName(composer)
 	output = open(fileName, "w")
 	titleHtml = generateComposerTitle(composer)
 	compositionsHtml = generateCompositions(composer)
@@ -144,3 +149,49 @@ def safe(rawtext):
 	escaped = strip_accents(rawtext)
 	escaped = escaped.replace(" ", "-")
 	return escaped
+
+def sortCompositionsByStart(compositionA, compositionB):
+	composedA = compositionA.composed
+	yearA = ""
+	if composedA:
+		startA = composedA.start
+		endA = composedA.end
+		if startA:
+			yearA = startA
+		elif endA:
+			yearA = endA
+			
+	composedB = compositionB.composed
+	yearB = ""
+	if composedB:
+		startB = composedB.start
+		endB = composedB.end
+		if startB:
+			yearB = startB
+		elif endB:
+			yearB = endB
+		
+	return cmp(yearA, yearB)
+	
+def sortCompositionsByEnd(compositionA, compositionB):
+	composedA = compositionA.composed
+	yearA = ""
+	if composedA:
+		startA = composedA.start
+		endA = composedA.end
+		if endA:
+			yearA = endA
+		elif startA:
+			yearA = startA
+			
+	composedB = compositionB.composed
+	yearB = ""
+	if composedB:
+		startB = composedB.start
+		endB = composedB.end
+		if endB:
+			yearB = endB
+		elif startB:
+			yearB = startB
+		
+	return cmp(yearA, yearB)

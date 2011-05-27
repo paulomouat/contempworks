@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>currentDocument</key>
+	<string>contempworks.py</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -14,7 +16,7 @@
 			<key>filename</key>
 			<string>composerlist-header.html</string>
 			<key>lastUsed</key>
-			<date>2011-05-22T10:09:48Z</date>
+			<date>2011-05-26T13:35:43Z</date>
 		</dict>
 		<dict>
 			<key>children</key>
@@ -65,7 +67,7 @@
 					<key>filename</key>
 					<string>contempworks-h.xml</string>
 					<key>lastUsed</key>
-					<date>2011-05-22T09:57:45Z</date>
+					<date>2011-05-27T02:43:30Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
@@ -176,6 +178,8 @@
 					<date>2011-05-22T04:04:40Z</date>
 				</dict>
 			</array>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>xml</string>
 		</dict>
@@ -195,7 +199,7 @@
 			<key>filename</key>
 			<string>entities.py</string>
 			<key>lastUsed</key>
-			<date>2011-05-22T09:55:50Z</date>
+			<date>2011-05-27T03:24:26Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -205,13 +209,13 @@
 			<key>filename</key>
 			<string>parsing-tests.py</string>
 			<key>lastUsed</key>
-			<date>2011-05-22T04:27:47Z</date>
+			<date>2011-05-27T02:42:06Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>readutilities.py</string>
 			<key>lastUsed</key>
-			<date>2011-05-22T10:31:56Z</date>
+			<date>2011-05-27T02:44:21Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -229,33 +233,163 @@
 			<key>filename</key>
 			<string>textutilities.py</string>
 			<key>lastUsed</key>
-			<date>2011-05-26T13:16:50Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2011-05-26T15:06:24Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>contempworks.py</string>
 			<key>lastUsed</key>
-			<date>2011-05-26T13:16:48Z</date>
+			<date>2011-05-27T08:56:00Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>writeutilities.py</string>
 			<key>lastUsed</key>
-			<date>2011-05-26T13:16:49Z</date>
+			<date>2011-05-27T03:43:34Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>xmlutilities.py</string>
 			<key>lastUsed</key>
-			<date>2011-05-22T09:29:06Z</date>
+			<date>2011-05-27T02:42:14Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>htmltemplates.py</string>
+			<key>lastUsed</key>
+			<date>2011-05-27T03:39:51Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
-	<dict/>
+	<dict>
+		<key>contempworks-h.xml</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>63</integer>
+				<key>line</key>
+				<integer>958</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>902</integer>
+		</dict>
+		<key>contempworks.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>32</integer>
+				<key>line</key>
+				<integer>15</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>entities.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>30</integer>
+				<key>line</key>
+				<integer>46</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>htmltemplates.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>154</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>121</integer>
+		</dict>
+		<key>parsing-tests.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>23</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>readutilities.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>9</integer>
+				<key>line</key>
+				<integer>140</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>109</integer>
+		</dict>
+		<key>writeutilities.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>15</integer>
+				<key>line</key>
+				<integer>94</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>71</integer>
+		</dict>
+		<key>xmlutilities.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>13</integer>
+				<key>line</key>
+				<integer>36</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>openDocuments</key>
+	<array>
+		<string>contempworks.py</string>
+		<string>writeutilities.py</string>
+		<string>htmltemplates.py</string>
+		<string>parsing-tests.py</string>
+		<string>xmlutilities.py</string>
+		<string>readutilities.py</string>
+		<string>contempworks-h.xml</string>
+		<string>entities.py</string>
+	</array>
 	<key>showFileHierarchyDrawer</key>
 	<false/>
 	<key>windowFrame</key>
