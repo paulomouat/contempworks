@@ -120,49 +120,55 @@ composerTitleRow = u"""
 compositionRow = u"""
 	<tr valign="top">
 		<td width="25%">
-			{name}
+			{name}<br/>
 			{descriptions}
 		</td>
 		<td width="25%">
-			{length}
+			{length}<br/>
 			{parts}
 			{participants}
 		</td>
 		<td width="25%">
-			{composed}
-			{recorded}
-			{release}
+			{composed}<br/>
+			{recorded}<br/>
+			{release}<br/>
 			{released}
 		</td>
 	</tr>"""
 	
 compositionNameRow = u"""
-			<span class="composition_name">{name}</span>
-			<br/>"""
+			<span class="composition_name">{name}</span>"""
 
 compositionDescriptionRow = u"""
 			<span class="composition_description">{description}</span>
 			<br/>"""
 
 compositionLengthRow = u"""
-			<span class="composition_length">{length}</span>
-			<br/>"""
+			<span class="composition_length">{length}</span>"""
 
 compositionPartRow = u"""
 			{number}. <i>{name}</i> {description} {composed} {length}
 			<br/>"""
 
-compositionParticipantRow = u"""
-"""
+compositionPlayerRow = u"""
+			{name}"""
+
+compositionInstrumentRow = u"""
+			{players}<span class="instrument">{name}</span>
+			<br/>"""
+
+compositionConductorRow = u"""
+			Dir.: {name}
+			<br/>"""
 
 compositionComposedRow = u"""
-"""
+			({composed})"""
 
 compositionRecordedRow = u"""
-"""
+			Rec.: {recorded}"""
 
 compositionReleaseRow = u"""
-"""
+			{release}"""
 
 compositionReleasedRow = u"""
-"""
+			{released}"""

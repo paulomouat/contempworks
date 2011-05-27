@@ -2,6 +2,7 @@
 
 from textutilities import *
 from htmltemplates import *
+from entities import *
 
 def generateComposerList(composers):
 	fileName = "generated/composerlist.html"
@@ -52,15 +53,48 @@ def generateComposition(composition):
 	lengthHtml = compositionLengthRow.format(length=composition.length)
 	partsHtml = ""
 	for part in composition.parts:
-		partsHtml += compositionPartRow.format(number=part.number, name=htmlEscape(part.name), length=part.length,
-			description=htmlEscape(part.description), composed=generateComposed(part.composed))
-	participantsHtml = ""
-	composedHtml = ""
-	recordedHtml = ""
-	releaseHtml = ""
-	releasedHtml = ""
+		number = ""
+		if part.number:
+			number = part.number
+		name = ""
+		if part.name:
+			name = htmlEscape(part.name)
+		length = ""
+		if part.length:
+			length = part.length
+		description = ""
+		if part.description:
+			description = htmlEscape(part.description)
+		if part.composed:
+			composed = generateComposed(part.composed)
+		else:
+			composed = ""
+		partsHtml += compositionPartRow.format(number=number, name=name, length=length, description=description, composed=composed)
+	participantsHtml = generateParticipants(composition.participants)
+	composedHtml = generateComposed(composition.composed)
+	recordedHtml = generateRecorded(composition.recorded)
+	releaseHtml = generateRelease(composition.release)
+	releasedHtml = generateReleased(composition.released)
 	row = compositionRow.format(name=nameHtml, descriptions=descriptionsHtml, length=lengthHtml, parts=partsHtml,
 		participants=participantsHtml, composed=composedHtml, recorded=recordedHtml, release=releaseHtml, released=releasedHtml)
+	return row
+
+def generateParticipants(participants):
+	row = ""
+	for participant in participants:
+		if isinstance(participant, Conductor):
+			name = htmlEscape(participant.name)
+			row += compositionConductorRow.format(name=name)
+		elif isinstance(participant, Player):
+			name = htmlEscape(participant.name)
+			row += compositionPlayerRow.format(name=name)
+		elif isinstance(participant, Instrument):
+			name = htmlEscape(participant.name)
+			players = ""
+			for player in participant.players:
+				playerName = htmlEscape(player.name)
+				players += compositionPlayerRow.format(name=playerName) + ", "
+			row += compositionInstrumentRow.format(name=name, players=players)
 	return row
 
 def generateComposed(composed):
@@ -68,10 +102,34 @@ def generateComposed(composed):
 	end = composed.end
 	if not composed.start:
 		start = "?"
-	row = "(" + start + "s";
+	v = start;
 	if composed.end:
-		row += composed.end + "e"
-	row += ")"
+		v += "-" + composed.end
+	row = compositionComposedRow.format(composed=htmlEscape(v))
+	return row
+
+def generateRecorded(recorded):
+	start = recorded.start
+	end = recorded.end
+	if not recorded.start:
+		start = "?"
+	v = start;
+	if recorded.end:
+		v += "-" + recorded.end
+	row = compositionRecordedRow.format(recorded=htmlEscape(v))
+	return row
+
+def generateRelease(release):
+	row =""
+	if release:
+		row = compositionReleaseRow.format(release=htmlEscape(release))
+	return row
+
+def generateReleased(released):
+	row =""
+	if released:
+		row = compositionReleasedRow.format(released=htmlEscape(released))
+	return row
 
 def generateComposerFiles(composers):
 	for composer in composers:
