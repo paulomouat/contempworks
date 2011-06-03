@@ -1548,6 +1548,19 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Fetzen</name>
+			<description>für Akkordeon und Streichquartett</description>
+			<length>27:22</length>
+			<instrument name="Akkordeon">
+				<player name="Teodoro Anzellotti"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1999" end="2004"/>
+			<recorded start="2009"/>
+			<release>Winter &amp; Winter 910 178-2</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Auf einem anderen Blatt</name>
 			<length>4:21</length>
 			<instrument name="Piano">
@@ -1590,6 +1603,28 @@
 			<recorded start="2005"/>
 			<release>Col Legno WWE 1CD 20227</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>12. Streichquartett</name>
+			<length>13:46</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2000" end="2001"/>
+			<recorded start="2009"/>
+			<release>Winter &amp; Winter 910 178-2</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Interscriptum</name>
+			<description>Duo für Streichquartett und Klavier</description>
+			<length>14:29</length>
+			<instrument name="Klavier">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2000" end="2004"/>
+			<recorded start="2009"/>
+			<release>Winter &amp; Winter 910 178-2</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Vier Studien zu einem Klarinettenquintett</name>
