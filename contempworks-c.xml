@@ -1155,6 +1155,33 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Ryoanji</name>
+			<description>version for voice, flute, oboe, trombone, contrabass and percussion</description>
+			<length>1:00:30</length>
+			<instrument name="voice">
+				<player name="John Patrick Thomas"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="oboe">
+				<player name="Gudrun Reschke"/>
+			</instrument>
+			<instrument name="trombone">
+				<player name="Iven Hausmann"/>
+			</instrument>
+			<instrument name="contrabass">
+				<player name="Robert Black"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1983" end="1985"/>
+			<recorded start="1995"/>
+			<release>hat[now] ART 153</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Music for two</name>
 			<description>for 2 pianos</description>
 			<length>29:57</length>

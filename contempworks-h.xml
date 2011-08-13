@@ -1020,6 +1020,106 @@
 			<release>Aeon AECD 1100</release>
 			<released>2011</released>
 		</composition>
+		<composition>
+			<name>Puneigä</name>
+			<description>Zehn Lieder mit Zwischenspielen nach Gedichten von Anna Maria Bacher (in Pumatter Titsch)</description>
+			<length>28:39</length>
+			<instrument name="Sopran">
+				<player name="Sylvia Nopper"/>
+			</instrument>
+			<instrument name="Flöte, Piccolo, Altflöte, Bassflöte">
+				<player name="Felix Renggli"/>
+			</instrument>
+			<instrument name="Klarinette, Bassklarinette, Kontrabassklarinette">
+				<player name="Elmar Schmid"/>
+			</instrument>
+			<instrument name="Horn">
+				<player name="Olivier Darbellay"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Jürg Dähler"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Daniel Haefliger"/>
+			</instrument>
+			<instrument name="Schlagzeug, Cimbalum">
+				<player name="Matthias Würsch"/>
+			</instrument>
+			<conductor>Heinz Holliger</conductor>
+			<composed start="2000" end="2002"/>
+			<recorded start="2007"/>
+			<release>ECM 2201</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Ma'mounia</name>
+			<description>für Schlagzeug solo und instrumental-Quintett</description>
+			<length>12:12</length>
+			<instrument name="Schlagzeug solo">
+				<player name="Matthias Würsch"/>
+			</instrument>
+			<instrument name="Flöte, Piccolo, Altflöte">
+				<player name="Felix Renggli"/>
+			</instrument>
+			<instrument name="Klarinette, Bassklarinette">
+				<player name="Elmar Schmid"/>
+			</instrument>
+			<instrument name="Horn">
+				<player name="Olivier Darbellay"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Daniel Haefliger"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Bahar Dördüncü"/>
+			</instrument>
+			<conductor>Heinz Holliger</conductor>
+			<composed start="2002"/>
+			<recorded start="2007"/>
+			<release>ECM 2201</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Induuchlen</name>
+			<description>Vier Lieder nach &quot;Briesentiitsch Väärsa&quot; von Albert Streich</description>
+			<description>für Countertenor (mit Baritonlage) und Naturhorn in F und Es</description>
+			<length>18:29</length>
+			<instrument name="Countertenor">
+				<player name="Kai Wessel"/>
+			</instrument>
+			<instrument name="Naturhorn">
+				<player name="Olivier Darbellay"/>
+			</instrument>
+			<composed start="2004"/>
+			<recorded start="2006"/>
+			<release>ECM 2201</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Toronto-Exercises</name>
+			<description>für Flöte (auch Altflöte), Klarinette in B, Violine, Harfe und Marimbaphon</description>
+			<length>10:45</length>
+			<instrument name="Flöte, Altflöte">
+				<player name="Felix Renggli"/>
+			</instrument>
+			<instrument name="Klarinette">
+				<player name="François Benda"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Jürg Dähler"/>
+			</instrument>
+			<instrument name="Marimbaphon">
+				<player name="Matthias Würsch"/>
+			</instrument>
+			<instrument name="Harfe">
+				<player name="Ursula Holliger"/>
+			</instrument>
+			<conductor>Heinz Holliger</conductor>
+			<composed start="2005"/>
+			<recorded start="2008"/>
+			<release>ECM 2201</release>
+			<released>2011</released>
+		</composition>
 	</composer>
 	<composer name="Toshio" surname="Hosokawa" born="1955" died="">
 		<composition>

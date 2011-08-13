@@ -1644,6 +1644,17 @@
 	</composer>
 	<composer name="Arnold" surname="Schönberg" born="1874" died="1951">
 		<composition>
+			<name>Drei Klavierstücke</name>
+			<length>7:22</length>
+			<instrument name="piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1894"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 184</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Verklärte Nacht, op.4</name>
 			<length>29:53</length>
 			<player name="Berliner Philharmoniker"/>
@@ -1669,10 +1680,21 @@
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
 			</instrument>
-			<composed start="1894"/>
+			<composed start="1909"/>
 			<recorded start="1974"/>
 			<release>Deutsche Grammophon 423 249-2</release>
 			<released>1975</released>
+		</composition>
+		<composition>
+			<name>Drei Klavierstücke, op.11</name>
+			<length>13:53</length>
+			<instrument name="piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1909"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 184</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>5 Orchesterstücke, op.16</name>
@@ -1709,6 +1731,17 @@
 			<recorded start="1974"/>
 			<release>Deutsche Grammophon 423 249-2</release>
 			<released>1975</released>
+		</composition>
+		<composition>
+			<name>Sechs kleine Klavierstücke, op.19</name>
+			<length>6:20</length>
+			<instrument name="piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1911"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 184</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Pierrot Lunaire, op.21</name>
@@ -1750,6 +1783,17 @@
 			<released>1975</released>
 		</composition>
 		<composition>
+			<name>Fünf Klavierstücke, op.23</name>
+			<length>9:50</length>
+			<instrument name="piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1920" end="1923"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 184</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Serenade op. 24 für Klarinette und Orchester</name>
 			<length>35:36</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
@@ -1769,6 +1813,17 @@
 			<recorded start="1974"/>
 			<release>Deutsche Grammophon 423 249-2</release>
 			<released>1975</released>
+		</composition>
+		<composition>
+			<name>Suite für Klavier, op.25</name>
+			<length>14:03</length>
+			<instrument name="piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1921" end="1923"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 184</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Lied der Waldtaube</name>
@@ -1818,6 +1873,17 @@
 			<released>1975</released>
 		</composition>
 		<composition>
+			<name>Klavierstück, op.33a</name>
+			<length>1:57</length>
+			<instrument name="piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1928" end="1929"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 184</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Klavierstück, op.33b</name>
 			<length>3:31</length>
 			<instrument name="Piano">
@@ -1829,6 +1895,17 @@
 			<released>1975</released>
 		</composition>
 		<composition>
+			<name>Klavierstück, op.33b</name>
+			<length>3:06</length>
+			<instrument name="piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1931"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 184</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Begleitmusik zu einer Lichtspielszene, op.34</name>
 			<length>8:24</length>
 			<player name="BBC Symphony Orchestra"/>
@@ -1837,6 +1914,17 @@
 			<recorded start="1976"/>
 			<release>Sony SMK 48462</release>
 			<released/>
+		</composition>
+		<composition>
+			<name>17 Fragmente von verschiedenem Klavierstücke (1900-1933)</name>
+			<length>21:57</length>
+			<instrument name="piano">
+				<player name="Pi-Hsien Chen"/>
+			</instrument>
+			<composed start="1900" end="1933"/>
+			<recorded start="1996"/>
+			<release>hat[now] ART 184</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="William" surname="Schottstaedt" born="1951" died="">

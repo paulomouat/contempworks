@@ -124,17 +124,6 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Syrmos</name>
-			<description>für 18 Streicher</description>
-			<length>11:38</length>
-			<player name="Ensemble Ars Nova de l'ORTF"/>
-			<conductor>Marius Constant</conductor>
-			<composed start="1965" end="1966"/>
-			<recorded start=""/>
-			<release>RZ 1015-16</release>
-			<released>2003</released>
-		</composition>
-		<composition>
 			<name>Analogique A+B</name>
 			<description>for 9 strings and tape</description>
 			<length>6:38</length>
@@ -333,6 +322,17 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Syrmos</name>
+			<description>für 18 Streicher</description>
+			<length>11:38</length>
+			<player name="Ensemble Ars Nova de l'ORTF"/>
+			<conductor>Marius Constant</conductor>
+			<composed start="1965" end="1966"/>
+			<recorded start=""/>
+			<release>RZ 1015-16</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Terretektorh</name>
 			<description>für im Publikumsraum verteiltes Orchester</description>
 			<length>15:17</length>
@@ -386,6 +386,17 @@
 			<recorded start=""/>
 			<release>RZ 1015-16</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Kraanerg</name>
+			<description>for 23 instruments and 4-channel tape</description>
+			<length>1:17:21</length>
+			<player name="The Callithumpian Consort"/>
+			<conductor>Stephen Drury</conductor>
+			<composed start="1968" end="1969"/>
+			<recorded start="2006"/>
+			<release>Mode 196</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Persephassa</name>
