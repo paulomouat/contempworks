@@ -1021,6 +1021,21 @@
 			<release>EMI 5-74302-2</release>
 			<released>2001</released>
 		</composition>
+		<composition>
+			<name>Duo concertante</name>
+			<description>per violino e contrabbasso</description>
+			<length>5:03</length>
+			<instrument name="Violin">
+				<player name="Anne-Sophie Mutter"/>
+			</instrument>
+			<instrument name="Double bass">
+				<player name="Roman Patkoló"/>
+			</instrument>
+			<composed start="2010"/>
+			<recorded start="2011"/>
+			<release>Deutsche Grammophon 477 9359</release>
+			<released>2011</released>
+		</composition>
 	</composer>
 	<composer name="Mats" surname="Persson" born="1943" died="">
 		<composition>

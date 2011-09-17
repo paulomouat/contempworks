@@ -2615,4 +2615,20 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Sebastian" surname="Currier" born="1959" died="">
+		<composition>
+			<name>Time Machines</name>
+			<description>for violin and orchestra</description>
+			<length>29:05</length>
+			<instrument name="Violin">
+				<player name="Anne-Sophie Mutter"/>
+			</instrument>
+			<player name="New York Philharmonic"/>
+			<conductor>Alan Gilbert</conductor>
+			<composed start="2007"/>
+			<recorded start="2011"/>
+			<release>Deutsche Grammophon 477 9359</release>
+			<released>2011</released>
+		</composition>
+	</composer>
 </list>

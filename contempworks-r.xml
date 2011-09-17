@@ -1282,6 +1282,20 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Gesungene Zeit</name>
+			<description>Musik für Violine und Orchester</description>
+			<length>24:23</length>
+			<instrument name="Violine">
+				<player name="Anne-Sophie Mutter"/>
+			</instrument>
+			<player name="Chicago Symphony Orchestra"/>
+			<conductor>James Levine</conductor>
+			<composed start="1991" end="1992"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 437 093-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>String Quartet No. 9&quot;Quartettsatz&quot; </name>
 			<length>22:29</length>
 			<player name="Minguet Quartet"/>
@@ -1733,6 +1747,36 @@
 			<recorded start="2006" end="2008"/>
 			<release>hänssler Classic CD 93.263</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Lichtes Spiel</name>
+			<description>Ein Sommerstück</description>
+			<description>for violin and small orchestra</description>
+			<length>17:08</length>
+			<instrument name="Violin">
+				<player name="Anne-Sophie Mutter"/>
+			</instrument>
+			<player name="New York Philharmonic"/>
+			<conductor>Michael Francis</conductor>
+			<composed start="2009"/>
+			<recorded start="2010"/>
+			<release>Deutsche Grammophon 477 9359</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Dyade</name>
+			<description>for violin and double bass</description>
+			<length>12:35</length>
+			<instrument name="Violin">
+				<player name="Anne-Sophie Mutter"/>
+			</instrument>
+			<instrument name="Double bass">
+				<player name="Roman Patkoló"/>
+			</instrument>
+			<composed start="2010" end="2011"/>
+			<recorded start="2011"/>
+			<release>Deutsche Grammophon 477 9359</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Jean-Claude" surname="Risset" born="1938" died="">

@@ -551,6 +551,20 @@
 			<release>EMI</release>
 			<released>1989</released>
 		</composition>
+		<composition>
+			<name>Violinkonzert</name>
+			<description>Dem Andenken eines Engels</description>
+			<length>27:43</length>
+			<instrument name="Violine">
+				<player name="Anne-Sophie Mutter"/>
+			</instrument>
+			<player name="Chicago Symphony Orchestra"/>
+			<conductor>James Levine</conductor>
+			<composed start="1935"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 437 093-2</release>
+			<released>1992</released>
+		</composition>
 	</composer>
 	<composer name="Erik" surname="Bergman" born="1911" died="2006">
 		<composition>
