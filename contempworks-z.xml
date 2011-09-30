@@ -107,6 +107,21 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Schuberts &quot;Winterreise&quot;</name>
+			<description>Eine komponierte Interpretation</description>
+			<description>für Tenor und kleines Orchester</description>
+			<length>1:33:49</length>
+			<instrument name="Tenor">
+				<player name="Christoph Prégardien"/>
+			</instrument>
+			<player name="Klangforum Wien"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1993"/>
+			<recorded start="1999"/>
+			<release>Kairos 0012002KAI</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Music to hear</name>
 			<description>nach dem 8. Sonett von William Shakespeare</description>
 			<description>für Sopran, Soloflöte, Echoflöte und Ensemble</description>
