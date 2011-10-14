@@ -852,6 +852,28 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Risonanze erranti</name>
+			<description>a Massimo Cacciari</description>
+			<description>for contralto, flute, tuba, percussionists and live electronics</description>
+			<length>40:18</length>
+			<instrument name="Contralto">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="Flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="Tuba">
+				<player name="Klaus Burger"/>
+			</instrument>
+			<player name="Les Percussions de Strasbourg"/>
+			<player name="Experimentalstudio des SWR"/>
+			<conductor>Detlef Heusinger</conductor>
+			<composed start="1986" end="1987"/>
+			<recorded start="2010"/>
+			<release>Neos 11119</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>No hay caminos, hay que caminar... Andrei Tarkovskij</name>
 			<description>pour sept groupes instrumentaux</description>
 			<length>24:00</length>
@@ -901,6 +923,19 @@
 			<recorded start="1991"/>
 			<release>Ricordi CRMCD 1003</release>
 			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Post-prae-ludium per Donau</name>
+			<description>for tuba and live electronics</description>
+			<length>13:39</length>
+			<instrument name="Tuba">
+				<player name="Klaus Burger"/>
+			</instrument>
+			<player name="Experimentalstudio des SWR"/>
+			<composed start="1987"/>
+			<recorded start="2010"/>
+			<release>Neos 11119</release>
+			<released>2011</released>
 		</composition>
 		<composition score="Y">
 			<name>La lontananza nostalgica utopica futura</name>
