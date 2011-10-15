@@ -205,6 +205,19 @@
 			<release>Etcetera KTC1242</release>
 			<released>2001</released>
 		</composition>
+		<composition>
+			<name>Ends Meet</name>
+			<description>for marimba and string quartet</description>
+			<length>11:21</length>
+			<instrument name="Marimba">
+				<player name="Pedro Carneiro"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2001" end="2002"/>
+			<recorded start="2006"/>
+			<release>Etcetera KTC 1399</release>
+			<released>2010</released>
+		</composition>
 	</composer>
 	<composer name="Manfred" surname="Trojahn" born="1949" died="">
 		<composition>

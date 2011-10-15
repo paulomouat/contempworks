@@ -136,6 +136,18 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Patricia Sucena de" surname="Almeida" born="1972" died="">
+		<composition>
+			<name>Dulce delirium</name>
+			<description>for string quartet</description>
+			<length>8:04</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2005"/>
+			<recorded start="2009"/>
+			<release>Etcetera KTC 1399</release>
+			<released>2010</released>
+		</composition>
+	</composer>
 	<composer name="Pedro" surname="Amaral" born="1972" died="">
 		<composition>
 			<name>...Textos, Paráfrases, Perspectivas...</name>

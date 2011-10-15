@@ -58,6 +58,16 @@
 			<release>Etcetera KTC1242</release>
 			<released>2001</released>
 		</composition>
+		<composition>
+			<name>Espiral de Luz</name>
+			<description>for string quartet</description>
+			<length>14:19</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2005"/>
+			<recorded start="2009"/>
+			<release>Etcetera KTC 1399</release>
+			<released>2010</released>
+		</composition>
 	</composer>
 	<composer name="Carl" surname="Orff" born="1895" died="1982">
 		<composition>

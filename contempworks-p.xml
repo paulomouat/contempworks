@@ -1037,6 +1037,21 @@
 			<released>2011</released>
 		</composition>
 	</composer>
+	<composer name="Rui" surname="Penha" born="1981" died="">
+		<composition>
+			<name>Perspective</name>
+			<description>for marimba and string quartet</description>
+			<length>12:49</length>
+			<instrument name="Marimba">
+				<player name="Pedro Carneiro"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2007"/>
+			<recorded start="2009"/>
+			<release>Etcetera KTC 1399</release>
+			<released>2010</released>
+		</composition>
+	</composer>
 	<composer name="Mats" surname="Persson" born="1943" died="">
 		<composition>
 			<name>Stilleben mit Sweelinck</name>
@@ -1063,6 +1078,50 @@
 			<recorded start="1952"/>
 			<release>INA C 1032</release>
 			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Matthias" surname="Pintscher" born="1971" died="">
+		<composition>
+			<name>tenebrae</name>
+			<description>Musik für skordierte Viola und klein Ensemble mit Live-Elektronik</description>
+			<length>15:58</length>
+			<instrument name="Viola">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Matthias Pintscher</conductor>
+			<composed start="2000" end="2001"/>
+			<recorded start="2006"/>
+			<release>Kairos 0012582 KAI</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>en sourdine</name>
+			<description>Musik für Violine und Orchester</description>
+			<length>26:33</length>
+			<instrument name="Violin">
+				<player name="Frank Peter Zimmermann"/>
+			</instrument>
+			<player name="NDR Sinfonieorchester"/>
+			<conductor>Matthias Pintscher</conductor>
+			<composed start="2002"/>
+			<recorded start="2006"/>
+			<release>Kairos 0012582 KAI</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Reflections on Narcissus</name>
+			<description>for violoncello and orchestra</description>
+			<length>35:21</length>
+			<instrument name="Violoncello">
+				<player name="Truls Mørk"/>
+			</instrument>
+			<player name="NDR Sinfonieorchester"/>
+			<conductor>Matthias Pintscher</conductor>
+			<composed start="2004" end="2005"/>
+			<recorded start="2006"/>
+			<release>Kairos 0012582 KAI</release>
+			<released>2007</released>
 		</composition>
 	</composer>
 	<composer name="Paul" surname="Pörtner" born="1925" died="1984">

@@ -1559,6 +1559,20 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Uri" surname="Caine" born="1956" died="">
+		<composition>
+			<name>Twelve Caprices</name>
+			<length>1:01:56</length>
+			<instrument name="Piano">
+				<player name="Uri Caine"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="?"/>
+			<recorded start="2009"/>
+			<release>Winter &amp; Winter 910 171-2</release>
+			<released>2010</released>
+		</composition>
+	</composer>
 	<composer name="Edgardo" surname="Canton" born="" died="">
 		<composition>
 			<name>Rengaine à pleurer (extrait)</name>
@@ -1589,6 +1603,20 @@
 			<recorded start="1967"/>
 			<release>Mode 205</release>
 			<released>2009</released>
+		</composition>
+	</composer>
+	<composer name="Pedro" surname="Carneiro" born="1975" died="">
+		<composition>
+			<name>Lentement, music boxes floating... (whisper for JS)</name>
+			<description>for solo cello</description>
+			<length>4:51</length>
+			<instrument name="Cello">
+				<player name="Lucas Fels"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2009"/>
+			<release>Etcetera KTC 1399</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Elliot" surname="Carter" born="1908" died="">
@@ -2214,6 +2242,17 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Spiegel I-VII</name>
+			<description>für Großes Orchester und Tonband</description>
+			<length>1:29:39</length>
+			<player name="SWR-Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1960" end="1961"/>
+			<recorded start="2006"/>
+			<release>Kairos 0013002KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Netzwerk</name>
 			<description>Bühnenwerk in 3 Teilen</description>
 			<length>1:39:17</length>
@@ -2345,6 +2384,17 @@
 			<recorded start="1989"/>
 			<release>Col Legno WWE 2CD 20006</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Monumentum</name>
+			<description>für Großes Orchester</description>
+			<length>21:59</length>
+			<player name="ORF-Radio-Symphonieorchester Wien"/>
+			<conductor>Dennis Russell Davis</conductor>
+			<composed start="1988"/>
+			<recorded start="2001"/>
+			<release>Kairos 0013002KAI</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Streichquartett &quot;Maqam&quot;</name>
@@ -2487,6 +2537,49 @@
 			<recorded start="1997"/>
 			<release>CPO 999 646-2</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Momente</name>
+			<description>für Orchester</description>
+			<length>20:52</length>
+			<player name="ORF-Radio-Symphonieorchester Wien"/>
+			<conductor>Friedrich Cerha</conductor>
+			<composed start="2005"/>
+			<recorded start="2007"/>
+			<release>Kairos 0013002KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Instants</name>
+			<description>for orchestra</description>
+			<length>33:50</length>
+			<player name="WDR Sinfonieorchester Köln"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="2006" end="2007"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013152KAI</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Neun Bagatellen</name>
+			<description>for string trio</description>
+			<length>14:16</length>
+			<player name="Zebra Trio"/>
+			<composed start="2008"/>
+			<recorded start="2010"/>
+			<release>Kairos 0013152KAI</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Bruchstück, geträumt</name>
+			<description>for ensemble</description>
+			<length>18:41</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="2009"/>
+			<recorded start="2010"/>
+			<release>Kairos 0013152KAI</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Nicola" surname="Cisternino" born="1957" died="">

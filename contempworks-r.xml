@@ -141,6 +141,19 @@
 			<release>Non-commercial release of the composer</release>
 			<released>-</released>
 		</composition>
+		<composition>
+			<name>Verzweigungen</name>
+			<description>for marimba and string quartet</description>
+			<length>18:24</length>
+			<instrument name="Marimba">
+				<player name="Pedro Carneiro"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2008"/>
+			<recorded start="2009"/>
+			<release>Etcetera KTC 1399</release>
+			<released>2010</released>
+		</composition>
 	</composer>
 	<composer name="Horatiu" surname="Radulescu" born="1942" died="">
 		<composition>
@@ -1986,6 +1999,21 @@
 			<recorded start="2002"/>
 			<release>Mode 165</release>
 			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Clotilde" surname="Rosa" born="1930" died="">
+		<composition>
+			<name>Canto circular</name>
+			<description>for marimba and string quartet</description>
+			<length>9:20</length>
+			<instrument name="Marimba">
+				<player name="Pedro Carneiro"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2000"/>
+			<recorded start="2006"/>
+			<release>Etcetera KTC 1399</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Frederic" surname="Rzewski" born="1938" died="">
