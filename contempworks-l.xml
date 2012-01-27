@@ -432,7 +432,7 @@
 			<player name="Nouvel Orchestre Philharmonique de Radio France"/>
 			<conductor>Gilbert Amy, Hubert Soudant</conductor>
 			<player name="Régie électro-acoustique INA-GRM"/>
-			<composed start="?"/>
+			<composed start="1979"/>
 			<recorded start="1981"/>
 			<release>Adès 20 381 2</release>
 			<released>1985-89</released>
@@ -441,7 +441,7 @@
 			<name>Les rires du Gilles</name>
 			<length>7:05</length>
 			<player name="Solistes de l'Ensemble 2E2M"/>
-			<composed start="?"/>
+			<composed start="1981"/>
 			<recorded start="1981"/>
 			<release>Adès 20 381 2</release>
 			<released>1985-89</released>
@@ -451,7 +451,7 @@
 			<length>12:30</length>
 			<player name="Ensemble l'Itineraire"/>
 			<conductor>Yves Prin</conductor>
-			<composed start="?"/>
+			<composed start="1980"/>
 			<recorded start="1984"/>
 			<release>Adès 20 381 2</release>
 			<released>1985-89</released>
@@ -468,7 +468,7 @@
 			<instrument name="Percussion">
 				<player name="Jean-Gillaume Cattin"/>
 			</instrument>
-			<composed start="?"/>
+			<composed start="1973"/>
 			<recorded start="1974"/>
 			<release>Adès 20 381 2</release>
 			<released>1985-89</released>
@@ -485,7 +485,7 @@
 			<instrument name="Transformations électro-acoustiques">
 				<player name="Augusto Mannis"/>
 			</instrument>
-			<composed start="?"/>
+			<composed start="1980"/>
 			<recorded start="1984"/>
 			<release>Adès 20 381 2</release>
 			<released>1985-89</released>
@@ -496,7 +496,7 @@
 			<length>20:54</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
 			<conductor>Michael Gielen</conductor>
-			<composed start="?"/>
+			<composed start="1994"/>
 			<recorded start="1994"/>
 			<release>Col Legno CD1 31907</release>
 			<released>1996</released>
