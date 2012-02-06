@@ -1242,6 +1242,17 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Duktus</name>
+			<description>pour 21 instruments</description>
+			<length>32:06</length>
+			<player name="Remix Ensemble"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="1987"/>
+			<recorded start="2006"/>
+			<release>Numerica NUM 1153</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Versus III</name>
 			<description>pour flûte en sol et alto</description>
 			<length>12:57</length>
@@ -1323,6 +1334,17 @@
 			<composed start="2003"/>
 			<recorded start="2007"/>
 			<release>Aeon AECD 0756</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Épures du Serpent Vert II</name>
+			<description>pour grand ensemble</description>
+			<length>25:38</length>
+			<player name="Remix Ensemble"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="2005"/>
+			<recorded start="2006"/>
+			<release>Numerica NUM 1153</release>
 			<released>2007</released>
 		</composition>
 		<composition>

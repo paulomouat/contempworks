@@ -4,6 +4,21 @@
 <list>
 	<composer name="Iannis" surname="Xenakis" born="1922" died="2001">
 		<composition>
+			<name>Dhipli Zyia</name>
+			<description>pour violon et violoncelle</description>
+			<length>4:52</length>
+			<instrument name="Violon">
+				<player name="Wilbert Aerts"/>
+			</instrument>
+			<instrument name="Violoncelle">
+				<player name="Arne Deforce"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD 1109</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Metastasis</name>
 			<length>8:55</length>
 			<player name="Orchestre National de l'O.R.T.F."/>
@@ -366,6 +381,18 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Nomos Alpha</name>
+			<description>pour violoncelle seul</description>
+			<length>19:13</length>
+			<instrument name="Violoncelle">
+				<player name="Arne Deforce"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD 1109</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Polytope de Montréal</name>
 			<description>für Orchester</description>
 			<length>6:18</length>
@@ -471,6 +498,21 @@
 			<composed start="1971"/>
 			<release>Mode 152</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Charisma</name>
+			<description>pour clarinette et violoncelle</description>
+			<length>4:31</length>
+			<instrument name="Clarinette">
+				<player name="Benjamin Dieltjens"/>
+			</instrument>
+			<instrument name="Violoncelle">
+				<player name="Arne Deforce"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD 1109</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Polytope de Cluny</name>
@@ -657,6 +699,18 @@
 			<recorded start="1991"/>
 			<release>Montaigne 782005</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Kottos</name>
+			<description>pour violoncelle seul</description>
+			<length>10:33</length>
+			<instrument name="Violoncelle">
+				<player name="Arne Deforce"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD 1109</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Synaphaï</name>
@@ -1147,6 +1201,20 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Epicycles</name>
+			<description>pour violoncelle soliste et douze instruments</description>
+			<length>12:27</length>
+			<instrument name="Violoncelle">
+				<player name="Arne Deforce"/>
+			</instrument>
+			<player name="Ensemble musikFabrik"/>
+			<conductor>James Wood</conductor>
+			<composed start="1989"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD 1109</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Tetora</name>
 			<description>for string quartet</description>
 			<length>14:43</length>
@@ -1245,6 +1313,21 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Paille in the wind</name>
+			<description>pour violoncelle et piano</description>
+			<length>5:15</length>
+			<instrument name="Violoncelle">
+				<player name="Arne Deforce"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Daan Vandewalle"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD 1109</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Plektó</name>
 			<description>for flute, clarinet, piano, percussion, violin and cello</description>
 			<length>8:10</length>
@@ -1306,6 +1389,36 @@
 			<composed start="1996"/>
 			<release>Mode 152</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Hunem-Iduhey</name>
+			<description>pour violon et violoncelle</description>
+			<length>3:19</length>
+			<instrument name="Violon">
+				<player name="Wilbert Aerts"/>
+			</instrument>
+			<instrument name="Violoncelle">
+				<player name="Arne Deforce"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD 1109</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Roscobeck</name>
+			<description>pour violoncelle et contrebasse</description>
+			<length>7:46</length>
+			<instrument name="Violoncelle">
+				<player name="Arne Deforce"/>
+			</instrument>
+			<instrument name="Contrebasse">
+				<player name="Lode Leire"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD 1109</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 </list>

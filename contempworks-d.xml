@@ -1049,6 +1049,36 @@
 	</composer>
 	<composer name="Pascal" surname="Dusapin" born="1955" died="">
 		<composition>
+			<name>Trio (Musique fugitive)</name>
+			<description>Pour quatuor à cordes</description>
+			<length>8:19</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1980"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0983</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Quatuor I</name>
+			<description>Pour quatuor à cordes</description>
+			<length>14:15</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1982" end="1996"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0983</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Quatuor II (Time Zones)</name>
+			<description>Pour quatuor à cordes</description>
+			<length>38:07</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1989"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0983</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Time Zones (Quatuor II)</name>
 			<description>24 pieces for string quartet</description>
 			<length>36:53</length>
@@ -1067,6 +1097,36 @@
 			<recorded start="1993"/>
 			<release>Montaigne 782016</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Quatuor III</name>
+			<description>Pour quatuor à cordes</description>
+			<length>17:28</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1993"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0983</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Quatuor IV</name>
+			<description>Pour quatuor à cordes</description>
+			<length>15:26</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1997"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0983</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Quatuor V</name>
+			<description>Pour quatuor à cordes</description>
+			<length>17:42</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2004" end="2005"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0983</release>
+			<released>2009</released>
 		</composition>
 	</composer>
 	<composer name="Henri" surname="Dutilleux" born="1916" died="">

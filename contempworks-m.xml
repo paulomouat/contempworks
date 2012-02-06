@@ -1106,6 +1106,20 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Ethers</name>
+			<description>pour flûte et ensemble instrumental</description>
+			<length>18:21</length>
+			<instrument name="Flute">
+				<player name="Erin Lesser"/>
+			</instrument>
+			<player name="Argento Chamber Ensemble"/>
+			<conductor>Michel Galante</conductor>
+			<composed start="1978"/>
+			<recorded start="2003"/>
+			<release>Aeon AECD 0746</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Treize couleurs du soleil couchant</name>
 			<description>pour 5 instruments</description>
 			<length>12:20</length>
@@ -1209,6 +1223,52 @@
 			<recorded start="1994"/>
 			<release>Adès/IRCAM 205 212</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Unanswered Questions</name>
+			<description>pour flûte</description>
+			<length>4:27</length>
+			<instrument name="Flute">
+				<player name="Erin Lesser"/>
+			</instrument>
+			<composed start="1995"/>
+			<recorded start="2004"/>
+			<release>Aeon AECD 0746</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Feuilles à travers les cloches</name>
+			<description>pour flûte, violon, violoncelle et piano</description>
+			<length>6:06</length>
+			<instrument name="Flute">
+				<player name="Erin Lesser"/>
+			</instrument>
+			<player name="Argento Chamber Ensemble"/>
+			<composed start="1998"/>
+			<recorded start="2003"/>
+			<release>Aeon AECD 0746</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Winter Fragments</name>
+			<description>pour ensemble instrumental, sons de synthèse et dispositif électronique</description>
+			<length>14:06</length>
+			<player name="Argento Chamber Ensemble"/>
+			<conductor>Michel Galante</conductor>
+			<composed start="2000"/>
+			<recorded start="2003"/>
+			<release>Aeon AECD 0746</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Le Lac</name>
+			<description>pour ensemble</description>
+			<length>23:06</length>
+			<player name="Argento Chamber Ensemble"/>
+			<composed start="2001"/>
+			<recorded start="2005"/>
+			<release>Aeon AECD 0746</release>
+			<released>2006</released>
 		</composition>
 	</composer>
 </list>

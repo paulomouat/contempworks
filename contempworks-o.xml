@@ -59,6 +59,37 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Peregrinação</name>
+			<description>for string quartet</description>
+			<length>12:44</length>
+			<player name="Champ d'Action"/>
+			<composed start="1995"/>
+			<recorded start="1998"/>
+			<release>Phonedition</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Labirinto</name>
+			<description>for string quartet and electronics</description>
+			<length>16:01</length>
+			<player name="Lacerda String Quartet"/>
+			<composed start="2001"/>
+			<recorded start="2005"/>
+			<release>Phonedition</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Le Chant de L'Oiseau-Lyre</name>
+			<description>for chamber ensemble</description>
+			<length>11:00</length>
+			<player name="Black Hair Ensemble"/>
+			<conductor>Roger Marsh</conductor>
+			<composed start="2002"/>
+			<recorded start="2004"/>
+			<release>Phonedition</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Espiral de Luz</name>
 			<description>for string quartet</description>
 			<length>14:19</length>
@@ -66,6 +97,41 @@
 			<composed start="2005"/>
 			<recorded start="2009"/>
 			<release>Etcetera KTC 1399</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>L'Accordéon du Diable</name>
+			<description>for accordion and electronics</description>
+			<length>9:46</length>
+			<instrument name="Accordeon">
+				<player name="Mária Martonová-Kormanová"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2007"/>
+			<release>Phonedition</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Maelström</name>
+			<description>for cimbalom and electronics</description>
+			<length>7:33</length>
+			<instrument name="Cimbalom">
+				<player name="Enikö Ginzery"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2007"/>
+			<release>Phonedition</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Timshel</name>
+			<description>for chamber ensemble and electronics</description>
+			<length>15:08</length>
+			<player name="Sond'Ar-te Electric Ensemble"/>
+			<conductor>Pedro Amaral</conductor>
+			<composed start="2007"/>
+			<recorded start="2008"/>
+			<release>Phonedition</release>
 			<released>2010</released>
 		</composition>
 	</composer>

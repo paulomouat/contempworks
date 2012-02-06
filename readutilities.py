@@ -146,6 +146,10 @@ def readAll():
 	composers = []
 	files = filesToProcess()
 	for f in files:
-		dom = parseFile(f)
-		composers.extend(readDom(dom))
+		try:
+			dom = parseFile(f)
+			composers.extend(readDom(dom))
+		except Exception, e:
+			print "Error in file ", f
+			raise e
 	return composers

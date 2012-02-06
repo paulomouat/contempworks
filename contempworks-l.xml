@@ -427,6 +427,37 @@
 	</composer>
 	<composer name="Michaël" surname="Levinas" born="1949" died="">
 		<composition>
+			<name>Appels</name>
+			<description>pour 11 instruments</description>
+			<length>7:38</length>
+			<player name="Ensemble l'Itinéraire"/>
+			<conductor>Charles Bruck</conductor>
+			<composed start="1974"/>
+			<recorded start="1998"/>
+			<release>Aeon AECD 0104</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Voix dans un vaisseau d'airain "Chant en escalier"</name>
+			<description>pour voix, flûte, cor et bande magnétique</description>
+			<length>8:04</length>
+			<instrument name="voix de soprano">
+				<player name="Neil Froger"/>
+			</instrument>
+			<instrument name="flûte">
+				<player name="Patrice Bocquillon"/>
+			</instrument>
+			<instrument name="cor">
+				<player name="André Cazalet"/>
+			</instrument>
+			<player name="Ensemble l'Itinéraire"/>
+			<conductor>Michaël Lévinas</conductor>
+			<composed start="1977"/>
+			<recorded start="1998"/>
+			<release>Aeon AECD 0104</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Ouverture pour une fête étrange</name>
 			<length>16:20</length>
 			<player name="Nouvel Orchestre Philharmonique de Radio France"/>
@@ -491,7 +522,28 @@
 			<released>1985-89</released>
 		</composition>
 		<composition>
-			<name>Par-de là</name>
+			<name>Les Réciproques</name>
+			<description>pour 12 voix solistes a cappella</description>
+			<length>18:57</length>
+			<player name="Groupe Vocal de France"/>
+			<conductor>Guy Reibel</conductor>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>Aeon AECD 0104</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Diaclase</name>
+			<description>pour quintette de cuivres</description>
+			<length>13:57</length>
+			<player name="Quintette de cuivres Just'à 5"/>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Aeon AECD 0104</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Par-delà</name>
 			<description>für Orchester</description>
 			<length>20:54</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
@@ -500,6 +552,17 @@
 			<recorded start="1994"/>
 			<release>Col Legno CD1 31907</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Par-delà</name>
+			<description>pour grand orchestre</description>
+			<length>20:21</length>
+			<player name="Orchestre SWF de Baden-Baden"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>Aeon AECD 0104</release>
+			<released>2001</released>
 		</composition>
 	</composer>
 	<composer name="Rolf" surname="Liebermann" born="1910" died="">
