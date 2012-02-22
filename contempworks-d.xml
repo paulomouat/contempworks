@@ -734,6 +734,17 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>East 11th St. NY 10003</name>
+			<description>for six percussionists</description>
+			<length>19:45</length>
+			<player name="Music Projects/London"/>
+			<conductor>Richard Bernas</conductor>
+			<composed start="1982"/>
+			<recorded start="1991"/>
+			<release>NMC D004</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Sgothan</name>
 			<description>for solo flute</description>
 			<length>10:23</length>
@@ -744,6 +755,17 @@
 			<recorded start="1995"/>
 			<release>Montaigne 782037</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Windows and Canopies</name>
+			<description>for chamber orchestra</description>
+			<length>20:05</length>
+			<player name="Music Projects/London"/>
+			<conductor>Richard Bernas</conductor>
+			<composed start="1985"/>
+			<recorded start="1990"/>
+			<release>NMC D004</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Helle Nacht</name>
@@ -779,6 +801,17 @@
 			<recorded start="2007"/>
 			<release>NMC D131</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>La femme invisible</name>
+			<description>for woodwind ensemble, piano and three percussionists</description>
+			<length>16:34</length>
+			<player name="Music Projects/London"/>
+			<conductor>Richard Bernas</conductor>
+			<composed start="1989"/>
+			<recorded start="1990"/>
+			<release>NMC D004</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Ignis noster</name>

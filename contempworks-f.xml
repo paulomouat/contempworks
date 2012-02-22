@@ -1709,6 +1709,15 @@
 	</composer>
 	<composer name="Beat" surname="Furrer" born="1954" died="">
 		<composition>
+			<name>Streichquartett Nr. 3</name>
+			<length>51:22</length>
+			<player name="KNM Berlin"/>
+			<composed start="2004"/>
+			<recorded start="2007"/>
+			<release>Kairos 0013132KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Fama</name>
 			<description>Hörtheater für großes Ensemble, acht Stimmen, Schauspielerin und Klanggebäude</description>
 			<length>1:06:35</length>

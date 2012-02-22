@@ -53,6 +53,38 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Imaginary Landscape No. 1</name>
+			<description>for 2 variable-speed turntables, frequency recordings, muted piano and cymbal, to be performed as a recording or broadcast</description>
+			<length>6:52</length>
+			<player name="Percussion Group Cincinnati"/>
+			<composed start="1939"/>
+			<recorded start="2008"/>
+			<release>Mode 229</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Credo in Us</name>
+			<description>for percussion quartet (including piano and radio or phonograph)</description>
+			<description>first version, with Dimitri Shostakovich: Symphony No. 5</description>
+			<length>12:58</length>
+			<player name="Percussion Group Cincinnati"/>
+			<composed start="1942"/>
+			<recorded start="2006"/>
+			<release>Mode 229</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Credo in Us</name>
+			<description>for percussion quartet (including piano and radio or phonograph)</description>
+			<description>second version, with 78-rpm recordings of Beethoven: Symphony No. 3; Tchaikovsky: Symphony No. 4; Wagner: Lohengrin, Prelude to Act III; Suppe: Light Cavalry Overture</description>
+			<length>15:00</length>
+			<player name="Percussion Group Cincinnati"/>
+			<composed start="1942"/>
+			<recorded start="2006"/>
+			<release>Mode 229</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Imaginary Landscape No. 3</name>
 			<description>(with Mauricio Kagel)</description>
 			<description>Sechs Schlagzeuger, elektronische Klänge</description>
@@ -167,6 +199,38 @@
 			<recorded start="1942"/>
 			<release>El Records ACMEM 194 CD</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Imaginary Landscape No. 2, &quot;March No. 1&quot;</name>
+			<description>for percussion quintet</description>
+			<length>6:49</length>
+			<player name="Percussion Group Cincinnati"/>
+			<composed start="1942"/>
+			<recorded start="2006"/>
+			<release>Mode 229</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Imaginary Landscape No. 3</name>
+			<description>for percussion sextet</description>
+			<length>4:06</length>
+			<player name="Percussion Group Cincinnati"/>
+			<composed start="1942"/>
+			<recorded start="2006"/>
+			<release>Mode 229</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Imaginary Landscape No. 4, &quot;March No. 2&quot;</name>
+			<description>for 12 radios</description>
+			<description>first version</description>
+			<length>4:26</length>
+			<player name="CCM Percussion Ensemble"/>
+			<conductor>James Culley</conductor>
+			<composed start="1942"/>
+			<recorded start="2006"/>
+			<release>Mode 229</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Our Spring Will Come</name>
@@ -667,6 +731,18 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Imaginary Landscape No. 4, &quot;March No. 2&quot;</name>
+			<description>for 12 radios</description>
+			<description>second version</description>
+			<length>4:29</length>
+			<player name="CCM Percussion Ensemble"/>
+			<conductor>James Culley</conductor>
+			<composed start="1951"/>
+			<recorded start="2006"/>
+			<release>Mode 229</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Two Pastorales</name>
 			<description>for prepared piano</description>
 			<length>13:16</length>
@@ -749,6 +825,32 @@
 			<recorded start="1958"/>
 			<release>El Records ACMEM 194 CD</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Imaginary Landscape No. 5</name>
+			<description>for any 42 recordings, score to be realized as a magnetic tape</description>
+			<description>first version, using period jazz records</description>
+			<length>3:09</length>
+			<instrument name="Realisation">
+				<player name="Michael Barnhart"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="2007"/>
+			<release>Mode 229</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Imaginary Landscape No. 5</name>
+			<description>for any 42 recordings, score to be realized as a magnetic tape</description>
+			<description>second version, using recordings of Cage's music</description>
+			<length>3:07</length>
+			<instrument name="Realisation">
+				<player name="Michael Barnhart"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="2007"/>
+			<release>Mode 229</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Music for piano 47</name>
