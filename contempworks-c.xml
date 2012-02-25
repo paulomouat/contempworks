@@ -1369,6 +1369,25 @@
 			<released>1991/2008</released>
 		</composition>
 		<composition>
+			<name>Five</name>
+			<description>For any five voices or instruments</description>
+			<length>5:00</length>
+			<player name="Essential Music"/>
+			<composed start="1988"/>
+			<recorded start="1993" end="1994"/>
+			<release>Mode 239</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Seven</name>
+			<length>20:00</length>
+			<player name="Essential Music"/>
+			<composed start="1988"/>
+			<recorded start="1993" end="1994"/>
+			<release>Mode 239</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Four</name>
 			<description>for string quartet</description>
 			<length>29:58</length>
@@ -1659,6 +1678,15 @@
 			<recorded start="1992"/>
 			<release>Mode 174</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Thirteen</name>
+			<length>30:00</length>
+			<player name="Essential Music"/>
+			<composed start="1992"/>
+			<recorded start="1993" end="1994"/>
+			<release>Mode 239</release>
+			<released>2012</released>
 		</composition>
 	</composer>
 	<composer name="Uri" surname="Caine" born="1956" died="">
