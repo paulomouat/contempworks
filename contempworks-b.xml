@@ -1073,6 +1073,18 @@
 		</composition>
 		<composition>
 			<name>Notations</name>
+			<description>douze notations pour piano</description>
+			<length>10:32</length>
+			<instrument name="Piano">
+				<player name="David Fray"/>
+			</instrument>
+			<composed start="1945"/>
+			<recorded start="2005"/>
+			<release>Virgin Classics 385787-2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Notations</name>
 			<description>pour orchestre</description>
 			<length>10:09</length>
 			<player name="Orchestre de Paris"/>
@@ -1662,6 +1674,17 @@
 			<release>Deutsche Grammophon 00289 4775327</release>
 			<released>2005</released>
 		</composition>
+		<composition>
+			<name>Dérive 1</name>
+			<description>pour 6 instruments</description>
+			<length>6:26</length>
+			<player name="Ensemble Orchestral Contemporain"/>
+			<conductor>Daniel Kawka</conductor>
+			<composed start="1984"/>
+			<recorded start="2011"/>
+			<release>Naïve MO 782183</release>
+			<released>2011</released>
+		</composition>
 		<composition score="Y">
 			<name>Dialogue de l'ombre double</name>
 			<description>Version aux chiffres romains</description>
@@ -1708,6 +1731,20 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Mémoriale</name>
+			<description>pour flûte solo et huit instruments</description>
+			<length>5:39</length>
+			<instrument name="Flûte">
+				<player name="Fabrice Jünger"/>
+			</instrument>
+			<player name="Ensemble Orchestral Contemporain"/>
+			<conductor>Daniel Kawka</conductor>
+			<composed start="1985"/>
+			<recorded start="2011"/>
+			<release>Naïve MO 782183</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Dérive 2</name>
 			<description>pour 11 instruments</description>
 			<length>24:33</length>
@@ -1717,6 +1754,17 @@
 			<recorded start="2002"/>
 			<release>Deutsche Grammophon 00289 4775327</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Dérive 2</name>
+			<description>pour 11 instruments</description>
+			<length>50:40</length>
+			<player name="Ensemble Orchestral Contemporain"/>
+			<conductor>Daniel Kawka</conductor>
+			<composed start="1988" end="2006"/>
+			<recorded start="2011"/>
+			<release>Naïve MO 782183</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Anthèmes</name>
@@ -1733,6 +1781,18 @@
 			<recorded start="1997"/>
 			<release>Col Legno WWE 3CD 20026</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Incises</name>
+			<description>pour piano</description>
+			<length>3:29</length>
+			<instrument name="Piano">
+				<player name="David Fray"/>
+			</instrument>
+			<composed start="1994" end="2001"/>
+			<recorded start="2005"/>
+			<release>Virgin Classics 385787-2</release>
+			<released>2007</released>
 		</composition>
 		<composition>
 			<name>Sur Incises</name>
@@ -1755,7 +1815,7 @@
 			<instrument name="Electroacoustic realization">
 				<player name="Andrew Gerszo"/>
 			</instrument>
-			<composed start="1976" end="1977"/>
+			<composed start="1996" end="1997"/>
 			<recorded start="1999"/>
 			<release>Deutsche Grammophon 463475-2</release>
 			<released>2000</released>
