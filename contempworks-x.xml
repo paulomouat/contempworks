@@ -19,6 +19,39 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Anastenaria</name>
+			<length>25:00</length>
+			<part>
+				<number>1</number>
+				<name>Procession aux eaux claires</name>
+				<description>for orchestra and mixed choir</description>
+				<length>10:59</length>
+				<composed start="1952" end="1953"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Le Sacrifice</name>
+				<description>for orchestra</description>
+				<length>4:45</length>
+				<composed start="1953"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Metastaseis</name>
+				<description>for orchestra</description>
+				<length>9:04</length>
+				<composed start="1953" end="1954"/>
+			</part>
+			<player name="Chor des Bayerischen Rundfunks"/>
+			<conductor>Christoph Adt</conductor>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Charles Z. Bornstein</conductor>
+			<composed start="1952" end="1954"/>
+			<recorded start="2000"/>
+			<release>Col Legno WWE 1CD 20086</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Metastasis</name>
 			<length>8:55</length>
 			<player name="Orchestre National de l'O.R.T.F."/>
@@ -838,6 +871,23 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Aïs</name>
+			<description>for baritone, percussion solo and orchestra</description>
+			<length>16:21</length>
+			<instrument name="Baritone">
+				<player name="Spyros Sakkas"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Sylvio Gualda"/>
+			</instrument>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Michel Tabachnik</conductor>
+			<composed start="1980"/>
+			<recorded start="1981"/>
+			<release>Col Legno WWE 1CD 20086</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Embellie</name>
 			<description>for solo viola</description>
 			<length>8:14</length>
@@ -1271,6 +1321,20 @@
 			<recorded start="1991"/>
 			<release>Neuma 450-86</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Troorkh</name>
+			<description>for trombone solo and large orchestra</description>
+			<length>18:14</length>
+			<instrument name="Trombone">
+				<player name="Mike Svoboda"/>
+			</instrument>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="1991"/>
+			<recorded start="2000"/>
+			<release>Col Legno WWE 1CD 20086</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>S.709</name>
