@@ -1138,6 +1138,17 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Quartets I-VIII</name>
+			<description>for 24 instruments</description>
+			<length>40:31</length>
+			<player name="Orchester Jakobsplatz München"/>
+			<conductor>Daniel Grossmann</conductor>
+			<composed start="1976"/>
+			<recorded start="2007"/>
+			<release>Neos  10720</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Cheap Imitation</name>
 			<description>for violin solo</description>
 			<length>31:52</length>
@@ -1386,6 +1397,17 @@
 			<recorded start="1993" end="1994"/>
 			<release>Mode 239</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Seven</name>
+			<description>for flute, clarinet, percussion, piano, violin, viola and violoncello</description>
+			<length>20:00</length>
+			<player name="Orchester Jakobsplatz München"/>
+			<conductor>Daniel Grossmann</conductor>
+			<composed start="1988"/>
+			<recorded start="2007"/>
+			<release>Neos  10720</release>
+			<released>2007</released>
 		</composition>
 		<composition>
 			<name>Four</name>

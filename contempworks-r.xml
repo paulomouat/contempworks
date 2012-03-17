@@ -1498,6 +1498,61 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Lieder nach Gedichten von Hermann Lenz</name>
+			<description>for voice and piano</description>
+			<length>24:18</length>
+			<part>
+				<number>1</number>
+				<name>Die Handbewegung</name>
+				<length>1:51</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Spätjahr</name>
+				<length>2:25</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>November</name>
+				<length>2:04</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Nebendraußen</name>
+				<length>3:08</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Dein Handwerk I</name>
+				<length>4:08</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Versteinerung</name>
+				<length>3:46</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Mitgefühl</name>
+				<length>2:38</length>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Liebe Zeit</name>
+				<length>3:53</length>
+			</part>
+			<instrument name="Tenor">
+				<player name="Christoph Prégardien"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="1998"/>
+			<recorded start="2003"/>
+			<release>Col Legno WWE 1CD 20228</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Zwiesprache</name>
 			<length>21:38</length>
 			<part>
@@ -1546,6 +1601,76 @@
 			<recorded start="2008"/>
 			<release>Kairos 0012952KAI</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Lieder nach Gedichten von Heiner Müller</name>
+			<description>for voice and piano</description>
+			<length>28:05</length>
+			<part>
+				<number>I</number>
+				<name>Glückloser Engel 2</name>
+				<length>1:55</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Nature morte</name>
+				<length>2:34</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Blaupause</name>
+				<length>1:45</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Leere Zeit (3. Fassung)</name>
+				<length>2:05</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Traumwald</name>
+				<length>4:12</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>(Im ächten Manne...)</name>
+				<length>2:02</length>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>(Mit der Wiederkehr der Farbe...)</name>
+				<length>1:52</length>
+			</part>
+			<part>
+				<number>VIII</number>
+				<name>(...Und gehe weiter in die Landschaft...)</name>
+				<length>5:02</length>
+			</part>
+			<part>
+				<number>IX</number>
+				<name>(Wie einen Schatten...)</name>
+				<length>3:03</length>
+			</part>
+			<part>
+				<number>X</number>
+				<name>Drama</name>
+				<length>2:13</length>
+			</part>
+			<part>
+				<number>XI</number>
+				<name>(Geh Ariel...)</name>
+				<length>1:16</length>
+			</part>
+			<instrument name="Tenor">
+				<player name="Christoph Prégardien"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2003"/>
+			<release>Col Legno WWE 1CD 20228</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Deus Passus</name>
@@ -1621,6 +1746,41 @@
 			<recorded start="2007"/>
 			<release>Kairos 0012952KAI</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Rilke: Vier Gedichte</name>
+			<description>for tenor and piano</description>
+			<length>21:22</length>
+			<part>
+				<number>1</number>
+				<name>Neue Sonne (sehr ruhig)</name>
+				<length>5:03</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Dies überstanden haben (weiter in sehr ruhigem Tempo)</name>
+				<length>5:10</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Ich ging (äußerst langsam)</name>
+				<length>5:22</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Oft in dem Glasdach (sehr ruhig)</name>
+				<length>5:48</length>
+			</part>
+			<instrument name="Tenor">
+				<player name="Christoph Prégardien"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Siegfried Mauser"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2003"/>
+			<release>Col Legno WWE 1CD 20228</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>String Quartet No. 12</name>
