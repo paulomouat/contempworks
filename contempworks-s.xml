@@ -471,6 +471,18 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Coelocanth</name>
+			<description>for viola</description>
+			<length>10:51</length>
+			<instrument name="Viola">
+				<player name="Vincent Royer"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="2008" end="2009"/>
+			<release>Mode 231</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Quattro Pezzi</name>
 			<description>pour trompette</description>
 			<length>10:53</length>
@@ -505,6 +517,18 @@
 			<recorded start=""/>
 			<release>Mode 102</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Three Studies</name>
+			<description>for viola</description>
+			<length>13:43</length>
+			<instrument name="Viola">
+				<player name="Vincent Royer"/>
+			</instrument>
+			<composed start="1956"/>
+			<recorded start="2008" end="2009"/>
+			<release>Mode 231</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Trilogia, I tre stadi dell'uomo</name>
@@ -564,6 +588,18 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Manto</name>
+			<description>for viola and voice</description>
+			<length>10:23</length>
+			<instrument name="Viola, voice">
+				<player name="Vincent Royer"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2008" end="2009"/>
+			<release>Mode 231</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Trio à cordes</name>
 			<length>13:17</length>
 			<player name="Arditti String Quartet"/>
@@ -571,6 +607,21 @@
 			<recorded start="1988"/>
 			<release>Salabert Actuels SCD8904-5</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Elegia per Ty</name>
+			<description>for viola and cello</description>
+			<length>10:28</length>
+			<instrument name="Viola">
+				<player name="Vincent Royer"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Séverine Ballon"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="2008" end="2009"/>
+			<release>Mode 231</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Quattro Pezzi per Orchestra</name>
@@ -706,6 +757,18 @@
 			<recorded start="1988"/>
 			<release>Salabert Actuels SCD8904-5</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Xnoybis</name>
+			<description>version adapted for viola</description>
+			<length>11:21</length>
+			<instrument name="Viola">
+				<player name="Vincent Royer"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="2008" end="2009"/>
+			<release>Mode 231</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Elohim</name>

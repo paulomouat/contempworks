@@ -279,6 +279,17 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Intersection I</name>
+			<description>Realization for large orchestra</description>
+			<length>13:12</length>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Brad Lubman</conductor>
+			<composed start="1951"/>
+			<recorded start="2010"/>
+			<release>Mode 238</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Marginal Intersection</name>
 			<length>6:02</length>
 			<player name="The Barton Workshop"/>
@@ -728,6 +739,17 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Structures</name>
+			<description>for orchestra</description>
+			<length>7:30</length>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Brad Lubman</conductor>
+			<composed start="1960" end="1962"/>
+			<recorded start="2009"/>
+			<release>Mode 238</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Piano Piece (to Philip Guston)</name>
 			<length>3:36</length>
 			<instrument name="Piano">
@@ -807,6 +829,17 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>On Time and the Instrumental Factor</name>
+			<description>for orchestra</description>
+			<length>8:23</length>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Brad Lubman</conductor>
+			<composed start="1969"/>
+			<recorded start="2009"/>
+			<release>Mode 238</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Three Clarinets, Cello and Piano</name>
 			<length>9:33</length>
 			<instrument name="Clarinet">
@@ -853,6 +886,20 @@
 			<recorded start="1990"/>
 			<release>New Albion NA039CD</release>
 			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Voice and Instruments</name>
+			<description>for soprano and orchestra</description>
+			<length>16:18</length>
+			<instrument name="Soprano">
+				<player name="Martha Cluver"/>
+			</instrument>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Brad Lubman</conductor>
+			<composed start="1972"/>
+			<recorded start="2011"/>
+			<release>Mode 238</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Piano and Orchestra</name>
@@ -920,6 +967,16 @@
 			<recorded start="1990"/>
 			<release>New Albion NA039CD</release>
 			<released>1991</released>
+		</composition>
+		<composition>
+			<name>Orchestra</name>
+			<length>17:41</length>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Brad Lubman</conductor>
+			<composed start="1979"/>
+			<recorded start="2009"/>
+			<release>Mode 238</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Trio</name>
