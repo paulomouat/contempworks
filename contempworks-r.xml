@@ -1673,6 +1673,20 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Über die Linie II</name>
+			<description>Musik für Klarinette und Orchester</description>
+			<length>37:07</length>
+			<instrument name="Klarinette">
+				<player name="Jörg Widmann"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1999"/>
+			<recorded start="2009"/>
+			<release>hänssler Classic CD 93.283</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Deus Passus</name>
 			<description>Passions-Stücke nach Lukas</description>
 			<length>1:30:21</length>
@@ -1920,6 +1934,20 @@
 			<recorded start="2006" end="2008"/>
 			<release>hänssler Classic CD 93.263</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Coll'Arco</name>
+			<description>Vierte Musik für Violine und Orchester</description>
+			<length>29:03</length>
+			<instrument name="Violine">
+				<player name="Caroline Widmann"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Eivind Gullberg Jensen</conductor>
+			<composed start="2008"/>
+			<recorded start="2010"/>
+			<release>hänssler Classic CD 93.283</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Lichtes Spiel</name>
