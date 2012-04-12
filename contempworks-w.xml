@@ -1613,5 +1613,16 @@
 			<release>MDG 307 1531-2</release>
 			<released>2008</released>
 		</composition>
+		<composition>
+			<name>Zweites Labyrinth</name>
+			<description>for orchestral groups</description>
+			<length>13:36</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Neos 10725</release>
+			<released>2007</released>
+		</composition>
 	</composer>
 </list>

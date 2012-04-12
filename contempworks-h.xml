@@ -2,6 +2,63 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+	<composer name="Georg Friedrich" surname="Haas" born="1953" died="">
+		<composition>
+			<name>...aus freier Lust ... verbunden...</name>
+			<description>for bass flute, bass clarinet and two percussions</description>
+			<length>12:13</length>
+			<instrument name="percussion">
+				<player name="Martin Lorenz"/>
+			</instrument>
+			<player name="Collegium Novum Zürich"/>
+			<composed start="1994" end="1996"/>
+			<recorded start="2009"/>
+			<release>Neos 10919</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Wer, wenn ich schriee, hörte mich...</name>
+			<description>for percussion and ensemble</description>
+			<length>24:11</length>
+			<instrument name="percussion">
+				<player name="Martin Lorenz"/>
+			</instrument>
+			<player name="Collegium Novum Zürich"/>
+			<conductor>Enno Poppe</conductor>
+			<composed start="1999"/>
+			<recorded start="2008"/>
+			<release>Neos 10919</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Hyperion</name>
+			<description>Concerto for light and orchestra</description>
+			<length>40:13</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<instrument name="rehearsals">
+				<player name="Rupert Huber"/>
+			</instrument>
+			<instrument name="light installation">
+				<player name="rosalie"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Neos 10725</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>...und...</name>
+			<description>for chamber ensemble and electronics</description>
+			<length>27:04</length>
+			<player name="Collegium Novum Zürich"/>
+			<player name="Experimentalstudio des SWR"/>
+			<conductor>Enno Poppe</conductor>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>Neos 10919</release>
+			<released>2009</released>
+		</composition>
+	</composer>
 	<composer name="Hans" surname="Haass" born="1897" died="1955">
 		<composition>
 			<name>Capriccio, Fuge und Intermezzo für mechanisches Klavier</name>
