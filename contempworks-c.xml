@@ -641,6 +641,18 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Party pieces</name>
+			<description>composed with Henry Cowell, Lou Harrison and Virgil Thomson</description>
+			<description>arrangement for saxophone quartet</description>
+			<length>10:10</length>
+			<player name="Ulrich Krieger"/>
+			<player name="intersax and other musicians"/>
+			<composed start="1949" end="1950"/>
+			<recorded start="2003"/>
+			<release>Mode 222/223</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Six Melodies</name>
 			<description>for violin and keyboard</description>
 			<length>12:38</length>
@@ -654,6 +666,21 @@
 			<recorded start="1998"/>
 			<release>Mode 100</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Six Melodies</name>
+			<description>for violin and keyboard</description>
+			<length>12:37</length>
+			<instrument name="violin">
+				<player name="Annelie Gahl"/>
+			</instrument>
+			<instrument name="keyboard (Fender Rhodes)">
+				<player name="Klaus Lang"/>
+			</instrument>
+			<composed start="1950"/>
+			<recorded start="2009"/>
+			<release>Col Legno WWE 1CD 20292</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Music of Changes</name>
@@ -853,6 +880,30 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>4'33&quot;</name>
+			<description>(open windows version)</description>
+			<description>version for saxophone trio</description>
+			<length>4:33</length>
+			<player name="Ulrich Krieger"/>
+			<player name="intersax"/>
+			<composed start="1952"/>
+			<recorded start="2005"/>
+			<release>Mode 222/223</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>4'33&quot;</name>
+			<description>(studio version)</description>
+			<description>version for saxophone trio</description>
+			<length>4:33</length>
+			<player name="Ulrich Krieger"/>
+			<player name="intersax"/>
+			<composed start="1952"/>
+			<recorded start="2005"/>
+			<release>Mode 222/223</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Music for piano 47</name>
 			<length>4:35</length>
 			<instrument name="Piano">
@@ -958,6 +1009,28 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Fontana Mix</name>
+			<description>electronic version derived from the pieces recorded in &quot;a Cage of saxophones&quot; vols. 1-4</description>
+			<length>10:00</length>
+			<player name="Ulrich Krieger"/>
+			<player name="intersax and other musicians"/>
+			<composed start="1958" end="2004"/>
+			<recorded start="2004"/>
+			<release>Mode 222/223</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Fontana Mix/Sextet for low woodwinds</name>
+			<description>instrumental version for bass flute, contrabass flute, bass clarinet, contrabass clarinet, bass saxophone, contrabass saxophone</description>
+			<length>10:00</length>
+			<player name="Ulrich Krieger"/>
+			<player name="intersax and other musicians"/>
+			<composed start="1958" end="2005"/>
+			<recorded start="2004"/>
+			<release>Mode 222/223</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Indeterminacy</name>
 			<description>Ninety Stories by John Cage, with Music</description>
 			<length>1:30:22</length>
@@ -985,6 +1058,17 @@
 			<recorded start="1988"/>
 			<release>Mode 24</release>
 			<released>1991/2008</released>
+		</composition>
+		<composition>
+			<name>Cartridge Music/11 Instruments</name>
+			<description>instrumental version for soprano, alto, tenor and baritone saxophones, violin, viola, cello, contrabass, accordion, piano, percussion</description>
+			<length>15:00</length>
+			<player name="Ulrich Krieger"/>
+			<player name="intersax and other musicians"/>
+			<composed start="1960" end="2005"/>
+			<recorded start="2004"/>
+			<release>Mode 222/223</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Atlas Eclipticalis</name>
@@ -1077,6 +1161,18 @@
 			<recorded start="2001"/>
 			<release>Mode 86</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Series re Morris Graves</name>
+			<description>on Morris Graves</description>
+			<length>1:20:05</length>
+			<instrument name="reading">
+				<player name="John Cage"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1990"/>
+			<release>Mode 84/85</release>
+			<released>1999</released>
 		</composition>
 		<composition>
 			<name>Empty Words</name>
@@ -1236,6 +1332,18 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>What you say</name>
+			<description>on Jasper Johns</description>
+			<length>10:34</length>
+			<instrument name="reading">
+				<player name="John Cage"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1987"/>
+			<release>Mode 84/85</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Thirty Pieces for String Quartet</name>
 			<length>33:57</length>
 			<player name="Arditti String Quartet"/>
@@ -1330,6 +1438,21 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Thirteen Harmonies</name>
+			<description>for violin and keyboard</description>
+			<length>43:18</length>
+			<instrument name="violin">
+				<player name="Annelie Gahl"/>
+			</instrument>
+			<instrument name="keyboard (Fender Rhodes)">
+				<player name="Klaus Lang"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="2009"/>
+			<release>Col Legno WWE 1CD 20292</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Etcetera 2/4 Orchestras</name>
 			<length>30:08</length>
 			<player name="New England Conservatory Symphony Orchestra"/>
@@ -1410,6 +1533,18 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Art is either a complaint or do something else</name>
+			<description>on Jasper Johns</description>
+			<length>32:38</length>
+			<instrument name="reading">
+				<player name="John Cage"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="1988"/>
+			<release>Mode 84/85</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Four</name>
 			<description>for string quartet</description>
 			<length>29:58</length>
@@ -1465,6 +1600,17 @@
 			<recorded start="1991"/>
 			<release>Mode 41</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Sculptures Musicales</name>
+			<description>version for sax, clarinet, bass clarinet, accordion, percussion, piano, violin, viola, cello, didjeridu, various wind instruments, amplified objects, electronics</description>
+			<length>37:01</length>
+			<player name="Ulrich Krieger"/>
+			<player name="intersax and other musicians"/>
+			<composed start="1989"/>
+			<recorded start="2004"/>
+			<release>Mode 222/223</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Freeman Etudes books 3 &amp; 4</name>
@@ -1681,6 +1827,16 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>One7</name>
+			<description>version for solo saxophone(s): sopranino, soprano, alto, tenor, baritone and toy saxophones (one performer)</description>
+			<length>30:00</length>
+			<player name="Ulrich Krieger"/>
+			<composed start="1992"/>
+			<recorded start="2004"/>
+			<release>Mode 222/223</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>One10</name>
 			<description>for violin</description>
 			<length>24:36</length>
@@ -1709,6 +1865,17 @@
 			<recorded start="1993" end="1994"/>
 			<release>Mode 239</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Four6</name>
+			<description>version for amplified saxophone quartet</description>
+			<length>30:00</length>
+			<player name="Ulrich Krieger"/>
+			<player name="intersax and other musicians"/>
+			<composed start="1992"/>
+			<recorded start="2004"/>
+			<release>Mode 222/223</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Uri" surname="Caine" born="1956" died="">

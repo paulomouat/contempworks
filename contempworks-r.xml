@@ -502,6 +502,42 @@
 	</composer>
 	<composer name="Wolfgang" surname="Rihm" born="1952" died="">
 		<composition>
+			<name>Fragmenta passionis</name>
+			<description>Fünf Motetten für gemischten Chor a cappella</description>
+			<length>10:06</length>
+			<part>
+				<number>I</number>
+				<name>Da verliessen ihn</name>
+				<length>1:20</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Da schrien alle</name>
+				<length>2:46</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Vater, vergib ihnen</name>
+				<length>1:27</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Jesus schrie nochmals</name>
+				<length>1:35</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Wahrhaftig dieser war Gottes Sohn</name>
+				<length>2:52</length>
+			</part>
+			<player name="Rias Kammerchor"/>
+			<conductor>Hans-Christoph Rademann</conductor>
+			<composed start="1968"/>
+			<recorded start="2011"/>
+			<release>Harmonia Mundi HMC 902129</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Zweites Streichtrio</name>
 			<description>für Violine, Viola und Violoncello</description>
 			<length>4:52</length>
@@ -1826,6 +1862,69 @@
 			<recorded start="2009"/>
 			<release>Winter &amp; Winter 910 178-2</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Astralis (Über die Linie III)</name>
+			<description>für kleinen Chor, Violoncello und 2 Pauken</description>
+			<length>29:29</length>
+			<instrument name="Violoncello">
+				<player name="Dirk Wietheger"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Rie Miyama"/>
+			</instrument>
+			<player name="Rias Kammerchor"/>
+			<conductor>Hans-Christoph Rademann</conductor>
+			<composed start="2001"/>
+			<recorded start="2011"/>
+			<release>Harmonia Mundi HMC 902129</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Sieben Passions-Texte</name>
+			<description>für sechs Stimmen</description>
+			<length>28:11</length>
+			<part>
+				<number>I</number>
+				<name>Tristis est anima mea</name>
+				<length>2:38</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Ecce vidimus eum</name>
+				<length>4:19</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Velum templi scissum est</name>
+				<length>3:36</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Tenebrae factae sunt</name>
+				<length>5:33</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Caligaverunt oculi mei</name>
+				<length>4:29</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>Recessit pastor noster</name>
+				<length>2:50</length>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>Aestimatus sum</name>
+				<length>4:46</length>
+			</part>
+			<player name="Rias Kammerchor"/>
+			<conductor>Hans-Christoph Rademann</conductor>
+			<composed start="2001" end="2006"/>
+			<recorded start="2011"/>
+			<release>Harmonia Mundi HMC 902129</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Vier Studien zu einem Klarinettenquintett</name>
