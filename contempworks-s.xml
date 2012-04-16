@@ -3359,6 +3359,19 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Simon" surname="Steen-Andersen" born="1976" died="">
+		<composition>
+			<name>Double up</name>
+			<description>for sampler and small orchestra</description>
+			<length>16:43</length>
+			<player name="Radio Kamer Filharmonie, Hilversum"/>
+			<conductor>Peter Eötvös</conductor>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
+	</composer>
 	<composer name="Günter" surname="Steinke" born="1956" died="">
 		<composition>
 			<name>Arcade</name>
@@ -6428,6 +6441,20 @@
 			<recorded start="1993"/>
 			<release>Montaigne 782042</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Let me sing into your ear</name>
+			<description>for amplified basset horn and chamber orchestra</description>
+			<length>22:31</length>
+			<instrument name="basset horn">
+				<player name="Michele Marelli"/>
+			</instrument>
+			<player name="Radio Kamer Filharmonie, Hilversum"/>
+			<conductor>Peter Eötvös</conductor>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Hubert" surname="Stuppner" born="1944" died="">

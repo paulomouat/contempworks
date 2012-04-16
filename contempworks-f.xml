@@ -1434,6 +1434,21 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>La Chute d'Icare</name>
+			<description>Petite sérénade de la disparition</description>
+			<description>for solo clarinet, piccolo/alto/bass flute, oboe/cor anglais, percussion, piano, violin, violoncello, contrabass</description>
+			<length>9:37</length>
+			<instrument name="clarinet">
+				<player name="Carl Rosman"/>
+			</instrument>
+			<player name="Elision Ensemble"/>
+			<conductor>Jean Deroyer</conductor>
+			<composed start="1988"/>
+			<recorded start="2007"/>
+			<release>Kairos 0013072KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Trittico per G.S.</name>
 			<description>for solo double bass</description>
 			<length>11:36</length>
@@ -1477,12 +1492,26 @@
 			<instrument name="Violin">
 				<player name="Irvine Arditti"/>
 			</instrument>
-			<player name="Asko Ensembled"/>
+			<player name="Asko Ensemble"/>
 			<conductor>Jonathan Nott</conductor>
 			<composed start="1991" end="1992"/>
 			<recorded start="1993"/>
 			<release>Montaigne 782029</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Terrain</name>
+			<description>for solo violin, flute/piccolo, clarinet/bass, oboe/cor anglais, bassoon, trumpet, trombone, horn, contrabass</description>
+			<length>14:12</length>
+			<instrument name="Violin">
+				<player name="Graeme Jennings"/>
+			</instrument>
+			<player name="Elision Ensemble"/>
+			<conductor>Franck Ollu</conductor>
+			<composed start="1992"/>
+			<recorded start="2005"/>
+			<release>Kairos 0013072KAI</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Streichtrio</name>
@@ -1514,6 +1543,20 @@
 			<recorded start="2001" end="2002"/>
 			<release>Stradivarius STR 33694</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Incipits</name>
+			<description>for solo viola, obbligato percussion, piccolo/bass flute, Eb clarinet/bass, violins, violoncello, contrabass</description>
+			<length>11:08</length>
+			<instrument name="viola">
+				<player name="Erkki Veltheim"/>
+			</instrument>
+			<player name="Elision Ensemble"/>
+			<conductor>Franck Ollu</conductor>
+			<composed start="1996"/>
+			<recorded start="2003"/>
+			<release>Kairos 0013072KAI</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Flurries</name>
@@ -1553,6 +1596,39 @@
 			<recorded start="2001" end="2002"/>
 			<release>Stradivarius STR 33694</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Les Froissements d'Ailes de Gabriel</name>
+			<description>for solo guitar, flute/piccolo/bass flute, oboe/cor anglais, clarinet/clarinet in Eb, bass clarinet/contrabass clarinet, horn, trumpet/soprano trombone, trombone/bass trumpet, piano, guitar, harp, percussion, violin, violoncello</description>
+			<length>17:47</length>
+			<player name="Elision Ensemble"/>
+			<conductor>Franck Ollu</conductor>
+			<composed start="2003"/>
+			<recorded start="2005"/>
+			<release>Kairos 0013072KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>No time (at all)</name>
+			<description>for guitar duo</description>
+			<length>7:25</length>
+			<instrument name="guitar">
+				<player name="Geoffrey Morris"/>
+				<player name="Ken Murray"/>
+			</instrument>
+			<composed start="2004"/>
+			<recorded start="2006"/>
+			<release>Kairos 0013072KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 6</name>
+			<length>23:48</length>
+			<player name="Arditti Quartet"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Luc" surname="Ferrari" born="1929" died="2005">

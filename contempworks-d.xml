@@ -917,6 +917,33 @@
 			<release>NMC D131</release>
 			<released>2008</released>
 		</composition>
+		<composition>
+			<name>String Quartet No. 6</name>
+			<length>16:21</length>
+			<player name="Arditti Quartet"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 6</name>
+			<length>13:25</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 6</name>
+			<length>14:00</length>
+			<player name="JACK Quartet"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
 	</composer>
 	<composer name="Paul-Heinz" surname="Dittrich" born="1930" died="">
 		<composition>

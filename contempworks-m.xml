@@ -47,6 +47,90 @@
 			<released>1999/2002</released>
 		</composition>
 		<composition>
+			<name>Composizione n. 1</name>
+			<description>for orchestra</description>
+			<length>20:42</length>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1948" end="1949"/>
+			<recorded start="2006"/>
+			<release>Neos 10933</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Composizione n. 2</name>
+			<description>for orchestra</description>
+			<length>14:51</length>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1950"/>
+			<recorded start="2006"/>
+			<release>Neos 10933</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Studi per &quot;Il Processo&quot; di Franz Kafka</name>
+			<description>for speaker, soprano and orchestra</description>
+			<length>20:42</length>
+			<instrument name="speaker">
+				<player name="Michael Quast"/>
+			</instrument>
+			<instrument name="soprano">
+				<player name="Claudia Barainsky"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1950"/>
+			<recorded start="2006"/>
+			<release>Neos 10933</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Improvvisazione n. 1</name>
+			<description>for orchestra</description>
+			<length>10:37</length>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1952"/>
+			<recorded start="2005"/>
+			<release>Neos 10933</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Improvvisazione n. 2</name>
+			<description>for orchestra</description>
+			<length>7:00</length>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1953"/>
+			<recorded start="2005"/>
+			<release>Neos 10933</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Composizione in tre tempi</name>
+			<length>15:42</length>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1954"/>
+			<recorded start="2005"/>
+			<release>Neos 10934</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Konzert für Flöte und Orchester</name>
+			<length>8:04</length>
+			<instrument name="flute">
+				<player name="Thaddeus Watson"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1954"/>
+			<recorded start="2006"/>
+			<release>Neos 10934</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Quartetto per archi in due tempi</name>
 			<length>14:33</length>
 			<player name="Arditti String Quartet"/>
@@ -155,6 +239,37 @@
 			<released/>
 		</composition>
 		<composition>
+			<name>Dimensioni III</name>
+			<description>for flute and orchestra</description>
+			<length>17:24</length>
+			<instrument name="flute and piccolo">
+				<player name="Clara Andrada de la Calle"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1962" end="1963"/>
+			<recorded start="2006"/>
+			<release>Neos 10934</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Aria</name>
+			<description>for soprano, flute and orchestra</description>
+			<length>14:16</length>
+			<instrument name="soprano">
+				<player name="Claudia Barainsky"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Sebastian Wittiber"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1964"/>
+			<recorded start="2006"/>
+			<release>Neos 10934</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Cadenza (from Amanda)</name>
 			<description>for violin and string trio</description>
 			<length>6:39</length>
@@ -163,6 +278,29 @@
 			<recorded start="1992" end="1995"/>
 			<release>Montaigne 782158</release>
 			<released>1999/2002</released>
+		</composition>
+		<composition>
+			<name>Stele per Diotima</name>
+			<description>for orchestra</description>
+			<length>7:00</length>
+			<instrument name="violin">
+				<player name="Alejandro Rutkauskas"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Jochen Tschabrun"/>
+			</instrument>
+			<instrument name="bass clarinet">
+				<player name="Ulrich Büsing"/>
+			</instrument>
+			<instrument name="horn">
+				<player name="John MacDonald"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1966"/>
+			<recorded start="2006"/>
+			<release>Neos 10934</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Widmung</name>
@@ -184,6 +322,23 @@
 			<recorded start="1979"/>
 			<release>Deutsche Grammophon 00289 477 5383</release>
 			<released>1980/2005</released>
+		</composition>
+		<composition>
+			<name>Grande Aulodia</name>
+			<description>for flute, oboe and orchestra</description>
+			<length>26:40</length>
+			<instrument name="flute">
+				<player name="Thaddeus Watson"/>
+			</instrument>
+			<instrument name="oboe">
+				<player name="Michael Sieg"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1970"/>
+			<recorded start="2007"/>
+			<release>Neos 10935</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Dialodia</name>
@@ -216,6 +371,26 @@
 			<released>1999/2002</released>
 		</composition>
 		<composition>
+			<name>Ausstrahlung</name>
+			<description>for female voice, flute, oboe, large orchestra and tape</description>
+			<length>33:44</length>
+			<instrument name="soprano">
+				<player name="Carole Sidney Louis"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Thaddeus Watson"/>
+			</instrument>
+			<instrument name="oboe">
+				<player name="Michael Sieg"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1971"/>
+			<recorded start="2007"/>
+			<release>Neos 10935</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Aura</name>
 			<description>for orchestra</description>
 			<length>16:18</length>
@@ -236,6 +411,17 @@
 			<recorded start="1979"/>
 			<release>Deutsche Grammophon 00289 477 5383</release>
 			<released>1980/2005</released>
+		</composition>
+		<composition>
+			<name>Biogramma</name>
+			<description>for large orchestra</description>
+			<length>12:06</length>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1972"/>
+			<recorded start="2007"/>
+			<release>Neos 10935</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Ständchen für Tini</name>
@@ -432,6 +618,16 @@
 			<recorded start="1996"/>
 			<release>Adès/IRCAM 206 062</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Stringendo</name>
+			<description>First string quartet</description>
+			<length>14:53</length>
+			<player name="Arditti Quartet"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Tomás" surname="Marco" born="1942" died="">

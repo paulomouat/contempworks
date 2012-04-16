@@ -2359,6 +2359,17 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Aaron" surname="Cassidy" born="1976" died="">
+		<composition>
+			<name>Second string quartet</name>
+			<length>9:00</length>
+			<player name="JACK Quartet"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
+	</composer>
 	<composer name="Niccolò" surname="Castiglioni" born="1932" died="">
 		<composition>
 			<name>Quodlibet aus &quot;Figure&quot;</name>

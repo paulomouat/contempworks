@@ -29,6 +29,18 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Ondřej" surname="Adámek" born="1979" died="">
+		<composition>
+			<name>Lo que no' contamo'</name>
+			<description>String quartet No. 2</description>
+			<length>16:53</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
+	</composer>
 	<composer name="Mathew" surname="Adkins" born="1972" died="">
 		<composition>
 			<name>Melt</name>

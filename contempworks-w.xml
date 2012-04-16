@@ -1625,4 +1625,43 @@
 			<released>2007</released>
 		</composition>
 	</composer>
+	<composer name="Ivan" surname="Wyschnegradsky" born="1893" died="1979">
+		<composition>
+			<name>Arc-en-ciel, op. 37</name>
+			<description>for six grand pianos in 12-tone tuning</description>
+			<length>9:12</length>
+			<instrument name="piano">
+				<player name="Pi-hsien Chen"/>
+				<player name="Christoph Grund"/>
+				<player name="Florian Hoelscher"/>
+				<player name="Akiko Okabe"/>
+				<player name="Sven Thomas Kiebler"/>
+				<player name="Julia Vogelsänger"/>
+			</instrument>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1956"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Arc-en-ciel II (unfinished)</name>
+			<description>(excerpt from Les Arcs-en-ciel, op. 52a)</description>
+			<description>for six grand pianos in 12-tone tuning</description>
+			<length>3:06</length>
+			<instrument name="piano">
+				<player name="Pi-hsien Chen"/>
+				<player name="Christoph Grund"/>
+				<player name="Florian Hoelscher"/>
+				<player name="Akiko Okabe"/>
+				<player name="Sven Thomas Kiebler"/>
+				<player name="Julia Vogelsänger"/>
+			</instrument>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1972"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
+	</composer>
 </list>

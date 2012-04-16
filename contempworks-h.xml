@@ -58,6 +58,25 @@
 			<release>Neos 10919</release>
 			<released>2009</released>
 		</composition>
+		<composition>
+			<name>Limited approximations</name>
+			<description>Concerto for six grand pianos in 12-tone tuning and orchestra</description>
+			<length>32:43</length>
+			<instrument name="piano">
+				<player name="Pi-hsien Chen"/>
+				<player name="Christoph Grund"/>
+				<player name="Florian Hoelscher"/>
+				<player name="Akiko Okabe"/>
+				<player name="Sven Thomas Kiebler"/>
+				<player name="Julia Vogelsänger"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1972"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
 	</composer>
 	<composer name="Hans" surname="Haass" born="1897" died="1955">
 		<composition>

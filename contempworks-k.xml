@@ -482,6 +482,15 @@
 	</composer>
 	<composer name="György" surname="Kurtág" born="1926" died="">
 		<composition>
+			<name>String quartet op. 1</name>
+			<length>14:27</length>
+			<player name="Athena Quartett"/>
+			<composed start="1959"/>
+			<recorded start="2010"/>
+			<release>Neos 11033</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Praeludium und Choral</name>
 			<description>für Klavier</description>
 			<length>1:34</length>
@@ -541,6 +550,16 @@
 			<recorded start="1993"/>
 			<release>Col Legno WWE 31870</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Hommage à Mihály András</name>
+			<description>12 Mikroludien für Streichquartett, op. 13</description>
+			<length>11:12</length>
+			<player name="Athena Quartett"/>
+			<composed start="1977" end="1978"/>
+			<recorded start="2009"/>
+			<release>Neos 11033</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Il pleut sur la ville</name>
@@ -629,6 +648,16 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Officium breve in memoriam Andreae Szervánszky</name>
+			<description>op. 28 for string quartet</description>
+			<length>12:28</length>
+			<player name="Athena Quartett"/>
+			<composed start="1988" end="1989"/>
+			<recorded start="2009"/>
+			<release>Neos 11033</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Grabstein für Stephan</name>
 			<description>für Gitarre und Instrumentengruppen</description>
 			<description>In memoriam Stephan Stein</description>
@@ -710,6 +739,16 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Aus der Ferne III</name>
+			<description>for string quartet, for the 90th birthday of Alfred Schlee</description>
+			<length>2:55</length>
+			<player name="Athena Quartett"/>
+			<composed start="1991"/>
+			<recorded start="2009"/>
+			<release>Neos 11033</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Tamás Blum in memoriam</name>
 			<description>für Viola</description>
 			<length>2:27</length>
@@ -731,6 +770,57 @@
 			<recorded start="1994"/>
 			<release>Deutsche Grammophon 447761-2</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Aus der Ferne V</name>
+			<description>for string quartet, Alfred Schlee in memoriam</description>
+			<length>2:58</length>
+			<player name="Athena Quartett"/>
+			<composed start="1999"/>
+			<recorded start="2009"/>
+			<release>Neos 11033</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Hommage à Jacob Obrecht</name>
+			<length>4:29</length>
+			<player name="Athena Quartett"/>
+			<composed start="2004" end="2005"/>
+			<recorded start="2009"/>
+			<release>Neos 11033</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>6 Moments musicaux</name>
+			<description>op. 44 for string quartet</description>
+			<length>14:33</length>
+			<player name="Athena Quartett"/>
+			<composed start="2005"/>
+			<recorded start="2008"/>
+			<release>Neos 11033</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Arioso - Hommage à Walter Levin 85</name>
+			<description>in Alban Bergs Manier</description>
+			<description>Adagio (wooden mutes)</description>
+			<length>3:09</length>
+			<player name="Athena Quartett"/>
+			<composed start="2009"/>
+			<recorded start="2009"/>
+			<release>Neos 11033</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Arioso - Hommage à Walter Levin 85</name>
+			<description>in Alban Bergs Manier</description>
+			<description>Adagio (metallic mutes)</description>
+			<length>3:02</length>
+			<player name="Athena Quartett"/>
+			<composed start="2009"/>
+			<recorded start="2009"/>
+			<release>Neos 11033</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Hanspeter" surname="Kyburz" born="1960" died="">

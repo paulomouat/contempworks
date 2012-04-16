@@ -375,6 +375,28 @@
 			<release>Col Legno CD1 31906</release>
 			<released>1996</released>
 		</composition>
+		<composition>
+			<name>Radiographie d'un roman</name>
+			<description>for mixed chorus (with seven soloists), accordion solo, percussion solo, 30 instrumentalists and live electronics</description>
+			<length>43:53</length>
+			<instrument name="accordion">
+				<player name="Luka Juhart"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jean-Pierre Drouet"/>
+			</instrument>
+			<instrument name="voice">
+				<player name="David Moss"/>
+			</instrument>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<player name="Experimentalstudio des SWR"/>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Rupert Huber</conductor>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
 	</composer>
 	<composer name="Karel" surname="Goeyvaerts" born="1923" died="1993">
 		<composition>

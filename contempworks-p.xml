@@ -1158,6 +1158,21 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Alberto" surname="Posadas" born="1967" died="">
+		<composition>
+			<name>Del reflejo de la sombra</name>
+			<description>for bass clarinet and string quartet</description>
+			<length>16:57</length>
+			<instrument name="bass clarinet">
+				<player name="Alain Billard"/>
+			</instrument>
+			<player name="Quatuor Diotima"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Neos 11114-17</release>
+			<released>2011</released>
+		</composition>
+	</composer>
 	<composer name="Henri" surname="Pousseur" born="1929" died="">
 		<composition>
 			<name>Quintette à la mémoire d'Anton Webern</name>
