@@ -29,6 +29,16 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Lichtbogen</name>
+			<length>16:34</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Hannu Lintu</conductor>
+			<composed start="1986"/>
+			<recorded start="2001"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Nymphea (Jardin Secret III)</name>
 			<description>for string quartet and live electronics</description>
 			<length>19:25</length>
@@ -52,6 +62,48 @@
 			<recorded start="2001"/>
 			<release>Kairos 0012412KAI</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Grammaire des rêves</name>
+			<length>14:32</length>
+			<instrument name="soprano">
+				<player name="Anu Komsi"/>
+			</instrument>
+			<instrument name="contralto">
+				<player name="Riikka Rantanen"/>
+			</instrument>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Hannu Lintu</conductor>
+			<composed start="1988"/>
+			<recorded start="2000"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Du cristal</name>
+			<length>16:40</length>
+			<player name="Los Angeles Philharmonic Orchestra"/>
+			<conductor>Esa-Pekka Salonen</conductor>
+			<composed start="1990"/>
+			<recorded start="1992"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>...à la fumée</name>
+			<length>21:13</length>
+			<instrument name="alto flute">
+				<player name="Petri Alanko"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Anssi Karttunen"/>
+			</instrument>
+			<player name="Los Angeles Philharmonic Orchestra"/>
+			<conductor>Esa-Pekka Salonen</conductor>
+			<composed start="1990"/>
+			<recorded start="1992"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Monkey Fingers, Velvet Hand</name>
@@ -105,6 +157,29 @@
 			<recorded start="2001"/>
 			<release>Kairos 0012412KAI</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Caliban's Dream</name>
+			<length>3:32</length>
+			<instrument name="baritone">
+				<player name="Petteri Salomaa"/>
+			</instrument>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Hannu Lintu</conductor>
+			<composed start="1992"/>
+			<recorded start="2000"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Solar</name>
+			<length>17:01</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Hannu Lintu</conductor>
+			<composed start="1993"/>
+			<recorded start="2001"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Six Japanese Gardens</name>
@@ -205,6 +280,32 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Graal théâtre</name>
+			<length>29:43</length>
+			<instrument name="violin">
+				<player name="John Storgårds"/>
+			</instrument>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Hannu Lintu</conductor>
+			<composed start="1997"/>
+			<recorded start="2001"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Miranda's Lament</name>
+			<length>4:42</length>
+			<instrument name="soprano">
+				<player name="Anu Komsi"/>
+			</instrument>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Hannu Lintu</conductor>
+			<composed start="1997"/>
+			<recorded start="2000"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Mirrors</name>
 			<description>for flute and violoncello, original version</description>
 			<length>3:31</length>
@@ -251,6 +352,80 @@
 			<recorded start="2001"/>
 			<release>Kairos 0012412KAI</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Oltra mar</name>
+			<description>Seven Preludes for the New Millenium</description>
+			<length>21:53</length>
+			<player name="Tapiola Chamber Choir"/>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="1999"/>
+			<recorded start="2004"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Nymphéa Reflection</name>
+			<length>21:40</length>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="2001"/>
+			<recorded start="2004"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Cinq reflets de &quot;L'Amour de loin&quot;</name>
+			<length>29:28</length>
+			<instrument name="soprano">
+				<player name="Pia Freund"/>
+			</instrument>
+			<instrument name="baritone">
+				<player name="Gabriel Suovanen"/>
+			</instrument>
+			<player name="Finnish Radio Symphony Orchestra"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="2001"/>
+			<recorded start="2004"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Orion</name>
+			<length>23:52</length>
+			<player name="Orchestre de Paris"/>
+			<conductor>Christoph Eschenbach</conductor>
+			<composed start="2002"/>
+			<recorded start="2008"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Notes on Light</name>
+			<length>27:25</length>
+			<player name="Orchestre de Paris"/>
+			<conductor>Christoph Eschenbach</conductor>
+			<composed start="2006"/>
+			<recorded start="2008"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Mirage</name>
+			<length>13:31</length>
+			<instrument name="soprano">
+				<player name="Karita Mattila"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Anssi Karttunen"/>
+			</instrument>
+			<player name="Orchestre de Paris"/>
+			<conductor>Christoph Eschenbach</conductor>
+			<composed start="2007"/>
+			<recorded start="2008"/>
+			<release>Ondine ODE 1113-2Q</release>
+			<released>2012</released>
 		</composition>
 	</composer>
 	<composer name="Oskar" surname="Sala" born="1910" died="2002">
@@ -1644,6 +1819,16 @@
 	</composer>
 	<composer name="Dieter" surname="Schnebel" born="1930" died="">
 		<composition>
+			<name>Stücke</name>
+			<description>für Streichinstrumente (Streichquartett)</description>
+			<length>2:27</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="1954" end="1955"/>
+			<recorded start="2009"/>
+			<release>Neos 11048</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>DIAPASON, Kanon à 13 für ungleichartige Instrumentalgruppen</name>
 			<length>18:55</length>
 			<instrument name="Kontrabaß">
@@ -1703,6 +1888,30 @@
 			<recorded start="1992"/>
 			<release>Col Legno WWE 3CD 31860</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>2. Streichquartett</name>
+			<description>mit Stimmen</description>
+			<description>&quot;Erinnern - Wiederholen - Durcharbeiten&quot;</description>
+			<length>22:02</length>
+			<instrument name="voice">
+				<player name="Katarina Rasinski"/>
+				<player name="Michael Hirsch"/>
+			</instrument>
+			<player name="Quatuor Diotima"/>
+			<composed start="2000" end="2007"/>
+			<recorded start="2009"/>
+			<release>Neos 11048</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Streichquartett &quot;Im Raum&quot;</name>
+			<length>40:12</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2005" end="2006"/>
+			<recorded start="2009"/>
+			<release>Neos 11048</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Arnold" surname="Schönberg" born="1874" died="1951">
@@ -2917,6 +3126,18 @@
 			<recorded start="1992"/>
 			<release>Montaigne 782042</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Oltracuidansa</name>
+			<description>for contrabass and 8-channel tape</description>
+			<length>58:14</length>
+			<instrument name="contrabass">
+				<player name="Stefano Scodanibbio"/>
+			</instrument>
+			<composed start="1997" end="2001"/>
+			<recorded start="2000" end="2001"/>
+			<release>Mode 225</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Bright" surname="Sheng" born="1955" died="">
@@ -6220,6 +6441,81 @@
 			<recorded start="1983"/>
 			<release>Cadenza 800 897</release>
 			<released>1993</released>
+		</composition>
+	</composer>
+	<composer name="Morton" surname="Subotnick" born="1933" died="">
+		<composition>
+			<name>Touch</name>
+			<description>for 4-channel tape</description>
+			<length>30:19</length>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Mode 97</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Sidewinder</name>
+			<description>for 4-channel tape</description>
+			<length>28:53</length>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>Mode 132</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>4 Butterflies</name>
+			<description>for 4-channel tape</description>
+			<length>34:38</length>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>Mode 237</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Until Spring</name>
+			<description>for 4-channel tape, new 5.1 surround version</description>
+			<length>29:25</length>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>Mode 132</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Until Spring: Revisited</name>
+			<description>for live electronics, glass harp and live video</description>
+			<length>37:19</length>
+			<instrument name="live electronics">				
+				<player name="Morton Subotnick"/>
+			</instrument>
+			<instrument name="live electronics, glass harp">				
+				<player name="Miguel Frasconi"/>
+			</instrument>
+			<composed start="1976" end="2009"/>
+			<recorded start="2009"/>
+			<release>Mode 237</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>A sky of cloudless sulphur</name>
+			<description>for 8-channel tape</description>
+			<length>26:08</length>
+			<composed start="1978"/>
+			<recorded start="1978"/>
+			<release>Mode 97</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Gestures</name>
+			<description>&quot;It begins with colors&quot;</description>
+			<description>for 5.1 surround sound</description>
+			<length>15:59</length>
+			<instrument name="voice">
+				<player name="Joan La Barbara"/>
+			</instrument>
+			<composed start="1999" end="2001"/>
+			<recorded start="2001"/>
+			<release>Mode 97</release>
+			<released>2001</released>
 		</composition>
 	</composer>
 </list>
