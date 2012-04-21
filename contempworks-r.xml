@@ -1403,6 +1403,17 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Sphäre um Sphäre</name>
+			<description>für Ensemble</description>
+			<length>27:17</length>
+			<player name="Ensemble Recherche"/>
+			<conductor>Lucas Vis</conductor>
+			<composed start="1992" end="2003"/>
+			<recorded start="2004"/>
+			<release>Wergo WER 6677-2</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Phantom und Eskapade</name>
 			<description>Piece Fantasies for Violin and Piano</description>
 			<length>19:09</length>
@@ -1518,6 +1529,21 @@
 			<recorded start="2002"/>
 			<release>hänssler Classic CD 93.185</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Etude d'après Séraphin</name>
+			<description>für instrumentale und elektronische Klänge</description>
+			<length>45:31</length>
+			<player name="Ensemble 13"/>
+			<instrument name="Klangregie">
+				<player name="Christian Venghaus"/>
+			</instrument>
+			<player name="Auftragswerk des ZKM Karlsruhe"/>
+			<conductor>Manfred Reichert</conductor>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>Wergo WER 2055-2</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Styx und Lethe</name>
@@ -1748,6 +1774,20 @@
 			<recorded start="2000"/>
 			<release>hänssler Classic CD 98.397</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Frage</name>
+			<description>für Frauenstimme und Ensemble</description>
+			<length>33:05</length>
+			<instrument name="Mezzosopran">
+				<player name="Salome Kammer"/>
+			</instrument>
+			<player name="Ensemble Recherche"/>
+			<conductor>Lucas Vis</conductor>
+			<composed start="1999" end="2000"/>
+			<recorded start="2004"/>
+			<release>Wergo WER 6677-2</release>
+			<released>2005</released>
 		</composition>
 		<composition>
 			<name>Fetzen</name>
