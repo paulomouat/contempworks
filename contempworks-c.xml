@@ -2869,6 +2869,27 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Five Pieces for Clarinet, Cello and Piano</name>
+			<length>17:14</length>
+			<player name="Arcus Ensemble Wien"/>
+			<composed start="2000"/>
+			<recorded start="2011"/>
+			<release>Neos 10921</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Quintet for Clarinet and String Quartet</name>
+			<length>21:36</length>
+			<instrument name="clarinet">
+				<player name="Andreas Schablas"/>
+			</instrument>
+			<player name="Hugo Wolf Quartet"/>
+			<composed start="2004"/>
+			<recorded start="2011"/>
+			<release>Neos 10921</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Momente</name>
 			<description>für Orchester</description>
 			<length>20:52</length>
@@ -2910,6 +2931,20 @@
 			<recorded start="2010"/>
 			<release>Kairos 0013152KAI</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Eight Bagatelles for Clarinet and Piano</name>
+			<length>15:46</length>
+			<instrument name="clarinet">
+				<player name="Andreas Schablas"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Janna Polyzoides"/>
+			</instrument>
+			<composed start="2009"/>
+			<recorded start="2011"/>
+			<release>Neos 10921</release>
+			<released>2012</released>
 		</composition>
 	</composer>
 	<composer name="Nicola" surname="Cisternino" born="1957" died="">
