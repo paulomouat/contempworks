@@ -977,6 +977,21 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Pierluigi" surname="Billone" born="1960" died="">
+		<composition>
+			<name>1+1=1</name>
+			<description>für 2 Bassklarinetten</description>
+			<length>1:10:02</length>
+			<instrument name="Bassklarinette">
+				<player name="Petra Stump"/>
+				<player name="Heinz-Peter Linshalm"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Kairos 0012602KAI</release>
+			<released>2006</released>
+		</composition>
+	</composer>
 	<composer name="Konrad" surname="Boehmer" born="1941" died="">
 		<composition>
 			<name>Aspekt</name>
