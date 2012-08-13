@@ -502,6 +502,30 @@
 	</composer>
 	<composer name="Wolfgang" surname="Rihm" born="1952" died="">
 		<composition>
+			<name>Drei Fantasien</name>
+			<description>für Orgel</description>
+			<length>11:30</length>
+			<instrument name="Orgel">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="2011"/>
+			<release>Wergo WER 6751 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Contemplatio</name>
+			<description>per organo</description>
+			<length>3:18</length>
+			<instrument name="Orgel">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="2011"/>
+			<release>Wergo WER 6751 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Fragmenta passionis</name>
 			<description>Fünf Motetten für gemischten Chor a cappella</description>
 			<length>10:06</length>
@@ -535,6 +559,18 @@
 			<composed start="1968"/>
 			<recorded start="2011"/>
 			<release>Harmonia Mundi HMC 902129</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Fantasie</name>
+			<description>für Orgel</description>
+			<length>9:29</length>
+			<instrument name="Orgel">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="2011"/>
+			<release>Wergo WER 6751 2</release>
 			<released>2012</released>
 		</composition>
 		<composition>
@@ -615,6 +651,17 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Sinfoniae I. Messe für Orgel</name>
+			<length>14:36</length>
+			<instrument name="Orgel">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="2011"/>
+			<release>Wergo WER 6751 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Paraphrase</name>
 			<description>für Violoncello, Percussion und Klavier</description>
 			<length>23:50</length>
@@ -692,6 +739,21 @@
 			<recorded start="2001"/>
 			<release>Kairos 0012372KAI</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Siebengestalt</name>
+			<description>für Orgel und Tamtam</description>
+			<length>16:40</length>
+			<instrument name="Orgel">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<instrument name="Tamtam">
+				<player name="Jens Brülls"/>
+			</instrument>
+			<composed start="1974"/>
+			<recorded start="2011"/>
+			<release>Wergo WER 6751 2</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Violin Sonata</name>
@@ -882,6 +944,18 @@
 			<recorded start="1984"/>
 			<release>hänssler Classic CD 93.185</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Bann, Nachtschwärmerei</name>
+			<description>für Orgel</description>
+			<length>15:54</length>
+			<instrument name="Orgel">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2011"/>
+			<release>Wergo WER 6751 2</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Tutuguri</name>

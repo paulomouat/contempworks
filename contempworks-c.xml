@@ -41,6 +41,24 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Quartet</name>
+			<length>21:24</length>
+			<player name="Third Coast Percussion"/>
+			<composed start="1935"/>
+			<recorded start="2011"/>
+			<release>Mode 243</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Trio</name>
+			<length>4:30</length>
+			<player name="Third Coast Percussion"/>
+			<composed start="1936"/>
+			<recorded start="2011"/>
+			<release>Mode 243</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>First construction in metal</name>
 			<length>8:51</length>
 			<player name="Manhattan Percussion Ensemble"/>
@@ -53,6 +71,19 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>First construction [in metal]</name>
+			<length>11:25</length>
+			<player name="Third Coast Percussion"/>
+			<instrument name="percussion">
+				<player name="Gregory Beyer"/>
+				<player name="Ross Karre"/>
+			</instrument>
+			<composed start="1939"/>
+			<recorded start="2011"/>
+			<release>Mode 243</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Imaginary Landscape No. 1</name>
 			<description>for 2 variable-speed turntables, frequency recordings, muted piano and cymbal, to be performed as a recording or broadcast</description>
 			<length>6:52</length>
@@ -61,6 +92,33 @@
 			<recorded start="2008"/>
 			<release>Mode 229</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Living room music</name>
+			<length>8:04</length>
+			<player name="Third Coast Percussion"/>
+			<composed start="1940"/>
+			<recorded start="2011"/>
+			<release>Mode 243</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Second construction</name>
+			<length>7:50</length>
+			<player name="Third Coast Percussion"/>
+			<composed start="1940"/>
+			<recorded start="2011"/>
+			<release>Mode 243</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Third construction</name>
+			<length>10:17</length>
+			<player name="Third Coast Percussion"/>
+			<composed start="1941"/>
+			<recorded start="2011"/>
+			<release>Mode 243</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Credo in Us</name>
