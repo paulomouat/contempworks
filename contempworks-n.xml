@@ -724,6 +724,31 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Quando stanno morendo, Diario Polacco n. 2</name>
+			<description>for four female voices, bass flute, violoncello and live electronics</description>
+			<length>38:58</length>
+			<instrument name="soprano">
+				<player name="Heike Heilmann"/>
+				<player name="Petra Hoffmann"/>
+				<player name="Alexandra Lubchansky"/>
+			</instrument>
+			<instrument name="alto">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Christine Theus"/>
+			</instrument>
+			<player name="Experimentalstudio des SWF, Freiburg"/>
+			<conductor>André Richard</conductor>
+			<composed start="1982"/>
+			<recorded start="2007"/>
+			<release>Neos 10801/02</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>Guai ai gelidi mostri</name>
 			<description>for flute, clarinet, tuba, two contraltos, viola, cello, double-bass and live electronics</description>
 			<length>43:28</length>
@@ -733,6 +758,39 @@
 			<recorded start="1994"/>
 			<release>Montaigne 782047</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Guai ai gelidi mostri</name>
+			<description>for two altos, flute, clarinet, tuba, viola, violoncello, contrabass and live electronics</description>
+			<length>44:18</length>
+			<instrument name="alto">
+				<player name="Noa Frenkel"/>
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Ernesto Molinari"/>
+			</instrument>
+			<instrument name="tuba">
+				<player name="Klaus Burger"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Susan Knight"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Christine Theus"/>
+			</instrument>
+			<instrument name="contrabass">
+				<player name="Ulrich Schneider"/>
+			</instrument>
+			<player name="Experimentalstudio des SWF, Freiburg"/>
+			<conductor>André Richard</conductor>
+			<composed start="1983"/>
+			<recorded start="2007"/>
+			<release>Neos 10801/02</release>
+			<released>2008</released>
 		</composition>
 		<composition score="Y">
 			<name>A Carlo Scarpa, architetto, ai suoi infiniti possibili</name>
