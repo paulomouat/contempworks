@@ -2868,6 +2868,17 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Impulse</name>
+			<description>für Orchester</description>
+			<length>21:50</length>
+			<player name="Wiener Philharmoniker"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1992" end="1993"/>
+			<recorded start="1996"/>
+			<release>Kairos 0013242KAI</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Für K</name>
 			<description>für Kammerorchester</description>
 			<length>17:24</length>
@@ -2968,6 +2979,16 @@
 			<recorded start="2009"/>
 			<release>Kairos 0013152KAI</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Konzert für Schlagzeug und Orchester</name>
+			<length>31:25</length>
+			<player name="Wiener Philharmoniker"/>
+			<conductor>Peter Eötvös</conductor>
+			<composed start="2007" end="2008"/>
+			<recorded start="2011"/>
+			<release>Kairos 0013242KAI</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Neun Bagatellen</name>

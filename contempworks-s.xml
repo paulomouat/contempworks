@@ -4655,6 +4655,18 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Tierkreis</name>
+			<description>für Orgel</description>
+			<length>48:30</length>
+			<instrument name="Orgel">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="2008"/>
+			<release>Wergo WER 6736 2</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Musik im Bauch</name>
 			<description>für 6 Schlagzeuger, Spieluhren und Klangregisseur</description>
 			<length>34:00</length>

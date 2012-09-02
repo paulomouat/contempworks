@@ -992,6 +992,26 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Harrison" surname="Birtwistle" born="1934" died="">
+		<composition>
+			<name>9 Movements for String Quartet</name>
+			<length>30:31</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991" end="1996"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD1217</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>String Quartet: The Tree of Strings</name>
+			<length>29:01</length>
+			<player name="Arditti Quartet"/>
+			<composed start="2007"/>
+			<recorded start="2010"/>
+			<release>Aeon AECD1217</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Konrad" surname="Boehmer" born="1941" died="">
 		<composition>
 			<name>Aspekt</name>
