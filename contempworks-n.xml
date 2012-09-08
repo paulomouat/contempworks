@@ -538,6 +538,22 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>...sofferte onde serene...</name>
+			<description>for piano and tape</description>
+			<length>14:14</length>
+			<instrument name="piano">
+				<player name="Markus Hinterhäuser"/>
+			</instrument>
+			<instrument name="sound direction">
+				<player name="André Richard"/>
+			</instrument>
+			<player name="Experimentalstudio des SWR"/>
+			<composed start="1976"/>
+			<recorded start="2010"/>
+			<release>Neos 11122</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Con Luigi Dallapiccola</name>
 			<description>für sechs Schlagzeuger, vier Pickups, drei Ringmodulatoren und drei Frequenzgeneratoren</description>
 			<length>19:11</length>
@@ -559,6 +575,21 @@
 			<recorded start="1993"/>
 			<release>Col Legno WWE 1CD 31871</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Con Luigi Dallapiccola</name>
+			<description>for six percussionists and live electronics</description>
+			<length>12:53</length>
+			<player name="Les Percussions de Strasbourg"/>
+			<instrument name="sound direction">
+				<player name="Reinhold Braig"/>
+				<player name="Joachim Haas"/>
+			</instrument>
+			<player name="Experimentalstudio des SWR"/>
+			<composed start="1979"/>
+			<recorded start="2010"/>
+			<release>Neos 11122</release>
+			<released>2012</released>
 		</composition>
 		<composition score="Y">
 			<name>Fragmente - Stille, An Diotima</name>
@@ -741,7 +772,12 @@
 			<instrument name="violoncello">
 				<player name="Christine Theus"/>
 			</instrument>
-			<player name="Experimentalstudio des SWF, Freiburg"/>
+			<instrument name="sound direction">
+				<player name="Michael Acker"/>
+				<player name="Reinhold Braig"/>
+				<player name="Joachim Haas"/>
+			</instrument>
+			<player name="Experimentalstudio des SWR, Freiburg"/>
 			<conductor>André Richard</conductor>
 			<composed start="1982"/>
 			<recorded start="2007"/>
@@ -785,7 +821,12 @@
 			<instrument name="contrabass">
 				<player name="Ulrich Schneider"/>
 			</instrument>
-			<player name="Experimentalstudio des SWF, Freiburg"/>
+			<instrument name="sound direction">
+				<player name="Michael Acker"/>
+				<player name="Reinhold Braig"/>
+				<player name="Joachim Haas"/>
+			</instrument>
+			<player name="Experimentalstudio des SWR, Freiburg"/>
 			<conductor>André Richard</conductor>
 			<composed start="1983"/>
 			<recorded start="2007"/>
@@ -859,6 +900,28 @@
 			<released>1991</released>
 		</composition>
 		<composition>
+			<name>A Pierre, Dell'azzurro silenzio, inquietum</name>
+			<description>for bass flute, double bass clarinet and live electronics</description>
+			<length>9:25</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Ernesto Molinari"/>
+			</instrument>
+			<instrument name="sound direction">
+				<player name="Michael Acker"/>
+			</instrument>
+			<instrument name="supervision">
+				<player name="André Richard"/>
+			</instrument>
+			<player name="Experimentalstudio des SWR"/>
+			<composed start="1985"/>
+			<recorded start="2010"/>
+			<release>Neos 11122</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Omaggio a György Kurtág</name>
 			<description>for contralto, flute, clarinet, tuba and live electronics</description>
 			<length>17:20</length>
@@ -868,6 +931,37 @@
 			<recorded start="1994"/>
 			<release>Montaigne 782047</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Omaggio a György Kurtág</name>
+			<description>for alto, flute, clarinet, tuba and live electronics</description>
+			<length>17:56</length>
+			<instrument name="contralto">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Ernesto Molinari"/>
+			</instrument>
+			<instrument name="tuba">
+				<player name="Klaus Burger"/>
+			</instrument>
+			<instrument name="sound direction">
+				<player name="Michael Acker"/>
+				<player name="Reinhold Braig"/>
+				<player name="Thomas Hummel"/>
+			</instrument>
+			<instrument name="supervision">
+				<player name="André Richard"/>
+			</instrument>
+			<conductor>Detlef Heusinger</conductor>
+			<player name="Experimentalstudio des SWR"/>
+			<composed start="1983" end="1986"/>
+			<recorded start="2010"/>
+			<release>Neos 11122</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Donde estas hermano?</name>
@@ -914,17 +1008,25 @@
 			<description>a Massimo Cacciari</description>
 			<description>for contralto, flute, tuba, percussionists and live electronics</description>
 			<length>40:18</length>
-			<instrument name="Contralto">
+			<instrument name="contralto">
 				<player name="Susanne Otto"/>
 			</instrument>
-			<instrument name="Flute">
+			<instrument name="flute">
 				<player name="Roberto Fabbriciani"/>
 			</instrument>
-			<instrument name="Tuba">
+			<instrument name="tuba">
 				<player name="Klaus Burger"/>
 			</instrument>
 			<player name="Les Percussions de Strasbourg"/>
 			<player name="Experimentalstudio des SWR"/>
+			<instrument name="sound direction">
+				<player name="Reinhold Braig"/>
+				<player name="Joachim Haas"/>
+				<player name="Gregorio Karman"/>
+			</instrument>
+			<instrument name="supervision">
+				<player name="André Richard"/>
+			</instrument>
 			<conductor>Detlef Heusinger</conductor>
 			<composed start="1986" end="1987"/>
 			<recorded start="2010"/>
@@ -990,6 +1092,13 @@
 				<player name="Klaus Burger"/>
 			</instrument>
 			<player name="Experimentalstudio des SWR"/>
+			<instrument name="sound direction">
+				<player name="Michael Acker"/>
+				<player name="Joachim Haas"/>
+			</instrument>
+			<instrument name="supervision">
+				<player name="André Richard"/>
+			</instrument>
 			<composed start="1987"/>
 			<recorded start="2010"/>
 			<release>Neos 11119</release>

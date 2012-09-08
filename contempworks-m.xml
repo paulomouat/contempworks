@@ -303,6 +303,20 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Amanda</name>
+			<description>for chamber orchestra</description>
+			<length>13:19</length>
+			<instrument name="violin">
+				<player name="Alejandro Rutkauskas"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1966"/>
+			<recorded start="2006"/>
+			<release>Neos 10936</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Widmung</name>
 			<description>for violin</description>
 			<length>10:44</length>
@@ -322,6 +336,17 @@
 			<recorded start="1979"/>
 			<release>Deutsche Grammophon 00289 477 5383</release>
 			<released>1980/2005</released>
+		</composition>
+		<composition>
+			<name>Quadrivium</name>
+			<description>for four percussionists and four orchestra groups</description>
+			<length>27:43</length>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1969"/>
+			<recorded start="2007"/>
+			<release>Neos 10936</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Grande Aulodia</name>
@@ -402,6 +427,17 @@
 			<released>1980/2005</released>
 		</composition>
 		<composition>
+			<name>Aura</name>
+			<description>for orchestra</description>
+			<length>16:30</length>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1972"/>
+			<recorded start="2007"/>
+			<release>Neos 10936</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Biogramma</name>
 			<description>for large orchestra</description>
 			<length>13:59</length>
@@ -432,6 +468,17 @@
 			<recorded start="1992" end="1995"/>
 			<release>Montaigne 782158</release>
 			<released>1999/2002</released>
+		</composition>
+		<composition>
+			<name>Giardino religioso</name>
+			<description>for small orchestra</description>
+			<length>20:35</length>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1972"/>
+			<recorded start="2007"/>
+			<release>Neos 10936</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Mesias" surname="Maiguashca" born="1938" died="">
