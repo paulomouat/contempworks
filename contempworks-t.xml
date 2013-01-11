@@ -15,6 +15,62 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Vladimir" surname="Tarnopolski" born="1955" died="">
+		<composition>
+			<name>Jesu, Your Deep Wounds</name>
+			<description>for percussions, string trio and ensemble</description>
+			<length>12:10</length>
+			<player name="Studio for New Music"/>
+			<conductor>Igor Dronov</conductor>
+			<composed start="1987"/>
+			<recorded start="1997"/>
+			<release>Megadisc MDC 7838</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Echoes of the Passing Day</name>
+			<description>A phantasy on James Joyce's &quot;Ullysses&quot; for clarinet, cello and piano</description>
+			<length>19:30</length>
+			<instrument name="Clarinet">
+				<player name="Oleg Tanzov"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Natalia Savinova"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Victor Jampolski"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1992"/>
+			<release>Megadisc MDC 7838</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Eindruck-Ausdruck II</name>
+			<description>for piano and large ensemble</description>
+			<length>14:16</length>
+			<instrument name="Piano">
+				<player name="Victor Jampolski"/>
+			</instrument>
+			<player name="Moscow Ensemble of Soloists"/>
+			<conductor>Alexei Vinogradov</conductor>
+			<composed start="1989" end="1992"/>
+			<recorded start="1992"/>
+			<release>Megadisc MDC 7838</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Kassandra</name>
+			<description>for large ensemble</description>
+			<length>24:24</length>
+			<player name="Studio for New Music"/>
+			<conductor>Igor Dronov</conductor>
+			<composed start="1991"/>
+			<recorded start="1994"/>
+			<release>Megadisc MDC 7838</release>
+			<released>1998</released>
+		</composition>
+	</composer>
 	<composer name="James" surname="Tenney" born="1934" died="2006">
 		<composition>
 			<name>Poem</name>
