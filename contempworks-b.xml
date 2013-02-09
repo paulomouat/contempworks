@@ -2273,6 +2273,81 @@
 	</composer>
 	<composer name="Sylvano" surname="Bussotti" born="1931" died="">
 		<composition>
+			<name>El Carbonero</name>
+			<description>Grottesco a 5 voci miste da Un Motivo Popolare Spagnolo</description>
+			<length>1:11</length>
+			<instrument name="soprano">
+				<player name="Masumi Yoshikawa"/>
+				<player name="Maki Oota"/>
+			</instrument>
+			<instrument name="alto">
+				<player name="Kaori Ozaki"/>
+			</instrument>
+			<instrument name="tenor">
+				<player name="Tatsujiro Kakimoto"/>
+				<player name="Hiroshi Ohnuki"/>
+			</instrument>
+			<instrument name="baritone">
+				<player name="Takashi Matsudaira"/>
+			</instrument>
+			<instrument name="bass">
+				<player name="Daisuke Fujii"/>
+			</instrument>
+			<conductor>Yoichi Sugiyama</conductor>
+			<composed start="1957"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Couple</name>
+			<description>from "Sette fogli"</description>
+			<description>pour flûte et piano</description>
+			<length>4:32</length>
+			<instrument name="flute">
+				<player name="Sonia Formenti"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Alessandro Dolci"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Coeur</name>
+			<description>from "Sette fogli"</description>
+			<description>pour batteur</description>
+			<length>5:40</length>
+			<instrument name="percussion">
+				<player name="Sawako Yasue"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Per Tre</name>
+			<description>from "Sette fogli"</description>
+			<description>sul pianoforte</description>
+			<length>5:48</length>
+			<instrument name="piano">
+				<player name="Alessandro Dolci"/>
+			</instrument>
+			<instrument name="flûte">
+				<player name="Sonia Formenti"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Paolo Casiraghi"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Musica per amici</name>
 			<length>5:57</length>
 			<instrument name="piano">
@@ -2293,6 +2368,104 @@
 			<recorded start="1996"/>
 			<release>Mode 65</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Fragmentation</name>
+			<description>per arpa sola</description>
+			<length>14:45</length>
+			<instrument name="harp">
+				<player name="Giovanna Reitano"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="2005"/>
+			<release>Stradivarius STR 33742</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Fragmentations pour un joueur de harpes</name>
+			<length>35:44</length>
+			<instrument name="harp">
+				<player name="Giovanna Reitano"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="2005"/>
+			<release>Stradivarius STR 33742</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Ancora odono i colli</name>
+			<description>from "5 Frammenti all'Italia"</description>
+			<description>per sestetto vocale</description>
+			<length>5:23</length>
+			<instrument name="soprano">
+				<player name="Masumi Yoshikawa"/>
+				<player name="Maki Oota"/>
+			</instrument>
+			<instrument name="tenor">
+				<player name="Tatsujiro Kakimoto"/>
+				<player name="Hiroshi Ohnuki"/>
+			</instrument>
+			<instrument name="baritone">
+				<player name="Takashi Matsudaira"/>
+			</instrument>
+			<instrument name="bass">
+				<player name="Daisuke Fujii"/>
+			</instrument>
+			<conductor>Yoichi Sugiyama</conductor>
+			<composed start="1968"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>La curva dell'amore</name>
+			<description>from "5 Frammenti all'Italia"</description>
+			<description>per sestetto vocale</description>
+			<length>7:32</length>
+			<instrument name="soprano">
+				<player name="Masumi Yoshikawa"/>
+				<player name="Maki Oota"/>
+			</instrument>
+			<instrument name="tenor">
+				<player name="Tatsujiro Kakimoto"/>
+				<player name="Hiroshi Ohnuki"/>
+			</instrument>
+			<instrument name="baritone">
+				<player name="Takashi Matsudaira"/>
+			</instrument>
+			<instrument name="bass">
+				<player name="Daisuke Fujii"/>
+			</instrument>
+			<conductor>Yoichi Sugiyama</conductor>
+			<composed start="1968"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Rar'ancora</name>
+			<description>from "5 Frammenti all'Italia"</description>
+			<description>per sestetto vocale</description>
+			<length>3:52</length>
+			<instrument name="soprano">
+				<player name="Masumi Yoshikawa"/>
+				<player name="Maki Oota"/>
+			</instrument>
+			<instrument name="tenor">
+				<player name="Tatsujiro Kakimoto"/>
+				<player name="Hiroshi Ohnuki"/>
+			</instrument>
+			<instrument name="baritone">
+				<player name="Takashi Matsudaira"/>
+			</instrument>
+			<instrument name="bass">
+				<player name="Daisuke Fujii"/>
+			</instrument>
+			<conductor>Yoichi Sugiyama</conductor>
+			<composed start="1968"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Quartetto Gramsci</name>
@@ -2316,6 +2489,95 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Autotono</name>
+			<description>un divertimento - sette più sette fogli a quattro mani - bianco e nero per una vita d'artista, come concerto di danza in scena</description>
+			<length>17:31</length>
+			<player name="mdi ensemble"/>
+			<conductor>Yoichi Sugiyama</conductor>
+			<composed start="1977"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Gran Duo</name>
+			<description>per violoncello e pianoforte (da Beethoven)</description>
+			<length>9:55</length>
+			<instrument name="violocello">
+				<player name="Giorgio Casati"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Alessandro Dolci"/>
+			</instrument>
+			<composed start="1977" end="1978"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Lachrimae</name>
+			<description>per ogni voce</description>
+			<length>8:50</length>
+			<instrument name="soprano">
+				<player name="Maki Oota"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Brutto ignudo</name>
+			<description>from Ballet "Phaidra/Heliogabalus"</description>
+			<description>un tratto per clarinetto basso</description>
+			<length>4:03</length>
+			<instrument name="bass clarinet">
+				<player name="Paolo Casiraghi"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Nudo disteso</name>
+			<description>from Ballet "Phaidra/Heliogabalus"</description>
+			<description>una cadenza per viola</description>
+			<length>3:48</length>
+			<instrument name="viola">
+				<player name="Paolo Fumagalli"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>E l'uccellino</name>
+			<description>per canto e pianoforte</description>
+			<length>2:02</length>
+			<instrument name="flute">
+				<player name="Sonia Formenti"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Paolo Casiraghi"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Makoto Ezoe"/>
+				<player name="Paolo Fumagalli"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Alessandro Dolci"/>
+			</instrument>
+			<instrument name="voice">
+				<player name="Sylvano Bussotti"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33884</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Nascosto (nove parti per Pierre Boulez)</name>
 			<description>pour ensemble</description>
 			<length>2:40</length>
@@ -2325,6 +2587,42 @@
 			<recorded start="1992"/>
 			<release>Arts 447135-2</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Labirinto</name>
+			<description>per arpa sola</description>
+			<length>2:25</length>
+			<instrument name="harp">
+				<player name="Giovanna Reitano"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="2005"/>
+			<release>Stradivarius STR 33742</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Nuovi Labirinti</name>
+			<description>per arpa sola</description>
+			<length>10:05</length>
+			<part>
+				<number>I</number>
+				<length>3:46</length>
+			</part>
+			<part>
+				<number>II</number>
+				<length>3:53</length>
+			</part>
+			<part>
+				<number>III</number>
+				<length>2:26</length>
+			</part>
+			<instrument name="harp">
+				<player name="Giovanna Reitano"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="2005"/>
+			<release>Stradivarius STR 33742</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Il Preludio</name>
