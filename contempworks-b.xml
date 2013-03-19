@@ -126,72 +126,92 @@
 			<released>1999</released>
 		</composition>
 	</composer>
+	<composer name="Dominique" surname="Bassal" born="1955" died="">
+		<composition>
+			<name>Rites d'oiseaux pensants</name>
+			<description>Ubiquité</description>
+			<length>14:40</length>
+			<composed start="2001" end="2008"/>
+			<recorded start="2008"/>
+			<release>empreintes DIGITALes IMED 09101</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Noyade en magma</name>
+			<description>Ubiquité</description>
+			<length>10:00</length>
+			<composed start="2001" end="2008"/>
+			<recorded start="2008"/>
+			<release>empreintes DIGITALes IMED 09101</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Mont des borgnes</name>
+			<description>Ubiquité</description>
+			<length>12:52</length>
+			<composed start="2001" end="2009"/>
+			<recorded start="2009"/>
+			<release>empreintes DIGITALes IMED 09101</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>L'inénarrable Nout</name>
+			<description>Ubiquité</description>
+			<length>18:53</length>
+			<composed start="2002" end="2009"/>
+			<recorded start="2009"/>
+			<release>empreintes DIGITALes IMED 09101</release>
+			<released>2009</released>
+		</composition>
+	</composer>
 	<composer name="François" surname="Bayle" born="1932" died="">
 		<composition>
-			<name>Trois rêves d'oiseau</name>
-			<length>9:58</length>
-			<part>
-				<number>1</number>
-				<name>L'oiseau moqueur</name>
-				<length>3:28</length>
-			</part>
-			<part>
-				<number>2</number>
-				<name>L'oiseau triste</name>
-				<length>2:30</length>
-			</part>
-			<part>
-				<number>3</number>
-				<name>L'oiseau zen</name>
-				<length>4:00</length>
-			</part>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1963" end="1971"/>
-			<recorded start="1971"/>
-			<release>Agon PV725001</release>
-			<released>1997</released>
+			<name>Espaces inhabitables</name>
+			<length>18:02</length>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Trois rêves d'oiseau</name>
-			<length>10:00</length>
+			<length>9:48</length>
 			<part>
 				<number>1</number>
-				<name>L'oiseau moqueur</name>
+				<name>...moqueur</name>
 				<length>3:30</length>
 			</part>
 			<part>
 				<number>2</number>
-				<name>L'oiseau triste</name>
-				<length>2:30</length>
+				<name>...triste</name>
+				<length>2:33</length>
 			</part>
 			<part>
 				<number>3</number>
-				<name>L'oiseau zen</name>
-				<length>3:55</length>
+				<name>...zen</name>
+				<length>3:44</length>
 			</part>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1963" end="1971"/>
-			<recorded start="1971"/>
-			<release>M10 275972</release>
-			<released>2004</released>
-		</composition>		
-		<composition>
-			<name>Espaces inhabitables</name>
-			<length>17:41</length>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1967"/>
-			<recorded start="1967"/>
-			<release>M10 275112</release>
-			<released>2000</released>
-		</composition>
-		<composition>
-			<name>Jeîta ou murmure des eaux</name>
-			<length>39:50</length>
-			<player name="INA-GRM, Paris"/>
 			<composed start="1970"/>
 			<recorded start="1970"/>
-			<release>M10 248122</release>
-			<released>1999</released>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Jeîta, ou Murmure des eaux</name>
+			<description>Version 2012 inédite</description>
+			<length>39:21</length>
+			<composed start="1970" end="2012"/>
+			<recorded start="2012"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>L'Expérience Acoustique</name>
+			<length>2:00:14</length>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>It</name>
@@ -201,28 +221,34 @@
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
 			</instrument>
-			<composed start="1970"/>
+			<composed start="1972"/>
 			<recorded start="1972"/>
 			<release>INA C 1035</release>
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Vibrations Composées</name>
-			<length>35:58</length>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1973"/>
-			<recorded start="1973"/>
-			<release>Adda MMGCB 0392</release>
-			<released>1992</released>
+			<name>Divine Comédie</name>
+			<length>1:11:38</length>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Grande Polyphonie</name>
-			<length>36:22</length>
-			<player name="INA-GRM, Paris"/>
+			<name>Vibrations composées</name>
+			<length>36:02</length>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Grande polyphonie</name>
+			<length>36:32</length>
 			<composed start="1974"/>
 			<recorded start="1974"/>
-			<release>Adda MMGCB 0392</release>
-			<released>1992</released>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Camera oscura</name>
@@ -242,6 +268,25 @@
 			<recorded start="2000"/>
 			<release>M10 275112</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Camera oscura</name>
+			<length>28:00</length>
+			<part>
+				<number>1</number>
+				<name>Sept préludes</name>
+				<length>19:56</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Labyrinthe</name>
+				<description>version 2012 inédite</description>
+				<length>8:04</length>
+			</part>
+			<composed start="1976" end="2012"/>
+			<recorded start="2012"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Erosphère</name>
@@ -266,22 +311,41 @@
 			</part>
 			<player name="INA-GRM, Paris"/>
 			<composed start="1978" end="1980"/>
-			<recorded start="2009"/>
+			<recorded start="1980"/>
 			<release>Magison vol.20, ISBN 978-2-9532179-1-9</release>
 			<released>2009</released>
 		</composition>
 		<composition>
-			<name>Toupie dans le ciel</name>
-			<description>version originale &quot;sans remix&quot;</description>
-			<length>21:00</length>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1979"/>
-			<recorded start="1979"/>
-			<release>Magison MGCB e102</release>
-			<released>2002</released>
+			<name>Erosphère</name>
+			<length>1:08:33</length>
+			<part>
+				<number>1</number>
+				<name>Tremblement de terre très doux</name>
+				<length>28:19</length>
+				<composed start="1978"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>La fin du bruit</name>
+				<description>version 2009 inédite</description>
+				<length>16:35</length>
+				<composed start="1979" end="2009"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Toupie dans le ciel</name>
+				<description>version 2009 inédite</description>
+				<length>23:40</length>
+				<composed start="1979" end="2009"/>
+			</part>
+			<composed start="1978" end="2009"/>
+			<recorded start="2009"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Eros bleu</name>
+			<description>fragment de Erosphère, La fin du bruit</description>
 			<length>7:40</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -292,47 +356,46 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Les couleurs de la nuit</name>
+			<description>Version 2012 inédite</description>
+			<length>29:52</length>
+			<composed start="1982" end="2012"/>
+			<recorded start="1982"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Son Vitesse-Lumière</name>
-			<length>1:59:23</length>
+			<length>1:59:17</length>
 			<part>
 				<number>1</number>
 				<name>Grandeur Nature</name>
-				<length>31:49</length>
+				<length>32:01</length>
 			</part>
 			<part>
 				<number>2</number>
 				<name>Paysage, personnage, nuage</name>
-				<length>24:06</length>
+				<length>24:01</length>
 			</part>
 			<part>
 				<number>3</number>
 				<name>Voyage au centre de la tête</name>
-				<length>20:25</length>
+				<length>20:44</length>
 			</part>
 			<part>
 				<number>4</number>
 				<name>Le sommeil d'Euclide</name>
-				<length>20:37</length>
+				<length>20:50</length>
 			</part>
 			<part>
 				<number>5</number>
 				<name>Lumière ralentie</name>
-				<length>21:39</length>
+				<length>21:41</length>
 			</part>
-			<player name="INA-GRM, Paris"/>
 			<composed start="1980" end="1983"/>
 			<recorded start="1983"/>
-			<release>Musidisc 247392</release>
-			<released>1997</released>
-		</composition>
-		<composition>
-			<name>L'infini du bruit</name>
-			<length>10:55</length>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1980"/>
-			<recorded start="1999"/>
-			<release>M10 248122</release>
-			<released>1999</released>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Le Sommeil d'Euclide</name>
@@ -346,39 +409,26 @@
 		<composition>
 			<name>Motion-Émotion</name>
 			<length>22:01</length>
-			<player name="INA-GRM, Paris"/>
 			<composed start="1985"/>
 			<recorded start="1985"/>
-			<release>Musidisc 292432</release>
-			<released>1998</released>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Jeîta-retour</name>
-			<length>5:23</length>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1985"/>
-			<recorded start="1999"/>
-			<release>M10 248122</release>
-			<released>1999</released>
-		</composition>
-		<composition>
-			<name>Mimameta</name>
-			<length>11:01</length>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1989"/>
-			<recorded start="1989"/>
-			<release>Agon PV725001</release>
-			<released>1997</released>
+			<name>Théâtre d'Ombres</name>
+			<length>39:30</length>
+			<composed start="1988"/>
+			<recorded start="1988"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Mimaméta</name>
-			<description>Révision 2004</description>
-			<length>10:46</length>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1989" end="2004"/>
-			<recorded start="2004"/>
-			<release>M10 275972</release>
-			<released>2004</released>
+			<length>10:44</length>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Mimaméta</name>
@@ -393,88 +443,163 @@
 		</composition>
 		<composition>
 			<name>Fabulae</name>
-			<length>56:45</length>
+			<length>56:41</length>
 			<part>
 				<number>1</number>
 				<name>...fabula</name>
-				<length>14:28</length>
+				<length>14:34</length>
 				<composed start="1990"/>
 			</part>
 			<part>
 				<number>2</number>
 				<name>...onoma</name>
-				<length>15:55</length>
+				<length>16:04</length>
 				<composed start="1990"/>
 			</part>
 			<part>
 				<number>3</number>
 				<name>...nota</name>
-				<length>10:18</length>
+				<length>10:27</length>
 				<composed start="1991"/>
 			</part>
 			<part>
 				<number>4</number>
 				<name>...sonora</name>
-				<length>15:37</length>
+				<length>15:36</length>
 				<composed start="1992"/>
 			</part>
-			<player name="INA-GRM, Paris"/>
 			<composed start="1990" end="1992"/>
 			<recorded start="1992"/>
-			<release>M10 244732</release>
-			<released>1998</released>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>La Main Vide</name>
-			<length>42:41</length>
+			<length>42:35</length>
 			<part>
 				<number>1</number>
 				<name>Bâton de pluie</name>
-				<length>19:55</length>
+				<length>19:58</length>
 			</part>
 			<part>
 				<number>2</number>
 				<name>La fleur future</name>
-				<length>12:22</length>
+				<length>12:28</length>
 			</part>
 			<part>
 				<number>3</number>
 				<name>Inventions</name>
-				<length>10:05</length>
+				<description>in memoriam P. Schaeffer</description>
+				<length>10:22</length>
 			</part>
-			<player name="INA-GRM, Paris"/>
 			<composed start="1993" end="1995"/>
 			<recorded start="1995"/>
-			<release>Musidisc 245542</release>
-			<released>1996</released>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Morceaux de Ciels</name>
+			<description>dédié a Karlheinz Stockhausen, pour son soixante-dixième anniversaire</description>
+			<length>25:26</length>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>La forme du temps est un cercle</name>
-			<length>59:20</length>
-			<player name="INA-GRM, Paris"/>
-			<composed start="1999" end="2001"/>
-			<recorded start="2001"/>
-			<release>M10 275862</release>
-			<released>2001</released>
+			<length>55:52</length>
+			<part>
+				<number>1</number>
+				<name>Concrescence</name>
+				<length>12:30</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Si loin, si proche</name>
+				<description>version 2012 inédite</description>
+				<length>13:36</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Tempi</name>
+				<length>2:25</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Allures</name>
+				<length>9:06</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Cercles</name>
+				<length>13:15</length>
+			</part>
+			<composed start="1999" end="2012"/>
+			<recorded start="2012"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Arc, pour Gérard Grisey</name>
+			<length>8:02</length>
+			<composed start="1999"/>
+			<recorded start="1999"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>La forme de l'esprit et un papillon</name>
-			<length>35:35</length>
+			<length>34:27</length>
 			<part>
 				<number>1</number>
 				<name>Ombrages et trouées</name>
-				<length>22:30</length>
+				<description>version 2012 inédite</description>				
+				<length>21:11</length>
 			</part>
 			<part>
 				<number>2</number>
 				<name>Couleurs inventées</name>
-				<length>13:05</length>
+				<length>13:15</length>
 			</part>
-			<player name="INA-GRM, Paris"/>
 			<composed start="2002" end="2004"/>
 			<recorded start="2004"/>
-			<release>M10 275972</release>
-			<released>2004</released>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Univers nerveux</name>
+			<description>création française in memoriam K. Stockhausen, 2008</description>
+			<length>22:23</length>
+			<composed start="2004" end="2005"/>
+			<recorded start="2005"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>L'Oreille étonnée</name>
+			<description>in memoriam O. Messiaen</description>
+			<length>14:58</length>
+			<composed start="2006" end="2006"/>
+			<recorded start="2006"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Rien n'est réel</name>
+			<length>25:30</length>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Déplacements</name>
+			<length>15:30</length>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>INA G 6033/6047</release>
+			<released>2012</released>
 		</composition>
 	</composer>
 	<composer name="Alban" surname="Berg" born="1885" died="1935">
@@ -1119,6 +1244,18 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Douze notations</name>
+			<description>pour piano</description>
+			<length>9:37</length>
+			<instrument name="Piano">
+				<player name="Dimitri Vassilakis"/>
+			</instrument>
+			<composed start="1945"/>
+			<recorded start="2010" end="2011"/>
+			<release>Cybele 3SACD KiG 004</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Notations</name>
 			<description>pour orchestre</description>
 			<length>10:09</length>
@@ -1204,6 +1341,18 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Première sonate</name>
+			<description>pour piano</description>
+			<length>8:29</length>
+			<instrument name="Piano">
+				<player name="Dimitri Vassilakis"/>
+			</instrument>
+			<composed start="1946"/>
+			<recorded start="2010" end="2011"/>
+			<release>Cybele 3SACD KiG 004</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Le visage nuptial</name>
 			<length>30:00</length>
 			<player name="BBC Symphony Orchestra"/>
@@ -1272,6 +1421,18 @@
 			<recorded start="2002"/>
 			<release>hat[now]Art 162</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Deuxième sonate</name>
+			<description>pour piano</description>
+			<length>28:04</length>
+			<instrument name="Piano">
+				<player name="Dimitri Vassilakis"/>
+			</instrument>
+			<composed start="1948"/>
+			<recorded start="2010" end="2011"/>
+			<release>Cybele 3SACD KiG 004</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Polyphonie X</name>
@@ -1529,6 +1690,18 @@
 			<recorded start="2002"/>
 			<release>hat[now]Art 162</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Troisième sonate</name>
+			<description>pour piano</description>
+			<length>16:59</length>
+			<instrument name="Piano">
+				<player name="Dimitri Vassilakis"/>
+			</instrument>
+			<composed start="1955" end="1963"/>
+			<recorded start="2010" end="2011"/>
+			<release>Cybele 3SACD KiG 004</release>
+			<released>2012</released>
 		</composition>
 		<composition score="Y">
 			<name>Éclat</name>
@@ -1830,6 +2003,19 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Incises</name>
+			<description>pour piano</description>
+			<description>erweiterte Fassung von 2001</description>
+			<length>10:57</length>
+			<instrument name="Piano">
+				<player name="Dimitri Vassilakis"/>
+			</instrument>
+			<composed start="1994" end="2001"/>
+			<recorded start="2010" end="2011"/>
+			<release>Cybele 3SACD KiG 004</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Sur Incises</name>
 			<description>pour trois pianos, trois harpes, trois percussions-claviers</description>
 			<length>37:06</length>
@@ -1854,6 +2040,18 @@
 			<recorded start="1999"/>
 			<release>Deutsche Grammophon 463475-2</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Une page d'éphéméride</name>
+			<description>pour piano</description>
+			<length>4:26</length>
+			<instrument name="Piano">
+				<player name="Dimitri Vassilakis"/>
+			</instrument>
+			<composed start="2005"/>
+			<recorded start="2010" end="2011"/>
+			<release>Cybele 3SACD KiG 004</release>
+			<released>2012</released>
 		</composition>
 	</composer>
 	<composer name="Nikolaus" surname="Brass" born="1949" died="">
@@ -2468,6 +2666,18 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Fogli d'Album</name>
+			<description>per pianoforte</description>
+			<length>50:38</length>
+			<instrument name="pianoforte">
+				<player name="Sylvano Bussotti"/>
+			</instrument>
+			<composed start="1970" end="1983"/>
+			<recorded start="1994"/>
+			<release>Stradivarius STR 33402</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Quartetto Gramsci</name>
 			<description>Reprise pour deux violons, alto et violoncelle (da I semi di Gramsci pour quatuor et orchestre)</description>
 			<length>11:25</length>
@@ -2589,6 +2799,18 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Aquila Imperiale</name>
+			<description>per pianoforte</description>
+			<length>5:37</length>
+			<instrument name="pianoforte">
+				<player name="Sylvano Bussotti"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1994"/>
+			<release>Stradivarius STR 33402</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Labirinto</name>
 			<description>per arpa sola</description>
 			<length>2:25</length>
@@ -2599,6 +2821,21 @@
 			<recorded start="2005"/>
 			<release>Stradivarius STR 33742</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Ganymede</name>
+			<description>per violino e pianoforte</description>
+			<length>16:07</length>
+			<instrument name="violino">
+				<player name="Luca Paoloni"/>
+			</instrument>
+			<instrument name="pianoforte">
+				<player name="Sylvano Bussotti"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1994"/>
+			<release>Stradivarius STR 33402</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>Nuovi Labirinti</name>

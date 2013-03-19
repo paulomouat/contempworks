@@ -1176,6 +1176,21 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Electronic music for piano</name>
+			<description></description>
+			<length>55:25</length>
+			<instrument name="pianoforte">
+				<player name="Ciro Longobardi"/>
+			</instrument>
+			<instrument name="computer e live electronics">
+				<player name="Agostino di Scipio"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="2011"/>
+			<release>Stradivarius STR 33927</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Variations VII</name>
 			<description>9 Evenings: Theatre &amp; Engineering</description>
 			<length>1:25:00</length>
