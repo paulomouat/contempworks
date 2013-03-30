@@ -16,6 +16,18 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Wiegenmusik</name>
+			<description>for piano</description>
+			<length>3:25</length>
+			<instrument name="Piano">
+				<player name="Helmut Lachenmann"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="2010"/>
+			<release>Mode 252</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Streichtrio I</name>
 			<description>for violin, viola, violoncello</description>
 			<length>11:47</length>
@@ -149,6 +161,18 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Pression</name>
+			<description>for cello</description>
+			<length>9:08</length>
+			<instrument name="Violoncello">
+				<player name="Lauren Radnofsky"/>
+			</instrument>
+			<composed start="1969" end="1970"/>
+			<recorded start="2012"/>
+			<release>Mode 252</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Dal Niente (Interieur III)</name>
 			<description>for a solo clarinettist</description>
 			<length>14:12</length>
@@ -160,6 +184,18 @@
 			<recorded start="1995"/>
 			<release>Montaigne 782075</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Guero</name>
+			<description>for piano</description>
+			<length>3:57</length>
+			<instrument name="Piano">
+				<player name="Helmut Lachenmann"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="2011"/>
+			<release>Mode 252</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Kontrakadenz</name>
@@ -262,6 +298,18 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Ein Kinderspiel</name>
+			<description>for piano</description>
+			<length>14:31</length>
+			<instrument name="Piano">
+				<player name="Helmut Lachenmann"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2010"/>
+			<release>Mode 252</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Mouvement (- vor der Erstarrung)</name>
 			<description>für Ensemble</description>
 			<length>22:27</length>
@@ -361,6 +409,20 @@
 			<recorded start="2006"/>
 			<release>Kairos 0012662KAI</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>&quot;...zwei Gefühle...: Musik mit Leonardo&quot;</name>
+			<description>for speaker and ensemble</description>
+			<length>21:38</length>
+			<instrument name="Speaker">
+				<player name="Helmut Lachenmann"/>
+			</instrument>
+			<player name="Ensemble Signal"/>
+			<conductor>Brad Lubman</conductor>
+			<composed start="1991" end="1992"/>
+			<recorded start="2010"/>
+			<release>Mode 252</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>&quot;...zwei Gefühle...&quot; Musik mit Leonardo</name>
