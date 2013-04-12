@@ -906,4 +906,33 @@
 			<released>1995</released>
 		</composition>
 	</composer>
+	<composer name="Erhard" surname="Grosskopf" born="1934" died="">
+		<composition>
+			<name>String Quartet No. 1, op. 30</name>
+			<length>17:28</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1983"/>
+			<recorded start="2001"/>
+			<release>Neos 10706</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 2, op. 42</name>
+			<length>20:17</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1990"/>
+			<recorded start="2001"/>
+			<release>Neos 10706</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 3, op. 50</name>
+			<length>27:39</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1997" end="1998"/>
+			<recorded start="2001"/>
+			<release>Neos 10706</release>
+			<released>2007</released>
+		</composition>
+	</composer>
 </list>
