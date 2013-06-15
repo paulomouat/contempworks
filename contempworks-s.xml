@@ -1927,7 +1927,7 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>Verklärte Nacht, op.4</name>
+			<name>Verklärte Nacht, op. 4</name>
 			<length>29:53</length>
 			<player name="Berliner Philharmoniker"/>
 			<conductor>Herbert von Karajan</conductor>
@@ -1937,17 +1937,85 @@
 			<released>1974</released>
 		</composition>
 		<composition>
-			<name>Kammersymphonie Nr. 1, op.9</name>
-			<length>19:41</length>
-			<player name="Members of the Ensemble InterContemporain"/>
+			<name>Verklärte Nacht, op. 4</name>
+			<description>Sextett für 2 Violinen, 2 Violen und 2 Violoncelli</description>
+			<length>28:16</length>
+			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start="1906"/>
-			<recorded start=""/>
-			<release>Sony SMK 48462</release>
-			<released/>
+			<composed start="1899"/>
+			<recorded start="1983"/>
+			<release>Sony 88765429572 (1)</release>
+			<released>2013</released>
 		</composition>
 		<composition>
-			<name>3 Klavierstücke, op.11</name>
+			<name>Verklärte Nacht, op. 4</name>
+			<description>Fassung für Streichorchester (1943)</description>
+			<length>28:35</length>
+			<player name="New York Philharmonic"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1899" end="1943"/>
+			<recorded start="1973"/>
+			<release>Sony 88765429572 (3)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Gurre-Lieder</name>
+			<description>für Soli, Chor und Orchester</description>
+			<length>1:55:22</length>
+			<instrument name="Tenor">
+				<player name="Jess Thomas"/>
+			</instrument>
+			<instrument name="Soprano">
+				<player name="Marita Napier"/>
+			</instrument>
+			<instrument name="Mezzo-Soprano">
+				<player name="Yvonne Minton"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Kenneth Bowen"/>
+			</instrument>
+			<instrument name="Bass">
+				<player name="Siegmund Nimsgern"/>
+			</instrument>
+			<instrument name="Speaker">
+				<player name="Günter Reich"/>
+			</instrument>
+			<player name="BBC Choral Society"/>
+			<player name="BBC Singers"/>
+			<player name="Goldsmiths Choral Union"/>
+			<player name="Gentlemen of the London Philharmonic Choir"/>
+			<conductor>John Poole</conductor>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1901" end="1911"/>
+			<recorded start="1974"/>
+			<release>Sony 88765429572 (7 &amp; 8)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>2 Kanons (Goethe)</name>
+			<description>für gemischten Chor</description>
+			<length>3:31</length>
+			<player name="BBC Singers"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1905"/>
+			<recorded start="1986"/>
+			<release>Sony 88765429572 (5)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Kammersymphonie Nr. 1, op. 9</name>
+			<description>für fünfzehn Soloinstrumente</description>
+			<length>19:41</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1906"/>
+			<recorded start="1979"/>
+			<release>Sony 88765429572 (9)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>3 Klavierstücke, op. 11</name>
 			<length>13:36</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -1958,7 +2026,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Drei Klavierstücke, op.11</name>
+			<name>Drei Klavierstücke, op. 11</name>
 			<length>13:53</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -1969,7 +2037,18 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>5 Orchesterstücke, op.16</name>
+			<name>Friede auf Erden, op. 13</name>
+			<description>für gemischten Chor</description>
+			<length>9:05</length>
+			<player name="BBC Singers"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1907"/>
+			<recorded start="1982"/>
+			<release>Sony 88765429572 (5)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>5 Orchesterstücke, op. 16</name>
 			<description>original version</description>
 			<length>18:39</length>
 			<player name="City of Birmingham Symphony Orchestra"/>
@@ -1980,7 +2059,17 @@
 			<released>1989</released>
 		</composition>
 		<composition>
-			<name>Erwartung, op.17</name>
+			<name>Fünf Orchesterstücke, op. 16</name>
+			<length>15:07</length>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1909"/>
+			<recorded start="1976"/>
+			<release>Sony 88765429572 (2)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Erwartung, op. 17</name>
 			<description>Monodram in einem Aufzug</description>
 			<length>29:14</length>
 			<instrument name="Soprano">
@@ -1990,11 +2079,36 @@
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1909"/>
 			<recorded start="1977"/>
-			<release>Sony SMK 48466</release>
-			<released/>
+			<release>Sony 88765429572 (4)</release>
+			<released>2013</released>
 		</composition>
 		<composition>
-			<name>6 kleine Klavierstücke, op.19</name>
+			<name>Drei Stücke für Kammerensemble</name>
+			<length>2:16</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1910"/>
+			<recorded start="1979"/>
+			<release>Sony 88765429572 (1)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Die glückliche Hand, op. 18</name>
+			<description>Drama mit Musik</description>
+			<length>20:37</length>
+			<instrument name="Bass">
+				<player name="Siegmund Nimsgern"/>
+			</instrument>
+			<player name="BBC Singers"/>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1910" end="1913"/>
+			<recorded start="1981"/>
+			<release>Sony 88765429572 (3)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>6 kleine Klavierstücke, op. 19</name>
 			<length>5:10</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -2005,7 +2119,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Sechs kleine Klavierstücke, op.19</name>
+			<name>Sechs kleine Klavierstücke, op. 19</name>
 			<length>6:20</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -2016,7 +2130,7 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>Pierrot Lunaire, op.21</name>
+			<name>Pierrot Lunaire, op. 21</name>
 			<description>für eine Sprechstimme, Klavier, Flöte/ Piccoloflöte, Klarinette/ Baßklarinette, Violine/ Bratsche und Violoncello</description>
 			<length>33:51</length>
 			<instrument name="Reciter">
@@ -2040,11 +2154,46 @@
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1912"/>
 			<recorded start="1977"/>
-			<release>Sony SMK 48466</release>
-			<released/>
+			<release>Sony 88765429572 (4)</release>
+			<released>2013</released>
 		</composition>
 		<composition>
-			<name>5 Klavierstücke, op.23</name>
+			<name>Vier Lieder für Gesang und Orchester, op. 22</name>
+			<length>13:13</length>
+			<instrument name="Mezzo-Soprano">
+				<player name="Yvonne Minton"/>
+			</instrument>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1913" end="1916"/>
+			<recorded start="1981"/>
+			<release>Sony 88765429572 (8)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Die Jakobsleiter</name>
+			<description>Oratorio für Soli, Chor und Orchester (Fragment)</description>
+			<length>47:08</length>
+			<instrument name="Soli">
+				<player name="Siegmund Nimsgern"/>
+				<player name="Kenneth Bowen"/>
+				<player name="Ian Partridge"/>
+				<player name="Paul Hudson"/>
+				<player name="John Shirley-Quirk"/>
+				<player name="Anthony Rolfe Johnson"/>
+				<player name="Ortrun Wenkel"/>
+				<player name="Mady Mesple"/>
+			</instrument>
+			<player name="BBC Singers"/>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1917" end="1922"/>
+			<recorded start="1980"/>
+			<release>Sony 88765429572 (9)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>5 Klavierstücke, op. 23</name>
 			<length>10:12</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -2055,7 +2204,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Fünf Klavierstücke, op.23</name>
+			<name>Fünf Klavierstücke, op. 23</name>
 			<length>9:50</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -2076,7 +2225,21 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Suite für Klavier, op.25</name>
+			<name>Serenade, op. 24</name>
+			<description>für Klarinette, Baßklarinette, Mandoline, Gitarre, Geige, Bratsche, Violoncello und eine tiefe Männerstimme</description>
+			<length>33:54</length>
+			<instrument name="Baritone">
+				<player name="John Shirley-Quirk"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1920" end="1923"/>
+			<recorded start="1979"/>
+			<release>Sony 88765429572 (2)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Suite für Klavier, op. 25</name>
 			<length>14:16</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -2087,7 +2250,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Suite für Klavier, op.25</name>
+			<name>Suite für Klavier, op. 25</name>
 			<length>14:03</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -2104,15 +2267,50 @@
 			<instrument name="Mezzo-Soprano">
 				<player name="Jessie Norman"/>
 			</instrument>
-			<player name="Members of the Ensemble InterContemporain"/>
+			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start="1901" end="1911"/>
+			<composed start="1922"/>
 			<recorded start="1979"/>
-			<release>Sony SMK 48466</release>
-			<released/>
+			<release>Sony 88765429572 (4)</release>
+			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Variationen für Orchester, op.31</name>
+			<name>Vier Stücke, op. 27</name>
+			<description>für gemischten Chor</description>
+			<length>10:38</length>
+			<player name="BBC Singers"/>
+			<player name="Members of the London Sinfonietta"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1925"/>
+			<recorded start="1982"/>
+			<release>Sony 88765429572 (6)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Drei Satiren, op. 28</name>
+			<description>für gemischten Chor</description>
+			<length>11:08</length>
+			<player name="BBC Singers"/>
+			<player name="Members of the London Sinfonietta"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1925"/>
+			<recorded start="1982"/>
+			<release>Sony 88765429572 (6)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Suite, op. 29</name>
+			<description>für Kleine Klarinette, Klarinette, Baßklarinette, Geige, Bratsche, Violoncello und Klavier</description>
+			<length>29:25</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1925"/>
+			<recorded start="1982"/>
+			<release>Sony 88765429572 (1)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Variationen für Orchester, op. 31</name>
 			<length>22:21</length>
 			<player name="Berliner Philharmoniker"/>
 			<conductor>Herbert von Karajan</conductor>
@@ -2122,19 +2320,17 @@
 			<released>1974</released>
 		</composition>
 		<composition>
-			<name>Die Jakobsleiter</name>
-			<description>Oratorium für Soli, Chöre und Orchester</description>
-			<length>47:08</length>
-			<player name="BBC Singers"/>
+			<name>Variationen für Orchester, op. 31</name>
+			<length>19:21</length>
 			<player name="BBC Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start="1917" end="1922"/>
-			<recorded start="1980"/>
-			<release>Sony SMK 48462</release>
-			<released/>
+			<composed start="1926" end="1928"/>
+			<recorded start="1976"/>
+			<release>Sony 88765429572 (3)</release>
+			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Klavierstück, op.33a</name>
+			<name>Klavierstück, op. 33a</name>
 			<length>2:06</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -2145,7 +2341,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Klavierstück, op.33a</name>
+			<name>Klavierstück, op. 33a</name>
 			<length>1:57</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -2156,7 +2352,47 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>Klavierstück, op.33b</name>
+			<name>3 Volksliedbearbeitungen</name>
+			<description>für gemischten Chor</description>
+			<length>9:50</length>
+			<player name="BBC Singers"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1928" end="1929"/>
+			<recorded start="1986"/>
+			<release>Sony 88765429572 (5)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Moses und Aron</name>
+			<description>Oratorio für Soli, Chor und Orchester (Fragment)</description>
+			<length>1:39:38</length>
+			<instrument name="Soli">
+				<player name="Günter Reich"/>
+				<player name="Richard Cassilly"/>
+				<player name="Felicity Palmer"/>
+				<player name="Gillian Knight"/>
+				<player name="John Winfield"/>
+				<player name="John Noble"/>
+				<player name="Roland Hermann"/>
+				<player name="Richard Angas"/>
+				<player name="Jane Manning"/>
+				<player name="Helen Watts"/>
+				<player name="Philip Langridge"/>
+				<player name="Michael Rippon"/>
+				<player name="Denis Wicks"/>
+			</instrument>
+			<player name="BBC Singers"/>
+			<player name="Orpheus Boys' Choir"/>
+			<conductor>John Poole</conductor>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1930" end="1932"/>
+			<recorded start="1974"/>
+			<release>Sony 88765429572 (10 &amp; 11)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Klavierstück, op. 33b</name>
 			<length>3:31</length>
 			<instrument name="Piano">
 				<player name="Maurizio Pollini"/>
@@ -2167,7 +2403,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Klavierstück, op.33b</name>
+			<name>Klavierstück, op. 33b</name>
 			<length>3:06</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -2178,14 +2414,128 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>Begleitmusik zu einer Lichtspielszene, op.34</name>
+			<name>Begleitmusik zu einer Lichtspielszene, op. 34</name>
 			<length>8:24</length>
 			<player name="BBC Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1930"/>
 			<recorded start="1976"/>
-			<release>Sony SMK 48462</release>
-			<released/>
+			<release>Sony 88765429572 (9)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Sechs Stücke, op. 35</name>
+			<description>für Männerchor</description>
+			<length>14:51</length>
+			<player name="BBC Singers"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1930"/>
+			<recorded start="1984"/>
+			<release>Sony 88765429572 (6)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Kammersymphonie Nr. 2, op. 38</name>
+			<description>für kleines Orchester</description>
+			<length>20:56</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1906" end="1939"/>
+			<recorded start="1980"/>
+			<release>Sony 88765429572 (11)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Kol Nidre, op. 39</name>
+			<description>für Sprecher, für gemischten Chor und Orchester</description>
+			<length>12:26</length>
+			<instrument name="Sprecher">
+				<player name="John Shirley-Quirk"/>
+			</instrument>
+			<player name="BBC Chorus"/>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1938"/>
+			<recorded start="1984"/>
+			<release>Sony 88765429572 (5)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Ode to Napoleon Buonaparte, op. 41</name>
+			<description>für Streichquartett, Klavier und Sprecher</description>
+			<length>16:23</length>
+			<instrument name="Sprecher">
+				<player name="David Wilson-Johnson"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1942"/>
+			<recorded start="1980"/>
+			<release>Sony 88765429572 (2)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>A Survivor from Warsaw, op. 46</name>
+			<description>for Narrator, Men's Chorus and Orchestra</description>
+			<length>7:26</length>
+			<instrument name="Narrator">
+				<player name="Günter Reich"/>
+			</instrument>
+			<player name="BBC Chorus"/>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1947"/>
+			<recorded start="1976"/>
+			<release>Sony 88765429572 (6)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Drei Volksliedsätze, op. 49</name>
+			<description>für gemischten Chor</description>
+			<length>10:33</length>
+			<player name="BBC Singers"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1948"/>
+			<recorded start="1986"/>
+			<release>Sony 88765429572 (5)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Dreimal tausend Jahre, op. 50a</name>
+			<description>für gemischten Chor a capella</description>
+			<length>3:06</length>
+			<player name="BBC Singers"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1949"/>
+			<recorded start="1982"/>
+			<release>Sony 88765429572 (6)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Psalm 130, op. 50b</name>
+			<description>für gemischten Chor</description>
+			<length>4:30</length>
+			<player name="BBC Singers"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1950"/>
+			<recorded start="1982"/>
+			<release>Sony 88765429572 (6)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Moderner Psalm, op. 50c</name>
+			<description>für Sprecher, gemischten Chor und Orchester</description>
+			<length>5:33</length>
+			<instrument name="Sprecher">
+				<player name="John Shirley-Quirk"/>
+			</instrument>
+			<player name="BBC Chorus"/>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1950"/>
+			<recorded start="1984"/>
+			<release>Sony 88765429572 (6)</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>17 Fragmente von verschiedenem Klavierstücke (1900-1933)</name>
