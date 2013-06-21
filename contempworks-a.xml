@@ -29,6 +29,18 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Hans" surname="Abrahamsen" born="1952" died="">
+		<composition>
+			<name>Schnee</name>
+			<description>Zehn Kanons für neun Instrumente</description>
+			<length>58:45</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="2006" end="2008"/>
+			<recorded start="2009"/>
+			<release>Winter &amp; Winter 910 159-2</release>
+			<released>2009</released>
+		</composition>
+	</composer>
 	<composer name="Ondřej" surname="Adámek" born="1979" died="">
 		<composition>
 			<name>Lo que no' contamo'</name>

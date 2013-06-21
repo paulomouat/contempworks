@@ -4,13 +4,103 @@
 <list>
 	<composer name="Conlon" surname="Nancarrow" born="1912" died="1997">
 		<composition>
+			<name>Sarabande &amp; Scherzo</name>
+			<description>for oboe, bassoon and piano</description>
+			<length>4:56</length>
+			<instrument name="Oboe">
+				<player name="Catherine Milliken"/>
+			</instrument>
+			<instrument name="Bassoon">
+				<player name="Noriko Shimada"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Hermann Kretzschmar"/>
+			</instrument>
+			<composed start="1930"/>
+			<recorded start="1992"/>
+			<release>BMG 09026-61180-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Toccata</name>
+			<description>Transcription for ensemble</description>
+			<length>1:37</length>
+			<instrument name="Xylophone">
+				<player name="Rumi Ogawa-Helferich"/>
+			</instrument>
+			<instrument name="Marimba">
+				<player name="Rainer Römer"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Ueli Wiget"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Mathias Tacke"/>
+			</instrument>
+			<composed start="1935"/>
+			<recorded start="1992"/>
+			<release>BMG 09026-61180-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Trio</name>
+			<description>for clarinet, bassoon and piano</description>
+			<length>6:50</length>
+			<instrument name="Clarinet">
+				<player name="Roland Diry"/>
+			</instrument>
+			<instrument name="Bassoon">
+				<player name="Noriko Shimada"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Hermann Kretzschmar"/>
+			</instrument>
+			<composed start="1942"/>
+			<recorded start="1992"/>
+			<release>BMG 09026-61180-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Studies for Player Piano</name>
 			<description>Studies Nos. 1-29, 31-37, 40-50, tango?</description>
 			<length>4:36:01</length>
-			<composed start="1947" end="?"/>
+			<composed start="1947" end="1992"/>
 			<recorded start=""/>
 			<release>Wergo Wer 6907 2-Wer 6911 2</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Studies for Player Piano</name>
+			<description>Studies Nos. 1, 2, 3c, 5-7, 9, 12, 14, 18, 19</description>
+			<description>Transcriptions for ensemble</description>
+			<length>45:02</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Ingo Metzmacher</conductor>
+			<composed start="1948" end="1960"/>
+			<recorded start="1992"/>
+			<release>BMG 09026-61180-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Tango?</name>
+			<description>Transcription for ensemble</description>
+			<length>3:00</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Ingo Metzmacher</conductor>
+			<composed start="1983"/>
+			<recorded start="1992"/>
+			<release>BMG 09026-61180-2</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Piece No. 2 for small orchestra</name>
+			<length>10:37</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Ingo Metzmacher</conductor>
+			<composed start="1985"/>
+			<recorded start="1992"/>
+			<release>BMG 09026-61180-2</release>
+			<released>1993</released>
 		</composition>
 	</composer>
 	<composer name="Iván" surname="Naranjo" born="1977" died="">
