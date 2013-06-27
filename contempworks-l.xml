@@ -489,6 +489,35 @@
 	</composer>
 	<composer name="Michaël" surname="Levinas" born="1949" died="">
 		<composition>
+			<name>Arsis et Thésis</name>
+			<description>pour flûte basse sonorisée</description>
+			<length>7:20</length>
+			<instrument name="flûte">
+				<player name="Pierre-Yves Artaud"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1992"/>
+			<release>Aeon AECD 0103</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Clov et Hamm</name>
+			<length>7:27</length>
+			<instrument name="Trombone">
+				<player name="Alex Perdigon"/>
+			</instrument>
+			<instrument name="Tuba">
+				<player name="François Poullot"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Jean-Gillaume Cattin"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1974"/>
+			<release>Adès 20 381 2</release>
+			<released>1985-89</released>
+		</composition>
+		<composition>
 			<name>Appels</name>
 			<description>pour 11 instruments</description>
 			<length>7:38</length>
@@ -497,6 +526,18 @@
 			<composed start="1974"/>
 			<recorded start="1998"/>
 			<release>Aeon AECD 0104</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Froissement d'ailes</name>
+			<description>pour flûte</description>
+			<length>3:24</length>
+			<instrument name="flûte">
+				<player name="Pierre-Yves Artaud"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1992"/>
+			<release>Aeon AECD 0103</release>
 			<released>2001</released>
 		</composition>
 		<composition>
@@ -531,38 +572,12 @@
 			<released>1985-89</released>
 		</composition>
 		<composition>
-			<name>Les rires du Gilles</name>
-			<length>7:05</length>
-			<player name="Solistes de l'Ensemble 2E2M"/>
-			<composed start="1981"/>
-			<recorded start="1981"/>
-			<release>Adès 20 381 2</release>
-			<released>1985-89</released>
-		</composition>
-		<composition>
 			<name>Concerto pour un piano-espace Nº2</name>
 			<length>12:30</length>
 			<player name="Ensemble l'Itineraire"/>
 			<conductor>Yves Prin</conductor>
 			<composed start="1980"/>
 			<recorded start="1984"/>
-			<release>Adès 20 381 2</release>
-			<released>1985-89</released>
-		</composition>
-		<composition>
-			<name>Clov et Hamm</name>
-			<length>7:27</length>
-			<instrument name="Trombone">
-				<player name="Alex Perdigon"/>
-			</instrument>
-			<instrument name="Tuba">
-				<player name="François Poullot"/>
-			</instrument>
-			<instrument name="Percussion">
-				<player name="Jean-Gillaume Cattin"/>
-			</instrument>
-			<composed start="1973"/>
-			<recorded start="1974"/>
 			<release>Adès 20 381 2</release>
 			<released>1985-89</released>
 		</composition>
@@ -584,6 +599,15 @@
 			<released>1985-89</released>
 		</composition>
 		<composition>
+			<name>Les rires du Gilles</name>
+			<length>7:05</length>
+			<player name="Solistes de l'Ensemble 2E2M"/>
+			<composed start="1981"/>
+			<recorded start="1981"/>
+			<release>Adès 20 381 2</release>
+			<released>1985-89</released>
+		</composition>
+		<composition>
 			<name>Les Réciproques</name>
 			<description>pour 12 voix solistes a cappella</description>
 			<length>18:57</length>
@@ -592,6 +616,61 @@
 			<composed start="1986"/>
 			<recorded start="1986"/>
 			<release>Aeon AECD 0104</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Préfixes</name>
+			<description>pour ensemble instrumental e claviers MIDI</description>
+			<length>12:33</length>
+			<player name="Ensemble L'Itinéraire"/>
+			<conductor>Alain Louvier</conductor>
+			<composed start="1981"/>
+			<recorded start="1992"/>
+			<release>Aeon AECD 0103</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>La Cloche Fêlée</name>
+			<description>pour orchestre</description>
+			<length>11:47</length>
+			<player name="Orchestre National de France"/>
+			<conductor>Pascal Rophé</conductor>
+			<composed start="1986" end="1988"/>
+			<recorded start="1993"/>
+			<release>Aeon AECD 0103</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Voûtes</name>
+			<description>pour sextuor de percussionnistes</description>
+			<length>11:26</length>
+			<player name="Les Percussions de Strasbourg"/>
+			<composed start="1988"/>
+			<recorded start="1992"/>
+			<release>Aeon AECD 0103</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Trois Études</name>
+			<description>pour piano</description>
+			<length>6:38</length>
+			<instrument name="piano">
+				<player name="Alain Neveu"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="1992"/>
+			<release>Aeon AECD 0103</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Rebonds</name>
+			<description>pour flûte, violon, violoncelle, clarinette et trois pianos</description>
+			<length>12:12</length>
+			<player name="Solistes de l'Orchestre Philharmonique de Radio France"/>
+			<conductor>Fahrad Mechkat</conductor>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Aeon AECD 0103</release>
 			<released>2001</released>
 		</composition>
 		<composition>
