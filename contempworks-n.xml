@@ -43,6 +43,26 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Blues</name>
+			<length>2:12</length>
+			<instrument name="Piano">
+				<player name="Helena Bugallo"/>
+			</instrument>
+			<composed start="1935"/>
+			<recorded start="2001" end="2003"/>
+			<release>Wergo WER 6670 2</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Prelude</name>
+			<length>1:11</length>
+			<player name="Bugallo-Williams Piano Duo"/>
+			<composed start="1935"/>
+			<recorded start="2001" end="2003"/>
+			<release>Wergo WER 6670 2</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Trio</name>
 			<description>for clarinet, bassoon and piano</description>
 			<length>6:50</length>
@@ -59,6 +79,26 @@
 			<recorded start="1992"/>
 			<release>BMG 09026-61180-2</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Three Two-Part Studies</name>
+			<length>3:34</length>
+			<instrument name="Piano">
+				<player name="Amy Williams"/>
+			</instrument>
+			<composed start="1942" end="1943"/>
+			<recorded start="2001" end="2003"/>
+			<release>Wergo WER 6670 2</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Sonatina</name>
+			<length>4:28</length>
+			<player name="Bugallo-Williams Piano Duo"/>
+			<composed start="1945"/>
+			<recorded start="2001" end="2003"/>
+			<release>Wergo WER 6670 2</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>Studies for Player Piano</name>
@@ -82,6 +122,17 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Studies for Player Piano</name>
+			<description>Studies Nos. 3b, 3c, 3d, 4, 6, 9, 14, 15, 18, 19, 26</description>
+			<description>Transcribed for piano duet</description>
+			<length>33:30</length>
+			<player name="Bugallo-Williams Piano Duo"/>
+			<composed start="1949" end="1960"/>
+			<recorded start="2001" end="2003"/>
+			<release>Wergo WER 6670 2</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Tango?</name>
 			<description>Transcription for ensemble</description>
 			<length>3:00</length>
@@ -93,6 +144,17 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Tango?</name>
+			<length>2:55</length>
+			<instrument name="Piano">
+				<player name="Amy Williams"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2001" end="2003"/>
+			<release>Wergo WER 6670 2</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Piece No. 2 for small orchestra</name>
 			<length>10:37</length>
 			<player name="Ensemble Modern"/>
@@ -101,6 +163,17 @@
 			<recorded start="1992"/>
 			<release>BMG 09026-61180-2</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Three Canons for Ursula</name>
+			<length>14:27</length>
+			<instrument name="Piano">
+				<player name="Helena Bugallo"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="2001" end="2003"/>
+			<release>Wergo WER 6670 2</release>
+			<released>2003</released>
 		</composition>
 	</composer>
 	<composer name="Iván" surname="Naranjo" born="1977" died="">
