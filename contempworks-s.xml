@@ -3288,6 +3288,32 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Studi per l'intonazione del mare</name>
+			<description>per voce, quattro flauti, quattro sax, percussione, orchestra di 100 flauti, orchestra di 100 sax</description>
+			<length>30:08</length>
+			<instrument name="contraltista">
+				<player name="Daniel Gloger"/>
+			</instrument>
+			<instrument name="flauti">
+				<player name="Mario Caroli"/>
+				<player name="Matteo Cesari"/>
+				<player name="Chrissy Dimitriou"/>
+				<player name="Keiko Murakami"/>
+			</instrument>
+			<player name="Lost Cloud Quartet"/>
+			<instrument name="percussioni">
+				<player name="Jonathan Faralli"/>
+			</instrument>
+			<instrument name="coordinamento masse">
+				<player name="Roberta Gottardi"/>
+			</instrument>
+			<conductor>Marco Angius</conductor>
+			<composed start="2000"/>
+			<recorded start="2008"/>
+			<release>Stradivarius STR 33917</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>Due notturni crudeli</name>
 			<description>per pianoforte</description>
 			<length>9:30</length>
@@ -3359,6 +3385,34 @@
 			<recorded start="2005"/>
 			<release>Col Legno WWE 1CD 20264</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Centauro marino</name>
+			<description>per quintetto</description>
+			<length>5:32</length>
+			<instrument name="pianoforte">
+				<player name="Ciro Longobardi"/>
+			</instrument>
+			<player name="Algoritmo"/>
+			<conductor>Marco Angius</conductor>
+			<composed start="1984"/>
+			<recorded start="2006"/>
+			<release>Stradivarius STR 33917</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Le stagioni artificiali</name>
+			<description>per violino e strumenti</description>
+			<length>23:04</length>
+			<instrument name="violino">
+				<player name="Marco Rogliano"/>
+			</instrument>
+			<player name="Algoritmo"/>
+			<conductor>Marco Angius</conductor>
+			<composed start="2007"/>
+			<recorded start="2009"/>
+			<release>Stradivarius STR 33917</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Agostino di" surname="Scipio" born="1962" died="">
