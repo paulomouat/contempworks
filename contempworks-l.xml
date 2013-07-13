@@ -1074,6 +1074,73 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Musica Ricercata</name>
+			<description>für Orgel eingerichtet von Dominik Susteck</description>
+			<length>26:31</length>
+			<part>
+				<number>I</number>
+				<name>Sostenuto - Misurato - Prestissimo</name>
+				<length>2:45</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Mesto, rigido e cerimoniale</name>
+				<length>3:24</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Allegro con spirito</name>
+				<length>1:21</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Tempo de valse (poco vivace - &quot;à l'orgue de Barbarie&quot;</name>
+				<length>2:10</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Rubato. Lamentoso</name>
+				<length>3:08</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>Allegro molto capriccioso</name>
+				<length>0:54</length>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>Cantabile, molto legato</name>
+				<length>3:59</length>
+			</part>
+			<part>
+				<number>VIII</number>
+				<name>Vivace. Energico</name>
+				<length>1:24</length>
+			</part>
+			<part>
+				<number>IX</number>
+				<name>(Béla Bartók in memoriam) Adagio. Mesto - Allegro maestoso</name>
+				<length>2:27</length>
+			</part>
+			<part>
+				<number>X</number>
+				<name>Vivace. Capriccioso</name>
+				<length>1:41</length>
+			</part>
+			<part>
+				<number>XI</number>
+				<name>(Omaggio a Girolamo Frescobaldi) Andante misurato e tranquillo</name>
+				<length>3:18</length>
+			</part>
+			<instrument name="Orgel">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<composed start="1951" end="1953"/>
+			<recorded start="2012"/>
+			<release>Wergo WER6757 2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Eight pieces from &quot;Musica Ricercata&quot;</name>
 			<description>for Accordion (Bayan), arranged by Max Bonnay</description>
 			<length>18:52</length>
@@ -1276,6 +1343,18 @@
 			<recorded start="1962"/>
 			<release>Wergo WER 60161-50</release>
 			<released>1988</released>
+		</composition>
+		<composition>
+			<name>Volumina</name>
+			<description>für Orgel</description>
+			<length>15:40</length>
+			<instrument name="Organ">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<composed start="1961" end="1966"/>
+			<recorded start="2012"/>
+			<release>Wergo WER6757 2</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Poème Symphonique</name>
@@ -1504,6 +1583,29 @@
 			<recorded start="?"/>
 			<release>Wergo WER 60161-50</release>
 			<released>1988</released>
+		</composition>
+		<composition>
+			<name>Zwei Etüden für Orgel</name>
+			<length>12:55</length>
+			<part>
+				<number>I</number>
+				<name>Harmonies</name>
+				<length>9:15</length>
+				<composed start="1967"/>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Coulée</name>
+				<length>3:36</length>
+				<composed start="1969"/>
+			</part>
+			<instrument name="Organ">
+				<player name="Dominik Susteck"/>
+			</instrument>
+			<composed start="1967" end="1969"/>
+			<recorded start="2012"/>
+			<release>Wergo WER6757 2</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Continuum</name>
