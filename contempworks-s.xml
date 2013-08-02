@@ -2612,29 +2612,6 @@
 	</composer>
 	<composer name="Salvatore" surname="Sciarrino" born="1947" died="">
 		<composition>
-			<name>Luci mie traditrici</name>
-			<description>opera in due atti</description>
-			<length>1:08:41</length>
-			<instrument name="Soprano">
-				<player name="Annette Stricker"/>
-			</instrument>
-			<instrument name="Bassobaritono">
-				<player name="Otto Katzameier"/>
-			</instrument>
-			<instrument name="Contratenore">
-				<player name="Kai Wessel"/>
-			</instrument>
-			<instrument name="Baritono">
-				<player name="Simon Jaunin"/>
-			</instrument>
-			<player name="Klangforum Wien"/>
-			<conductor>Beat Furrer</conductor>
-			<composed start="1998"/>
-			<recorded start="2000"/>
-			<release>Kairos 0012222KAI</release>
-			<released>2001</released>
-		</composition>
-		<composition>
 			<name>Sei Quartetti brevi per archi</name>
 			<length>16:41</length>
 			<player name="Arditti String Quartet"/>
@@ -2642,6 +2619,15 @@
 			<recorded start="1993"/>
 			<release>Montaigne 782042</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Sei Quartetti brevi</name>
+			<length>18:17</length>
+			<player name="Quartetto Prometeo"/>
+			<composed start="1967" end="1992"/>
+			<recorded start="2010"/>
+			<release>Kairos 0013212KAI</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Variazioni</name>
@@ -3201,6 +3187,29 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Luci mie traditrici</name>
+			<description>opera in due atti</description>
+			<length>1:08:41</length>
+			<instrument name="Soprano">
+				<player name="Annette Stricker"/>
+			</instrument>
+			<instrument name="Bassobaritono">
+				<player name="Otto Katzameier"/>
+			</instrument>
+			<instrument name="Contratenore">
+				<player name="Kai Wessel"/>
+			</instrument>
+			<instrument name="Baritono">
+				<player name="Simon Jaunin"/>
+			</instrument>
+			<player name="Klangforum Wien"/>
+			<conductor>Beat Furrer</conductor>
+			<composed start="1998"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012222KAI</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Le voci sottovetro</name>
 			<description>Elaborazione per voce e strumenti</description>
 			<length>26:06</length>
@@ -3229,6 +3238,15 @@
 			<recorded start="2006"/>
 			<release>Kairos 0012802KAI</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Quartetto N. 7</name>
+			<length>9:43</length>
+			<player name="Quartetto Prometeo"/>
+			<composed start="1999"/>
+			<recorded start="2010"/>
+			<release>Kairos 0013212KAI</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Il giornale della necropoli</name>
@@ -3413,6 +3431,15 @@
 			<recorded start="2009"/>
 			<release>Stradivarius STR 33917</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Quartetto N. 8</name>
+			<length>18:28</length>
+			<player name="Quartetto Prometeo"/>
+			<composed start="2008"/>
+			<recorded start="2010"/>
+			<release>Kairos 0013212KAI</release>
+			<released>2012</released>
 		</composition>
 	</composer>
 	<composer name="Agostino di" surname="Scipio" born="1962" died="">
