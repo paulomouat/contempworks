@@ -3619,6 +3619,158 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Dimitri" surname="Shostakovich" born="1906" died="1975">
+		<composition>
+			<name>String Quartet Nr. 1</name>
+			<description>in C major op. 49</description>
+			<length>15:16</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1938"/>
+			<recorded start="2004"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 2</name>
+			<description>in A major op. 68</description>
+			<length>34:52</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1944"/>
+			<recorded start="2005"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 3</name>
+			<description>in F major op. 73</description>
+			<length>24:34</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1946"/>
+			<recorded start="2003"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 4</name>
+			<description>in D major op. 83</description>
+			<length>25:33</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1949"/>
+			<recorded start="2001"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 5</name>
+			<description>in B-flat major op. 92</description>
+			<length>32:16</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1952"/>
+			<recorded start="2005"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 6</name>
+			<description>in G major op. 101</description>
+			<length>24:34</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1956"/>
+			<recorded start="2005"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 7</name>
+			<description>in F-sharp minor op. 108</description>
+			<length>12:30</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1960"/>
+			<recorded start="2003"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 8</name>
+			<description>in C minor op. 110</description>
+			<length>22:05</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1960"/>
+			<recorded start="2004"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 9</name>
+			<description>in E-flat major op. 117</description>
+			<length>27:27</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1964"/>
+			<recorded start="2001"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 10</name>
+			<description>in A-flat major op. 118</description>
+			<length>23:40</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1964"/>
+			<recorded start="2005"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 11</name>
+			<description>in F minor op. 122</description>
+			<length>16:56</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1966"/>
+			<recorded start="2001"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 12</name>
+			<description>in D-flat major op. 133</description>
+			<length>29:25</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1968"/>
+			<recorded start="2004"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 13</name>
+			<description>in B-flat major op. 138</description>
+			<length>21:43</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1970"/>
+			<recorded start="2005"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 14</name>
+			<description>in F-sharp major op. 142</description>
+			<length>28:15</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1973"/>
+			<recorded start="2005"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Quartet Nr. 15</name>
+			<description>in E-flat minor op. 144</description>
+			<length>38:55</length>
+			<player name="Quatuor Danel"/>
+			<composed start="1974"/>
+			<recorded start="2005"/>
+			<release>Fuga Libera FUG512</release>
+			<released>2005</released>
+		</composition>
+	</composer>
 	<composer name="Denis" surname="Smalley" born="1946" died="">
 		<composition>
 			<name>Wind Chimes</name>
