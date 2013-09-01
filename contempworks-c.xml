@@ -962,6 +962,18 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>4'33&quot;</name>
+			<description>version for organ</description>
+			<length>6:16</length>
+			<instrument name="organ">
+				<player name="Gary Verkade"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="2007"/>
+			<release>Mode 253</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Music for piano 47</name>
 			<length>4:35</length>
 			<instrument name="Piano">
@@ -1191,6 +1203,50 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Variations V</name>
+			<description>Filmed in 1966 at the NDR television studio, Hamburg, Germany</description>
+			<instrument name="musicians">
+				<player name="John Cage"/>
+				<player name="David Tudor"/>
+				<player name="Gordon Mumma"/>
+			</instrument>
+			<instrument name="choreography">
+				<player name="Merce Cunningham"/>
+			</instrument>
+			<player name="The Merce Cunningham Dance Company"/>
+			<instrument name="filmed projections and visual effects">
+				<player name="Stan Van Der Beek"/>
+				<player name="Nam June Paik"/>
+			</instrument>
+			<length>47:14</length>
+			<composed start="1965"/>
+			<recorded start="1966"/>
+			<release>Mode 258</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Variations V</name>
+			<description>Audio only recording of the Paris 1966 performance</description>
+			<instrument name="musicians">
+				<player name="John Cage"/>
+				<player name="David Tudor"/>
+				<player name="Gordon Mumma"/>
+			</instrument>
+			<instrument name="choreography">
+				<player name="Merce Cunningham"/>
+			</instrument>
+			<player name="The Merce Cunningham Dance Company"/>
+			<instrument name="filmed projections and visual effects">
+				<player name="Stan Van Der Beek"/>
+				<player name="Nam June Paik"/>
+			</instrument>
+			<length>39:39</length>
+			<composed start="1965"/>
+			<recorded start="1966"/>
+			<release>Mode 258</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Variations VII</name>
 			<description>9 Evenings: Theatre &amp; Engineering</description>
 			<length>1:25:00</length>
@@ -1316,6 +1372,17 @@
 			<recorded start="2007"/>
 			<release>Neos  10720</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Some of &quot;The Harmonies of Maine&quot; (Supply Belcher)</name>
+			<length>41:33</length>
+			<instrument name="organ">
+				<player name="Gary Verkade"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2007"/>
+			<release>Mode 253</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Cheap Imitation</name>
@@ -1476,6 +1543,17 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Souvenir</name>
+			<length>6:50</length>
+			<instrument name="organ">
+				<player name="Gary Verkade"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2007"/>
+			<release>Mode 253</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Music for two</name>
 			<description>for 2 pianos</description>
 			<length>29:57</length>
@@ -1497,6 +1575,17 @@
 			<recorded start="1993"/>
 			<release>Mode 63</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>ASLSP</name>
+			<length>23:02</length>
+			<instrument name="organ">
+				<player name="Gary Verkade"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="2007"/>
+			<release>Mode 253</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Eight Whiskus</name>
@@ -1546,6 +1635,17 @@
 			<recorded start="1993"/>
 			<release>Mode 47</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Organ2/ASLSP</name>
+			<length>32:56</length>
+			<instrument name="organ">
+				<player name="Gary Verkade"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="2007"/>
+			<release>Mode 253</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Music for Four</name>
