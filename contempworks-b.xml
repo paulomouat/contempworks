@@ -1725,6 +1725,19 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Domaines</name>
+			<length>30:19</length>
+			<instrument name="Clarinet">
+				<player name="Michel Portal"/>
+			</instrument>
+			<player name="Ensemble Musique Vivante"/>
+			<conductor>Diego Masson</conductor>
+			<composed start="1968" end="1969"/>
+			<recorded start="1971"/>
+			<release>Harmonia Mundi HMA 190930</release>
+			<released>1988</released>
+		</composition>
+		<composition>
 			<name>Cummings ist der Dichter</name>
 			<length>13:22</length>
 			<player name="BBC Singers "/>
