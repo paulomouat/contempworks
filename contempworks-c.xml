@@ -1970,6 +1970,29 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Europera 5</name>
+			<length>1:00:01</length>
+			<instrument name="soprano">
+				<player name="Martha Herr"/>
+			</instrument>
+			<instrument name="tenor">
+				<player name="Gary Burgess"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Yvar Mikhashoff"/>
+			</instrument>
+			<instrument name="victrola (78 rpm)">
+				<player name="Jan Williams"/>
+			</instrument>
+			<instrument name="&quot;Truckera&quot; tape">
+				<player name="Don Metz"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Mode 36</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Two6</name>
 			<description>for violin and piano</description>
 			<length>19:47</length>
