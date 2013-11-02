@@ -2680,6 +2680,36 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Fauno che fischia a un merlo</name>
+			<description>per flauto e arpa</description>
+			<length>5:46</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Ernestine Stoop"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2007"/>
+			<release>Attacca CD 28118</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>D'un faune</name>
+			<description>per flauto in sol e pianoforte</description>
+			<length>10:25</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Tomoko Mukayiama"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2007"/>
+			<release>Attacca CD 28118</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Introduzione all'oscuro</name>
 			<description>pour ensemble</description>
 			<length>11:17</length>
@@ -2912,6 +2942,24 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>La perfezione di un spirito sottile</name>
+			<description>per flauto, voce e percussioni aeree</description>
+			<length>43:35</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<instrument name="soprano">
+				<player name="Françoise Kubler"/>
+			</instrument>
+			<instrument name="bells">
+				<player name="Christian Dierstein"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="2007"/>
+			<release>Attacca CD 28118</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Esplorazione del bianco II</name>
 			<description>per flauto, clarinetto basso, violino e chitarra</description>
 			<length>7:38</length>
@@ -3111,6 +3159,18 @@
 			<recorded start="1996"/>
 			<release>Stradivarius STR 33539</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Toccata e Fuga in re minore BWV 565, J. S. Bach</name>
+			<description>elaborazione per flauto solo di Salvatore Sciarrino</description>
+			<length>11:00</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="2007"/>
+			<release>Attacca CD 28118</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Muro d'orizzonte</name>
