@@ -1300,6 +1300,22 @@
 			<released>2000</released>
 		</composition>
 		<composition score="Y">
+			<name>La lontananza nostalgica utopica futura</name>
+			<description>per violino solo e nastro ad otto piste preregistrato</description>
+			<length>39:28</length>
+			<instrument name="solo violin">
+				<player name="Gidon Kremer"/>
+			</instrument>
+			<instrument name="tape preparation">
+				<player name="Sofia Gubaidulina"/>
+				<player name="Gidon Kremer"/>
+			</instrument>
+			<composed start="1988" end="1989"/>
+			<recorded start="1990"/>
+			<release>Deutsche Grammophon 435 870-2</release>
+			<released>1992</released>
+		</composition>
+		<composition score="Y">
 			<name>"Hay que caminar" sognando</name>
 			<description>für zwei Violinen</description>
 			<length>27:40</length>
@@ -1314,7 +1330,7 @@
 			<release>Montaigne 789005</release>
 			<released>1991</released>
 		</composition>
-		<composition>
+		<composition score="Y">
 			<name>"Hay que caminar" sognando</name>
 			<description>for two violins</description>
 			<length>26:37</length>
@@ -1328,6 +1344,21 @@
 			<recorded start="2004"/>
 			<release>Kairos 0012512KAI</release>
 			<released>2007</released>
+		</composition>
+		<composition score="Y">
+			<name>"Hay que caminar" sognando</name>
+			<description>for two violins</description>
+			<length>20:21</length>
+			<instrument name="violin">
+				<player name="Gidon Kremer"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Tatiana Grindenko"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1990"/>
+			<release>Deutsche Grammophon 435 870-2</release>
+			<released>1992</released>
 		</composition>
 	</composer>
 	<composer name="Robert" surname="Normandeau" born="1955" died="">
