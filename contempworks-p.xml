@@ -274,6 +274,14 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>L'Oeil écoute</name>
+			<length>24:32</length>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>Agon AD 039</release>
+			<released>1997</released>
+		</composition>
+		<composition>
 			<name>Pour en finir avec le pouvoir d'Orphée</name>
 			<length>23:27</length>
 			<instrument name="Guimbarde">
