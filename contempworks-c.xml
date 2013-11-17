@@ -996,6 +996,44 @@
 			<released>2010</released>
 		</composition>		
 		<composition>
+			<name>The Ten Thousand Things</name>
+			<length>45:07</length>
+			<part>
+				<name>45' for a speaker</name>
+				<instrument name="Narrator">
+					<player name="John Cage"/>
+				</instrument>
+			</part>
+			<part>
+				<name>31'57.9864&quot; for a pianist</name>
+				<instrument name="Prepared piano">
+					<player name="Vicky Ray"/>
+				</instrument>
+			</part>
+			<part>
+				<name>34'46.776&quot; for a pianist</name>
+				<instrument name="Prepared piano">
+					<player name="Aron Kallay"/>
+				</instrument>
+			</part>
+			<part>
+				<name>26'1.1499&quot; for a string player</name>
+				<instrument name="Double bass">
+					<player name="Tom Peters"/>
+				</instrument>
+			</part>
+			<part>
+				<name>27'10.554&quot; for a percussionist</name>
+				<instrument name="Percussion">
+					<player name="William Winant"/>
+				</instrument>
+			</part>
+			<composed start="1953" end="1956"/>
+			<recorded start="2008" end="2012"/>
+			<release>Microfest Records MF 1 (I Ching Edition)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>12'55.6078</name>
 			<description>for two pianists (prepared piano)</description>
 			<length>13:11</length>
@@ -1011,6 +1049,42 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>31'57.9864&quot;</name>
+			<description>for a pianist</description>
+			<length>31:58</length>
+			<instrument name="Prepared piano">
+				<player name="Vicky Ray"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="2012"/>
+			<release>Microfest Records MF 1 (I Ching Edition)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>34'46.776&quot;</name>
+			<description>for a pianist</description>
+			<length>31:58</length>
+			<instrument name="Prepared piano">
+				<player name="Aron Kallay"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="2012"/>
+			<release>Microfest Records MF 1 (I Ching Edition)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>45'</name>
+			<description>for a speaker</description>
+			<length>45:00</length>
+			<instrument name="Narrator">
+				<player name="John Cage"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="1962"/>
+			<release>Microfest Records MF 1 (I Ching Edition)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Music for piano 42</name>
 			<length>5:24</length>
 			<instrument name="Piano">
@@ -1022,6 +1096,18 @@
 			<released>2010</released>
 		</composition>		
 		<composition>
+			<name>26'1.1499&quot;</name>
+			<description>for a string player</description>
+			<length>26:01</length>
+			<instrument name="Double bass">
+				<player name="Tom Peters"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="2008"/>
+			<release>Microfest Records MF 1 (I Ching Edition)</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Music for piano 53-84</name>
 			<length>10:12</length>
 			<instrument name="Piano">
@@ -1032,6 +1118,18 @@
 			<release>hat[now]Art 175</release>
 			<released>2010</released>
 		</composition>		
+		<composition>
+			<name>27'10.554&quot;</name>
+			<description>for a percussionist</description>
+			<length>27:11</length>
+			<instrument name="Percussion">
+				<player name="William Winant"/>
+			</instrument>
+			<composed start="1956"/>
+			<recorded start="2012"/>
+			<release>Microfest Records MF 1 (I Ching Edition)</release>
+			<released>2013</released>
+		</composition>
 		<composition>
 			<name>Winter Music</name>
 			<description>for 20 pianos</description>

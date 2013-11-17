@@ -1503,7 +1503,7 @@
 			<released>2002</released>
 		</composition>
 		<composition>
-			<name>Dritte Music</name>
+			<name>Dritte Musik</name>
 			<description>Musik für Violine und Orchester</description>
 			<length>17:42</length>
 			<instrument name="Violine">
@@ -1687,6 +1687,15 @@
 			<recorded start="2003"/>
 			<release>Col Legno WWE 1CD 20228</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>11. Streichquartett</name>
+			<length>35:34</length>
+			<player name="Minguet Quartet"/>
+			<composed start="1998" end="2010"/>
+			<recorded start="2011"/>
+			<release>Wergo WER 6756 2</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Zwiesprache</name>
@@ -1978,6 +1987,19 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Interscriptum</name>
+			<description>Duo für Streichquartett und Klavier</description>
+			<length>15:05</length>
+			<instrument name="Klavier">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<player name="Minguet Quartet"/>
+			<composed start="2000" end="2002"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 6756 2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Astralis (Über die Linie III)</name>
 			<description>für kleinen Chor, Violoncello und 2 Pauken</description>
 			<length>29:29</length>
@@ -2084,6 +2106,17 @@
 			<recorded start="2005"/>
 			<release>Col Legno WWE 1CD 20227</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Grave</name>
+			<description>in memoriam Thomas Kakuska</description>
+			<description>für Streichquartett</description>
+			<length>18:00</length>
+			<player name="Minguet Quartet"/>
+			<composed start="2005"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 6756 2</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Vigilia</name>
