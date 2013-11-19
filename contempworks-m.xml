@@ -188,6 +188,19 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Concerto per pianoforte e orchestra</name>
+			<length>19:34</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1959"/>
+			<recorded start="2007"/>
+			<release>Neos 10937</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Dimensioni II - Invenzione su una voce</name>
 			<length>10:57</length>
 			<instrument name="Voz">
@@ -347,6 +360,19 @@
 			<recorded start="2007"/>
 			<release>Neos 10936</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Concerto per violino e orchestra</name>
+			<length>26:53</length>
+			<instrument name="violin">
+				<player name="Thomas Zehetmair"/>
+			</instrument>
+			<player name="hr-Sinfonieorchester/Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1969"/>
+			<recorded start="2009"/>
+			<release>Neos 10937</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Grande Aulodia</name>
