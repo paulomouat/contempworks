@@ -773,6 +773,20 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Akanthos</name>
+			<description>for soprano and ensemble</description>
+			<length>10:39</length>
+			<instrument name="Soprano">
+				<player name="Tony Arnold"/>
+			</instrument>
+			<player name="International Contemporary Ensemble"/>
+			<conductor>Steven Schick</conductor>
+			<composed start="1977"/>
+			<recorded start="2010"/>
+			<release>Mode 261</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>La Légende d'Eer</name>
 			<description>for 8-channel electronic tape</description>
 			<length>45:28</length>
@@ -825,6 +839,20 @@
 			<recorded start="1991"/>
 			<release>Montaigne 782005</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Palimpsest</name>
+			<description>for piano and ensemble</description>
+			<length>12:11</length>
+			<instrument name="Piano">
+				<player name="Cory Smythe"/>
+			</instrument>
+			<player name="International Contemporary Ensemble"/>
+			<conductor>Steven Schick</conductor>
+			<composed start="1979"/>
+			<recorded start="2010"/>
+			<release>Mode 261</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Mists</name>
@@ -1019,6 +1047,17 @@
 			<recorded start="1990"/>
 			<release>Apex 2 CD 2564 64202-2</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Thalleïn</name>
+			<description>for chamber ensemble</description>
+			<length>18:31</length>
+			<player name="International Contemporary Ensemble"/>
+			<conductor>Steven Schick</conductor>
+			<composed start="1984"/>
+			<recorded start="2010"/>
+			<release>Mode 261</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Akea</name>
@@ -1240,6 +1279,20 @@
 			<release>Mode 56</release>
 			<released>1996</released>
 		</composition>	
+		<composition>
+			<name>Échange</name>
+			<description>for bass clarinet and ensemble</description>
+			<length>14:43</length>
+			<instrument name="Joshua Rubin">
+				<player name="Bass clarinet"/>
+			</instrument>
+			<player name="International Contemporary Ensemble"/>
+			<conductor>Steven Schick</conductor>
+			<composed start="1989"/>
+			<recorded start="2010"/>
+			<release>Mode 261</release>
+			<released>2013</released>
+		</composition>
 		<composition>
 			<name>Voyage absolu des Unari vers Andromède</name>
 			<description>pour bande magnétique 2 pistes</description>
@@ -1483,6 +1536,33 @@
 			<recorded start="2010"/>
 			<release>Aeon AECD 1109</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Zythos</name>
+			<description>for trombone and 6 marimbas</description>
+			<length>7:44</length>
+			<instrument name="Trombone">
+				<player name="Benny Sluchin"/>
+			</instrument>
+			<player name="red fish blue fish"/>
+			<composed start="1997"/>
+			<recorded start="2010"/>
+			<release>Mode 261</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>O-Mega</name>
+			<description>for percussion and ensemble</description>
+			<length>3:52</length>
+			<instrument name="Percussion">
+				<player name="Steven Schick"/>
+			</instrument>
+			<player name="International Contemporary Ensemble"/>
+			<conductor>Steven Schick</conductor>
+			<composed start="1997"/>
+			<recorded start="2010"/>
+			<release>Mode 261</release>
+			<released>2013</released>
 		</composition>
 	</composer>
 </list>
