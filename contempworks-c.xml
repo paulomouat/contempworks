@@ -741,6 +741,32 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Haiku</name>
+			<length>4:43</length>
+			<instrument name="Piano">
+				<player name="Jovita Zähl"/>
+			</instrument>
+			<composed start="1950" end="1951"/>
+			<recorded start="2012" end="2013"/>
+			<release>Mode 259</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Sixteen Dances</name>
+			<description>version for piano solo (with alternate versions of XV and XVI for piano and percussion)</description>
+			<length>50:18</length>
+			<instrument name="Piano">
+				<player name="Jovita Zähl"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Thomas Meixner"/>
+			</instrument>
+			<composed start="1950" end="1951"/>
+			<recorded start="2012" end="2013"/>
+			<release>Mode 259</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Music of Changes</name>
 			<description>Buch I-IV</description>
 			<length>46:40</length>

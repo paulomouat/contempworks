@@ -63,6 +63,18 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Toccata</name>
+			<description>for violin and player piano</description>
+			<length>1:37</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1935" end="1980"/>
+			<recorded start="2005"/>
+			<release>Wergo 6696 2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Trio</name>
 			<description>for clarinet, bassoon and piano</description>
 			<length>6:50</length>
@@ -79,6 +91,15 @@
 			<recorded start="1992"/>
 			<release>BMG 09026-61180-2</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 1</name>
+			<length>11:04</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1942"/>
+			<recorded start="2004"/>
+			<release>Wergo 6696 2</release>
+			<released>2007</released>
 		</composition>
 		<composition>
 			<name>Three Two-Part Studies</name>
@@ -133,6 +154,46 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Study for Player Piano No. 15 (arr. for string quartet)</name>
+			<description>Arrangement by Ivar Mikhashoff (1987)</description>
+			<length>1:32</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1955"/>
+			<recorded start="2004"/>
+			<release>Wergo 6696 2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Study for Player Piano No. 31 (arr. for string quartet)</name>
+			<description>Arrangement by Paul Usher (2003)</description>
+			<length>2:40</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1968"/>
+			<recorded start="2004"/>
+			<release>Wergo 6696 2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Study for Player Piano No. 33 (arr. for string quartet)</name>
+			<description>Arrangement by Paul Usher (2003)</description>
+			<length>7:43</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1968"/>
+			<recorded start="2004"/>
+			<release>Wergo 6696 2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Study for Player Piano No. 34 (arr. for string trio)</name>
+			<description>Arrangement by Conlon Nancarrow (1988), renotated by Graeme Jennings</description>
+			<length>4:49</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1969"/>
+			<recorded start="2004"/>
+			<release>Wergo 6696 2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
 			<name>Tango?</name>
 			<description>Transcription for ensemble</description>
 			<length>3:00</length>
@@ -163,6 +224,25 @@
 			<recorded start="1992"/>
 			<release>BMG 09026-61180-2</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 3</name>
+			<description>Canon 3/4/5/6</description>
+			<length>14:06</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1987"/>
+			<recorded start="2004"/>
+			<release>Wergo 6696 2</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Trilogy</name>
+			<description>for player piano</description>
+			<length>8:05</length>
+			<composed start="1987"/>
+			<recorded start="2005"/>
+			<release>Wergo 6696 2</release>
+			<released>2007</released>
 		</composition>
 		<composition>
 			<name>Three Canons for Ursula</name>
