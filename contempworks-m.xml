@@ -97,6 +97,21 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Musica su due dimensioni</name>
+			<description>for flute and tape</description>
+			<length>7:14</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="sound direction">
+				<player name="Alvise Vidolin"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="2010"/>
+			<release>Mode 260</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Improvvisazione n. 2</name>
 			<description>for orchestra</description>
 			<length>7:00</length>
@@ -106,6 +121,21 @@
 			<recorded start="2005"/>
 			<release>Neos 10933</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Divertimento in due tempi</name>
+			<description>for flute and piano</description>
+			<length>7:40</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Massimiliano Damerini"/>
+			</instrument>
+			<composed start="1953"/>
+			<recorded start="2010"/>
+			<release>Mode 260</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Composizione in tre tempi</name>
@@ -129,6 +159,19 @@
 			<recorded start="2006"/>
 			<release>Neos 10934</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Concerto per flauto e orchestra</name>
+			<length>8:25</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<player name="Orchestra Filarmonica &quot;G. Monaco&quot;"/>
+			<conductor>Marcello Panni</conductor>
+			<composed start="1954"/>
+			<recorded start="1982"/>
+			<release>Mode 260</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Quartetto per archi in due tempi</name>
@@ -188,6 +231,21 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Musica su due dimensioni</name>
+			<description>for flute and tape</description>
+			<length>11:18</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="sound direction">
+				<player name="Alvise Vidolin"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="2010"/>
+			<release>Mode 260</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Concerto per pianoforte e orchestra</name>
 			<length>19:34</length>
 			<instrument name="piano">
@@ -231,6 +289,21 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Honeyrêves</name>
+			<description>for flute and piano</description>
+			<length>4:35</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Massimiliano Damerini"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="2010"/>
+			<release>Mode 260</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Le Rire</name>
 			<length>16:00</length>
 			<instrument name="Flauta">
@@ -264,6 +337,34 @@
 			<recorded start="2006"/>
 			<release>Neos 10934</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Cadenza da &quot;Dimensioni III&quot;</name>
+			<description>for flute solo</description>
+			<length>4:57</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="2010"/>
+			<release>Mode 260</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Per Caterina</name>
+			<description>for violin and piano</description>
+			<description>arr. flute and piano by R. Fabbriciani</description>
+			<length>1:00</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Massimiliano Damerini"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="2010"/>
+			<release>Mode 260</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Aria</name>
@@ -351,6 +452,22 @@
 			<released>1980/2005</released>
 		</composition>
 		<composition>
+			<name>Serenata für Claudia</name>
+			<description>for flute and harpsichord</description>
+			<description>arr. flute and piano by R. Fabbriciani</description>
+			<length>1:10</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Massimiliano Damerini"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="2010"/>
+			<release>Mode 260</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Quadrivium</name>
 			<description>for four percussionists and four orchestra groups</description>
 			<length>27:43</length>
@@ -372,6 +489,21 @@
 			<composed start="1969"/>
 			<recorded start="2009"/>
 			<release>Neos 10937</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Serenata per un satellite</name>
+			<description>arranged for for flutes by R. Fabbriciani</description>
+			<length>5:17</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="flutes">
+				<player name="Luisella Botteon"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="2010"/>
+			<release>Mode 260</release>
 			<released>2013</released>
 		</composition>
 		<composition>
