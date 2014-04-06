@@ -196,4 +196,204 @@
 			<released>2008</released>
 		</composition>
 	</composer>
+	<composer name="Walter" surname="Zimmermann" born="1949" died="">
+		<composition>
+			<name>10 Fränkische Tänze</name>
+			<description>sublimated for string quartet with drone quartet</description>
+			<length>12:56</length>
+			<player name="Sonar Quartett"/>
+			<composed start="1977"/>
+			<recorded start="2011"/>
+			<release>Mode 245/246</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>10 Fränkische Tänze</name>
+			<description>sublimated for string quartet without drone quartet</description>
+			<length>12:06</length>
+			<player name="Sonar Quartett"/>
+			<composed start="1977"/>
+			<recorded start="2011"/>
+			<release>Mode 245/246</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Keuper</name>
+			<description>for string quartet</description>
+			<length>6:51</length>
+			<player name="Sonar Quartett"/>
+			<composed start="1980"/>
+			<recorded start="2011"/>
+			<release>Mode 245/246</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Festina Lente</name>
+			<description>for string quartet</description>
+			<length>26:28</length>
+			<player name="Sonar Quartett"/>
+			<composed start="1987"/>
+			<recorded start="2010"/>
+			<release>Mode 245/246</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Die Sorge geht über den Fluß</name>
+			<description>for violin solo</description>
+			<length>46:15</length>
+			<part>
+				<name>Part 1</name>
+				<description>for Stefan Schädler</description>
+				<composed start="1989" end="1991"/>
+				<length>17:15</length>
+			</part>
+			<part>
+				<name>Part 2</name>
+				<composed start="2001"/>
+				<length>29:00</length>
+			</part>
+			<instrument name="violin">
+				<player name="Susanne Zapf"/>
+			</instrument>
+			<composed start="1989" end="2001"/>
+			<recorded start="2011"/>
+			<release>Mode 245/246</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Distentio</name>
+			<description>from &quot;About Time 2&quot;</description>
+			<description>for string trio</description>
+			<length>17:17</length>
+			<player name="ensemble recherche"/>
+			<composed start="1992"/>
+			<recorded start="1998" end="1999"/>
+			<release>Mode 111</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Schatten der Ideen</name>
+			<description>for piano quartet</description>
+			<length>13:37</length>
+			<player name="ensemble recherche"/>
+			<composed start="1993"/>
+			<recorded start="1998" end="1999"/>
+			<release>Mode 111</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Ursache und Vorwitz</name>
+			<description>for horn, violin, cello, piano, percussion and tape</description>
+			<length>16:24</length>
+			<player name="ensemble recherche"/>
+			<composed start="1993" end="1994"/>
+			<recorded start="1998" end="1999"/>
+			<release>Mode 111</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Songs of Innocence and Experience</name>
+			<description>23 Ritornels for string quartet and tape</description>
+			<length>22:10</length>
+			<player name="Sonar Quartett"/>
+			<composed start="1996" end="2004"/>
+			<recorded start="2011"/>
+			<release>Mode 245/246</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Shadows of Cold Mountain 3</name>
+			<description>for flute, oboe and clarinet</description>
+			<length>11:36</length>
+			<player name="ensemble recherche"/>
+			<composed start="1997"/>
+			<recorded start="1998" end="1999"/>
+			<release>Mode 111</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Taula/Novo Ben</name>
+			<description>for viola with voice</description>
+			<length>15:50</length>
+			<instrument name="viola, voice">
+				<player name="Nikolaus Schlierf"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2010"/>
+			<release>Mode 245/246</release>
+			<released>2012</released>
+		</composition>
+	</composer>
+	<composer name="Gérard" surname="Zinsstag" born="1941" died="">
+		<composition>
+			<name>Wenn zum Beispiel...</name>
+			<description>pour 4 récitants et 5 instrumentistes</description>
+			<length>15:01</length>
+			<instrument name="récitants">
+				<player name="Marianne Burg"/>
+				<player name="Beatrix Köhler"/>
+				<player name="Michael Maassen"/>
+				<player name="Hans Suter"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Werner Bärtschi"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Dieter Dyk"/>
+				<player name="Willy A. Wohlgemuth"/>
+			</instrument>
+			<instrument name="contrebasse">
+				<player name="Erwin Nowak"/>
+			</instrument>
+			<instrument name="trombone">
+				<player name="Runo Ericksson"/>
+			</instrument>
+			<conductor>Armin Brunner</conductor>
+			<composed start="1975"/>
+			<recorded start="1976"/>
+			<release>Grammont CTS-P 36-2</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Innanzi</name>
+			<description>pour contrebasse et grand orchestre</description>
+			<length>23:32</length>
+			<instrument name="contrebasse">
+				<player name="Gabin Lauridon"/>
+			</instrument>
+			<player name="Orchestre Nationale de France"/>
+			<conductor>Zoltan Pesko</conductor>
+			<composed start="1978"/>
+			<recorded start="1982"/>
+			<release>Grammont CTS-P 36-2</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Foris</name>
+			<description>pour grand orchestre</description>
+			<length>16:48</length>
+			<player name="Sinfonieorchester des Südwestfunks"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1979"/>
+			<recorded start="1988"/>
+			<release>Grammont CTS-P 36-2</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Trauma</name>
+			<description>pour double choeur a cappella</description>
+			<length>17:13</length>
+			<player name="Südfunk Chor"/>
+			<instrument name="récitants">
+				<player name="Gitta Schatz"/>
+				<player name="Monika Bair-Ivenz"/>
+				<player name="Manfred Gerbert"/>
+			</instrument>
+			<conductor>Klaus Martin Ziegler</conductor>
+			<composed start="1980" end="1981"/>
+			<recorded start="1981"/>
+			<release>Grammont CTS-P 36-2</release>
+			<released>1990</released>
+		</composition>
+	</composer>
 </list>

@@ -14,6 +14,35 @@
 			<released>1991</released>
 		</composition>
 	</composer>
+	<composer name="Roberto" surname="Gerhard" born="1896" died="1970">
+		<composition>
+			<name>String Quartet No. 1</name>
+			<length>22:09</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1950" end="1955"/>
+			<recorded start="2011"/>
+			<release>Aeon AECD 1225</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Chaconne for Solo Violin</name>
+			<length>18:48</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1959"/>
+			<recorded start="2011"/>
+			<release>Aeon AECD 1225</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 2</name>
+			<length>13:36</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1960" end="1962"/>
+			<recorded start="2011"/>
+			<release>Aeon AECD 1225</release>
+			<released>2013</released>
+		</composition>
+	</composer>
 	<composer name="Yann" surname="Geslin" born="1953" died="">
 		<composition>
 			<name>Variations didactiques, 2eme mouvement</name>

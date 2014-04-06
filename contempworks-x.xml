@@ -265,6 +265,18 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Herma</name>
+			<description>for piano solo</description>
+			<length>7:43</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1960" end="1961"/>
+			<recorded start="1999"/>
+			<release>Mode 80</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Morsima-Amorsima</name>
 			<description>for piano, violin, cello and double-bass</description>
 			<length>10:55</length>
@@ -608,6 +620,18 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Evryali</name>
+			<description>for piano solo</description>
+			<length>9:51</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1998"/>
+			<release>Mode 80</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Erikhton</name>
 			<length>17:21</length>
 			<instrument name="Piano">
@@ -841,6 +865,21 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Dikhthas</name>
+			<description>for violin and piano</description>
+			<length>14:37</length>
+			<instrument name="Violin">
+				<player name="Jane Peters"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1999"/>
+			<release>Mode 80</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Palimpsest</name>
 			<description>for piano and ensemble</description>
 			<length>12:11</length>
@@ -855,6 +894,20 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Palimpsest</name>
+			<description>for piano, 6 drums, winds and strings</description>
+			<length>12:41</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<player name="The Society for New Music"/>
+			<conductor>Charles Peltz</conductor>
+			<composed start="1979"/>
+			<recorded start="1998"/>
+			<release>Mode 80</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Mists</name>
 			<description>for solo piano</description>
 			<length>12:26</length>
@@ -865,6 +918,18 @@
 			<recorded start="1991"/>
 			<release>Montaigne 782005</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Mists</name>
+			<description>for piano solo</description>
+			<length>12:51</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1998"/>
+			<release>Mode 80</release>
+			<released>1999</released>
 		</composition>
 		<composition>
 			<name>Aïs</name>
@@ -1119,7 +1184,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>À l'&Icirc;le de Gorée</name>
+			<name>À l'Île de Gorée</name>
 			<description>pour clavecin et ensemble</description>
 			<length>13:34</length>
 			<instrument name="Clavecin">
@@ -1143,6 +1208,19 @@
 			<recorded start="1991"/>
 			<release>Montaigne 782005</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>à R.</name>
+			<description>(Hommage à Ravel)</description>
+			<description>for piano solo</description>
+			<length>2:31</length>
+			<instrument name="Piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1998"/>
+			<release>Mode 80</release>
+			<released>1999</released>
 		</composition>
 		<composition>
 			<name>Ata</name>
