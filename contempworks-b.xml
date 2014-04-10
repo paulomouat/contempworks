@@ -1196,16 +1196,16 @@
 	</composer>
 	<composer name="Pierre" surname="Boulez" born="1925" died="">
 		<composition>
-			<name>Notations</name>
-			<description>douze notations pour piano</description>
+			<name>Douze Notations</name>
+			<description>pour piano</description>
 			<length>10:43</length>
-			<instrument name="Piano">
+			<instrument name="piano">
 				<player name="Pierre-Laurent Aimard"/>
 			</instrument>
-			<composed start="1945"/>
+			<composed start="1946"/>
 			<recorded start="1993"/>
-			<release>Deutsche Grammophon 445833-2</release>
-			<released>1995</released>
+			<release>Deutsche Grammophon 480 6830</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Notations</name>
@@ -1256,28 +1256,6 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Notations</name>
-			<description>pour orchestre</description>
-			<length>10:09</length>
-			<player name="Orchestre de Paris"/>
-			<conductor>Daniel Baremboim</conductor>
-			<composed start="1945" end="1978"/>
-			<recorded start="1988"/>
-			<release>Erato 4509-98495-2</release>
-			<released>1995</released>
-		</composition>
-		<composition>
-			<name>Notations I-IV</name>
-			<description>pour orchestre</description>
-			<length>9:59</length>
-			<player name="Wiener Philharmoniker"/>
-			<conductor>Claudio Abbado</conductor>
-			<composed start="1945" end="1978"/>
-			<recorded start="1988"/>
-			<release>Deutsche Grammophon 429260-2</release>
-			<released>1990</released>
-		</composition>
-		<composition>
 			<name>Sonatine</name>
 			<description>pour flûte et piano</description>
 			<length>11:27</length>
@@ -1291,6 +1269,51 @@
 			<recorded start="1990"/>
 			<release>Erato 4509-98495-2</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Sonatine</name>
+			<description>pour flûte et piano</description>
+			<length>11:27</length>
+			<instrument name="Flûte">
+				<player name="Sophie Cherrier"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Pierre-Laurent Aimard"/>
+			</instrument>
+			<composed start="1947"/>
+			<recorded start="1990"/>
+			<release>Erato 4509-98495-2</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Sonatine</name>
+			<description>pour flûte et piano</description>
+			<length>11:32</length>
+			<instrument name="flûte">
+				<player name="Sophie Cherrier"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Pierre-Laurent Aimard"/>
+			</instrument>
+			<composed start="1947"/>
+			<recorded start="1990"/>
+			<release>Deutsche Grammophon 480 6830</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Sonatine</name>
+			<description>pour flûte et piano</description>
+			<length>11:44</length>
+			<instrument name="flûte">
+				<player name="Severino Gazzelloni"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1946"/>
+			<recorded start="1956"/>
+			<release>Deutsche Grammophon 480 6832</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Première sonate</name>
@@ -1353,6 +1376,18 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Première sonate</name>
+			<description>pour piano</description>
+			<length>8:46</length>
+			<instrument name="piano">
+				<player name="Pierre-Laurent Aimard"/>
+			</instrument>
+			<composed start="1949"/>
+			<recorded start="1990"/>
+			<release>Deutsche Grammophon 480 6830</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Le visage nuptial</name>
 			<length>30:00</length>
 			<player name="BBC Symphony Orchestra"/>
@@ -1364,27 +1399,51 @@
 			</instrument>
 			<player name="BBC Singers"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start="1946" end="1989"/>
+			<composed start="1947" end="1989"/>
 			<recorded start="1989"/>
 			<release>Erato 4509-98495-2</release>
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Figures, doubles, prismes</name>
-			<length>20:43</length>
-			<player name="BBC Symphony Orchestra"/>
-			<instrument name="Soprano">
+			<name>Le visage nuptial</name>
+			<description>pour soprano, mezzo-soprano, choeur et orchestre</description>
+			<description>3ème version</description>
+			<length>29:58</length>
+			<instrument name="soprano">
 				<player name="Phyllis Bryn-Julson"/>
 			</instrument>
-			<instrument name="Alto">
+			<instrument name="contralto">
 				<player name="Elizabeth Laurence"/>
 			</instrument>
 			<player name="BBC Singers"/>
+			<player name="BBC Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start="1947" end="1968"/>
+			<composed start="1947" end="1989"/>
+			<recorded start="1989"/>
+			<release>Deutsche Grammophon 480 6830</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Figures, doubles, prismes</name>
+			<length>20:43</length>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1957" end="1968"/>
 			<recorded start="1985"/>
 			<release>Erato 4509-98495-2</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Figures, doubles, prismes</name>
+			<description>pour grande orchestre</description>
+			<description>2ème version 1968</description>
+			<length>20:43</length>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1958" end="1968"/>
+			<recorded start="1985"/>
+			<release>Deutsche Grammophon 480 6837</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Deuxième sonate</name>
@@ -1435,6 +1494,18 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Deuxième sonate</name>
+			<description>pour piano</description>
+			<length>29:35</length>
+			<instrument name="piano">
+				<player name="Maurizio Pollini"/>
+			</instrument>
+			<composed start="1950"/>
+			<recorded start="?"/>
+			<release>Deutsche Grammophon 480 6840</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Polyphonie X</name>
 			<description>für 18 Solo-Instrumente</description>
 			<length>16:36</length>
@@ -1480,30 +1551,88 @@
 			<release>hat[now]Art 175</release>
 			<released>2010</released>
 		</composition>
-		<composition score="Y">
+		<composition>
+			<name>Structures, Livre I</name>
+			<description>pour deux pianos</description>
+			<length>14:21</length>
+			<instrument name="pianos">
+				<player name="Alfons Kontarsky"/>
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1953"/>
+			<recorded start="?"/>
+			<release>Deutsche Grammophon 480 6839</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Le marteau sans maître</name>
 			<description>pour ensemble</description>
 			<length>37:22</length>
-			<player name="Ensemble InterContemporain"/>
+			<player name="Ensemble Intercontemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1953" end="1955"/>
 			<recorded start="1985"/>
 			<release>CBS MK 42619</release>
 			<released>1989</released>
 		</composition>
-		<composition score="Y">
+		<composition>
 			<name>Le marteau sans maître</name>
 			<description>pour voix d'alto et 6 instruments</description>
 			<length>38:32</length>
 			<instrument name="Mezzo-soprano">
 				<player name="Hilary Summers"/>
 			</instrument>
-			<player name="Ensemble InterContemporain"/>
+			<player name="Ensemble Intercontemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1953" end="1955"/>
 			<recorded start="2002"/>
 			<release>Deutsche Grammophon 00289 4775327</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Le marteau sans maître</name>
+			<description>pour voix d'alto et 6 instruments</description>
+			<length>38:32</length>
+			<instrument name="mezzo-soprano">
+				<player name="Hilary Summers"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1955"/>
+			<recorded start="2013"/>
+			<release>Deutsche Grammophon 480 6839</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Le marteau sans maître</name>
+			<description>pour voix d'alto et 6 instruments</description>
+			<length>32:16</length>
+			<instrument name="contralto">
+				<player name="Jeanne Deroubaix"/>
+			</instrument>
+			<instrument name="flûte">
+				<player name="Severino Gazzelloni"/>
+			</instrument>
+			<instrument name="xylorimba">
+				<player name="Georges van Gucht"/>
+			</instrument>
+			<instrument name="vibraphone">
+				<player name="Claude Ricou"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jean Batigne"/>
+			</instrument>
+			<instrument name="guitare">
+				<player name="Anton Stingl"/>
+			</instrument>
+			<instrument name="alto">
+				<player name="Serge Collot"/>
+			</instrument>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1953" end="1955"/>
+			<recorded start="1964"/>
+			<release>Deutsche Grammophon 480 6832</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Structures, Livre II</name>
@@ -1528,8 +1657,8 @@
 			</instrument>
 			<composed start="1956" end="1961"/>
 			<recorded start="1993"/>
-			<release>Deutsche Grammophon 445833-2</release>
-			<released>1995</released>
+			<release>Deutsche Grammophon 480 6837</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Structures, Livre II</name>
@@ -1562,6 +1691,16 @@
 			<recorded start="2007"/>
 			<release>hat[now]Art 175</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Livre pour quatuor</name>
+			<description>version 1962</description>
+			<length>41:25</length>
+			<player name="Quatuor Parisii"/>
+			<composed start="1956" end="1998"/>
+			<recorded start="?"/>
+			<release>Deutsche Grammophon 480 6840</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Poésie pour pouvoir</name>
@@ -1601,16 +1740,18 @@
 		</composition>
 		<composition>
 			<name>Pli selon pli</name>
-			<length>1:09:24</length>
+			<description>pour soprano et orchestre</description>
+			<description>version définitive 1989</description>
+			<length>1:09:51</length>
 			<player name="Ensemble Intercontemporain"/>
-			<instrument name="Soprano">
+			<instrument name="soprano">
 				<player name="Christine Schäfer"/>
 			</instrument>
 			<conductor>Pierre Boulez</conductor>
-			<composed start="1957" end="1962"/>
+			<composed start="1958" end="1990"/>
 			<recorded start="2001"/>
-			<release>Deutsche Grammophon 289 471 344-2</release>
-			<released>2002</released>
+			<release>Deutsche Grammophon 480 6838</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Pli selon pli</name>
@@ -1639,7 +1780,28 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Soleil des eaux</name>
+			<name>Le soleil des eaux</name>
+			<description>pour solistes et orchestre</description>
+			<description>2ème version 1950</description>
+			<length>7:17</length>
+			<instrument name="soprano">
+				<player name="Irène Joachim"/>
+			</instrument>
+			<instrument name="ténor">
+				<player name="Joseph Peyron"/>
+			</instrument>
+			<instrument name="baryton">
+				<player name="Pierre Mollet"/>
+			</instrument>
+			<player name="Orchestre National de la RTF"/>
+			<conductor>Roger Désormière</conductor>
+			<composed start="1950"/>
+			<recorded start="1950"/>
+			<release>Deutsche Grammophon 480 6832</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Le soleil des eaux</name>
 			<length>10:12</length>
 			<player name="BBC Symphony Orchestra"/>
 			<instrument name="Soprano">
@@ -1654,6 +1816,22 @@
 			<recorded start="1989"/>
 			<release>Erato 4509-98495-2</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Le soleil des eaux</name>
+			<description>pour soprano, choeur mixte et orchestre</description>
+			<description>4ème version 1965</description>
+			<length>10:11</length>
+			<instrument name="Soprano">
+				<player name="Phyllis Bryn-Julson"/>
+			</instrument>
+			<player name="BBC Symphony Orchestra"/>
+			<player name="BBC Singers"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1948" end="1965"/>
+			<recorded start="1989"/>
+			<release>Deutsche Grammophon 480 6839</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Troisième sonate</name>
@@ -1682,6 +1860,18 @@
 		<composition>
 			<name>Troisième sonate</name>
 			<description>pour piano</description>
+			<length>19:02</length>
+			<instrument name="Piano">
+				<player name="Paavali Jumppanen"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2004"/>
+			<release>Deutsche Grammophon 480 6837</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Troisième sonate</name>
+			<description>pour piano</description>
 			<length>20:57</length>
 			<instrument name="Piano">
 				<player name="Pi-Hsien Chen"/>
@@ -1703,14 +1893,14 @@
 			<release>Cybele 3SACD KiG 004</release>
 			<released>2012</released>
 		</composition>
-		<composition score="Y">
+		<composition>
 			<name>Éclat</name>
 			<description>for 15 instruments</description>
 			<length>14:34 (excerpts and commentaries)</length>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1964"/>
-			<recorded>1987-88</recorded>
+			<recorded start="1987" end="1988"/>
 			<release>Montaigne 780518</release>
 			<released>1989-94</released>
 		</composition>
@@ -1725,22 +1915,55 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Livre pour cordes</name>
+			<length>10:39</length>
+			<player name="Orchestre Philharmonique de Vienne"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1968" end="1989"/>
+			<recorded start="1992"/>
+			<release>Deutsche Grammophon 480 6836</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Domaines</name>
+			<description>pour clarinette solo</description>
+			<length>14:51</length>
+			<instrument name="clarinette">
+				<player name="Alain Damiens"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="?"/>
+			<release>Deutsche Grammophon 480 6829</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Domaines</name>
+			<description>pour clarinette et groupes instrumentaux</description>
 			<length>30:19</length>
-			<instrument name="Clarinet">
+			<instrument name="clarinette">
 				<player name="Michel Portal"/>
 			</instrument>
 			<player name="Ensemble Musique Vivante"/>
 			<conductor>Diego Masson</conductor>
-			<composed start="1968" end="1969"/>
+			<composed start="1968"/>
 			<recorded start="1971"/>
-			<release>Harmonia Mundi HMA 190930</release>
-			<released>1988</released>
+			<release>Deutsche Grammophon 480 6829</release>
+			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Cummings ist der Dichter</name>
+			<name>Improvisé pour le Dr Kalmus</name>
+			<description>pour cinq instruments</description>
+			<length>2:30</length>
+			<player name="Ensemble InterContemporain"/>
+			<composed start="1969"/>
+			<recorded start="?"/>
+			<release>Deutsche Grammophon 480 6829</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>cummings ist der Dichter</name>
 			<length>13:22</length>
-			<player name="BBC Singers "/>
+			<player name="BBC Singers"/>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1970" end="1986"/>
@@ -1749,9 +1972,9 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Cummings ist der Dichter</name>
+			<name>cummings ist der Dichter</name>
 			<length>13:22</length>
-			<player name="BBC Singers "/>
+			<player name="BBC Singers"/>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1970" end="1986"/>
@@ -1760,24 +1983,39 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>cummings ist der Dichter</name>
+			<description>pour seize voix solistes, choeur mixte et ensemble instrumental</description>
+			<description>2ème version 1986</description>
+			<length>13:25</length>
+			<player name="BBC Singers"/>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1970" end="1986"/>
+			<recorded start="?"/>
+			<release>Deutsche Grammophon 480 6836</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>...explosante-fixe...</name>
+			<description>pour ensemble instrumental</description>
+			<description>4ème version 1995</description>
 			<length>36:43</length>
-			<instrument name="solo midi flute">
+			<instrument name="flûte midi solo">
 				<player name="Sophie Cherrier"/>
 			</instrument>
-			<instrument name="flute">
+			<instrument name="flûtes">
 				<player name="Emmanuelle Ophèle"/>
 				<player name="Pierre-André Valade"/>
 			</instrument>
 			<player name="Ensemble InterContemporain"/>
-			<instrument name="IRCAM/Electro-acoustic realization">
+			<instrument name="IRCAM, réalisation électro-acoustique">
 				<player name="Andrew Gerzso"/>
 			</instrument>
 			<conductor>Pierre Boulez</conductor>
-			<composed start="1972"/>
+			<composed start="1973" end="1994"/>
 			<recorded start="1994"/>
-			<release>Deutsche Grammophon 445833-2</release>
-			<released>1995</released>
+			<release>Deutsche Grammophon 480 6835</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Rituel</name>
@@ -1790,6 +2028,18 @@
 			<recorded start="1988"/>
 			<release>Erato 4509-98495-2</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Rituel</name>
+			<description>in memoriam Bruno Maderna</description>
+			<description>pour orchestre en huit groupes</description>
+			<length>25:19</length>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1975"/>
+			<recorded start="1976"/>
+			<release>Deutsche Grammophon 480 6836</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Messagesquisse</name>
@@ -1812,66 +2062,100 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Rituel</name>
-			<description>in memoriam Bruno Maderna</description>
-			<description>pour orchestre, divisé en huit groupes</description>
-			<length>25:25</length>
-			<player name="BBC Symphony Orchestra"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start="1974" end="1975"/>
-			<recorded start="1976"/>
-			<release>Sony SMK 45 832</release>
-			<released>1990</released>
-		</composition>
-		<composition score="Y">
-			<name>Éclat</name>
-			<description>pour 15 instruments</description>
-			<length>9:41</length>
-			<player name="Ensemble InterContemporain"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start="1965"/>
-			<recorded start="1981"/>
-			<release>Sony SMK 45 832</release>
-			<released>1990</released>
-		</composition>
-		<composition>
-			<name>Multiples</name>
-			<description>pour 25 instruments</description>
-			<length>16:59</length>
-			<player name="Ensemble InterContemporain"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start="1966?" end="inachevé"/>
-			<recorded start="1981"/>
-			<release>Sony SMK 45 832</release>
-			<released>1990</released>
-		</composition>
-		<composition>
 			<name>Messagesquisse</name>
+			<description>sur le nom de Paul Sacher</description>
 			<description>pour violoncelle solo et 6 violoncelles</description>
 			<length>8:35</length>
-			<instrument name="Violoncello solo">
+			<instrument name="violoncelle solo">
 				<player name="Jean-Guihen Queyras"/>
 			</instrument>
-			<player name="Ensemble de violoncelles de Paris"/>
+			<player name="Solistes de l'Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start="1976" end="1977"/>
+			<composed start="1976"/>
 			<recorded start="1999"/>
-			<release>Deutsche Grammophon 463475-2</release>
-			<released>2000</released>
+			<release>Deutsche Grammophon 480 6836</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Eclat-Multiples</name>
+			<description>pour ensemble instrumental</description>
+			<length>26:43</length>
+			<part>
+				<number>1</number>
+				<name>Eclat</name>
+				<description>pour quinze instruments</description>
+				<length>9:41</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Multiples</name>
+				<description>pour vingt-cinq instruments</description>
+				<length>17:02</length>
+			</part>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1965" end="1970"/>
+			<recorded start="1981"/>
+			<release>Deutsche Grammophon 480 6829</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Mémoriale (...explosante-fixe... originel)</name>
+			<description>pour flûte solo et huit instruments</description>
+			<length>5:07</length>
+			<instrument name="flûte">
+				<player name="Sophie Cherrier"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1985"/>
+			<recorded start="1990"/>
+			<release>Deutsche Grammophon 480 6836</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Notations</name>
+			<description>pour orchestre</description>
+			<length>10:09</length>
+			<player name="Orchestre de Paris"/>
+			<conductor>Daniel Baremboim</conductor>
+			<composed start="1980"/>
+			<recorded start="1988"/>
+			<release>Erato 4509-98495-2</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Notations I-IV</name>
+			<description>pour orchestre</description>
+			<length>9:59</length>
+			<player name="Wiener Philharmoniker"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1980"/>
+			<recorded start="1988"/>
+			<release>Deutsche Grammophon 429260-2</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Notations I-IV et VII</name>
+			<description>pour grande orchestre</description>
+			<length>15:55</length>
+			<player name="Ensemble Modern Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1980" end="1999"/>
+			<recorded start="2007"/>
+			<release>Deutsche Grammophon 480 6836</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Répons</name>
-			<length>42:31</length>
+			<description>pour six solistes, ensemble de chambre, sons électroniques et électronique en direct</description>
+			<length>42:33</length>
 			<player name="Ensemble InterContemporain"/>
-			<instrument name="Assistant musical">
-				<player name="Andrew Gerzso"/>
-			</instrument>
-			<player name="Oeuvre réalisée à l'IRCAM"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1981" end="1984"/>
 			<recorded start="1996"/>
-			<release>Deutsche Grammophon 457605-2</release>
-			<released>1998</released>
+			<release>Deutsche Grammophon 480 6834</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Dérive</name>
@@ -1906,7 +2190,18 @@
 			<release>Naïve MO 782183</release>
 			<released>2011</released>
 		</composition>
-		<composition score="Y">
+		<composition>
+			<name>Dérive 1</name>
+			<description>pour six instruments</description>
+			<length>5:47</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1984"/>
+			<recorded start="2002"/>
+			<release>Deutsche Grammophon 480 6831</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Dialogue de l'ombre double</name>
 			<description>Version aux chiffres romains</description>
 			<length>17:42</length>
@@ -1924,18 +2219,15 @@
 		</composition>
 		<composition>
 			<name>Dialogue de l'ombre double</name>
-			<length>18:13</length>
-			<instrument name="Clarinette">
+			<description>pour clarinette solo</description>
+			<length>17:45</length>
+			<instrument name="clarinette">
 				<player name="Alain Damiens"/>
 			</instrument>
-			<instrument name="Assistant musical">
-				<player name="Andrew Gerzso"/>
-			</instrument>
-			<player name="Oeuvre réalisée à l'IRCAM"/>
 			<composed start="1985"/>
 			<recorded start="1996"/>
-			<release>Deutsche Grammophon 457605-2</release>
-			<released>1998</released>
+			<release>Deutsche Grammophon 480 6834</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Mémoriale (...explosante-fixe... originel)</name>
@@ -1966,6 +2258,20 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Mémoriale (...explosante-fixe... originel)</name>
+			<description>pour flûte solo et huit instruments</description>
+			<length>5:07</length>
+			<instrument name="flûte">
+				<player name="Sophie Cherrier"/>
+			</instrument>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1985"/>
+			<recorded start="1990"/>
+			<release>Deutsche Grammophon 480 6836</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Dérive 2</name>
 			<description>pour 11 instruments</description>
 			<length>24:33</length>
@@ -1988,6 +2294,17 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Dérive 2</name>
+			<description>pour onze instruments</description>
+			<length>43:59</length>
+			<player name="Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="2006"/>
+			<recorded start="2010"/>
+			<release>Deutsche Grammophon 480 6831</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Anthèmes</name>
 			<description>Version für Violine solo, Computer und sechs Lautsprecher</description>
 			<length>21:17</length>
@@ -2002,6 +2319,18 @@
 			<recorded start="1997"/>
 			<release>Col Legno WWE 3CD 20026</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Anthèmes I</name>
+			<description>pour violon solo</description>
+			<length>8:42</length>
+			<instrument name="violon">
+				<player name="Jeanne-Marie Conquer"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="?"/>
+			<release>Deutsche Grammophon 480 6835</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Incises</name>
@@ -2029,6 +2358,18 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Incises</name>
+			<description>version définitive 2001</description>
+			<length>10:37</length>
+			<instrument name="piano">
+				<player name="Dimitri Vassilakis"/>
+			</instrument>
+			<composed start="1994" end="2001"/>
+			<recorded start="2010" end="2011"/>
+			<release>Deutsche Grammophon 480 6833</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Sur Incises</name>
 			<description>pour trois pianos, trois harpes, trois percussions-claviers</description>
 			<length>37:06</length>
@@ -2040,19 +2381,30 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Anthèmes 2</name>
+			<name>Sur Incises</name>
+			<description>pour trois pianos, trois harpes, trois percussions</description>
+			<length>37:06</length>
+			<player name="Solistes de l'Ensemble InterContemporain"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1996" end="1998"/>
+			<recorded start="1999"/>
+			<release>Deutsche Grammophon 480 6833</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Anthèmes II</name>
 			<description>pour violon et dispositif eléctronique</description>
 			<length>20:27</length>
-			<instrument name="Violon solo">
+			<instrument name="violon solo">
 				<player name="Hae Sun Kang"/>
 			</instrument>
-			<instrument name="Electroacoustic realization">
+			<instrument name="IRCAM, réalisation électroacoustique">
 				<player name="Andrew Gerszo"/>
 			</instrument>
-			<composed start="1996" end="1997"/>
+			<composed start="1997"/>
 			<recorded start="1999"/>
-			<release>Deutsche Grammophon 463475-2</release>
-			<released>2000</released>
+			<release>Deutsche Grammophon 480 6835</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Une page d'éphéméride</name>
@@ -2065,6 +2417,18 @@
 			<recorded start="2010" end="2011"/>
 			<release>Cybele 3SACD KiG 004</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Une page d'éphéméride</name>
+			<description>pour piano</description>
+			<length>5:05</length>
+			<instrument name="piano">
+				<player name="Hidéki Nagano"/>
+			</instrument>
+			<composed start="2005"/>
+			<recorded start="?"/>
+			<release>Deutsche Grammophon 480 6833</release>
+			<released>2013</released>
 		</composition>
 	</composer>
 	<composer name="Nikolaus" surname="Brass" born="1949" died="">
