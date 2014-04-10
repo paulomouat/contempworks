@@ -2106,7 +2106,7 @@
 			<instrument name="flûte">
 				<player name="Sophie Cherrier"/>
 			</instrument>
-			<player name="Ensemble InterContemporain"/>
+			<player name="Ensemble Intercontemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1985"/>
 			<recorded start="1990"/>
@@ -2171,17 +2171,6 @@
 		<composition>
 			<name>Dérive 1</name>
 			<description>pour 6 instruments</description>
-			<length>5:47</length>
-			<player name="Ensemble InterContemporain"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start="1984"/>
-			<recorded start="2002"/>
-			<release>Deutsche Grammophon 00289 4775327</release>
-			<released>2005</released>
-		</composition>
-		<composition>
-			<name>Dérive 1</name>
-			<description>pour 6 instruments</description>
 			<length>6:26</length>
 			<player name="Ensemble Orchestral Contemporain"/>
 			<conductor>Daniel Kawka</conductor>
@@ -2194,7 +2183,7 @@
 			<name>Dérive 1</name>
 			<description>pour six instruments</description>
 			<length>5:47</length>
-			<player name="Ensemble InterContemporain"/>
+			<player name="Ensemble Intercontemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1984"/>
 			<recorded start="2002"/>
@@ -2264,23 +2253,12 @@
 			<instrument name="flûte">
 				<player name="Sophie Cherrier"/>
 			</instrument>
-			<player name="Ensemble InterContemporain"/>
+			<player name="Ensemble Intercontemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1985"/>
 			<recorded start="1990"/>
 			<release>Deutsche Grammophon 480 6836</release>
 			<released>2013</released>
-		</composition>
-		<composition>
-			<name>Dérive 2</name>
-			<description>pour 11 instruments</description>
-			<length>24:33</length>
-			<player name="Ensemble InterContemporain"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start="1988" end="2002"/>
-			<recorded start="2002"/>
-			<release>Deutsche Grammophon 00289 4775327</release>
-			<released>2005</released>
 		</composition>
 		<composition>
 			<name>Dérive 2</name>
@@ -2297,7 +2275,7 @@
 			<name>Dérive 2</name>
 			<description>pour onze instruments</description>
 			<length>43:59</length>
-			<player name="Ensemble InterContemporain"/>
+			<player name="Ensemble Intercontemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="2006"/>
 			<recorded start="2010"/>
@@ -2371,20 +2349,9 @@
 		</composition>
 		<composition>
 			<name>Sur Incises</name>
-			<description>pour trois pianos, trois harpes, trois percussions-claviers</description>
-			<length>37:06</length>
-			<player name="Solistes de l'Ensemble InterContemporain"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start="1996" end="1998"/>
-			<recorded start="1999"/>
-			<release>Deutsche Grammophon 463475-2</release>
-			<released>2000</released>
-		</composition>
-		<composition>
-			<name>Sur Incises</name>
 			<description>pour trois pianos, trois harpes, trois percussions</description>
 			<length>37:06</length>
-			<player name="Solistes de l'Ensemble InterContemporain"/>
+			<player name="Solistes de l'Ensemble Intercontemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1996" end="1998"/>
 			<recorded start="1999"/>
