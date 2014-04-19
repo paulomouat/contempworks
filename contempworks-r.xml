@@ -2450,6 +2450,63 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Peter" surname="Ruzicka" born="1948" died="">
+		<composition>
+			<name>Introspezione</name>
+			<description>Dokumentation für Streichquartett</description>
+			<description>1. Streichquartett</description>
+			<length>10:31</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1969" end="1970"/>
+			<recorded start="1996" end="1997"/>
+			<release>ECM 1694</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>&quot;...fragment...&quot;</name>
+			<description>Fünf Epigramme für Streichquartett</description>
+			<description>2. Streichquartett</description>
+			<length>7:41</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1970"/>
+			<recorded start="1996" end="1997"/>
+			<release>ECM 1694</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Klangschatten</name>
+			<length>2:11</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1996" end="1997"/>
+			<release>ECM 1694</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>...über ein Verschwinden</name>
+			<description>3. Streichquartett</description>
+			<length>23:04</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1992"/>
+			<recorded start="1996" end="1997"/>
+			<release>ECM 1694</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>&quot;...sich verlierend&quot;</name>
+			<description>für Streichquartett und Sprechstimme</description>
+			<description>4. Streichquartett</description>
+			<length>20:54</length>
+			<player name="Arditti String Quartet"/>
+			<instrument name="Sprechstimme">
+				<player name="Dietrich Fischer-Dieskau"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="1996" end="1997"/>
+			<release>ECM 1694</release>
+			<released>1999</released>
+		</composition>
+	</composer>
 	<composer name="Frederic" surname="Rzewski" born="1938" died="">
 		<composition>
 			<name>Scratch Symphony</name>

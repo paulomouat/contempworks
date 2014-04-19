@@ -257,6 +257,38 @@
 			<released>?</released>
 		</composition>
 	</composer>
+	<composer name="Alexander" surname="Knaifel" born="1943" died="">
+		<composition>
+			<name>Svete Tikhiy (O Gladsome Light)</name>
+			<description>the Song of the Most Holy Theotokos</description>
+			<description>for Tatiana Melentieva</description>
+			<length>28:12</length>
+			<instrument name="soprano">
+				<player name="Tatiana Melentieva"/>
+			</instrument>
+			<instrument name="sampler">
+				<player name="Andrei Siegle"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1994" end="1997"/>
+			<release>ECM 1763</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>In Air Clear and Unseen</name>
+			<description>stanzas with Tyutchev</description>
+			<description>for piano and string quartet</description>
+			<length>23:28</length>
+			<instrument name="piano">
+				<player name="Oleg Malov"/>
+			</instrument>
+			<player name="Keller Quartett"/>
+			<composed start="1994"/>
+			<recorded start="2000"/>
+			<release>ECM New 1763</release>
+			<released>2002</released>
+		</composition>
+	</composer>
 	<composer name="Gottfried Michael" surname="Koenig" born="1926" died="">
 		<composition>
 			<name>Klangfiguren I</name>

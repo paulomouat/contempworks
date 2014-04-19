@@ -480,6 +480,16 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Persephassa</name>
+			<description>for percussion sextet</description>
+			<length>28:37</length>
+			<player name="red fish blue fish"/>
+			<composed start="1969"/>
+			<recorded start="?"/>
+			<release>Mode 171/73</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Hibiki-Hana-Ma</name>
 			<length>17:39</length>
 			<composed start="1970"/>
@@ -702,6 +712,18 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Psappha</name>
+			<description>for percussion solo</description>
+			<length>13:59</length>
+			<instrument name="percussion">
+				<player name="Steven Schick"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="?"/>
+			<release>Mode 171/73</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Mikka &quot;S&quot;</name>
 			<description>for solo violin</description>
 			<length>4:10</length>
@@ -811,6 +833,21 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Dmaathen</name>
+			<description>for oboe and percussion</description>
+			<length>10:57</length>
+			<instrument name="oboe">
+				<player name="Jacqueline Leclair"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Steven Schick"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="?"/>
+			<release>Mode 171/73</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>La Légende d'Eer</name>
 			<description>for 8-channel electronic tape</description>
 			<length>45:28</length>
@@ -848,6 +885,16 @@
 			<recorded start="1991"/>
 			<release>Montaigne 782005</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Pléïades</name>
+			<description>for percussion sextet</description>
+			<length>44:54</length>
+			<player name="red fish blue fish"/>
+			<composed start="1978"/>
+			<recorded start="?"/>
+			<release>Mode 171/73</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Dikhthas</name>
@@ -1026,6 +1073,21 @@
 			<recorded start="1987"/>
 			<release>Apex 2 CD 2564 64202-2</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Komboï</name>
+			<description>for harpsichord and percussion</description>
+			<length>20:02</length>
+			<instrument name="harpsichord">
+				<player name="Shannon Wettstein"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Aiyun Huang"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="?"/>
+			<release>Mode 171/73</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Tetras</name>
@@ -1275,6 +1337,21 @@
 			<released>1996</released>
 		</composition>	
 		<composition>
+			<name>Kassandra</name>
+			<description>for voice and percussion</description>
+			<length>20:48</length>
+			<instrument name="voice">
+				<player name="Philip Larson"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Steven Schick"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="?"/>
+			<release>Mode 171/73</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Rebonds a</name>
 			<description>for percussion solo</description>
 			<length>7:32</length>
@@ -1298,6 +1375,18 @@
 			<release>Mode 53</release>
 			<released>1996</released>
 		</composition>	
+		<composition>
+			<name>Rebonds</name>
+			<description>for percussion solo</description>
+			<length>11:33</length>
+			<instrument name="percussion">
+				<player name="Steven Schick"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="?"/>
+			<release>Mode 171/73</release>
+			<released>2006</released>
+		</composition>
 		<composition>
 			<name>Taurhiphanie</name>
 			<length>10:46</length>
@@ -1343,6 +1432,16 @@
 			<release>Mode 56</release>
 			<released>1996</released>
 		</composition>	
+		<composition>
+			<name>Okho</name>
+			<description>for three djembes and percussion</description>
+			<length>13:14</length>
+			<player name="red fish blue fish"/>
+			<composed start="1989"/>
+			<recorded start="?"/>
+			<release>Mode 171/73</release>
+			<released>2006</released>
+		</composition>
 		<composition>
 			<name>Échange</name>
 			<description>for bass-clarinet and ensemble</description>
@@ -1394,6 +1493,21 @@
 			<recorded start="2010"/>
 			<release>Aeon AECD 1109</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Oophaa</name>
+			<description>for harpsichord and percussion</description>
+			<length>11:49</length>
+			<instrument name="harpsichord">
+				<player name="John Mark Harris"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Greg Stuart"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="?"/>
+			<release>Mode 171/73</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Tetora</name>
