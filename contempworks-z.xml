@@ -228,6 +228,18 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Wüstenwanderung</name>
+			<description>for piano</description>
+			<length>20:55</length>
+			<instrument name="piano and voice">
+				<player name="Hermann Kretzschmar"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1988"/>
+			<release>Mode 150</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Festina Lente</name>
 			<description>for string quartet</description>
 			<length>26:28</length>
@@ -236,6 +248,51 @@
 			<recorded start="2010"/>
 			<release>Mode 245/246</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Lied im Wüstenvogelton</name>
+			<description>for bass flute and piano</description>
+			<length>12:13</length>
+			<instrument name="bass flute">
+				<player name="Dietmar Wiesner"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Hermann Kretzschmar"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="2001"/>
+			<release>Mode 150</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Geduld und Gelegenheit</name>
+			<description>for cello and piano</description>
+			<length>23:37</length>
+			<instrument name="cello">
+				<player name="Michael Bach"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Hermann Kretzschmar"/>
+			</instrument>
+			<composed start="1987" end="1989"/>
+			<recorded start="1990"/>
+			<release>Mode 150</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>The Echoing Green</name>
+			<description>for violin and piano</description>
+			<length>13:19</length>
+			<instrument name="violin">
+				<player name="Peter Rundel"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Hermann Kretzschmar"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1990"/>
+			<release>Mode 150</release>
+			<released>2005</released>
 		</composition>
 		<composition>
 			<name>Die Sorge geht über den Fluß</name>
