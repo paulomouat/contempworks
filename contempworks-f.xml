@@ -1230,6 +1230,15 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Sonatas for string quartet</name>
+			<length>42:05</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1967"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Funérailles I</name>
 			<description>for 7 strings and harp</description>
 			<length>11:13</length>
@@ -1322,6 +1331,15 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>String Quartet No. 2</name>
+			<length>10:50</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1980"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Superscriptio</name>
 			<description>pour piccolo solo</description>
 			<length>6:09</length>
@@ -1367,6 +1385,15 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Adagissimo</name>
+			<length>1:37</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1983"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Carceri d'Invenzioni IIb</name>
 			<length>11:07</length>
 			<instrument name="Flute">
@@ -1407,6 +1434,15 @@
 			<recorded start="1989"/>
 			<release>Montaigne 789002</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 3</name>
+			<length>20:06</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1987"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Intermedio alla ciaconna</name>
@@ -1474,6 +1510,18 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>String Quartet No. 4</name>
+			<length>20:18</length>
+			<instrument name="Soprano">
+				<player name="Claron McFadden"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1989" end="1990"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Bone Alphabet</name>
 			<description>for percussion</description>
 			<length>12:59</length>
@@ -1523,6 +1571,15 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Streichtrio</name>
+			<length>1:16</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1994"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>On Stellar Magnitudes</name>
 			<description>pour voix et ensemble</description>
 			<length>11:25</length>
@@ -1543,6 +1600,15 @@
 			<recorded start="2001" end="2002"/>
 			<release>Stradivarius STR 33694</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>String Trio</name>
+			<length>24:23</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1995"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Incipits</name>
@@ -1622,6 +1688,33 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>String Quartet No. 5</name>
+			<length>15:11</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Dum transisset I-IV</name>
+			<length>12:45</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2006"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Exordium</name>
+			<length>8:14</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2008"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>String Quartet No. 6</name>
 			<length>23:48</length>
 			<player name="Arditti Quartet"/>
@@ -1629,6 +1722,15 @@
 			<recorded start="2010"/>
 			<release>Neos 11114-17</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 6</name>
+			<length>23:57</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2010"/>
+			<recorded start="2011" end="2012"/>
+			<release>Aeon AECD 1335</release>
+			<released>2014</released>
 		</composition>
 	</composer>
 	<composer name="Luc" surname="Ferrari" born="1929" died="2005">
