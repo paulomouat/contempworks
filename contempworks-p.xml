@@ -214,7 +214,7 @@
 			<released>2006</released>
 		</composition>
 	</composer>
-	<composer name="Bernard" surname="Parmegiani" born="1927" died="">
+	<composer name="Bernard" surname="Parmegiani" born="1927" died="2013">
 		<composition>
 			<name>L'alcool tue</name>
 			<length>4:13</length>
@@ -231,15 +231,15 @@
 		</composition>
 		<composition>
 			<name>Violostries</name>
-			<length>16:40</length>
-			<instrument name="Violon">
+			<length>16:37</length>
+			<instrument name="violon">
 				<player name="Devy Erlih"/>
 			</instrument>
 			<player name="INA/GRM"/>
-			<composed start="1963"/>
-			<recorded start="1963"/>
-			<release>INA/GRM INA C 1012/1013</release>
-			<released>1997</released>
+			<composed start="1964"/>
+			<recorded start="1965"/>
+			<release>INA/GRM INA G 6000</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Les Jeux des Anges</name>
@@ -258,6 +258,36 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Jazzex</name>
+			<length>16:51</length>
+			<instrument name="saxophone">
+				<player name="Jean-Louis Chautemps"/>
+			</instrument>
+			<instrument name="trompette">
+				<player name="Bernard Vitet"/>
+			</instrument>
+			<instrument name="batterie">
+				<player name="Charles Saudrais"/>
+			</instrument>
+			<instrument name="contrebasse">
+				<player name="Gilbert Rovere"/>
+			</instrument>
+			<player name="INA/GRM"/>
+			<composed start="1966"/>
+			<recorded start="1966"/>
+			<release>INA/GRM INA G 6000</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>L'Instant mobile</name>
+			<length>10:41</length>
+			<player name="INA/GRM"/>
+			<composed start="1966"/>
+			<recorded start="1966"/>
+			<release>INA/GRM INA G 6000</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>L'Arraignelephant</name>
 			<length>9:12</length>
 			<composed start="1967"/>
@@ -270,29 +300,48 @@
 			<length>11:57</length>
 			<composed start="1967"/>
 			<recorded start="1967"/>
-			<release>INA/GRM INA C 2019</release>
-			<released>?</released>
+			<release>INA/GRM INA G 6000</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Bidule en Ré</name>
+			<length>9:18</length>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>INA/GRM INA G 6001</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Pop'eclectic</name>
+			<length>10:59</length>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>INA/GRM INA G 6001</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Du pop à l'âne</name>
+			<length>10:09</length>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>INA/GRM INA G 6001</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Ponomatopées</name>
+			<length>6:17</length>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>INA/GRM INA G 6001</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>L'Oeil écoute</name>
-			<length>24:32</length>
+			<length>19:11</length>
 			<composed start="1970"/>
 			<recorded start="1970"/>
-			<release>Agon AD 039</release>
-			<released>1997</released>
-		</composition>
-		<composition>
-			<name>Pour en finir avec le pouvoir d'Orphée</name>
-			<length>23:27</length>
-			<instrument name="Guimbarde">
-				<player name="John Wright"/>
-				<player name="Tran Quang Haï"/>
-			</instrument>
-			<player name="INA/GRM"/>
-			<composed start="1971"/>
-			<recorded start="1971"/>
-			<release>INA/GRM INA C 1012/1013</release>
-			<released>1997</released>
+			<release>INA/GRM INA G 6002</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Indicatif Roissy</name>
@@ -306,6 +355,22 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>La roue Ferris</name>
+			<length>10:40</length>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>INA/GRM INA G 6002</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Enfer</name>
+			<length>1:01:20</length>
+			<composed start="1971" end="1972"/>
+			<recorded start="1971" end="1972"/>
+			<release>INA/GRM INA G 6003</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>Indicatif France Culture</name>
 			<length>1:14</length>
 			<instrument name="Réalisation">
@@ -317,15 +382,12 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>La roue Ferris</name>
-			<length>10:48</length>
-			<instrument name="Réalisation">
-				<player name="GRM, Paris"/>
-			</instrument>
-			<composed start="1971"/>
-			<recorded start="1971"/>
-			<release>INA C 1035</release>
-			<released>2004</released>
+			<name>Pour en finir avec le pouvoir d'Orphée</name>
+			<length>23:25</length>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>INA/GRM INA G 6002</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>L'écran Transparent</name>
@@ -334,6 +396,18 @@
 			<recorded start="1973"/>
 			<release>NEEMC 06</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Et après...</name>
+			<length>11:35</length>
+			<instrument name="bandonéon">
+				<player name="Michel Portal"/>
+			</instrument>
+			<instrument name="INA/GRM"/>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>INA/GRM INA G 6001</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Chants Magnétiques</name>
@@ -391,12 +465,12 @@
 			<name>De Natura Sonorum</name>
 			<description>Suite en douze mouvements</description>
 			<description>version intégrale</description>
-			<length>53:02</length>
+			<length>53:01</length>
 			<player name="INA/GRM"/>
 			<composed start="1975"/>
 			<recorded start="1975"/>
-			<release>INA/GRM INA C 3001</release>
-			<released>2000</released>
+			<release>INA/GRM INA G 6004</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Indicatif &quot;Stade 2&quot;</name>
@@ -412,20 +486,88 @@
 		<composition>
 			<name>Dedans-Dehors</name>
 			<length>22:24</length>
-			<player name="INA/GRM"/>
 			<composed start="1977"/>
 			<recorded start="1977"/>
-			<release>INA/GRM INA C 1012/1013</release>
-			<released>1997</released>
+			<release>INA/GRM INA G 6005</release>
+			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Exercisme 3</name>
-			<length>23:50</length>
-			<player name="INA/GRM"/>
-			<composed start="1986"/>
-			<recorded start="1986"/>
-			<release>INA/GRM INA C 1012/1013</release>
-			<released>1997</released>
+			<name>Des Mots et des Sons</name>
+			<length>19:17</length>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>INA/GRM INA G 6005</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Musico-Picassa</name>
+			<length>6:53</length>
+			<composed start="1978"/>
+			<recorded start="1978"/>
+			<release>INA/GRM INA G 6001</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>La Table des matières</name>
+			<length>19:02</length>
+			<composed start="1979"/>
+			<recorded start="1979"/>
+			<release>INA/GRM INA G 6005</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>La Création du monde</name>
+			<length>1:12:44</length>
+			<part>
+				<number>1</number>
+				<name>Lumière noire</name>
+				<length>17:35</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Métamorphose du vide</name>
+				<length>23:05</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Signe de vie</name>
+				<length>32:00</length>
+			</part>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>INA/GRM INA G 6006</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Exercismes</name>
+			<length>1:08:39</length>
+			<part>
+				<number>1</number>
+				<name>Exercisme 1</name>
+				<length>17:22</length>
+				<instrument name="trio de synthétiseurs TM+">
+					<player name="Laurent Cuniot"/>
+					<player name="Denis Dufour"/>
+					<player name="Yann Geslin"/>
+				</instrument>
+				<composed start="1985"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Exercisme 2</name>
+				<length>27:02</length>
+				<composed start="1985"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Exercisme 3</name>
+				<length>24:13</length>
+				<composed start="1986"/>
+			</part>
+			<composed start="1985" end="1986"/>
+			<recorded start="1985" end="1986"/>
+			<release>INA/GRM INA G 6007</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Exercisme 3 (extrait)</name>
@@ -439,80 +581,110 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Rouge-Mort: Thanatos</name>
-			<length>16:52</length>
-			<instrument name="Zarb">
-				<player name="Jean-Pierre Drouet"/>
-			</instrument>
-			<player name="INA/GRM"/>
+			<name>Litaniques</name>
+			<length>21:23</length>
 			<composed start="1987"/>
 			<recorded start="1987"/>
-			<release>INA/GRM INA C 1012/1013</release>
-			<released>1997</released>
+			<release>INA/GRM INA G 6008</release>
+			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Le Présent composé</name>
-			<length>23:50</length>
-			<instrument name="Mixage">
-				<player name="François Donato"/>
-				<player name="Christian Zanési"/>
-			</instrument>
-			<player name="INA/GRM"/>
+			<name>Rouge-mort: Thanatos</name>
+			<length>16:48</length>
+			<composed start="1987"/>
+			<recorded start="1987"/>
+			<release>INA/GRM INA G 6008</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>E Pericoloso sporgersi</name>
+			<length>25:37</length>
 			<composed start="1991"/>
 			<recorded start="1991"/>
-			<release>INA/GRM INA C 1012/1013</release>
-			<released>1997</released>
+			<release>INA/GRM INA G 6008</release>
+			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Sonare</name>
-			<length>25:23</length>
-			<player name="INA/GRM"/>
-			<composed start="1996"/>
-			<recorded start="1996"/>
-			<release>INA/GRM INA E 5203</release>
-			<released>2002</released>
-		</composition>
-		<composition>
-			<name>Sons-jeu</name>
-			<length>21:10</length>
-			<composed start="1998"/>
-			<recorded start="1998"/>
-			<release>INA/GRM INA C 2019</release>
-			<released>?</released>
-		</composition>
-		<composition>
-			<name>La mémoire des sons</name>
-			<length>24:40</length>
-			<composed start="2001"/>
-			<recorded start="2001"/>
-			<release>INA/GRM INA C 2019</release>
-			<released>?</released>
-		</composition>
-		<composition>
-			<name>Plain temps</name>
-			<length>1:10:51</length>
+			<name>Trilogie Plain-temps</name>
+			<length>1:10:34</length>
 			<part>
 				<number>1</number>
-				<name>Présent composé, version 2006</name>
-				<length>23:50</length>
-				<composed start="1991" end="2006"/>
+				<name>Présent composé</name>
+				<length>23:45</length>
+				<composed start="1991"/>
 			</part>
 			<part>
 				<number>2</number>
 				<name>Entre-temps</name>
-				<length>22:29</length>
+				<length>22:32</length>
 				<composed start="1992"/>
 			</part>
 			<part>
 				<number>3</number>
-				<name>Plain temps, version 2006</name>
-				<length>24:29</length>
-				<composed start="1993" end="2006"/>
+				<name>Plain-temps</name>
+				<length>24:23</length>
+				<composed start="1993"/>
 			</part>
-			<composed start="1991" end="2006"/>
-			<recorded start="1992" end="2006"/>
-			<release>INA/GRM INA C 2027</release>
-			<released>2006</released>
+			<composed start="1991" end="1993"/>
+			<recorded start="1991" end="1993"/>
+			<release>INA/GRM INA G 6009</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Sonare</name>
+			<length>21:22</length>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>INA/GRM INA G 6010</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Sons/jeu</name>
+			<length>21:09</length>
+			<composed start="1998" end="2000"/>
+			<recorded start="1998" end="2000"/>
+			<release>INA/GRM INA G 6010</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Immer/sounds</name>
+			<length>11:24</length>
+			<composed start="1999"/>
+			<recorded start="1999"/>
+			<release>INA/GRM INA G 6011</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>La mémoire des sons</name>
+			<length>24:40</length>
+			<composed start="2000" end="2001"/>
+			<recorded start="2000" end="2001"/>
+			<release>INA/GRM INA G 6010</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Espèces d'espaces</name>
+			<length>21:47</length>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>INA/GRM INA G 6011</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Au gré du souffle, le son s'envole</name>
+			<length>20:03</length>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>INA/GRM INA G 6011</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Rêveries</name>
+			<length>13:46</length>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>INA/GRM INA G 6011</release>
+			<released>2008</released>
 		</composition>
 	</composer>
 	<composer name="Ake" surname="Parmerud" born="1953" died="">
