@@ -337,6 +337,14 @@
 		</composition>
 		<composition>
 			<name>L'Oeil écoute</name>
+			<length>24:32</length>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>Agon PV 725002</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>L'Oeil écoute</name>
 			<length>19:11</length>
 			<composed start="1970"/>
 			<recorded start="1970"/>
@@ -629,6 +637,14 @@
 			<recorded start="1991" end="1993"/>
 			<release>INA/GRM INA G 6009</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Sonare</name>
+			<length>25:25</length>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>INA/GRM INA E 5203</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>Sonare</name>
