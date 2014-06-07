@@ -414,6 +414,17 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Polifonica-Monodia-Ritmica</name>
+			<description>für sechs Instrumente und Schlagzeug</description>
+			<length>9:59</length>
+			<player name="Ensemble UnitedBerlin"/>
+			<conductor>Peter Hirsch</conductor>
+			<composed start="1951"/>
+			<recorded start="1997"/>
+			<release>Wergo WER 6631-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Due espressioni</name>
 			<description>Musik für Donaueschingen</description>
 			<length>12:00</length>
@@ -434,6 +445,16 @@
 			<recorded start="1988"/>
 			<release>Deutsche Grammophon 429260-2</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Canti per 13</name>
+			<length>10:55</length>
+			<player name="United Voices"/>
+			<conductor>Peter Hirsch</conductor>
+			<composed start="1955"/>
+			<recorded start="1997"/>
+			<release>Wergo WER 6631-2</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Il canto sospeso</name>
@@ -493,7 +514,7 @@
 			<player name="Staatsorchester Stuttgart"/>
 			<conductor>Bernhard Kontarsky</conductor>
 			<composed start="1960"/>
-			<recorded start="1961??"/>
+			<recorded start="1961?"/>
 			<release>Teldec 4509-97304-2</release>
 			<released>1995</released>
 		</composition>
@@ -580,6 +601,21 @@
 			<recorded start="2002"/>
 			<release>Col Legno WWE 1SACD 20603</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Canciones a Guiomar</name>
+			<description>für Sopran-Solo, zwölfstimmigen Frauenchor und Instrumente</description>
+			<length>9:54</length>
+			<instrument name="Sopran">
+				<player name="Angelika Luz"/>
+			</instrument>
+			<player name="United Voices"/>
+			<player name="Ensemble UnitedBerlin"/>
+			<conductor>Peter Hirsch</conductor>
+			<composed start="1962" end="1963"/>
+			<recorded start="1997"/>
+			<release>Wergo WER 6631-2</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Da un diario italiano</name>
@@ -1439,6 +1475,21 @@
 			<recorded start="1990"/>
 			<release>Deutsche Grammophon 435 870-2</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>"Hay que caminar" soñando</name>
+			<description>für zwei Violinen</description>
+			<length>26:41</length>
+			<instrument name="Violine">
+				<player name="Andreas Bräutigam"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Stephan Kalbe"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1998"/>
+			<release>Wergo WER 6631-2</release>
+			<released>1998</released>
 		</composition>
 	</composer>
 	<composer name="Robert" surname="Normandeau" born="1955" died="">
