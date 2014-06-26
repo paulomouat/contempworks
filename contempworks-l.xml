@@ -286,6 +286,18 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Tanzsuite mit Deutschlandlied</name>
+			<description>Musik für Orchester mit Streichquartett</description>
+			<length>35:47</length>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<player name="Arditti String Quartet"/>
+			<conductor>Olaf Henzold</conductor>
+			<composed start="1979" end="1980"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782019</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Ein Kinderspiel</name>
 			<description>for piano</description>
 			<length>15:00</length>
@@ -398,6 +410,16 @@
 			<composed start="1988" end="1989"/>
 			<recorded start="1989"/>
 			<release>Col Legno WWE 1CD 31862</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Reigen seliger Geister</name>
+			<description>Streichquartett Nr. 2</description>
+			<length>28:56</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1989"/>
+			<recorded start="1990"/>
+			<release>Montaigne MO 782019</release>
 			<released>1994</released>
 		</composition>
 		<composition>
