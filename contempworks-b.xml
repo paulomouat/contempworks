@@ -94,6 +94,15 @@
 			<release>Sony SM2K61726</release>
 			<released>1999</released>
 		</composition>
+		<composition>
+			<name>String Quartet No. 4</name>
+			<length>25:52</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1928"/>
+			<recorded start="1990"/>
+			<release>Gramavision R2 79439</release>
+			<released>1990</released>
+		</composition>
 		<composition score="Y">
 			<name>Musique pour cordes, percussion et célesta</name>
 			<length>29:58</length>
@@ -603,6 +612,22 @@
 		</composition>
 	</composer>
 	<composer name="Alban" surname="Berg" born="1885" died="1935">
+		<composition>
+			<name>Neun kurze Stücke</name>
+			<description>für Quartett, Sextett oder Violine und Klavier</description>
+			<length>19:51</length>
+			<instrument name="Viola">
+				<player name="Thomas Kakuska"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Stefan Litwin"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1905" end="1908"/>
+			<recorded start="1994"/>
+			<release>Naive Montaigne MO 782069</release>
+			<released>2003</released>
+		</composition>
 		<composition>
 			<name>Die Nachtigall</name>
 			<description>bearbeitet für 16 Stimmen a cappella von Clytus Gottwald</description>

@@ -964,4 +964,15 @@
 			<released>2007</released>
 		</composition>
 	</composer>
+	<composer name="Sofia" surname="Gubaidulina" born="1931" died="">
+		<composition>
+			<name>String Quartet No. 3</name>
+			<length>19:28</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1987"/>
+			<recorded start="1990"/>
+			<release>Gramavision R2 79439</release>
+			<released>1990</released>
+		</composition>		
+	</composer>
 </list>

@@ -217,6 +217,18 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Quintett für Streicher und Klavier, M. 118</name>
+			<length>11:53</length>
+			<instrument name="Piano">
+				<player name="Stefan Litwin"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1907"/>
+			<recorded start="1994"/>
+			<release>Naive Montaigne MO 782069</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>5 Lieder on poems by Richard Dehmel</name>
 			<length>12:20</length>
 			<part>
@@ -539,6 +551,20 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Vier Stücke für Geige und Klavier, op. 7</name>
+			<length>4:37</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Stefan Litwin"/>
+			</instrument>
+			<composed start="1910"/>
+			<recorded start="1994"/>
+			<release>Naive Montaigne MO 782069</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Zwei Lieder, op. 8</name>
 			<description>für mittlere Stimme und 8 Instrumente</description>
 			<length>2:08</length>
@@ -687,6 +713,20 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Drei kleine Stücke für Violoncello und Klavier, op. 11</name>
+			<length>2:28</length>
+			<instrument name="Cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Stefan Litwin"/>
+			</instrument>
+			<composed start="1914"/>
+			<recorded start="1994"/>
+			<release>Naive Montaigne MO 782069</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Cello Sonata</name>
 			<length>1:43</length>
 			<instrument name="Cello">
@@ -696,6 +736,17 @@
 			<recorded start="1994"/>
 			<release>Deutsche Grammophon 457 637-2</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Cello sonata, M. 202</name>
+			<length>1:41</length>
+			<instrument name="Cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1914"/>
+			<recorded start="1994"/>
+			<release>Naive Montaigne MO 782069</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>3 Orchestral Songs</name>

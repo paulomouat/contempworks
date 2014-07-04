@@ -1914,6 +1914,17 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Alfred" surname="Schnittke" born="1934" died="1998">
+		<composition>
+			<name>String Quartet No. 2</name>
+			<length>24:08</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1980"/>
+			<recorded start="1990"/>
+			<release>Gramavision R2 79439</release>
+			<released>1990</released>
+		</composition>
+	</composer>
 	<composer name="Arnold" surname="Schönberg" born="1874" died="1951">
 		<composition>
 			<name>Drei Klavierstücke</name>
@@ -2193,6 +2204,81 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Chants d'un compagnon errant</name>
+			<description>pour voix, flûte, clarinette, harmonium, piano, percussions et quintette à cordes</description>
+			<description>(Gustav Mahler 1883-1885, transcription de Schönberg, 1920)</description>
+			<length>16:26</length>
+			<instrument name="baryton">
+				<player name="Jean-Luc Chaignaud"/>
+			</instrument>
+			<instrument name="flûte">
+				<player name="Michel Moraguès"/>
+			</instrument>
+			<instrument name="clarinette">
+				<player name="Paul Meyer"/>
+			</instrument>
+			<instrument name="harmonium">
+				<player name="Hakon Austbö"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Louise Bessette"/>
+			</instrument>
+			<instrument name="percussions">
+				<player name="Isabelle Berteletti"/>
+			</instrument>
+			<instrument name="contrebasse">
+				<player name="Marc Marder"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1920"/>
+			<recorded start="1989"/>
+			<release>Montaigne JM001/WM 334</release>
+			<released>1989</released>
+		</composition>
+		<composition>
+			<name>Berceuse élégiaque, op. 42</name>
+			<description>pour flûte, clarinette, quintette à cordes, piano et harmonium</description>
+			<description>(Ferruccio Busoni 1909, transcription de Schönberg, 1920-1921)</description>
+			<length>9:42</length>
+			<instrument name="flûte">
+				<player name="Michel Moraguès"/>
+			</instrument>
+			<instrument name="clarinette">
+				<player name="Paul Meyer"/>
+			</instrument>
+			<instrument name="harmonium">
+				<player name="Hakon Austbö"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Louise Bessette"/>
+			</instrument>
+			<instrument name="contrebasse">
+				<player name="Marc Marder"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1920" end="1921"/>
+			<recorded start="1989"/>
+			<release>Montaigne JM001/WM 334</release>
+			<released>1989</released>
+		</composition>
+		<composition>
+			<name>Rosen aus dem Süden</name>
+			<description>pour piano, harmonium et quatuor à cordes</description>
+			<description>(Johann Strauss, transcription de Schönberg, 1921)</description>
+			<length>10:10</length>
+			<instrument name="harmonium">
+				<player name="Hakon Austbö"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Louise Bessette"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1921"/>
+			<recorded start="1989"/>
+			<release>Montaigne JM001/WM 334</release>
+			<released>1989</released>
+		</composition>
+		<composition>
 			<name>5 Klavierstücke, op. 23</name>
 			<length>10:12</length>
 			<instrument name="Piano">
@@ -2237,6 +2323,29 @@
 			<recorded start="1979"/>
 			<release>Sony 88765429572 (2)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Weinachtsmusik</name>
+			<length>6:00</length>
+			<instrument name="piano">
+				<player name="Louise Bessette"/>
+			</instrument>
+			<instrument name="harmonium">
+				<player name="Hakon Austbö"/>
+			</instrument>
+			<instrument name="violon">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="violon">
+				<player name="David Albermann"/>
+			</instrument>
+			<instrument name="violoncelle">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1921"/>
+			<recorded start="1989"/>
+			<release>Montaigne JM001/WM 334</release>
+			<released>1989</released>
 		</composition>
 		<composition>
 			<name>Suite für Klavier, op. 25</name>
@@ -2308,6 +2417,29 @@
 			<recorded start="1982"/>
 			<release>Sony 88765429572 (1)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Kaiserwalzer</name>
+			<description>pour piano, flûte, clarinette et quatuor à cordes</description>
+			<description>(Johann Strauss, transcription de Schönberg, 1925)</description>
+			<length>11:22</length>
+			<instrument name="flûte">
+				<player name="Michel Moraguès"/>
+			</instrument>
+			<instrument name="clarinette">
+				<player name="Paul Meyer"/>
+			</instrument>
+			<instrument name="harmonium">
+				<player name="Hakon Austbö"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Louise Bessette"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1925"/>
+			<recorded start="1989"/>
+			<release>Montaigne JM001/WM 334</release>
+			<released>1989</released>
 		</composition>
 		<composition>
 			<name>Variationen für Orchester, op. 31</name>
