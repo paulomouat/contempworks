@@ -327,6 +327,16 @@
 			<release>Neuma 450-74</release>
 			<released>1990</released>
 		</composition>
+		<composition>
+			<name>Coconino... a shattered landscape</name>
+			<description>for string quartet</description>
+			<length>17:11</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1985"/>
+			<recorded start="1989"/>
+			<release>Gramavision R2 79440</release>
+			<released>1989</released>
+		</composition>
 	</composer>
 	<composer name="André" surname="Richard" born="1944" died="">
 		<composition>

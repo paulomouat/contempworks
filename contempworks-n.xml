@@ -228,6 +228,16 @@
 		<composition>
 			<name>String Quartet No. 3</name>
 			<description>Canon 3/4/5/6</description>
+			<length>13:18</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1987"/>
+			<recorded start="1989"/>
+			<release>Gramavision R2 79440</release>
+			<released>1989</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 3</name>
+			<description>Canon 3/4/5/6</description>
 			<length>14:06</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1987"/>

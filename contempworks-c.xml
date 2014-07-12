@@ -3324,6 +3324,17 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Ruth" surname="Crawford-Seeger" born="1901" died="1953">
+		<composition>
+			<name>Quartet 1931</name>
+			<length>10:23</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1931"/>
+			<recorded start="1989"/>
+			<release>Gramavision R2 79440</release>
+			<released>1989</released>
+		</composition>
+	</composer>
 	<composer name="George" surname="Crumb" born="1929" died="">
 		<composition>
 			<name>Four Nocturnes (Night Music II)</name>

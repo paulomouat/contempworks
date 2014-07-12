@@ -1102,6 +1102,16 @@
 		<composition>
 			<name>Tetras</name>
 			<description>for string quartet</description>
+			<length>15:08</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1983"/>
+			<recorded start="1989"/>
+			<release>Gramavision R2 79440</release>
+			<released>1989</released>
+		</composition>
+		<composition>
+			<name>Tetras</name>
+			<description>for string quartet</description>
 			<length>13:41</length>
 			<player name="The JACK Quartet"/>
 			<composed start="1983"/>
