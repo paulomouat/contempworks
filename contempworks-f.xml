@@ -1177,6 +1177,26 @@
 			<release>Kairos 0012012KAI</release>
 			<released>1999</released>
 		</composition>
+		<composition>
+			<name>Piano, Violin, Viola, Cello</name>
+			<length>1:15:50</length>
+			<instrument name="piano">
+				<player name="John Snijders"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Josje Ter Haar"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Ruben Sanderse"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Job Ter Haar"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1994"/>
+			<release>hatART CD 6158</release>
+			<released>1995</released>
+		</composition>
 	</composer>
 	<composer name="Brian" surname="Ferneyhough" born="1943" died="">
 		<composition>

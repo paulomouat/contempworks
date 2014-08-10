@@ -1034,6 +1034,30 @@
 	</composer>
 	<composer name="Heinz" surname="Holliger" born="1939" died="">
 		<composition>
+			<name>Elis</name>
+			<description>Drei Nachtstücke für Klavier</description>
+			<length>7:17</length>
+			<instrument name="Klavier">
+				<player name="Thomas Larcher"/>
+			</instrument>
+			<composed start="1961" end="1966"/>
+			<recorded start="1996"/>
+			<release>ECM 1618</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Sequenzen über Johannes I, 32</name>
+			<description>für Harfe</description>
+			<length>4:08</length>
+			<instrument name="Harfe">
+				<player name="Ursula Holliger"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1996"/>
+			<release>ECM 1618</release>
+			<released>1997</released>
+		</composition>
+		<composition>
 			<name>Pneuma</name>
 			<description>für Bläser, Schlagzeug, Orgel und Radios</description>
 			<length>15:48</length>
@@ -1127,6 +1151,60 @@
 			<recorded start="2009"/>
 			<release>Aeon AECD 1100</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Trema</name>
+			<description>Version für Violine solo</description>
+			<length>13:13</length>
+			<instrument name="Violine">
+				<player name="Thomas Zehetmair"/>
+			</instrument>
+			<composed start="1981" end="1983"/>
+			<recorded start="1996"/>
+			<release>ECM 1618</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Lieder ohne Worte I</name>
+			<description>für Violine und Klavier</description>
+			<length>16:54</length>
+			<instrument name="Violine">
+				<player name="Thomas Zehetmair"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Thomas Larcher"/>
+			</instrument>
+			<composed start="1981" end="1983"/>
+			<recorded start="1996"/>
+			<release>ECM 1618</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Präludium, Arioso und Passacaglia</name>
+			<description>für Harfe</description>
+			<length>13:24</length>
+			<instrument name="Harfe">
+				<player name="Ursula Holliger"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1996"/>
+			<release>ECM 1618</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Lieder ohne Worte II</name>
+			<description>für Violine und Klavier</description>
+			<length>22:11</length>
+			<instrument name="Violine">
+				<player name="Thomas Zehetmair"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Thomas Larcher"/>
+			</instrument>
+			<composed start="1988" end="1994"/>
+			<recorded start="1996"/>
+			<release>ECM 1618</release>
+			<released>1997</released>
 		</composition>
 		<composition>
 			<name>Puneigä</name>

@@ -2243,6 +2243,31 @@
 			<release>Mode 205</release>
 			<released>2009</released>
 		</composition>
+		<composition>
+			<name>Treatise</name>
+			<description>for any number of musicians with any instruments</description>
+			<length>2:21:15</length>
+			<instrument name="piano, electronics">
+				<player name="Jim Baker"/>
+			</instrument>
+			<instrument name="vibes, percussion">
+				<player name="Carrie Biolo"/>
+			</instrument>
+			<instrument name="clarinet, alto saxophone">
+				<player name="Guillermo Gregorio"/>
+			</instrument>
+			<instrument name="cello, electronics">
+				<player name="Fred Lonberg-Holm"/>
+			</instrument>
+			<instrument name="Jim O'Rourke">
+				<player name="Electronics"/>
+			</instrument>
+			<conductor>Art Lange</conductor>
+			<composed start="1963" end="1967"/>
+			<recorded start="1998"/>
+			<release>hat[now]ART 2-122</release>
+			<released>1999</released>
+		</composition>
 	</composer>
 	<composer name="Pedro" surname="Carneiro" born="1975" died="">
 		<composition>

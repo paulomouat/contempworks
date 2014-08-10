@@ -968,6 +968,46 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Lenz-Fragmente</name>
+			<description>Fünf Gedichte von J. M. R. Lenz</description>
+			<length>17:04</length>
+			<part>
+				<number>I</number>
+				<name>den 28 December 1775</name>
+				<length>2:47</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>(Ich will den nagenden Beschwerden ein Ende machen...)</name>
+				<length>2:11</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>(Fühl alle Lust, fühl alle Pein...)</name>
+				<length>1:31</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>An die Sonne</name>
+				<length>3:11</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Lied zum teutschen Tanz</name>
+				<length>2:24</length>
+			</part>
+			<instrument name="soprano">
+				<player name="Clare Lesser"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="David Lesser"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2002"/>
+			<release>Metier MSV CD92068</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Tutuguri</name>
 			<description>Poème dansé für einem Sprecher, Chor und großes Orchester</description>
 			<length>1:56:50</length>
@@ -1076,6 +1116,17 @@
 			<recorded start="1999"/>
 			<release>Kairos 0012072KAI</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Silence to be beaten (Chiffre II)</name>
+			<description>für 14 Spieler</description>
+			<length>12:49</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="1983"/>
+			<recorded start="2010"/>
+			<release>Col Legno WWE 1CD 20297</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Chiffre III</name>
@@ -1390,6 +1441,73 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Das Rot</name>
+			<description>(Karoline von Günderrode)</description>
+			<length>21:14</length>
+			<part>
+				<number>I</number>
+				<name>Hochroth</name>
+				<length>4:17</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Ist alles stumm und leer</name>
+				<length>6:12</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Des Knaben Morgengruß</name>
+				<length>3:40</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Des Knaben Abendgruß</name>
+				<length>2:05</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>An Creuzer</name>
+				<length>2:15</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>Liebst du das Dunkel</name>
+				<length>2:45</length>
+			</part>
+			<instrument name="soprano">
+				<player name="Clare Lesser"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="David Lesser"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="2002"/>
+			<release>Metier MSV CD92068</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Cantus Firmus</name>
+			<description>Musik in memoriam Luigi Nono (1. Versuch), für 14 Instrumentalisten</description>
+			<length>3:35</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="1990"/>
+			<recorded start="2010"/>
+			<release>Col Legno WWE 1CD 20297</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Ricercare</name>
+			<description>Musik in memoriam Luigi Nono (2. Versuch), für 14 Spieler</description>
+			<length>8:22</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="1990"/>
+			<recorded start="2010"/>
+			<release>Col Legno WWE 1CD 20297</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Ins Offene...</name>
 			<description>Zweite Fassung</description>
 			<description>für Orchester </description>
@@ -1527,6 +1645,17 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Séraphin-Sphäre</name>
+			<description>für Ensemble</description>
+			<length>25:10</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="1993" end="2006"/>
+			<recorded start="2010"/>
+			<release>Col Legno WWE 1CD 20297</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>In nuce</name>
 			<description>für Viola, Violoncello und Kontrabaß</description>
 			<length>5:00</length>
@@ -1628,6 +1757,35 @@
 			<recorded start="1997"/>
 			<release>Wergo WER 2055-2</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Drei Gedichte von Monique Thoné</name>
+			<length>3:59</length>
+			<part>
+				<number>I</number>
+				<name>(Vielleicht kommt mich morgen wohl jemand hohlen...)</name>
+				<length>1:21</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>(Es ist unerträglich...)</name>
+				<length>0:56</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>(Ich bleibe allein.)</name>
+				<length>1:42</length>
+			</part>
+			<instrument name="soprano">
+				<player name="Clare Lesser"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="David Lesser"/>
+			</instrument>
+			<composed start="1997"/>
+			<recorded start="2002"/>
+			<release>Metier MSV CD92068</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>Styx und Lethe</name>
@@ -1826,6 +1984,76 @@
 			<recorded start="2003"/>
 			<release>Col Legno WWE 1CD 20228</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Ende der Handschrift</name>
+			<description>Elf späte Gedichte von Heiner Müller</description>
+			<length>33:05</length>
+			<part>
+				<number>I</number>
+				<name>Glückloser Engel 2</name>
+				<length>2:36</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Nature morte</name>
+				<length>2:44</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Blaupause</name>
+				<length>2:22</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Leere Zeit</name>
+				<length>2:38</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Traumwald</name>
+				<length>5:08</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>(Im ächten Manne...)</name>
+				<length>2:02</length>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>(Mit der Wiederkehr der Farbe...)</name>
+				<length>2:07</length>
+			</part>
+			<part>
+				<number>VIII</number>
+				<name>(...Und gehe weiter in die Landschaft...)</name>
+				<length>6:15</length>
+			</part>
+			<part>
+				<number>IX</number>
+				<name>(Wie einen Schatten hat Gott den...)</name>
+				<length>2:56</length>
+			</part>
+			<part>
+				<number>X</number>
+				<name>Drama</name>
+				<length>2:29</length>
+			</part>
+			<part>
+				<number>XI</number>
+				<name>(Geh Ariel bring den Sturm...)</name>
+				<length>1:48</length>
+			</part>
+			<instrument name="soprano">
+				<player name="Clare Lesser"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="David Lesser"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2002"/>
+			<release>Metier MSV CD92068</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>Über die Linie II</name>
