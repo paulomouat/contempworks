@@ -31,6 +31,17 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>in vain</name>
+			<description>for 24 instruments</description>
+			<length>1:03:13</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<composed start="2000"/>
+			<recorded start="2002"/>
+			<release>Kairos 0012332KAI</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Hyperion</name>
 			<description>Concerto for light and orchestra</description>
 			<length>40:13</length>
@@ -72,7 +83,7 @@
 			</instrument>
 			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
 			<conductor>Sylvain Cambreling</conductor>
-			<composed start="1972"/>
+			<composed start="2010"/>
 			<recorded start="2010"/>
 			<release>Neos 11114-17</release>
 			<released>2011</released>
@@ -1264,6 +1275,21 @@
 			<recorded start="2007"/>
 			<release>ECM 2201</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Romancendres</name>
+			<description>für Violoncello und Klavier</description>
+			<length>22:37</length>
+			<instrument name="Violoncello">
+				<player name="Anita Leuzinger"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Anton Kernjak"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2012" end="2013"/>
+			<release>ECM 2395</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Induuchlen</name>
