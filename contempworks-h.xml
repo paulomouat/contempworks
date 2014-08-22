@@ -17,6 +17,24 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Streichquartett Nr. 1</name>
+			<length>32:42</length>
+			<player name="Kairos Quartett"/>
+			<composed start="1997"/>
+			<recorded start="2001"/>
+			<release>edition zeitklang ez-19017</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Streichquartett Nr. 2</name>
+			<length>20:32</length>
+			<player name="Kairos Quartett"/>
+			<composed start="1998"/>
+			<recorded start="2001"/>
+			<release>edition zeitklang ez-19017</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Wer, wenn ich schriee, hörte mich...</name>
 			<description>for percussion and ensemble</description>
 			<length>24:11</length>
