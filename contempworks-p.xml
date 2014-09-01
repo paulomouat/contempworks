@@ -1320,6 +1320,19 @@
 			<released>2007</released>
 		</composition>
 	</composer>
+	<composer name="Robert HP" surname="Platz" born="1951" died="">
+		<composition>
+			<name>from fear of thunder, dreams...</name>
+			<description>for chamber ensemble and tape</description>
+			<length>13:13</length>
+			<player name="Ensemble Köln"/>
+			<conductor>Robert HP Platz</conductor>
+			<composed start="1987"/>
+			<recorded start="1990"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+	</composer>
 	<composer name="Paul" surname="Pörtner" born="1925" died="1984">
 		<composition>
 			<name>Schallspielstudie 2</name>
@@ -1390,7 +1403,7 @@
 				<player name="Maria Bergmann"/>
 			</instrument>
 			<conductor>Hans Rosbaud</conductor>
-			<composed start="?"/>
+			<composed start="1955"/>
 			<recorded start="1955"/>
 			<release>Col Legno CD1 31904</release>
 			<released>1996</released>
@@ -1425,6 +1438,36 @@
 			<recorded start="1957"/>
 			<release>BVHaast 9010</release>
 			<released>?</released>
+		</composition>
+		<composition>
+			<name>Répons pour sept musiciens</name>
+			<length>23:31</length>
+			<instrument name="flute">
+				<player name="Severino Gazzelloni"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Francis Pierre"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<instrument name="harmonium/celesta">
+				<player name="Alfons Kontarsky"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Christoph Caskel"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Klaus Assmann"/>
+			</instrument>
+			<instrument name="Werner Taube">
+				<player name="violoncello"/>
+			</instrument>
+			<conductor>Henri Pousseur</conductor>
+			<composed start="1960"/>
+			<recorded start="1960"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Trois visages de Liège</name>

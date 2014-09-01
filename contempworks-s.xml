@@ -4169,6 +4169,18 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Ernstalbrecht" surname="Stiebler" born="1934" died="">
+		<composition>
+			<name>Continuo</name>
+			<description>for clarinet, bassoon, horn, trombone, viola and violoncello</description>
+			<length>11:53</length>
+			<conductor>Ernstalbrecht Stiebler</conductor>
+			<composed start="1974"/>
+			<recorded start="1974"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+	</composer>
 	<composer name="Karlheinz" surname="Stockhausen" born="1928" died="2007">
 		<composition>
 			<name>Chöre für Doris</name>
@@ -4220,6 +4232,30 @@
 			<recorded start="1976"/>
 			<release>Stockhausen-Verlag CD1</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Kreuzspiel (III. Teil)</name>
+			<description>for oboe, bass clarinet, piano and three percussionists</description>
+			<length>3:31</length>
+			<instrument name="oboe">
+				<player name="Alfred Schweinfurter"/>
+			</instrument>
+			<instrument name="bass clarinet">
+				<player name="Wolfgang Marx"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="David Tudor"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Christoph Caskel"/>
+				<player name="Heinz Haedler"/>
+				<player name="Manfred Wehner"/>
+			</instrument>
+			<conductor>Karlheinz Stockhausen</conductor>
+			<composed start="1951"/>
+			<recorded start="1959"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Kreuzspiel</name>

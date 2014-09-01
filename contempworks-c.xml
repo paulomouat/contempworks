@@ -1455,6 +1455,18 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Child of Tree</name>
+			<description>for amplified plant materials</description>
+			<length>8:11</length>
+			<instrument name="amplified plant materials">
+				<player name="D'Arcy Philip Gray"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="2008"/>
+			<release>Mode 272</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Apartment House 1776</name>
 			<description>for four vocalists and chamber orchestra</description>
 			<length>25:09</length>
@@ -1507,6 +1519,18 @@
 			<recorded start="2007"/>
 			<release>Mode 253</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Branches</name>
+			<description>for amplified plant materials</description>
+			<length>16:12</length>
+			<instrument name="amplified plant materials">
+				<player name="D'Arcy Philip Gray"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2008"/>
+			<release>Mode 272</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Cheap Imitation</name>
@@ -1934,6 +1958,18 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>One4</name>
+			<description>for solo drummer</description>
+			<length>6:56</length>
+			<instrument name="percussion">
+				<player name="D'Arcy Philip Gray"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="2008"/>
+			<release>Mode 272</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>One5</name>
 			<description>for piano solo</description>
 			<length>19:31</length>
@@ -1956,6 +1992,66 @@
 			<recorded start="1999"/>
 			<release>Mode 118</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Composed Improvisation</name>
+			<description>for bass guitar, snare drum &amp; one-sided drum - first version</description>
+			<length>8:13</length>
+			<instrument name="percussion and bass guitar">
+				<player name="D'Arcy Philip Gray"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="2008"/>
+			<release>Mode 272</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Composed Improvisation</name>
+			<description>for bass guitar, snare drum &amp; one-sided drum - second version</description>
+			<length>8:14</length>
+			<instrument name="percussion and bass guitar">
+				<player name="D'Arcy Philip Gray"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="2008"/>
+			<release>Mode 272</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Composed Improvisation</name>
+			<description>for snare drum alone</description>
+			<length>8:12</length>
+			<instrument name="snare drum">
+				<player name="D'Arcy Philip Gray"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="2008"/>
+			<release>Mode 272</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Composed Improvisation</name>
+			<description>for Steinberger bass guitar</description>
+			<length>8:12</length>
+			<instrument name="bass guitar">
+				<player name="D'Arcy Philip Gray"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="2008"/>
+			<release>Mode 272</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Composed Improvisation</name>
+			<description>for one-sided drums with or without jangles</description>
+			<length>8:03</length>
+			<instrument name="one-sided drums">
+				<player name="D'Arcy Philip Gray"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="2008"/>
+			<release>Mode 272</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Two4</name>
@@ -2267,6 +2363,22 @@
 			<recorded start="1998"/>
 			<release>hat[now]ART 2-122</release>
 			<released>1999</released>
+		</composition>
+	</composer>
+	<composer name="Carmen Maria" surname="Cârneci" born="1957" died="">
+		<composition>
+			<name>The Mado Songs</name>
+			<description>for alto and ensemble</description>
+			<description>on poems by Magda Cârneci</description>
+			<length>7:29</length>
+			<instrument name="alto">
+				<player name="Birgitta Schork"/>
+			</instrument>
+			<conductor>Carmen Maria Cârneci</conductor>
+			<composed start="1988"/>
+			<recorded start="1988"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Pedro" surname="Carneiro" born="1975" died="">

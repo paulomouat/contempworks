@@ -277,6 +277,15 @@
 	</composer>
 	<composer name="Manfred" surname="Trojahn" born="1949" died="">
 		<composition>
+			<name>Kammerkonzert</name>
+			<length>13:12</length>
+			<conductor>Manfred Trojahn</conductor>
+			<composed start="1973"/>
+			<recorded start="1976"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Aubade</name>
 			<description>für 2 Soprane</description>
 			<length>2:17</length>

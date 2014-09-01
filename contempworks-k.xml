@@ -4,6 +4,29 @@
 <list>
 	<composer name="Mauricio" surname="Kagel" born="1931" died="">
 		<composition>
+			<name>Sonant</name>
+			<description>for guitar, harp, double bass and membraphone instruments</description>
+			<length>14:42</length>
+			<instrument name="spanish guitar/electric guitar">
+				<player name="Karl-Heinz Böttner"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Dodo Metelmann"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Georg Nothforf"/>
+			</instrument>
+			<instrument name="membraphone instruments">
+				<player name="Mauricio Kagel"/>
+				<player name="Siegfried Rockstroh"/>
+			</instrument>
+			<conductor>Mauricio Kagel</conductor>
+			<composed start="1960"/>
+			<recorded start="1964"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Improvisation ajoutée</name>
 			<description>Musik für Orgel</description>
 			<length>12:11</length>
@@ -113,6 +136,16 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>1898</name>
+			<description>for chamber ensemble</description>
+			<length>46:43</length>
+			<conductor>Mauricio Kagel</conductor>
+			<composed start="1972" end="1973"/>
+			<recorded start="1974"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Variété</name>
 			<description>Konzertstück für sechs</description>
 			<length>40:22</length>
@@ -169,6 +202,17 @@
 			<release>Col Legno WWE 3CD 20026</release>
 			<released>1998</released>
 		</composition>
+		<composition>
+			<name>Orchestrion-Straat</name>
+			<description>for chamber ensemble</description>
+			<length>23:42</length>
+			<player name="musikFabrik"/>
+			<conductor>Mauricio Kagel</conductor>
+			<composed start="1995" end="1996"/>
+			<recorded start="1996"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
 	</composer>
 	<composer name="Johannes" surname="Kalitzke" born="1959" died="">
 		<composition>
@@ -177,10 +221,21 @@
 			<length>15:17</length>
 			<player name="London Sinfonietta Voices"/>
 			<conductor>Johannes Kalitzke</conductor>
-			<composed start="?"/>
+			<composed start="1989"/>
 			<recorded start="1989"/>
 			<release>Col Legno CD1 31911</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Cruxification II</name>
+			<description>four choral preludes for large orchestra</description>
+			<length>24:17</length>
+			<player name="Berliner Sinfonieorchester"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="1999"/>
+			<recorded start="2000"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Richard" surname="Karpen" born="1957" died="">
@@ -488,6 +543,22 @@
 			<recorded start="1926" end="77"/>
 			<release>Col Legno CD1 31900</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Cantata for Wartime op. 95</name>
+			<description>on poems by Herman Melville</description>
+			<description>for women's chorus and orchestra</description>
+			<length>15:23</length>
+			<instrument name="soprano">
+				<player name="Carla Henius"/>
+			</instrument>
+			<player name="Frankfurt Radio Symphony Orchestra"/>
+			<player name="Women's Chorus of hr"/>
+			<conductor>Ernst Krenek</conductor>
+			<composed start="1944"/>
+			<recorded start="1956"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Ferdinand" surname="Kriwet" born="1942" died="">

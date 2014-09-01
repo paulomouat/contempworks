@@ -509,6 +509,18 @@
 			<released>2008</released>
 		</composition>
 	</composer>
+	<composer name="René" surname="Leibowitz" born="1913" died="1972">
+		<composition>
+			<name>Kammersymphonie für zwölf Instrumente, op. 16</name>
+			<length>12:39</length>
+			<player name="Kammerorchester des Landestheaters Darmstadt"/>
+			<conductor>René Leibowitz</conductor>
+			<composed start="1946" end="1948"/>
+			<recorded start="1948"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+	</composer>
 	<composer name="Michaël" surname="Levinas" born="1949" died="">
 		<composition>
 			<name>Arsis et Thésis</name>

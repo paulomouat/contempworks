@@ -158,4 +158,28 @@
 			<released>1968</released>
 		</composition>
 	</composer>
+	<composer name="Hans" surname="Otte" born="1926" died="2007">
+		<composition>
+			<name>Tasso-Concetti</name>
+			<description>for soprano, flute, percussion and piano</description>
+			<length>11:35</length>
+			<instrument name="soprano">
+				<player name="Jeanne Héricard"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Severino Gazzelloni"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Alfons Kontarsky"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Christoph Caskel"/>
+			</instrument>
+			<conductor>Hans Otte</conductor>
+			<composed start="1960"/>
+			<recorded start="1960"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+	</composer>
 </list>

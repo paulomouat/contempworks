@@ -1886,6 +1886,21 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Michael" surname="Finnissy" born="1946" died="">
+		<composition>
+			<name>Piano Concerto No. 3</name>
+			<length>25:04</length>
+			<instrument name="piano">
+				<player name="James Clapperton"/>
+			</instrument>
+			<player name="Ixion Ensemble"/>
+			<conductor>Michael Finnissy</conductor>
+			<composed start="1978"/>
+			<recorded start="1990"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+	</composer>
 	<composer name="Silvia" surname="Fómina" born="1962" died="">
 		<composition>
 			<name>Auguri Aquae</name>
@@ -1909,6 +1924,37 @@
 			<recorded start="1997"/>
 			<release>Col Legno WWE 3CD 20026</release>
 			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Wolfgang" surname="Fortner" born="1907" died="1987">
+		<composition>
+			<name>Mitte des Lebens</name>
+			<description>Cantata on words of the late Hölderlin</description>
+			<description>for soprano and five instruments</description>
+			<length>12:53</length>
+			<instrument name="soprano">
+				<player name="Ilona Steingruber"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Kurt Redel"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Rudolf Kolisch"/>
+			</instrument>
+			<instrument name="bass clarinet">
+				<player name="Friedrich Wildgans"/>
+			</instrument>
+			<instrument name="horn">
+				<player name="Rudolf Klamand"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Rose Stein"/>
+			</instrument>
+			<conductor>Wolfgang Fortner</conductor>
+			<composed start="1951"/>
+			<recorded start="1953"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Luca" surname="Francesconi" born="1956" died="">
@@ -1963,6 +2009,17 @@
 		</composition>
 	</composer>
 	<composer name="Beat" surname="Furrer" born="1954" died="">
+		<composition>
+			<name>à un moment de terre perdu</name>
+			<description>for chamber ensemble</description>
+			<length>14:29</length>
+			<player name="Klangforum Wien"/>
+			<conductor>Beat Furrer</conductor>
+			<composed start="1990"/>
+			<recorded start="1994"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
 		<composition>
 			<name>Streichquartett Nr. 3</name>
 			<length>51:22</length>

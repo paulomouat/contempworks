@@ -247,6 +247,19 @@
 		</composition>
 		<composition>
 			<name>Concerto per pianoforte e orchestra</name>
+			<length>17:39</length>
+			<instrument name="piano">
+				<player name="David Tudor"/>
+			</instrument>
+			<player name="Frankfurt Radio Symphony Orchestra"/>
+			<conductor>Bruno Maderna</conductor>
+			<composed start="1959"/>
+			<recorded start="1959"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Concerto per pianoforte e orchestra</name>
 			<length>19:34</length>
 			<instrument name="piano">
 				<player name="Markus Bellheim"/>
@@ -339,6 +352,19 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Konzert Nr. 1 für Oboe und Kammerensemble</name>
+			<length>16:07</length>
+			<instrument name="oboe">
+				<player name="Lothar Faber"/>
+			</instrument>
+			<player name="Internationales Kammerensemble Darmstadt"/>
+			<conductor>Bruno Maderna</conductor>
+			<composed start="1962" end="1963"/>
+			<recorded start="1963"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Cadenza da &quot;Dimensioni III&quot;</name>
 			<description>for flute solo</description>
 			<length>4:57</length>
@@ -382,6 +408,20 @@
 			<recorded start="2006"/>
 			<release>Neos 10934</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Dimensioni IV</name>
+			<description>for flute and chamber ensemble</description>
+			<length>20:18</length>
+			<instrument name="flute">
+				<player name="Severino Gazzelloni"/>
+			</instrument>
+			<player name="Internationales Kammerensemble Darmstadt"/>
+			<conductor>Bruno Maderna</conductor>
+			<composed start="1964"/>
+			<recorded start="1964"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Cadenza (from Amanda)</name>
@@ -450,6 +490,19 @@
 			<recorded start="1979"/>
 			<release>Deutsche Grammophon 00289 477 5383</release>
 			<released>1980/2005</released>
+		</composition>
+		<composition>
+			<name>Konzert Nr. 2 für Oboe und Orchester</name>
+			<length>12:31</length>
+			<instrument name="oboe">
+				<player name="Lothar Faber"/>
+			</instrument>
+			<player name="Het Residentie Orkest"/>
+			<conductor>Bruno Maderna</conductor>
+			<composed start="1967"/>
+			<recorded start="1968"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Serenata für Claudia</name>
@@ -1015,6 +1068,18 @@
 			<released>1996</released>
 		</composition>
 	</composer>
+	<composer name="András" surname="Mihály" born="1917" died="1993">
+		<composition>
+			<name>Drei Sätze für Kammerensemble</name>
+			<length>11:51</length>
+			<player name="Ungarisches Kammerensemble Budapest"/>
+			<conductor>András Mihály</conductor>
+			<composed start="1968"/>
+			<recorded start="1968"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+	</composer>
 	<composer name="Darius" surname="Milhaud" born="1892" died="1974">
 		<composition>
 			<name>La rivière endormie</name>
@@ -1390,6 +1455,19 @@
 			<recorded start="2004"/>
 			<release>empreintes DIGITALes IMED 0684</release>
 			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Gerhard" surname="Müller-Hornbach" born="1951" died="">
+		<composition>
+			<name>innere Spuren</name>
+			<description>for three solo wind players and chamber ensemble</description>
+			<length>15:47</length>
+			<player name="Mutare Ensemble"/>
+			<conductor>Gerhard Müller-Hornbach</conductor>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Isabel" surname="Mundry" born="1963" died="">

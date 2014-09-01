@@ -1449,28 +1449,6 @@
 			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Figures, doubles, prismes</name>
-			<length>20:43</length>
-			<player name="BBC Symphony Orchestra"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start="1957" end="1968"/>
-			<recorded start="1985"/>
-			<release>Erato 4509-98495-2</release>
-			<released>1995</released>
-		</composition>
-		<composition>
-			<name>Figures, doubles, prismes</name>
-			<description>pour grande orchestre</description>
-			<description>2ème version 1968</description>
-			<length>20:43</length>
-			<player name="BBC Symphony Orchestra"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start="1958" end="1968"/>
-			<recorded start="1985"/>
-			<release>Deutsche Grammophon 480 6837</release>
-			<released>2013</released>
-		</composition>
-		<composition>
 			<name>Deuxième sonate</name>
 			<description>pour piano</description>
 			<length>27:47</length>
@@ -1657,6 +1635,39 @@
 			<composed start="1953" end="1955"/>
 			<recorded start="1964"/>
 			<release>Deutsche Grammophon 480 6832</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Doubles</name>
+			<description>for large orchestra</description>
+			<length>11:06</length>
+			<player name="Het Residentie Orkest"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1957" end="1958"/>
+			<recorded start="1965"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Figures, doubles, prismes</name>
+			<length>20:43</length>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1957" end="1968"/>
+			<recorded start="1985"/>
+			<release>Erato 4509-98495-2</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Figures, doubles, prismes</name>
+			<description>pour grande orchestre</description>
+			<description>2ème version 1968</description>
+			<length>20:43</length>
+			<player name="BBC Symphony Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1958" end="1968"/>
+			<recorded start="1985"/>
+			<release>Deutsche Grammophon 480 6837</release>
 			<released>2013</released>
 		</composition>
 		<composition>
@@ -2690,6 +2701,17 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Available Forms I</name>
+			<description>for chamber ensemble</description>
+			<length>14:00</length>
+			<player name="musikFabrik"/>
+			<conductor>Earle Brown</conductor>
+			<composed start="1961"/>
+			<recorded start="1996"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>String Quartet</name>
 			<length>11:38</length>
 			<player name="Ne(x)tworks"/>
@@ -2786,6 +2808,29 @@
 			<recorded start="1961"/>
 			<release>Siemens</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Sonoriferous Loops op. 32</name>
+			<description>for five instrumentalists and two-channel tape</description>
+			<length>14:34</length>
+			<instrument name="flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Pierre Pollin"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Jacques Cazauran"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Heinz Haedler"/>
+				<player name="Rolf Roßmann"/>
+			</instrument>
+			<conductor>Herbert Brün</conductor>
+			<composed start="1965"/>
+			<recorded start="1965"/>
+			<release>Neos 11060</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Dust</name>
