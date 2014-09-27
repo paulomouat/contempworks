@@ -297,4 +297,148 @@
 			<released>1993</released>
 		</composition>
 	</composer>
+	<composer name="David" surname="Tudor" born="1926" died="1996">
+		<composition>
+			<name>Bandoneon! (A Combine)</name>
+			<description>for live electronics</description>
+			<length>14:15</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1966"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Anima Pepsi</name>
+			<description>for live electronics</description>
+			<length>23:37</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Pepsibird</name>
+			<description>for live electronics</description>
+			<length>18:25</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Pepscillator</name>
+			<description>for live electronics</description>
+			<length>11:37</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Rainforest IV</name>
+			<description>for live electronics</description>
+			<length>46:41</length>
+			<instrument name="live electronics">
+				<player name="John Driscoll"/>
+				<player name="Phil Edelstein"/>
+				<player name="Ralph Jones"/>
+				<player name="Martin Kalve"/>
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1980"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Rainforest IV</name>
+			<description>for live electronics</description>
+			<length>38:21</length>
+			<instrument name="live electronics">
+				<player name="John Driscoll"/>
+				<player name="Phil Edelstein"/>
+				<player name="Ralph Jones"/>
+				<player name="Martin Kalve"/>
+				<player name="David Tudor"/>
+				<player name="Bill Viola"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1980"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Weatherings</name>
+			<description>for live electronics</description>
+			<length>36:25</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1991"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Phonemes</name>
+			<description>for live electronics</description>
+			<length>33:35</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1992"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Webwork</name>
+			<description>for live electronics</description>
+			<length>25:29</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1988"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Virtual Focus</name>
+			<description>for live electronics</description>
+			<length>28:43</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="1990"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Neural Network Plus</name>
+			<description>for live electronics</description>
+			<length>1:00:30</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+				<player name="Takehisa Kosugi"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="1994"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+	</composer>
 </list>

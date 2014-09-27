@@ -1502,6 +1502,32 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Katharine" surname="Norman" born="1960" died="">
+		<composition>
+			<name>London</name>
+			<description>for tape and voice</description>
+			<length>58:46</length>
+			<instrument name="voice">
+				<player name="Rita Norman"/>
+			</instrument>
+			<composed start="1991" end="1993"/>
+			<recorded start="1991" end="1993"/>
+			<release>NMC D034</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Trilling Wire</name>
+			<description>for clarinet and tape</description>
+			<length>10:01</length>
+			<instrument name="clarinet">
+				<player name="Jonathan Cooper"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>NMC D034</release>
+			<released>1996</released>
+		</composition>
+	</composer>
 	<composer name="Robert" surname="Normandeau" born="1955" died="">
 		<composition>
 			<name>Le cap de la tourmente</name>

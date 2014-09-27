@@ -1676,6 +1676,19 @@
 			<released>2007</released>
 		</composition>
 	</composer>
+	<composer name="Christian" surname="Wolff" born="1934" died="">
+		<composition>
+			<name>For 1, 2 or 3 People</name>
+			<length>24:47</length>
+			<instrument name="baroque organ, live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="1972"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+	</composer>
 	<composer name="Ivan" surname="Wyschnegradsky" born="1893" died="1979">
 		<composition>
 			<name>Arc-en-ciel, op. 37</name>

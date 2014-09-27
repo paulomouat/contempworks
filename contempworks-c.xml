@@ -1312,6 +1312,18 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Variations II</name>
+			<description>for piano and live electronics</description>
+			<length>21:18</length>
+			<instrument name="piano, live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="1963"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Electronic music for piano</name>
 			<description></description>
 			<length>55:25</length>
@@ -1404,6 +1416,22 @@
 			<recorded start="1993"/>
 			<release>Mode 63</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Mesostics re Merce Cunningham/Untitled</name>
+			<description>for voice and live electronics</description>
+			<description>(with David Tudor)</description>
+			<length>55:17</length>
+			<instrument name="voice">
+				<player name="John Cage"/>
+			</instrument>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>New World Records 80737-2</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Etcetera</name>
