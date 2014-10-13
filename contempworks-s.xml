@@ -1335,6 +1335,27 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Boguslaw" surname="Schaeffer" born="1929" died="">
+		<composition>
+			<name>Berlin 80 II</name>
+			<description>(Tonbandfassung)</description>
+			<length>13:18</length>
+			<player name="Elektronisches Studio der TU Berlin"/>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>Edition RZ 3007 CD 1</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Maa'ts</name>
+			<length>9:49</length>
+			<player name="Elektronisches Studio der TU Berlin"/>
+			<composed start="1981"/>
+			<recorded start="1981"/>
+			<release>Edition RZ 3007 CD 1</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Pierre" surname="Schaeffer" born="1910" died="1995">
 		<composition>
 			<name>5 études de Bruits</name>
@@ -3797,6 +3818,16 @@
 		</composition>
 	</composer>
 	<composer name="Takehito" surname="Shimazu" born="1949" died="">
+		<composition>
+			<name>Zytoplasma</name>
+			<description>(Tonbandfassung)</description>
+			<length>10:46</length>
+			<player name="Elektronisches Studio der TU Berlin"/>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>Edition RZ 3007 CD 1</release>
+			<released>2012</released>
+		</composition>
 		<composition>
 			<name>Illusions in Desolate Fields</name>
 			<description>for voice, san-gen and UPIC</description>

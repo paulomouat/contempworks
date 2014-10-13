@@ -842,6 +842,17 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Ricardo" surname="Mandolini" born="1950" died="">
+		<composition>
+			<name>Fabulas II</name>
+			<length>10:25</length>
+			<player name="Elektronisches Studio der TU Berlin"/>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>Edition RZ 3007 CD 1</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Philippe" surname="Manoury" born="1952" died="">
 		<composition>
 			<name>La Partition du ciel et de l'enfer</name>

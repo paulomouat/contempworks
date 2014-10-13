@@ -50,6 +50,18 @@
 			<released>?</released>
 		</composition>
 	</composer>
+	<composer name="Rolf" surname="Enström" born="1951" died="">
+		<composition>
+			<name>Fractal</name>
+			<description>(Tonbandfassung)</description>
+			<length>22:54</length>
+			<player name="Elektronmusikstudion (EMS) Stockholm"/>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>Edition RZ 3007 CD 1</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Julio" surname="Estrada" born="1943" died="">
 		<composition>
 			<name>Canto mnémico</name>
