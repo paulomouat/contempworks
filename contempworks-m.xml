@@ -844,12 +844,76 @@
 	</composer>
 	<composer name="Ricardo" surname="Mandolini" born="1950" died="">
 		<composition>
+			<name>El cuaderno del alquimista</name>
+			<length>9:27</length>
+			<player name="Elektronisches Studio des IPEM, Gent"/>
+			<composed start="1979"/>
+			<recorded start="1979"/>
+			<release>Edition RZ 3008 CD 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Juego de marionetas</name>
+			<length>9:43</length>
+			<player name="Studio für Elektronische Musik der HfMT Köln"/>
+			<composed start="1979" end="1980"/>
+			<recorded start="1980"/>
+			<release>Edition RZ 3008 CD 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Fabulas II</name>
 			<length>10:25</length>
 			<player name="Elektronisches Studio der TU Berlin"/>
 			<composed start="1980"/>
 			<recorded start="1980"/>
 			<release>Edition RZ 3007 CD 1</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Estallido breve</name>
+			<length>8:37</length>
+			<player name="Elektronisches Studio des IPEM, Gent"/>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>Edition RZ 3008 CD 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Canción de madera y agua</name>
+			<length>8:27</length>
+			<player name="Elektronisches Studio des IPEM, Gent"/>
+			<composed start="1981"/>
+			<recorded start="1981"/>
+			<release>Edition RZ 3008 CD 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Poema reiterado</name>
+			<length>10:51</length>
+			<player name="Studio für Elektronische Musik der HfMT Köln"/>
+			<composed start="1983"/>
+			<recorded start="1983"/>
+			<release>Edition RZ 3008 CD 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Elogio de lo efímero</name>
+			<length>12:06</length>
+			<player name="Elektronisches Studio des IMEB, Bourges"/>
+			<composed start="2004"/>
+			<recorded start="2004"/>
+			<release>Edition RZ 3008 CD 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>El Silencio de un trueno</name>
+			<description>(Ausschnitt)</description>
+			<length>11:49</length>
+			<player name="Studio du Nord, Université Lille III"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Edition RZ 3008 CD 2</release>
 			<released>2012</released>
 		</composition>
 	</composer>
