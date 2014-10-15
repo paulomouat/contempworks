@@ -56,6 +56,17 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Richard" surname="Barrett" born="1959" died="">
+		<composition>
+			<name>Simorgh</name>
+			<length>11:05</length>
+			<player name="Privatstudio"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Béla" surname="Bartók" born="1881" died="1945">
 		<composition>
 			<name>Le Prince de bois</name>

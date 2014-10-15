@@ -361,6 +361,28 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Jonty" surname="Harrison" born="1952" died="">
+		<composition>
+			<name>BEASTory</name>
+			<length>8:09</length>
+			<player name="Birmingham ElectroAcoustic Sound Theatre"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
+	<composer name="Hanna" surname="Hartman" born="1961" died="">
+		<composition>
+			<name>Measures of Control</name>
+			<length>8:01</length>
+			<player name="Privatstudio"/>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Karl Amadeus" surname="Hartmann" born="1905" died="1963">
 		<composition>
 			<name>Adagio (2. Sinfonie)</name>

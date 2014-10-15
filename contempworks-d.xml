@@ -633,6 +633,15 @@
 			<release>empreintes DIGITALes IMED 09192</release>
 			<released>2009</released>
 		</composition>
+		<composition>
+			<name>Le travail du rêve</name>
+			<length>17:12</length>
+			<player name="Privatstudio"/>
+			<composed start="2008" end="2011"/>
+			<recorded start="2008" end="2011"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
 	</composer>
 	<composer name="James" surname="Dillon" born="1950" died="">
 		<composition>

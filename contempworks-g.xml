@@ -427,6 +427,26 @@
 			<released>2011</released>
 		</composition>
 	</composer>
+	<composer name="Gilles" surname="Gobeil" born="1954" died="">
+		<composition>
+			<name>Castalie</name>
+			<length>10:41</length>
+			<player name="Elektronisches Studio der TU Berlin"/>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Les lointains noirs et rouges</name>
+			<length>10:46</length>
+			<player name="Privatstudio und Elektronisches Studio der TU Berlin"/>
+			<composed start="2009"/>
+			<recorded start="2009"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Karel" surname="Goeyvaerts" born="1923" died="1993">
 		<composition>
 			<name>Sonate Nr. 1</name>

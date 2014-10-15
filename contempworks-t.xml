@@ -213,6 +213,15 @@
 			<release>Agon PV725003</release>
 			<released>1997</released>
 		</composition>
+		<composition>
+			<name>Sounding Landscapes</name>
+			<length>18:06</length>
+			<player name="INA/GRM, Paris"/>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
 	</composer>
 	<composer name="Dimitri" surname="Terzakis" born="1938" died="">
 		<composition>
@@ -441,4 +450,24 @@
 			<released>2013</released>
 		</composition>
 	</composer>
+	<composer name="Hans" surname="Tutschku" born="1966" died="">
+		<composition>
+			<name>Zwei Räume</name>
+			<length>21:04</length>
+			<player name="Harvard University Studio for Electroacoustic Composition"/>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Firmament - schlaflos</name>
+			<length>20:33</length>
+			<player name="Harvard University Studio for Electroacoustic Composition"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>	
 </list>

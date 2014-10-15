@@ -1676,6 +1676,17 @@
 			<released>2007</released>
 		</composition>
 	</composer>
+	<composer name="Scott" surname="Wilson" born="1969" end="">
+		<composition>
+			<name>Böse</name>
+			<length>9:06</length>
+			<player name="BEAST"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Christian" surname="Wolff" born="1934" died="">
 		<composition>
 			<name>For 1, 2 or 3 People</name>

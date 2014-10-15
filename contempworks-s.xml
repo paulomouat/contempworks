@@ -7410,4 +7410,15 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Kotoka" surname="Suzuki" born="1971" end="">
+		<composition>
+			<name>Automata - Mechanical Garden</name>
+			<length>8:34</length>
+			<player name="Privatstudio und Elektronisches Studio der TU Berlin"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 </list>
