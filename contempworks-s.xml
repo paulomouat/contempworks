@@ -3806,6 +3806,17 @@
 			<released>1994</released>
 		</composition>
 	</composer>
+	<composer name="Pei-Yu" surname="Shi" born="1973" died="">
+		<composition>
+			<name>Movements</name>
+			<length>3:55</length>
+			<player name="Privatstudio"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Alice" surname="Shields" born="1943" died="">
 		<composition>
 			<name>The Transformation of Ani</name>

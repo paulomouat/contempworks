@@ -238,6 +238,21 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Sukhi" surname="Kang" born="1934" died="">
+		<composition>
+			<name>Inventio</name>
+			<description>Musicae clavichordii et sonorum artificiosorum</description>
+			<length>23:34</length>
+			<instrument name="Klavier">
+				<player name="Alan Marks"/>
+			</instrument>
+			<player name="Elektronisches Studio der TU Berlin"/>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Richard" surname="Karpen" born="1957" died="">
 		<composition>
 			<name>Eclipse</name>

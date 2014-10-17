@@ -61,6 +61,17 @@
 			<release>Edition RZ 3007 CD 1</release>
 			<released>2012</released>
 		</composition>
+		<composition>
+			<name>Fractal</name>
+			<description>(videofassung, mit Thomas Hellsing)</description>
+			<description>&quot;Bildspel&quot;: Tonband mit 9 Diaprojektoren</description>
+			<length>24:02</length>
+			<player name="Elektronmusikstudion (EMS) Stockholm"/>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
 	</composer>
 	<composer name="Julio" surname="Estrada" born="1943" died="">
 		<composition>

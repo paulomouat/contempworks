@@ -300,6 +300,15 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Bohor</name>
+			<length>21:31</length>
+			<player name="Studio des INA/GRM"/>
+			<composed start="1962"/>
+			<recorded start="2012"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Eonta</name>
 			<description>for piano solo, 2 trumpets and 2 trombones</description>
 			<length>17:49</length>

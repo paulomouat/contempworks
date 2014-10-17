@@ -1687,6 +1687,18 @@
 			<released>2012</released>
 		</composition>
 	</composer>
+	<composer name="Trevor" surname="Wishart" born="1946" end="">
+		<composition>
+			<name>Encounters in the Republic of Heaven</name>
+			<description>Akt 1-4</description>
+			<length>1:15:00</length>
+			<player name="Privatstudio"/>
+			<composed start="2010" end="2011"/>
+			<recorded start="2010" end="2011"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Christian" surname="Wolff" born="1934" died="">
 		<composition>
 			<name>For 1, 2 or 3 People</name>

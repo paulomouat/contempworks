@@ -71,6 +71,17 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Kees" surname="Tazelaar" born="1962" died="">
+		<composition>
+			<name>Zeitraum-Ort-Zeichen-Sterne</name>
+			<length>19:40</length>
+			<player name="Elektronisches Studio der TU Berlin und Instituut voor Sonologie Den Haag"/>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>Edition RZ 3006 DVD</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="James" surname="Tenney" born="1934" died="2006">
 		<composition>
 			<name>Poem</name>
