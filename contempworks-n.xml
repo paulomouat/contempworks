@@ -890,6 +890,16 @@
 			<release>Montaigne 789005</release>
 			<released>1991</released>
 		</composition>
+		<composition score="Y">
+			<name>Fragmente - Stille, An Diotima</name>
+			<description>für Streichquartett</description>
+			<length>38:00</length>
+			<player name="LaSalle Quartet"/>
+			<composed start="1979" end="1980"/>
+			<recorded start="1983"/>
+			<release>Deutsche Grammophon 415 513-2</release>
+			<released>1986</released>
+		</composition>
 		<composition>
 			<name>Das atmende Klarsein</name>
 			<description>für kleinen Chor, Baßflöte, Live-Elektronik und Tonband</description>
