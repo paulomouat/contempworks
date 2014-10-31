@@ -160,7 +160,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Prélude à l'après-midi d'un faune</name>
+			<name>Prélude à l’après-midi d’un faune</name>
 			<length>9:41</length>
 			<player name="New Philharmonia Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -258,7 +258,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Sous le regard d'un soleil noir</name>
+			<name>Sous le regard d’un soleil noir</name>
 			<description>Cycle des profondeurs</description>
 			<length>51:35</length>
 			<player name="Faculté de Musique, Université de Montréal/Private studio of the composer"/>
@@ -270,7 +270,7 @@
 		<composition>
 			<name>Points de fuite</name>
 			<description>Mouvances-Métaphores</description>
-			<description>Cycle de l'errance</description>
+			<description>Cycle de l’errance</description>
 			<length>12:21</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1982"/>
@@ -281,7 +281,7 @@
 		<composition>
 			<name>...mourir un peu</name>
 			<description>Mouvances-Métaphores</description>
-			<description>Cycle de l'errance</description>
+			<description>Cycle de l’errance</description>
 			<length>44:52</length>
 			<player name="Groupe de Musique Expérimentale de Marseille/Private studio of the composer"/>
 			<composed start="1984"/>
@@ -290,7 +290,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>Drôles d'oiseaux</name>
+			<name>Drôles d’oiseaux</name>
 			<description>Jalons</description>
 			<length>14:51</length>
 			<player name="Private studio of the composer"/>
@@ -377,7 +377,7 @@
 		<composition>
 			<name>Espace/Escape</name>
 			<description>Mouvances-Métaphores</description>
-			<description>Cycle de l'errance</description>
+			<description>Cycle de l’errance</description>
 			<length>19:24</length>
 			<player name="Private studio of the composer"/>
 			<composed start="1989"/>
@@ -396,7 +396,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>L'électro</name>
+			<name>L’électro</name>
 			<description>Jalons</description>
 			<length>1:06</length>
 			<player name="Private studio of the composer"/>
@@ -554,7 +554,7 @@
 			<released>2003</released>
 		</composition>
 		<composition>
-			<name>Vol d'Arondes</name>
+			<name>Vol d’Arondes</name>
 			<description>Jalons</description>
 			<length>11:25</length>
 			<player name="Private studio of the composer"/>
@@ -1073,6 +1073,28 @@
 			<recorded start="1993"/>
 			<release>Musidisc 247 512</release>
 			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Hugues" surname="Dufourt" born="1943" died="">
+		<composition>
+			<name>L’Afrique d’après Tiepolo</name>
+			<description>pour piano principal et ensemble instrumental</description>
+			<length>25:29</length>
+			<player name="ensemble recherche"/>
+			<composed start="2005"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013142KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>L’Asie d’après Tiepolo</name>
+			<description>pour ensemble</description>
+			<length>19:32</length>
+			<player name="ensemble recherche"/>
+			<composed start="2009"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013142KAI</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Frédéric" surname="Durieux" born="1959" died="">

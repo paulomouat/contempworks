@@ -3,21 +3,22 @@
 from textutilities import *
 from htmltemplates import *
 from entities import *
+import codecs
 
 def generateComposerList(composers):
-	fileName = "generated/composerlist.html"
-	contents = ""
-	previous = " "
-	for composer in composers:
-		current = composer.surname[0]
-		if current != previous:
-			contents += generateInitialRow(current)
-			previous = current
-		contents += generateComposerInList(composer)
-	contents = composerListTemplate.format(composerList=contents)		
-	output = open(fileName, "w")
-	output.write(contents)
-	output.close()
+    fileName = "generated/composerlist.html"
+    contents = ""
+    previous = " "
+    for composer in composers:
+        current = composer.surname[0]
+        if current != previous:
+            contents += generateInitialRow(current)
+            previous = current
+        contents += generateComposerInList(composer)
+    contents = composerListTemplate.format(composerList=contents)
+    output = codecs.open(fileName, "w", "utf-8")
+    output.write(contents)
+    output.close()
 
 def generateInitialRow(initial):
 	row = initialRow.format(initial=initial)

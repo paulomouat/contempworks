@@ -29,7 +29,7 @@
 		</composition>
 		<composition>
 			<name>Echoes of the Passing Day</name>
-			<description>A phantasy on James Joyce's &quot;Ullysses&quot; for clarinet, cello and piano</description>
+			<description>A phantasy on James Joyce’s “Ullysses” for clarinet, cello and piano</description>
 			<length>19:30</length>
 			<instrument name="Clarinet">
 				<player name="Oleg Tanzov"/>
@@ -194,7 +194,7 @@
 	</composer>
 	<composer name="Daniel" surname="Teruggi" born="1952" died="">
 		<composition>
-			<name>Instants d'hiver (extrait)</name>
+			<name>Instants d’hiver (extrait)</name>
 			<length>7:11</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -205,7 +205,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Gestes de l'écrit</name>
+			<name>Gestes de l’écrit</name>
 			<description>for UPIC</description>
 			<length>11:00</length>
 			<player name="Les Ateliers UPIC, Paris"/>
@@ -293,6 +293,72 @@
 			<recorded start="2006"/>
 			<release>Etcetera KTC 1399</release>
 			<released>2010</released>
+		</composition>
+	</composer>
+	<composer name="Jesús" surname="Torres" born="1965" died="">
+		<composition>
+			<name>Trio</name>
+			<description>for violin, cello and piano</description>
+			<length>11:59</length>
+			<player name="Trio Arbós"/>
+			<composed start="2001"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013012KAI</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Presencias</name>
+			<description>for piano</description>
+			<length>15:29</length>
+			<instrument name="piano">
+				<player name="Juan Carlos Garvayo"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013012KAI</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Decem</name>
+			<description>for violin, cello and piano</description>
+			<length>3:05</length>
+			<player name="Trio Arbós"/>
+			<composed start="2006"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013012KAI</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Manantial de luz</name>
+			<description>for piano and ensemble</description>
+			<length>22:15</length>
+			<player name="Trio Arbós"/>
+			<instrument name="flute">
+				<player name="Cécile Daroux"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="José Luis Estellés"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Paul Cortese"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Juanjo Guillem"/>
+			</instrument>
+			<composed start="2007"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013012KAI</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Poética</name>
+			<description>for violin, cello and piano</description>
+			<length>12:49</length>
+			<player name="Trio Arbós"/>
+			<composed start="2007"/>
+			<recorded start="2008"/>
+			<release>Kairos 0013012KAI</release>
+			<released>2009</released>
 		</composition>
 	</composer>
 	<composer name="Manfred" surname="Trojahn" born="1949" died="">

@@ -562,13 +562,13 @@
 		<composition>
 			<name>Cantata for Wartime op. 95</name>
 			<description>on poems by Herman Melville</description>
-			<description>for women's chorus and orchestra</description>
+			<description>for women’s chorus and orchestra</description>
 			<length>15:23</length>
 			<instrument name="soprano">
 				<player name="Carla Henius"/>
 			</instrument>
 			<player name="Frankfurt Radio Symphony Orchestra"/>
-			<player name="Women's Chorus of hr"/>
+			<player name="Women’s Chorus of hr"/>
 			<conductor>Ernst Krenek</conductor>
 			<composed start="1944"/>
 			<recorded start="1956"/>

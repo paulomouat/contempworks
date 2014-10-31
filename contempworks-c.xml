@@ -259,7 +259,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Imaginary Landscape No. 2, &quot;March No. 1&quot;</name>
+			<name>Imaginary Landscape No. 2, “March No. 1”</name>
 			<description>for percussion quintet</description>
 			<length>6:49</length>
 			<player name="Percussion Group Cincinnati"/>
@@ -279,7 +279,7 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>Imaginary Landscape No. 4, &quot;March No. 2&quot;</name>
+			<name>Imaginary Landscape No. 4, “March No. 2”</name>
 			<description>for 12 radios</description>
 			<description>first version</description>
 			<length>4:26</length>
@@ -842,7 +842,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Imaginary Landscape No. 4, &quot;March No. 2&quot;</name>
+			<name>Imaginary Landscape No. 4, “March No. 2”</name>
 			<description>for 12 radios</description>
 			<description>second version</description>
 			<length>4:29</length>
@@ -953,7 +953,7 @@
 		<composition>
 			<name>Imaginary Landscape No. 5</name>
 			<description>for any 42 recordings, score to be realized as a magnetic tape</description>
-			<description>second version, using recordings of Cage's music</description>
+			<description>second version, using recordings of Cage’s music</description>
 			<length>3:07</length>
 			<instrument name="Realisation">
 				<player name="Michael Barnhart"/>
@@ -1060,7 +1060,7 @@
 			<released>2013</released>
 		</composition>
 		<composition>
-			<name>12'55.6078</name>
+			<name>12'55.6078&quot;</name>
 			<description>for two pianists (prepared piano)</description>
 			<length>13:11</length>
 			<instrument name="Klavier">
@@ -1204,7 +1204,7 @@
 		</composition>
 		<composition>
 			<name>Fontana Mix</name>
-			<description>electronic version derived from the pieces recorded in &quot;a Cage of saxophones&quot; vols. 1-4</description>
+			<description>electronic version derived from the pieces recorded in “a Cage of saxophones” vols. 1-4</description>
 			<length>10:00</length>
 			<player name="Ulrich Krieger"/>
 			<player name="intersax and other musicians"/>
@@ -1487,7 +1487,7 @@
 			<description>for amplified plant materials</description>
 			<length>8:11</length>
 			<instrument name="amplified plant materials">
-				<player name="D'Arcy Philip Gray"/>
+				<player name="D’Arcy Philip Gray"/>
 			</instrument>
 			<composed start="1975"/>
 			<recorded start="2008"/>
@@ -1538,7 +1538,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Some of &quot;The Harmonies of Maine&quot; (Supply Belcher)</name>
+			<name>Some of “The Harmonies of Maine” (Supply Belcher)</name>
 			<length>41:33</length>
 			<instrument name="organ">
 				<player name="Gary Verkade"/>
@@ -1553,7 +1553,7 @@
 			<description>for amplified plant materials</description>
 			<length>16:12</length>
 			<instrument name="amplified plant materials">
-				<player name="D'Arcy Philip Gray"/>
+				<player name="D’Arcy Philip Gray"/>
 			</instrument>
 			<composed start="1976"/>
 			<recorded start="2008"/>
@@ -1676,7 +1676,7 @@
 				<player name="Fenwick Smith"/>
 			</instrument>
 			<instrument name="String bass">
-				<player name="Anthony D'Amico"/>
+				<player name="Anthony D’Amico"/>
 			</instrument>
 			<instrument name="Oboe">
 				<player name="Michael Miller"/>
@@ -1990,7 +1990,7 @@
 			<description>for solo drummer</description>
 			<length>6:56</length>
 			<instrument name="percussion">
-				<player name="D'Arcy Philip Gray"/>
+				<player name="D’Arcy Philip Gray"/>
 			</instrument>
 			<composed start="1990"/>
 			<recorded start="2008"/>
@@ -2026,7 +2026,7 @@
 			<description>for bass guitar, snare drum &amp; one-sided drum - first version</description>
 			<length>8:13</length>
 			<instrument name="percussion and bass guitar">
-				<player name="D'Arcy Philip Gray"/>
+				<player name="D’Arcy Philip Gray"/>
 			</instrument>
 			<composed start="1990"/>
 			<recorded start="2008"/>
@@ -2038,7 +2038,7 @@
 			<description>for bass guitar, snare drum &amp; one-sided drum - second version</description>
 			<length>8:14</length>
 			<instrument name="percussion and bass guitar">
-				<player name="D'Arcy Philip Gray"/>
+				<player name="D’Arcy Philip Gray"/>
 			</instrument>
 			<composed start="1990"/>
 			<recorded start="2008"/>
@@ -2050,7 +2050,7 @@
 			<description>for snare drum alone</description>
 			<length>8:12</length>
 			<instrument name="snare drum">
-				<player name="D'Arcy Philip Gray"/>
+				<player name="D’Arcy Philip Gray"/>
 			</instrument>
 			<composed start="1990"/>
 			<recorded start="2008"/>
@@ -2062,7 +2062,7 @@
 			<description>for Steinberger bass guitar</description>
 			<length>8:12</length>
 			<instrument name="bass guitar">
-				<player name="D'Arcy Philip Gray"/>
+				<player name="D’Arcy Philip Gray"/>
 			</instrument>
 			<composed start="1990"/>
 			<recorded start="2008"/>
@@ -2074,7 +2074,7 @@
 			<description>for one-sided drums with or without jangles</description>
 			<length>8:03</length>
 			<instrument name="one-sided drums">
-				<player name="D'Arcy Philip Gray"/>
+				<player name="D’Arcy Philip Gray"/>
 			</instrument>
 			<composed start="1990"/>
 			<recorded start="2008"/>
@@ -2114,7 +2114,7 @@
 		<composition>
 			<name>Four3</name>
 			<description>for 12 rainsticks, violin and 2 pianos</description>
-			<description>for Merce Cunningham's dance Beach Birds</description>
+			<description>for Merce Cunningham’s dance Beach Birds</description>
 			<length>30:36</length>
 			<instrument name="Violin &amp; rainsticks">
 				<player name="Ami Flammer"/>
@@ -2383,7 +2383,7 @@
 			<instrument name="cello, electronics">
 				<player name="Fred Lonberg-Holm"/>
 			</instrument>
-			<instrument name="Jim O'Rourke">
+			<instrument name="Jim O’Rourke">
 				<player name="Electronics"/>
 			</instrument>
 			<conductor>Art Lange</conductor>
@@ -2696,7 +2696,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Suite - Leviathan '99</name>
+			<name>Suite - Leviathan ’99</name>
 			<description>for stereo tape</description>
 			<length>16:10</length>
 			<composed start="1972"/>
@@ -2857,7 +2857,7 @@
 	</composer>
 	<composer name="Niccolò" surname="Castiglioni" born="1932" died="">
 		<composition>
-			<name>Quodlibet aus &quot;Figure&quot;</name>
+			<name>Quodlibet aus “Figure”</name>
 			<description>Mobile per voce e orchestra für Sopran solo</description>
 			<length>4:17</length>
 			<instrument name="Sopran">
@@ -3084,7 +3084,7 @@
 			<instrument name="Koloratursopran">
 				<player name="Donna Robin"/>
 			</instrument>
-			<player name="Ensemble &quot;die reihe&quot;"/>
+			<player name="Ensemble die reihe"/>
 			<conductor>Friedrich Cerha</conductor>
 			<composed start="1962" end="1980"/>
 			<recorded start="?"/>
@@ -3102,7 +3102,7 @@
 				<player name="Grete Zimmer"/>
 			</instrument>
 			<player name="2 Singstimmen (ORF Chor)"/>
-			<player name="Ensemble &quot;die reihe&quot;"/>
+			<player name="Ensemble die reihe"/>
 			<player name="Radio Symphonie Orchester Wien"/>
 			<player name="Elektronik (ORF Technik)"/>
 			<conductor>Friedrich Cerha</conductor>
@@ -3126,7 +3126,7 @@
 			<name>Langegger Nachtmusik I</name>
 			<description>für Orchester</description>
 			<length>10:00</length>
-			<player name="Ensemble &quot;die reihe&quot;"/>
+			<player name="Ensemble die reihe"/>
 			<conductor>Friedrich Cerha</conductor>
 			<composed start="1969"/>
 			<recorded start="?"/>
@@ -3212,7 +3212,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Streichquartett &quot;Maqam&quot;</name>
+			<name>Streichquartett “Maqam”</name>
 			<length>13:45</length>
 			<player name="Cherubini Quartett"/>
 			<composed start="1989"/>
@@ -3221,7 +3221,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>String Quartet No. 1 &quot;Maqam&quot;</name>
+			<name>String Quartet No. 1 “Maqam”</name>
 			<length>15:57</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1989"/>
@@ -3230,7 +3230,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>Phantasiestück in C.'s Manier</name>
+			<name>Phantasiestück in C.’s Manier</name>
 			<description>für Violoncello und Orchester/Ensemble</description>
 			<length>10:49</length>
 			<instrument name="Violoncello">

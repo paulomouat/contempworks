@@ -64,7 +64,7 @@
 		<composition>
 			<name>Fractal</name>
 			<description>(videofassung, mit Thomas Hellsing)</description>
-			<description>&quot;Bildspel&quot;: Tonband mit 9 Diaprojektoren</description>
+			<description>“Bildspel”: Tonband mit 9 Diaprojektoren</description>
 			<length>24:02</length>
 			<player name="Elektronmusikstudion (EMS) Stockholm"/>
 			<composed start="1984"/>
@@ -129,7 +129,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Yuunohui'yei'nahui</name>
+			<name>Yuunohui’yei’nahui</name>
 			<description>For violoncello and double-bass</description>
 			<length>9:36</length>
 			<instrument name="Violoncelo">
@@ -144,7 +144,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Yuunohui'se'ome'yei'nahui</name>
+			<name>Yuunohui’se’ome’yei’nahui</name>
 			<description>For violin, viola concertante, violoncello and double-bass</description>
 			<length>10:29</length>
 			<player name="Arditti String Quartet"/>
@@ -157,7 +157,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Ishini'ioni</name>
+			<name>Ishini’ioni</name>
 			<description>For string quartet</description>
 			<length>20:29</length>
 			<player name="Arditti String Quartet"/>
@@ -167,7 +167,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Yuunohui'se</name>
+			<name>Yuunohui’se</name>
 			<description>For solo violin</description>
 			<length>12:19</length>
 			<instrument name="Violino">
@@ -179,7 +179,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Miqi'nahual</name>
+			<name>Miqi’nahual</name>
 			<description>For solo double-bass</description>
 			<length>11:59</length>
 			<instrument name="Contrabaixo">
@@ -240,7 +240,7 @@
 		</composition>
 		<composition>
 			<name>Aleatorio</name>
-			<description>per quartetto d'archi</description>
+			<description>per quartetto d’archi</description>
 			<length>2:52</length>
 			<player name="Società Cameristica Italiana"/>
 			<composed start="1959"/>
@@ -318,7 +318,7 @@
 		</composition>
 		<composition>
 			<name>Aleatorio</name>
-			<description>per quartetto d'archi</description>
+			<description>per quartetto d’archi</description>
 			<length>3:50</length>
 			<player name="LaSalle Quartet"/>
 			<composed start="1959"/>

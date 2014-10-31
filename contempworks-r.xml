@@ -106,7 +106,7 @@
 			<released>-</released>
 		</composition>
 		<composition>
-			<name>L'Air de l'Air</name>
+			<name>L’Air de l’Air</name>
 			<description>for 8-track tape</description>
 			<length>8:18</length>
 			<composed start="1992" end="1999"/>
@@ -193,7 +193,7 @@
 	</composer>
 	<composer name="Michel" surname="Redolfi" born="1951" died="">
 		<composition>
-			<name>Appel d'air</name>
+			<name>Appel d’air</name>
 			<length>3:40</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -390,7 +390,7 @@
 		</composition>
 		<composition>
 			<name>Un chien andalu</name>
-			<description>Elektroakustische Musik zum Stummfilm &quot;Un chien andalu&quot; von Salvator Dali und Luis Bunuel</description>
+			<description>Elektroakustische Musik zum Stummfilm “Un chien andalu” von Salvator Dali und Luis Bunuel</description>
 			<description>Ausschnitt aus Studie 59/I</description>
 			<length>5:56</length>
 			<instrument name="Realisation">
@@ -426,7 +426,7 @@
 		</composition>
 		<composition>
 			<name>Komposition Nr. 2</name>
-			<description>Musik der VariaVision &quot;Unendliche Fahrt&quot;</description>
+			<description>Musik der VariaVision “Unendliche Fahrt”</description>
 			<length>7:11</length>
 			<instrument name="Regie">
 				<player name="Edgar Reitz"/>
@@ -865,7 +865,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>String Quartet No. 3 &quot;Im Innersten&quot;</name>
+			<name>String Quartet No. 3 “Im Innersten”</name>
 			<length>26:13</length>
 			<player name="Minguet Quartet"/>
 			<composed start="1976"/>
@@ -1065,7 +1065,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>String Quartet No. 5 &quot;Ohne Titel&quot;</name>
+			<name>String Quartet No. 5 “Ohne Titel”</name>
 			<length>29:58</length>
 			<player name="Minguet Quartet"/>
 			<composed start="1981" end="1983"/>
@@ -1161,7 +1161,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>String Quartet No. 6 &quot;Blaubuch&quot;</name>
+			<name>String Quartet No. 6 “Blaubuch”</name>
 			<length>47:11</length>
 			<player name="Minguet Quartet"/>
 			<composed start="1984"/>
@@ -1225,7 +1225,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>String Quartet No. 7 &quot;Veränderungen&quot;</name>
+			<name>String Quartet No. 7 “Veränderungen”</name>
 			<length>21:59</length>
 			<player name="Minguet Quartet"/>
 			<composed start="1985"/>
@@ -1547,7 +1547,7 @@
 			<released>1992</released>
 		</composition>
 		<composition>
-			<name>String Quartet No. 9&quot;Quartettsatz&quot; </name>
+			<name>String Quartet No. 9 “Quartettsatz”</name>
 			<length>22:29</length>
 			<player name="Minguet Quartet"/>
 			<composed start="1992" end="1993"/>
@@ -1744,7 +1744,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>Etude d'après Séraphin</name>
+			<name>Etude d’après Séraphin</name>
 			<description>für instrumentale und elektronische Klänge</description>
 			<length>45:31</length>
 			<player name="Ensemble 13"/>
@@ -2135,7 +2135,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>&quot;Vier Male&quot;</name>
+			<name>“Vier Male”</name>
 			<description>für Klarinette solo</description>
 			<length>25:44</length>
 			<instrument name="Klarinette">
@@ -2147,7 +2147,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>&quot;Concerto&quot; Dithyrambe</name>
+			<name>“Concerto” Dithyrambe</name>
 			<description>für Streichquartett und Orchester</description>
 			<length>25:45</length>
 			<player name="Arditti String Quartett"/>
@@ -2420,7 +2420,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Coll'Arco</name>
+			<name>Coll’Arco</name>
 			<description>Vierte Musik für Violine und Orchester</description>
 			<length>29:03</length>
 			<instrument name="Violine">
@@ -2610,7 +2610,7 @@
 	</composer>
 	<composer name="Brigitte" surname="Robindoré" born="1962" died="">
 		<composition>
-			<name>L'Autel de la Perte et de la Transformation</name>
+			<name>L’Autel de la Perte et de la Transformation</name>
 			<description>for UPIC</description>
 			<length>8:33</length>
 			<player name="Les Ateliers UPIC, Paris"/>
@@ -2701,7 +2701,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>&quot;...fragment...&quot;</name>
+			<name>“...fragment...”</name>
 			<description>Fünf Epigramme für Streichquartett</description>
 			<description>2. Streichquartett</description>
 			<length>7:41</length>
@@ -2731,7 +2731,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>&quot;...sich verlierend&quot;</name>
+			<name>“...sich verlierend”</name>
 			<description>für Streichquartett und Sprechstimme</description>
 			<description>4. Streichquartett</description>
 			<length>20:54</length>

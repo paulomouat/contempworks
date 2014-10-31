@@ -433,7 +433,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>&quot;...zwei Gefühle...: Musik mit Leonardo&quot;</name>
+			<name>“...zwei Gefühle...”: Musik mit Leonardo</name>
 			<description>for speaker and ensemble</description>
 			<length>21:38</length>
 			<instrument name="Speaker">
@@ -447,7 +447,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>&quot;...zwei Gefühle...&quot; Musik mit Leonardo</name>
+			<name>“...zwei Gefühle...” Musik mit Leonardo</name>
 			<description>für 2 Sprecher und Ensemble</description>
 			<length>22:48</length>
 			<player name="Klangforum Wien"/>
@@ -555,7 +555,7 @@
 			<name>Appels</name>
 			<description>pour 11 instruments</description>
 			<length>7:38</length>
-			<player name="Ensemble l'Itinéraire"/>
+			<player name="Ensemble l’Itinéraire"/>
 			<conductor>Charles Bruck</conductor>
 			<composed start="1974"/>
 			<recorded start="1998"/>
@@ -563,7 +563,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Froissement d'ailes</name>
+			<name>Froissement d’ailes</name>
 			<description>pour flûte</description>
 			<length>3:24</length>
 			<instrument name="flûte">
@@ -575,7 +575,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Voix dans un vaisseau d'airain "Chant en escalier"</name>
+			<name>Voix dans un vaisseau d’airain "Chant en escalier"</name>
 			<description>pour voix, flûte, cor et bande magnétique</description>
 			<length>8:04</length>
 			<instrument name="voix de soprano">
@@ -587,7 +587,7 @@
 			<instrument name="cor">
 				<player name="André Cazalet"/>
 			</instrument>
-			<player name="Ensemble l'Itinéraire"/>
+			<player name="Ensemble l’Itinéraire"/>
 			<conductor>Michaël Lévinas</conductor>
 			<composed start="1977"/>
 			<recorded start="1998"/>
@@ -608,7 +608,7 @@
 		<composition>
 			<name>Concerto pour un piano-espace Nº2</name>
 			<length>12:30</length>
-			<player name="Ensemble l'Itineraire"/>
+			<player name="Ensemble l’Itineraire"/>
 			<conductor>Yves Prin</conductor>
 			<composed start="1980"/>
 			<recorded start="1984"/>
@@ -635,7 +635,7 @@
 		<composition>
 			<name>Les rires du Gilles</name>
 			<length>7:05</length>
-			<player name="Solistes de l'Ensemble 2E2M"/>
+			<player name="Solistes de l’Ensemble 2E2M"/>
 			<composed start="1981"/>
 			<recorded start="1981"/>
 			<release>Adès 20 381 2</release>
@@ -656,7 +656,7 @@
 			<name>Préfixes</name>
 			<description>pour ensemble instrumental e claviers MIDI</description>
 			<length>12:33</length>
-			<player name="Ensemble L'Itinéraire"/>
+			<player name="Ensemble L’Itinéraire"/>
 			<conductor>Alain Louvier</conductor>
 			<composed start="1981"/>
 			<recorded start="1992"/>
@@ -700,7 +700,7 @@
 			<name>Rebonds</name>
 			<description>pour flûte, violon, violoncelle, clarinette et trois pianos</description>
 			<length>12:12</length>
-			<player name="Solistes de l'Orchestre Philharmonique de Radio France"/>
+			<player name="Solistes de l’Orchestre Philharmonique de Radio France"/>
 			<conductor>Fahrad Mechkat</conductor>
 			<composed start="1993"/>
 			<recorded start="1993"/>
@@ -711,7 +711,7 @@
 			<name>Diaclase</name>
 			<description>pour quintette de cuivres</description>
 			<length>13:57</length>
-			<player name="Quintette de cuivres Just'à 5"/>
+			<player name="Quintette de cuivres Just’à 5"/>
 			<composed start="1993"/>
 			<recorded start="1993"/>
 			<release>Aeon AECD 0104</release>
@@ -994,7 +994,7 @@
 			</part>
 			<part>
 				<number>IV</number>
-				<name>Tempo de valse (poco vivace - &quot;à l'orgue de Barbarie&quot;</name>
+				<name>Tempo de valse (poco vivace - “à l’orgue de Barbarie”</name>
 				<length>2:18</length>
 			</part>
 			<part>
@@ -1061,7 +1061,7 @@
 			</part>
 			<part>
 				<number>IV</number>
-				<name>Tempo de valse (poco vivace - &quot;à l'orgue de Barbarie&quot;</name>
+				<name>Tempo de valse (poco vivace - “à l’orgue de Barbarie”</name>
 				<length>1:52</length>
 			</part>
 			<part>
@@ -1128,7 +1128,7 @@
 			</part>
 			<part>
 				<number>IV</number>
-				<name>Tempo de valse (poco vivace - &quot;à l'orgue de Barbarie&quot;</name>
+				<name>Tempo de valse (poco vivace - “à l’orgue de Barbarie”</name>
 				<length>2:10</length>
 			</part>
 			<part>
@@ -1175,7 +1175,7 @@
 			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Eight pieces from &quot;Musica Ricercata&quot;</name>
+			<name>Eight pieces from “Musica Ricercata”</name>
 			<description>for Accordion (Bayan), arranged by Max Bonnay</description>
 			<length>18:52</length>
 			<part>
@@ -1190,7 +1190,7 @@
 			</part>
 			<part>
 				<number>III</number>
-				<name>Tempo de valse (poco vivace - à l'orgue de Barbarie</name>
+				<name>Tempo de valse (poco vivace - à l’orgue de Barbarie</name>
 				<length>1:53</length>
 			</part>
 			<part>
@@ -1948,7 +1948,7 @@
 			</part>
 			<part>
 				<number>XIII</number>
-				<name>L'escalier du diable</name>
+				<name>L’escalier du diable</name>
 				<length>5:16</length>
 				<composed start="1993"/>
 			</part>
@@ -1990,7 +1990,7 @@
 			</part>
 			<part>
 				<number>XIII</number>
-				<name>L'escalier du diable</name>
+				<name>L’escalier du diable</name>
 				<length>3:40</length>
 				<composed start="1993"/>
 			</part>
@@ -2288,6 +2288,48 @@
 			<recorded start="1980"/>
 			<release>Wergo WER 2025</release>
 			<released>1990</released>
+		</composition>
+	</composer>
+	<composer name="José Manuel López" surname="López" born="1956" died="">
+		<composition>
+			<name>Concierto para violin y orquesta</name>
+			<length>18:06</length>
+			<instrument name="violin">
+				<player name="Ernst Kovacic"/>
+			</instrument>
+			<player name="Deutsches Symphonie Orchester Berlin"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="1995"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013022KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Movimientos para dos pianos y orquesta</name>
+			<length>13:14</length>
+			<instrument name="piano">
+				<player name="Alberto Rosado"/>
+				<player name="Juan Carlos Garvayo"/>
+			</instrument>
+			<player name="Deutsches Symphonie Orchester Berlin"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="1998"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013022KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Concierto para piano y orquesta</name>
+			<length>17:43</length>
+			<instrument name="piano">
+				<player name="Alberto Rosado"/>
+			</instrument>
+			<player name="Deutsches Symphonie Orchester Berlin"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="2005"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013022KAI</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Otto" surname="Luening" born="1900" died="1996">

@@ -186,7 +186,7 @@
 		</composition>
 		<composition>
 			<name>Ascension au Purgatoire</name>
-			<description>for percussion and computer (&quot;Stochos&quot; program)</description>
+			<description>for percussion and computer (“Stochos” program)</description>
 			<length>18:11</length>
 			<instrument name="Percussion">
 				<player name="Roland Auzet"/>
@@ -205,7 +205,7 @@
 	</composer>
 	<composer name="Hilda" surname="Paredes" born="1957" died="">
 		<composition>
-			<name>Uy u'tan</name>
+			<name>Uy u’tan</name>
 			<length>14:46</length>
 			<player name="Arditti String Quartet"/>
 			<composed start="1998"/>
@@ -216,7 +216,7 @@
 	</composer>
 	<composer name="Bernard" surname="Parmegiani" born="1927" died="2013">
 		<composition>
-			<name>L'alcool tue</name>
+			<name>L’alcool tue</name>
 			<length>4:13</length>
 			<instrument name="voix">
 				<player name="Boris Vian"/>
@@ -279,7 +279,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>L'Instant mobile</name>
+			<name>L’Instant mobile</name>
 			<length>10:41</length>
 			<player name="INA/GRM"/>
 			<composed start="1966"/>
@@ -288,7 +288,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>L'Arraignelephant</name>
+			<name>L’Arraignelephant</name>
 			<length>9:12</length>
 			<composed start="1967"/>
 			<recorded start="1967"/>
@@ -312,7 +312,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Pop'eclectic</name>
+			<name>Pop’eclectic</name>
 			<length>10:59</length>
 			<composed start="1969"/>
 			<recorded start="1969"/>
@@ -320,7 +320,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Du pop à l'âne</name>
+			<name>Du pop à l’âne</name>
 			<length>10:09</length>
 			<composed start="1969"/>
 			<recorded start="1969"/>
@@ -336,7 +336,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>L'Oeil écoute</name>
+			<name>L’Oeil écoute</name>
 			<length>24:32</length>
 			<composed start="1970"/>
 			<recorded start="1970"/>
@@ -344,7 +344,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>L'Oeil écoute</name>
+			<name>L’Oeil écoute</name>
 			<length>19:11</length>
 			<composed start="1970"/>
 			<recorded start="1970"/>
@@ -390,7 +390,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Pour en finir avec le pouvoir d'Orphée</name>
+			<name>Pour en finir avec le pouvoir d’Orphée</name>
 			<length>23:25</length>
 			<composed start="1972"/>
 			<recorded start="1972"/>
@@ -398,7 +398,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>L'écran Transparent</name>
+			<name>L’écran Transparent</name>
 			<length>19:57</length>
 			<composed start="1973"/>
 			<recorded start="1973"/>
@@ -481,7 +481,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Indicatif &quot;Stade 2&quot;</name>
+			<name>Indicatif “Stade 2”</name>
 			<length>0:26</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -679,7 +679,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Espèces d'espaces</name>
+			<name>Espèces d’espaces</name>
 			<length>21:47</length>
 			<composed start="2002"/>
 			<recorded start="2002"/>
@@ -687,7 +687,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Au gré du souffle, le son s'envole</name>
+			<name>Au gré du souffle, le son s’envole</name>
 			<length>20:03</length>
 			<composed start="2006"/>
 			<recorded start="2006"/>
@@ -1369,6 +1369,50 @@
 	</composer>
 	<composer name="Alberto" surname="Posadas" born="1967" died="">
 		<composition>
+			<name>Oscuro abismo de llanto y de ternura</name>
+			<description>for ensemble</description>
+			<length>19:51</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>François-Xavier Roth</conductor>
+			<composed start="2005"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013112KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Cripsis</name>
+			<description>for ensemble</description>
+			<length>11:36</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>François-Xavier Roth</conductor>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>Kairos 0013112KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Nebmaat</name>
+			<description>for quintet</description>
+			<length>15:35</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>François-Xavier Roth</conductor>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>Kairos 0013112KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Glossopoeia</name>
+			<description>for 3 dancers, 4 musicians, video and electronics</description>
+			<length>19:07</length>
+			<player name="Ensemble Intercontemporain"/>
+			<player name="Technique IRCAM"/>
+			<composed start="2009"/>
+			<recorded start="2009"/>
+			<release>Kairos 0013112KAI</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Del reflejo de la sombra</name>
 			<description>for bass clarinet and string quartet</description>
 			<length>16:57</length>
@@ -1384,7 +1428,7 @@
 	</composer>
 	<composer name="Henri" surname="Pousseur" born="1929" died="">
 		<composition>
-			<name>Quintette à la mémoire d'Anton Webern</name>
+			<name>Quintette à la mémoire d’Anton Webern</name>
 			<description>für Klarinette, Baßklarinette, Violine, Violoncello und Klavier</description>
 			<length>12:50</length>
 			<instrument name="Klarinette">
@@ -1474,7 +1518,7 @@
 			<length>21:07</length>
 			<part>
 				<number>1</number>
-				<name>L'Air et l'eau</name>
+				<name>L’Air et l’eau</name>
 				<length>8:02</length>
 			</part>
 			<part>
@@ -1497,7 +1541,7 @@
 			<length>40:49</length>
 			<part>
 				<number>1</number>
-				<name>Les ailes d'Icare</name>
+				<name>Les ailes d’Icare</name>
 			</part>
 			<part>
 				<number>2</number>

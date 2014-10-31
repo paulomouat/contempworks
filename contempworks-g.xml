@@ -405,7 +405,7 @@
 			<released>1996</released>
 		</composition>
 		<composition>
-			<name>Radiographie d'un roman</name>
+			<name>Radiographie d’un roman</name>
 			<description>for mixed chorus (with seven soloists), accordion solo, percussion solo, 30 instrumentalists and live electronics</description>
 			<length>43:53</length>
 			<instrument name="accordion">
@@ -452,7 +452,7 @@
 			<name>Sonate Nr. 1</name>
 			<description>voor 2 pianos</description>
 			<length>9:25</length>
-			<player name="Ensemble Champ d'Action"/>
+			<player name="Ensemble Champ d’Action"/>
 			<composed start="1951"/>
 			<recorded start="1996" end="1998"/>
 			<release>Megadisc MDC 7845</release>
@@ -462,7 +462,7 @@
 			<name>Opus 2</name>
 			<description>voor 13 instrumenten</description>
 			<length>7:36</length>
-			<player name="Ensemble Champ d'Action"/>
+			<player name="Ensemble Champ d’Action"/>
 			<conductor>Celso Antunes</conductor>
 			<composed start="1951"/>
 			<recorded start="1996" end="1998"/>
@@ -473,7 +473,7 @@
 			<name>Opus 3</name>
 			<description>met gestreken en geslagen tonen</description>
 			<length>10:03</length>
-			<player name="Ensemble Champ d'Action"/>
+			<player name="Ensemble Champ d’Action"/>
 			<conductor>Celso Antunes</conductor>
 			<composed start="1952"/>
 			<recorded start="1996" end="1998"/>
@@ -484,7 +484,7 @@
 			<name>Compositie Nr. 4</name>
 			<description>met dode tonen</description>
 			<length>9:12</length>
-			<player name="Ensemble Champ d'Action"/>
+			<player name="Ensemble Champ d’Action"/>
 			<conductor>Celso Antunes</conductor>
 			<composed start="1952"/>
 			<recorded start="1996" end="1998"/>
@@ -516,7 +516,7 @@
 			<name>Compositie Nr. 6</name>
 			<description>met 180 klankvoorwerpen</description>
 			<length>12:34</length>
-			<player name="Ensemble Champ d'Action"/>
+			<player name="Ensemble Champ d’Action"/>
 			<conductor>Celso Antunes</conductor>
 			<composed start="1954"/>
 			<recorded start="1996" end="1998"/>
@@ -560,7 +560,7 @@
 			<name>Litanie 2</name>
 			<description>for three percussionists</description>
 			<length>8:12</length>
-			<player name="Ensemble Champ d'Action"/>
+			<player name="Ensemble Champ d’Action"/>
 			<composed start="1980"/>
 			<recorded start="1992"/>
 			<release>Megadisc MDC 7872/73</release>
@@ -581,7 +581,7 @@
 			<name>Litanie 4</name>
 			<description>for soprano, flute, clarinet, violin, cello and piano</description>
 			<length>15:14</length>
-			<player name="Ensemble Champ d'Action"/>
+			<player name="Ensemble Champ d’Action"/>
 			<conductor>Alain Franco</conductor>
 			<composed start="1982"/>
 			<recorded start="1992"/>
@@ -722,7 +722,7 @@
 		<composition>
 			<name>Jour Contre Jour</name>
 			<length>22:06</length>
-			<player name="Ensemble l'Itinéraire"/>
+			<player name="Ensemble l’Itinéraire"/>
 			<conductor>Pascal Rophé</conductor>
 			<composed start="1979"/>
 			<recorded start="1991" end="1992"/>
@@ -767,7 +767,7 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>Les Chants de l'Amour</name>
+			<name>Les Chants de l’Amour</name>
 			<description>für 12 Stimmen und Tonband</description>
 			<length>35:23</length>
 			<player name="Schola Heidelberg"/>
@@ -829,7 +829,7 @@
 			<name>Talea</name>
 			<description>pour ensemble</description>
 			<length>16:41</length>
-			<player name="Ensemble l'Itinéraire"/>
+			<player name="Ensemble l’Itinéraire"/>
 			<conductor>Mark Foster</conductor>
 			<composed start="1986"/>
 			<recorded start="1991" end="1992"/>
@@ -848,7 +848,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>Le Temps et l'Écume</name>
+			<name>Le Temps et l’Écume</name>
 			<description>für 4 Schlagzeuger, 2 Synthesizer und Kammerorchester</description>
 			<length>20:27</length>
 			<player name="Ensemble S"/>
@@ -864,7 +864,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Le Noir de l'Étoile</name>
+			<name>Le Noir de l’Étoile</name>
 			<description>pour six percussionnistes disposés autour du public, bande magnétique et transmission in situ de signaux astronomiques</description>
 			<length>1:02:42</length>
 			<player name="Les Percussions de Strasbourg"/>

@@ -17,7 +17,7 @@
 	</composer>
 	<composer name="Christian" surname="Zanési" born="" died="">
 		<composition>
-			<name>Sonal &quot;voyageurs&quot; RATP</name>
+			<name>Sonal “voyageurs” RATP</name>
 			<length>0:04</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -107,7 +107,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Schuberts &quot;Winterreise&quot;</name>
+			<name>Schuberts “Winterreise”</name>
 			<description>Eine komponierte Interpretation</description>
 			<description>für Tenor und kleines Orchester</description>
 			<length>1:33:49</length>
@@ -319,7 +319,7 @@
 		</composition>
 		<composition>
 			<name>Distentio</name>
-			<description>from &quot;About Time 2&quot;</description>
+			<description>from “About Time 2”</description>
 			<description>for string trio</description>
 			<length>17:17</length>
 			<player name="ensemble recherche"/>

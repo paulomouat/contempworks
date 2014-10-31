@@ -133,7 +133,7 @@
 	<composer name="Claude Loyola" surname="Allgén" born="1920" died="1990">
 		<composition>
 			<name>Det gar ett tyst och taligt lamm</name>
-			<description>from &quot;Fyra liturgiska melodier&quot;</description>
+			<description>from “Fyra liturgiska melodier”</description>
 			<description>arrangement for two pianos</description>
 			<length>2:57</length>
 			<instrument name="Piano">
@@ -147,7 +147,7 @@
 		</composition>
 		<composition>
 			<name>Et verbum caro factum est</name>
-			<description>from &quot;Fyra liturgiska melodier&quot;</description>
+			<description>from “Fyra liturgiska melodier”</description>
 			<description>arrangement for two pianos</description>
 			<length>2:16</length>
 			<instrument name="Piano">
@@ -220,7 +220,7 @@
 	</composer>
 	<composer name="Martin" surname="Amlin" born="1953" died="">
 		<composition>
-			<name>Time's Caravan</name>
+			<name>Time’s Caravan</name>
 			<length>11:31</length>
 			<player name="John Oliver Chorale"/>
 			<conductor>John Oliver</conductor>
@@ -297,7 +297,7 @@
 	</composer>
 	<composer name="Anneli" surname="Arho" born="1951" died="">
 		<composition>
-			<name>Minos'</name>
+			<name>Minos’</name>
 			<length>8:25</length>
 			<instrument name="Cravo">
 				<player name="Jukka Tiensuu"/>

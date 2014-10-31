@@ -1,40 +1,10 @@
 # coding: utf-8
 
-composerListTemplate = u"""<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns:fo="http://www.w3.org/1999/xhtml">
+composerListTemplate = u"""<!DOCTYPE html>
+<html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<style type="text/css">
-			p
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-			}}
-			th
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-				text-align: center;
-			}}
-			td
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-				text-align: top;
-			}}
-			span.bold
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-				font-weight: bold;
-			}}
-			span.name_initial
-			{{					
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 10pt;
-				font-weight: bold;
-			}}
-		</style>
+		<meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="list.css"/>
 	</head>
 	<body>
 		<a name="top"></a>
@@ -100,82 +70,11 @@ composerListRow = u"""
 			</td>
 		</tr>"""
 
-composerFileTemplate = u"""<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns:fo="http://www.w3.org/1999/xhtml">
+composerFileTemplate = u"""<!DOCTYPE html>
+<html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<style type="text/css">
-			p
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-			}}
-			th
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-				text-align: center;
-			}}
-			td
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-				text-align: top;
-				border-bottom: #dddddd 1pt solid;
-			}}
-			span.bold
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-				font-weight: bold;
-			}}
-			span.composer_name
-			{{					
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 16pt;
-				font-weight: bold;
-				color: white;
-			}}
-			span.composer_dates
-			{{					
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 14pt;
-				font-weight: bold;
-				color: white;
-			}}
-			span.composition_name
-			{{					
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 10pt;
-				font-weight: bold;
-			}}
-			span.composition_description
-			{{					
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 10pt;
-			}}
-			span.composition_length
-			{{					
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 10pt;
-			}}
-			span.player
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-			}}
-			span.instrument
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-				font-style: italic;
-			}}
-			span.part
-			{{
-				font-family: Verdana, Arial, Helvetica;
-				font-size: 8pt;
-			}}				
-		</style>
+		<meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="composer.css"/>
 	</head>
 	<body>
 		<p>

@@ -305,9 +305,9 @@
 		</composition>
 		<composition>
 			<name>...?risonanze!...</name>
-			<description>für Viola d'amore</description>
+			<description>für Viola d’amore</description>
 			<length>9:49</length>
-			<instrument name="Viola d'amore">
+			<instrument name="Viola d’amore">
 				<player name="Garth Knox"/>
 			</instrument>
 			<composed start="1996" end="1997"/>
@@ -413,7 +413,7 @@
 	<composer name="Luigi" surname="Nono" born="1924" died="1990">
 		<composition score="Y">
 			<name>Variazioni canoniche</name>
-			<description>sur la série de l'opus 41 de Schönberg</description>
+			<description>sur la série de l’opus 41 de Schönberg</description>
 			<description>pour orchestre de chambre</description>
 			<length>20:07</length>
 			<player name="SWF-Sinfonieorchester Baden-Baden"/>
@@ -571,7 +571,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Canti di vita e d'amore</name>
+			<name>Canti di vita e d’amore</name>
 			<description>Sul Ponte di Hiroshima</description>
 			<description>für Sopran- und Tenor-solo und Orchester</description>
 			<length>17:22</length>
@@ -590,7 +590,7 @@
 		</composition>
 		<composition>
 			<name>Djamila Boupachà</name>
-			<description>soprano solo from Canti di vita e d'amore: Sul ponte di Hiroshima</description>
+			<description>soprano solo from Canti di vita e d’amore: Sul ponte di Hiroshima</description>
 			<length>4:53</length>
 			<instrument name="Soprano">
 				<player name="Sophie Boulin"/>
@@ -1144,7 +1144,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Prometeo - Tragedia dell'ascolto</name>
+			<name>Prometeo - Tragedia dell’ascolto</name>
 			<description>for ensemble, vocal soloists, speakers and live electronics</description>
 			<length>2:13:33</length>
 			<player name="Ensemble Modern"/>
@@ -1163,7 +1163,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Prometeo - Tragedia dell'ascolto</name>
+			<name>Prometeo - Tragedia dell’ascolto</name>
 			<description>for singers, speakers, chorus, solo strings, solo winds, glasses, orchestral groups and live electronics</description>
 			<length>2:14:32</length>
 			<player name="Ensemble Recherche"/>
@@ -1179,7 +1179,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>A Pierre, Dell'Azzurro Silenzio, Inquietum</name>
+			<name>A Pierre, Dell’Azzurro Silenzio, Inquietum</name>
 			<description>a più cori, per flauto contrabbasso in Sol, clarinetto contrabasso in Si bemolle e live electronics</description>
 			<length>9:43</length>
 			<instrument name="Flauto">
@@ -1199,7 +1199,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>A Pierre, Dell'azzurro silenzio, inquietum</name>
+			<name>A Pierre, Dell’azzurro silenzio, inquietum</name>
 			<description>for bass flute, double bass clarinet and live electronics</description>
 			<length>9:25</length>
 			<instrument name="flute">
@@ -1576,7 +1576,7 @@
 			</part>
 			<part>
 				<number>7</number>
-				<name>Terre d'Ombre</name>
+				<name>Terre d’Ombre</name>
 			</part>
 			<composed start="1986"/>
 			<recorded start="1986"/>
@@ -1830,7 +1830,7 @@
 		</composition>
 		<composition score="Y">
 			<name>Machina Mundi</name>
-			<description>for mixed chorus, 4 soloists, orchestra and tape, after Luis de Camões' "Os Lusíadas"</description>
+			<description>for mixed chorus, 4 soloists, orchestra and tape, after Luis de Camões’ "Os Lusíadas"</description>
 			<length>1:07:05</length>
 			<instrument name="Flute">
 				<player name="Pierre-Yves Artaud"/>

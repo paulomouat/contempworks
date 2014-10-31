@@ -1,0 +1,33 @@
+p {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+}
+q {
+    quotes: "“" "”" "‘" "’";
+}
+q:before {
+    content: open-quote;
+}
+q:after {
+    content: close-quote;
+}
+th {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+    text-align: center;
+}
+td {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+    text-align: top;
+}
+span.bold {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+    font-weight: bold;
+}
+span.name_initial {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 10pt;
+    font-weight: bold;
+}

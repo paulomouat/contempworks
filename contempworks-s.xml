@@ -4,7 +4,7 @@
 <list>
 	<composer name="Kaija" surname="Saariaho" born="1952" died="">
 		<composition>
-			<name>Laconisme de l'aile</name>
+			<name>Laconisme de l’aile</name>
 			<description>for solo flute with optional electronics</description>
 			<length>10:23</length>
 			<instrument name="Flute">
@@ -159,7 +159,7 @@
 			<released>2004</released>
 		</composition>
 		<composition>
-			<name>Caliban's Dream</name>
+			<name>Caliban’s Dream</name>
 			<length>3:32</length>
 			<instrument name="baritone">
 				<player name="Petteri Salomaa"/>
@@ -293,7 +293,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Miranda's Lament</name>
+			<name>Miranda’s Lament</name>
 			<length>4:42</length>
 			<instrument name="soprano">
 				<player name="Anu Komsi"/>
@@ -376,7 +376,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Cinq reflets de &quot;L'Amour de loin&quot;</name>
+			<name>Cinq reflets de “L’Amour de loin”</name>
 			<length>29:28</length>
 			<instrument name="soprano">
 				<player name="Pia Freund"/>
@@ -452,6 +452,92 @@
 			<recorded start=""/>
 			<release>Finlandia FACD 367</release>
 			<released/>
+		</composition>
+	</composer>
+	<composer name="José M." surname="Sánchez-Verdú" born="1968" died="">
+		<composition>
+			<name>Alqibla</name>
+			<description>for orchestra</description>
+			<length>15:46</length>
+			<player name="Junge Deutsche Philharmonie"/>
+			<conductor>Lothar Zagrosek</conductor>
+			<composed start="1998"/>
+			<recorded start="2000"/>
+			<release>Kairos 0012782KAI</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Ahmar-aswad</name>
+			<description>for orchestra</description>
+			<length>8:40</length>
+			<player name="hr-Sinfonieorchester"/>
+			<conductor>Pascal Rophé</conductor>
+			<composed start="2000" end="2001"/>
+			<recorded start="2005"/>
+			<release>Kairos 0012782KAI</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Paisajes de placer y de la culpa</name>
+			<description>for large orchestra</description>
+			<length>13:16</length>
+			<player name="hr-Sinfonieorchester"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="2003"/>
+			<recorded start="2003"/>
+			<release>Kairos 0012782KAI</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>La rosa y el ruiseñor</name>
+			<description>for soprano, baritone, 3 viole da gamba and orchestra</description>
+			<length>17:23</length>
+			<instrument name="soprano">
+				<player name="Claudia Barainsky"/>
+			</instrument>
+			<instrument name="baritone">
+				<player name="Gabriel Suovanen"/>
+			</instrument>
+			<instrument name="viole da gamba">
+				<player name="Banchetto musicale"/>
+			</instrument>
+			<player name="Orchestre de la Suisse Romande"/>
+			<conductor>Marek Janowski</conductor>
+			<composed start="2005"/>
+			<recorded start="2006"/>
+			<release>Kairos 0012782KAI</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Elogio del horizonte</name>
+			<description>for clarinet and orchestra</description>
+			<length>14:26</length>
+			<instrument name="clarinet">
+				<player name="Joan-Enric Lluna"/>
+			</instrument>
+			<player name="Orchesta Nacional de España"/>
+			<conductor>Miguel Harth-Bedoya</conductor>
+			<composed start="2005" end="2007"/>
+			<recorded start="2007"/>
+			<release>Kairos 0012782KAI</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Aura</name>
+			<description>opera from the novel Aura by Carlos Fuentes</description>
+			<length>1:05:14</length>
+			<player name="Neue Vocalsolisten Stuttgart"/>
+			<player name="Kammerensemble Neue Musik Berlin"/>
+			<player name="Duo Alberdi &amp; Aizpiolea"/>
+			<player name="Experimentalstudio des SWR"/>
+			<instrument name="auraphon">
+				<player name="Joachim Haas"/>
+			</instrument>
+			<conductor>José M. Sánchez-Verdu</conductor>
+			<composed start="2007" end="2009"/>
+			<recorded start="2010"/>
+			<release>Kairos 0013052KAI</release>
+			<released>2010</released>
 		</composition>
 	</composer>
 	<composer name="Henri" surname="Sauguet" born="1901" died="1989">
@@ -611,7 +697,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Suite No. 10 &quot;Ka&quot;</name>
+			<name>Suite No. 10 “Ka”</name>
 			<length>21:44</length>
 			<instrument name="Piano">
 				<player name="Aki Takahashi"/>
@@ -622,7 +708,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Preghiera per un' ombra</name>
+			<name>Preghiera per un’ ombra</name>
 			<description>for clarinet</description>
 			<length>8:41</length>
 			<instrument name="Clarinet">
@@ -706,7 +792,7 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>Trilogia, I tre stadi dell'uomo</name>
+			<name>Trilogia, I tre stadi dell’uomo</name>
 			<description>pour violoncelle seul</description>
 			<length>51:10</length>
 			<part>
@@ -856,7 +942,7 @@
 		</composition>
 		<composition>
 			<name>Khoom</name>
-			<description>Sept Episodes d'une histoire d'amour et de mort non-écrite dans un pays lointain</description>
+			<description>Sept Episodes d’une histoire d’amour et de mort non-écrite dans un pays lointain</description>
 			<description>pour soprano et 6 instruments</description>
 			<length>21:47</length>
 			<player name="Arditti String Quartet"/>
@@ -1147,7 +1233,7 @@
 			<length>8:49</length>
 			<part>
 				<number>I</number>
-				<name>C'est bien la nuit</name>
+				<name>C’est bien la nuit</name>
 				<length>2:49</length>
 			</part>
 			<part>
@@ -1189,7 +1275,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Et maintenant c'est à vous de jouer...</name>
+			<name>Et maintenant c’est à vous de jouer...</name>
 			<description>for double bass</description>
 			<length>6:21</length>
 			<instrument name="Double bass">
@@ -1347,7 +1433,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Maa'ts</name>
+			<name>Maa’ts</name>
 			<length>9:49</length>
 			<player name="Elektronisches Studio der TU Berlin"/>
 			<composed start="1981"/>
@@ -1547,7 +1633,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>L'oiseau RAI</name>
+			<name>L’oiseau RAI</name>
 			<length>2:55</length>
 			<player name="GRM, Paris"/>
 			<composed start="1950"/>
@@ -1762,13 +1848,13 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>écho d'Orphée</name>
+			<name>écho d’Orphée</name>
 			<description>pour Pierre Schaeffer - 1988 Pierre Henry</description>
-			<description>d'après Orphée 51 et 53 de P. Schaeffer et P. Henry</description>
+			<description>d’après Orphée 51 et 53 de P. Schaeffer et P. Henry</description>
 			<length>39:58</length>
 			<part>
 				<number>1</number>
-				<name>D'un sillon l'autre</name>
+				<name>D’un sillon l’autre</name>
 				<length>6:12</length>
 			</part>
 			<part>
@@ -1818,7 +1904,7 @@
 			</part>
 			<part>
 				<number>11</number>
-				<name>L'amour aveugle</name>
+				<name>L’amour aveugle</name>
 				<length>1:03</length>
 			</part>
 			<part>
@@ -1913,7 +1999,7 @@
 		<composition>
 			<name>2. Streichquartett</name>
 			<description>mit Stimmen</description>
-			<description>&quot;Erinnern - Wiederholen - Durcharbeiten&quot;</description>
+			<description>“Erinnern - Wiederholen - Durcharbeiten”</description>
 			<length>22:02</length>
 			<instrument name="voice">
 				<player name="Katarina Rasinski"/>
@@ -1926,7 +2012,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Streichquartett &quot;Im Raum&quot;</name>
+			<name>Streichquartett “Im Raum”</name>
 			<length>40:12</length>
 			<player name="Quatuor Diotima"/>
 			<composed start="2005" end="2006"/>
@@ -2225,7 +2311,7 @@
 			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Chants d'un compagnon errant</name>
+			<name>Chants d’un compagnon errant</name>
 			<description>pour voix, flûte, clarinette, harmonium, piano, percussions et quintette à cordes</description>
 			<description>(Gustav Mahler 1883-1885, transcription de Schönberg, 1920)</description>
 			<length>16:26</length>
@@ -2535,7 +2621,7 @@
 				<player name="Denis Wicks"/>
 			</instrument>
 			<player name="BBC Singers"/>
-			<player name="Orpheus Boys' Choir"/>
+			<player name="Orpheus Boys’ Choir"/>
 			<conductor>John Poole</conductor>
 			<player name="BBC Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -2629,7 +2715,7 @@
 		</composition>
 		<composition>
 			<name>A Survivor from Warsaw, op. 46</name>
-			<description>for Narrator, Men's Chorus and Orchestra</description>
+			<description>for Narrator, Men’s Chorus and Orchestra</description>
 			<length>7:26</length>
 			<instrument name="Narrator">
 				<player name="Günter Reich"/>
@@ -2797,7 +2883,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Un'Immagine d'Arpocrate</name>
+			<name>Un’Immagine d’Arpocrate</name>
 			<description>pour piano, orchestre et choeur, sur des fragments de Goethe et Wittgenstein</description>
 			<length>40:32</length>
 			<instrument name="Piano">
@@ -2848,7 +2934,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>D'un faune</name>
+			<name>D’un faune</name>
 			<description>per flauto in sol e pianoforte</description>
 			<length>10:25</length>
 			<instrument name="flute">
@@ -2863,7 +2949,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Introduzione all'oscuro</name>
+			<name>Introduzione all’oscuro</name>
 			<description>pour ensemble</description>
 			<length>11:17</length>
 			<player name="Contempoensemble"/>
@@ -2874,7 +2960,7 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Introduzione all'oscuro</name>
+			<name>Introduzione all’oscuro</name>
 			<description>für Flöte, Oboe, Klarinette, Fagott, Horn, Trompete, Posaune und Streichquintett</description>
 			<length>17:48</length>
 			<player name="Ensemble Recherche"/>
@@ -2886,11 +2972,11 @@
 		</composition>
 		<composition>
 			<name>Fabbrica degli incantesimi</name>
-			<description>L'opera per flauto</description>
+			<description>L’opera per flauto</description>
 			<length>1:07:49</length>
 			<part>
 				<number>1</number>
-				<name>All'aure in una lontananza</name>
+				<name>All’aure in una lontananza</name>
 				<composed>1977</composed>
 				<length>10:13</length>
 			</part>
@@ -2920,7 +3006,7 @@
 			</part>
 			<part>
 				<number>6</number>
-				<name>L'orizzonte luminoso di Aton</name>
+				<name>L’orizzonte luminoso di Aton</name>
 				<composed>1989</composed>
 				<length>11:35</length>
 			</part>
@@ -2974,7 +3060,7 @@
 			</part>
 			<part>
 				<number>4</number>
-				<name>L'eco</name>
+				<name>L’eco</name>
 				<length>8:00</length>
 			</part>
 			<part>
@@ -3169,7 +3255,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>L'opera per flauto vol. II</name>
+			<name>L’opera per flauto vol. II</name>
 			<length>49:26</length>
 			<part>
 				<number>1</number>
@@ -3185,7 +3271,7 @@
 			</part>
 			<part>
 				<number>3</number>
-				<name>L'orologio di Bergson</name>
+				<name>L’orologio di Bergson</name>
 				<composed>1999</composed>
 				<length>8:39</length>
 			</part>
@@ -3209,7 +3295,7 @@
 			</part>
 			<part>
 				<number>7</number>
-				<name>L'orizzonte luminoso di Aton</name>
+				<name>L’orizzonte luminoso di Aton</name>
 				<composed>1989</composed>
 				<length>12:18</length>
 			</part>
@@ -3326,7 +3412,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Muro d'orizzonte</name>
+			<name>Muro d’orizzonte</name>
 			<description>für Altflöte, Englischhorn und Bassklarinette</description>
 			<length>11:14</length>
 			<player name="Ensemble Recherche"/>
@@ -3488,7 +3574,7 @@
 			<released>2001</released>
 		</composition>
 		<composition>
-			<name>Studi per l'intonazione del mare</name>
+			<name>Studi per l’intonazione del mare</name>
 			<description>con voce, 4 flauti solisti, 4 sax solisti, percussione, orchestra di 100 flauti, orchestra di 100 sax</description>
 			<length>39:14</length>
 			<instrument name="Contraltino">
@@ -3519,7 +3605,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Studi per l'intonazione del mare</name>
+			<name>Studi per l’intonazione del mare</name>
 			<description>per voce, quattro flauti, quattro sax, percussione, orchestra di 100 flauti, orchestra di 100 sax</description>
 			<length>30:08</length>
 			<instrument name="contraltista">
@@ -3607,7 +3693,7 @@
 			<released>2008</released>
 		</composition>
 		<composition>
-			<name>Vento d'ombra</name>
+			<name>Vento d’ombra</name>
 			<description>per 14 strumenti</description>
 			<length>9:29</length>
 			<player name="Ensemble Risognanze"/>
@@ -4040,7 +4126,7 @@
 	</composer>
 	<composer name="Martin" surname="Smolka" born="1959" died="">
 		<composition>
-			<name>&quot;rain. a window, roofs, chimneys, pigeons and so... and railway-bridges, too&quot;</name>
+			<name>“rain. a window, roofs, chimneys, pigeons and so... and railway-bridges, too”</name>
 			<description>für Bläseroktett und andere Instrumente</description>
 			<length>23:17</length>
 			<player name="Musikfabrik NRW"/>
@@ -4053,7 +4139,7 @@
 	</composer>
 	<composer name="Bent" surname="Sørensen" born="1958" died="">
 		<composition>
-			<name>Angels' Music</name>
+			<name>Angels’ Music</name>
 			<description>for string quartet</description>
 			<length>15:41</length>
 			<player name="Arditti String Quartet"/>
@@ -4406,7 +4492,7 @@
 			<name>Etude</name>
 			<description>Musique Concrète</description>
 			<length>3:15</length>
-			<player name="O.R.T.F. Club d'Essai"/>
+			<player name="O.R.T.F. Club d’Essai"/>
 			<composed start="1952"/>
 			<recorded start="1952"/>
 			<release>Stockhausen-Verlag CD3</release>
@@ -5333,7 +5419,7 @@
 		<composition>
 			<name>Ceylon</name>
 			<description>für kleines Ensemble</description>
-			<description>Intuitive Musik aus dem Zyklus &quot;Für Kommende Zeiten&quot;</description>
+			<description>Intuitive Musik aus dem Zyklus “Für Kommende Zeiten”</description>
 			<length>22:47</length>
 			<instrument name="Elektronium">
 				<player name="Harald Bojé"/>
@@ -6637,7 +6723,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Feu d'artifice, op. 4</name>
+			<name>Feu d’artifice, op. 4</name>
 			<description>Fantaisie pour orchestre</description>
 			<length>3:54</length>
 			<player name="The Cleveland Orchestra"/>
@@ -6672,7 +6758,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>L'Oiseau de feu</name>
+			<name>L’Oiseau de feu</name>
 			<description>Conte dansé en deux tableaux</description>
 			<length>46:12</length>
 			<player name="The Cleveland Orchestra"/>
@@ -6706,7 +6792,7 @@
 		</composition>
 		<composition>
 			<name>Le Roi des étoiles (Zvezdolikiy)</name>
-			<description>Cantate pour choeur d'hommes</description>
+			<description>Cantate pour choeur d’hommes</description>
 			<length>5:30</length>
 			<player name="The Cleveland Orchestra Chorus"/>
 			<conductor>Gareth Morrell</conductor>
@@ -6767,7 +6853,7 @@
 		</composition>
 		<composition>
 			<name>Three little songs</name>
-			<description>&quot;Recollections of my childhood&quot;</description>
+			<description>“Recollections of my childhood”</description>
 			<length>3:05</length>
 			<instrument name="soprano">
 				<player name="Phyllis Bryn-Julson"/>
@@ -6830,7 +6916,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>L'Histoire du Soldat</name>
+			<name>L’Histoire du Soldat</name>
 			<description>Suite de concert</description>
 			<length>26:56</length>
 			<player name="The Cleveland Orchestra"/>
@@ -6890,7 +6976,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Symphonies d'instruments à vent</name>
+			<name>Symphonies d’instruments à vent</name>
 			<length>9:16</length>
 			<player name="Berliner Philharmoniker"/>
 			<conductor>Pierre Boulez</conductor>
@@ -6932,7 +7018,7 @@
 		</composition>
 		<composition>
 			<name>Song of Parasha</name>
-			<description>from the opera &quot;Mavra&quot;</description>
+			<description>from the opera “Mavra”</description>
 			<length>2:10</length>
 			<instrument name="soprano">
 				<player name="Phyllis Bryn-Julson"/>
@@ -7055,7 +7141,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>Concerto &quot;Dumbarton Oaks&quot;</name>
+			<name>Concerto “Dumbarton Oaks”</name>
 			<description>in E flat major for Chamber Orchestra</description>
 			<length>15:15</length>
 			<player name="Ensemble Intercontemporain"/>
@@ -7219,7 +7305,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Two poems of Konstantin Bal'mont</name>
+			<name>Two poems of Konstantin Bal’mont</name>
 			<length>2:51</length>
 			<instrument name="soprano">
 				<player name="Phyllis Bryn-Julson"/>
@@ -7294,7 +7380,7 @@
 		</composition>
 		<composition>
 			<name>Two sacred songs</name>
-			<description>from the &quot;Spanisches Liederbuch&quot; by Hugo Wolf</description>
+			<description>from the “Spanisches Liederbuch” by Hugo Wolf</description>
 			<length>7:37</length>
 			<instrument name="mezzo-soprano">
 				<player name="Ann Murray"/>
@@ -7409,7 +7495,7 @@
 		</composition>
 		<composition>
 			<name>Gestures</name>
-			<description>&quot;It begins with colors&quot;</description>
+			<description>“It begins with colors”</description>
 			<description>for 5.1 surround sound</description>
 			<length>15:59</length>
 			<instrument name="voice">

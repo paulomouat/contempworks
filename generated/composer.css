@@ -1,0 +1,67 @@
+p {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+}
+q {
+    quotes: "“" "”" "‘" "’";
+}
+q:before {
+    content: open-quote;
+}
+q:after {
+    content: close-quote;
+}
+th {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+    text-align: center;
+}
+td {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+    text-align: top;
+    border-bottom: #dddddd 1pt solid;
+}
+span.bold {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+    font-weight: bold;
+}
+span.composer_name { 
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 16pt;
+    font-weight: bold;
+    color: white;
+}
+span.composer_dates {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 14pt;
+    font-weight: bold;
+    color: white;
+}
+span.composition_name { 
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 10pt;
+    font-weight: bold;
+}
+span.composition_description {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 10pt;
+}
+span.composition_length {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 10pt;
+}
+span.player {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+}
+span.instrument {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+    font-style: italic;
+}
+span.part {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 8pt;
+}

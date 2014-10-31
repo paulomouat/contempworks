@@ -284,7 +284,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Cuarteto de cuerda n. 7 &quot;Espacio de silencio&quot;</name>
+			<name>Cuarteto de cuerda n. 7 “Espacio de silencio”</name>
 			<length>23:05</length>
 			<player name="Arditti Quartet"/>
 			<composed start="2007"/>
@@ -650,7 +650,7 @@
 			<released>1999</released>
 		</composition>
 		<composition>
-			<name>L'amen de verre</name>
+			<name>L’amen de verre</name>
 			<length>4:46</length>
 			<instrument name="Réalisation">
 				<player name="GRM, Paris"/>
@@ -877,7 +877,7 @@
 	</composer>
 	<composer name="Pierre" surname="Henry" born="1927" died="">
 		<composition>
-			<name>Voile d'Orphée</name>
+			<name>Voile d’Orphée</name>
 			<length>15:35</length>
 			<composed start="1953"/>
 			<recorded start="1953"/>
@@ -1289,7 +1289,7 @@
 			<released>2011</released>
 		</composition>
 		<composition>
-			<name>Ma'mounia</name>
+			<name>Ma’mounia</name>
 			<description>für Schlagzeug solo und instrumental-Quintett</description>
 			<length>12:12</length>
 			<instrument name="Schlagzeug solo">
@@ -1333,7 +1333,7 @@
 		</composition>
 		<composition>
 			<name>Induuchlen</name>
-			<description>Vier Lieder nach &quot;Briesentiitsch Väärsa&quot; von Albert Streich</description>
+			<description>Vier Lieder nach “Briesentiitsch Väärsa” von Albert Streich</description>
 			<description>für Countertenor (mit Baritonlage) und Naturhorn in F und Es</description>
 			<length>18:29</length>
 			<instrument name="Countertenor">

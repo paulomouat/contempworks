@@ -54,7 +54,7 @@
 		<composition>
 			<name>Metastasis</name>
 			<length>8:55</length>
-			<player name="Orchestre National de l'O.R.T.F."/>
+			<player name="Orchestre National de l’O.R.T.F."/>
 			<conductor>Maurice Le Roux</conductor>
 			<composed start="1953" end="1954"/>
 			<recorded start="1965"/>
@@ -84,7 +84,7 @@
 		<composition>
 			<name>Pithoprakta</name>
 			<length>9:45</length>
-			<player name="Orchestre National de l'O.R.T.F."/>
+			<player name="Orchestre National de l’O.R.T.F."/>
 			<conductor>Maurice Le Roux</conductor>
 			<composed start="1955" end="1956"/>
 			<recorded start="1965"/>
@@ -394,7 +394,7 @@
 			<name>Syrmos</name>
 			<description>für 18 Streicher</description>
 			<length>11:38</length>
-			<player name="Ensemble Ars Nova de l'ORTF"/>
+			<player name="Ensemble Ars Nova de l’ORTF"/>
 			<conductor>Marius Constant</conductor>
 			<composed start="1965" end="1966"/>
 			<recorded start=""/>
@@ -405,7 +405,7 @@
 			<name>Terretektorh</name>
 			<description>für im Publikumsraum verteiltes Orchester</description>
 			<length>15:17</length>
-			<player name="Orchestre Philharmonique de l'ORTF"/>
+			<player name="Orchestre Philharmonique de l’ORTF"/>
 			<conductor>Charles Brück</conductor>
 			<composed start="1965" end="1966"/>
 			<recorded start=""/>
@@ -450,7 +450,7 @@
 			<name>Polytope de Montréal</name>
 			<description>für Orchester</description>
 			<length>6:18</length>
-			<player name="Ensemble Ars Nova de l'ORTF"/>
+			<player name="Ensemble Ars Nova de l’ORTF"/>
 			<conductor>Marius Constant</conductor>
 			<composed start="1967"/>
 			<recorded start=""/>
@@ -461,7 +461,7 @@
 			<name>Nomos Gamma</name>
 			<description>für im Publikumsraum verteiltes Orchester</description>
 			<length>15:17</length>
-			<player name="Orchestre Philharmonique de l'ORTF"/>
+			<player name="Orchestre Philharmonique de l’ORTF"/>
 			<conductor>Charles Brück</conductor>
 			<composed start="1967" end="1968"/>
 			<recorded start=""/>
@@ -684,7 +684,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>N'Shima</name>
+			<name>N’Shima</name>
 			<description>for 2 amplified peasant voices, 2 amplified french horns, 2 tenor trombones and amplified cello</description>
 			<length>16:26</length>
 			<instrument name="Voices">
@@ -733,7 +733,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>Mikka &quot;S&quot;</name>
+			<name>Mikka “S”</name>
 			<description>for solo violin</description>
 			<length>4:10</length>
 			<instrument name="Violin">
@@ -857,7 +857,7 @@
 			<released>2006</released>
 		</composition>
 		<composition>
-			<name>La Légende d'Eer</name>
+			<name>La Légende d’Eer</name>
 			<description>for 8-channel electronic tape</description>
 			<length>45:28</length>
 			<player name="WDR, Köln"/>
@@ -1265,7 +1265,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>À l'Île de Gorée</name>
+			<name>À l’Île de Gorée</name>
 			<description>pour clavecin et ensemble</description>
 			<length>13:34</length>
 			<instrument name="Clavecin">

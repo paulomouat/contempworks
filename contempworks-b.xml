@@ -148,7 +148,7 @@
 	</composer>
 	<composer name="Dominique" surname="Bassal" born="1955" died="">
 		<composition>
-			<name>Rites d'oiseaux pensants</name>
+			<name>Rites d’oiseaux pensants</name>
 			<description>Ubiquité</description>
 			<length>14:40</length>
 			<composed start="2001" end="2008"/>
@@ -175,7 +175,7 @@
 			<released>2009</released>
 		</composition>
 		<composition>
-			<name>L'inénarrable Nout</name>
+			<name>L’inénarrable Nout</name>
 			<description>Ubiquité</description>
 			<length>18:53</length>
 			<composed start="2002" end="2009"/>
@@ -194,7 +194,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Trois rêves d'oiseau</name>
+			<name>Trois rêves d’oiseau</name>
 			<length>9:48</length>
 			<part>
 				<number>1</number>
@@ -226,7 +226,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>L'Expérience Acoustique</name>
+			<name>L’Expérience Acoustique</name>
 			<length>2:00:14</length>
 			<composed start="1972"/>
 			<recorded start="1972"/>
@@ -235,7 +235,7 @@
 		</composition>
 		<composition>
 			<name>It</name>
-			<description>Extrait du chapitre 3 de &quot;L'expérience acoustique&quot;</description>
+			<description>Extrait du chapitre 3 de “L’expérience acoustique”</description>
 			<description>(avec Robert Wyatt)</description>
 			<length>3:38</length>
 			<instrument name="Réalisation">
@@ -404,7 +404,7 @@
 			</part>
 			<part>
 				<number>4</number>
-				<name>Le sommeil d'Euclide</name>
+				<name>Le sommeil d’Euclide</name>
 				<length>20:50</length>
 			</part>
 			<part>
@@ -418,7 +418,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Le Sommeil d'Euclide</name>
+			<name>Le Sommeil d’Euclide</name>
 			<length>20:39</length>
 			<player name="INA-GRM, Paris"/>
 			<composed start="1983"/>
@@ -435,7 +435,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Théâtre d'Ombres</name>
+			<name>Théâtre d’Ombres</name>
 			<length>39:30</length>
 			<composed start="1988"/>
 			<recorded start="1988"/>
@@ -569,7 +569,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>La forme de l'esprit et un papillon</name>
+			<name>La forme de l’esprit et un papillon</name>
 			<length>34:27</length>
 			<part>
 				<number>1</number>
@@ -597,7 +597,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>L'Oreille étonnée</name>
+			<name>L’Oreille étonnée</name>
 			<description>in memoriam O. Messiaen</description>
 			<length>14:58</length>
 			<composed start="2006" end="2006"/>
@@ -606,7 +606,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Rien n'est réel</name>
+			<name>Rien n’est réel</name>
 			<length>25:30</length>
 			<composed start="2010"/>
 			<recorded start="2010"/>
@@ -834,7 +834,7 @@
 		</composition>
 		<composition>
 			<name>Sequenza III</name>
-			<description>for woman's voice</description>
+			<description>for woman’s voice</description>
 			<length>8:16</length>
 			<instrument name="Soprano">
 				<player name="Luisa Castellani"/>
@@ -1591,7 +1591,7 @@
 		</composition>
 		<composition>
 			<name>Le marteau sans maître</name>
-			<description>pour voix d'alto et 6 instruments</description>
+			<description>pour voix d’alto et 6 instruments</description>
 			<length>38:32</length>
 			<instrument name="Mezzo-soprano">
 				<player name="Hilary Summers"/>
@@ -1605,7 +1605,7 @@
 		</composition>
 		<composition>
 			<name>Le marteau sans maître</name>
-			<description>pour voix d'alto et 6 instruments</description>
+			<description>pour voix d’alto et 6 instruments</description>
 			<length>38:32</length>
 			<instrument name="mezzo-soprano">
 				<player name="Hilary Summers"/>
@@ -1619,7 +1619,7 @@
 		</composition>
 		<composition>
 			<name>Le marteau sans maître</name>
-			<description>pour voix d'alto et 6 instruments</description>
+			<description>pour voix d’alto et 6 instruments</description>
 			<length>32:16</length>
 			<instrument name="contralto">
 				<player name="Jeanne Deroubaix"/>
@@ -2116,7 +2116,7 @@
 			<instrument name="violoncelle solo">
 				<player name="Jean-Guihen Queyras"/>
 			</instrument>
-			<player name="Solistes de l'Ensemble InterContemporain"/>
+			<player name="Solistes de l’Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1976"/>
 			<recorded start="1999"/>
@@ -2238,7 +2238,7 @@
 			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Dialogue de l'ombre double</name>
+			<name>Dialogue de l’ombre double</name>
 			<description>Version aux chiffres romains</description>
 			<length>17:42</length>
 			<instrument name="Clarinette">
@@ -2247,14 +2247,14 @@
 			<instrument name="Assistant musical">
 				<player name="Andrew Gerzso"/>
 			</instrument>
-			<player name="Oeuvre réalisée à l'IRCAM"/>
+			<player name="Oeuvre réalisée à l’IRCAM"/>
 			<composed start="1982" end="1985"/>
 			<recorded start="1990"/>
 			<release>Erato 4509-98495-2</release>
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Dialogue de l'ombre double</name>
+			<name>Dialogue de l’ombre double</name>
 			<description>pour clarinette solo</description>
 			<length>17:45</length>
 			<instrument name="clarinette">
@@ -2398,7 +2398,7 @@
 			<name>Sur Incises</name>
 			<description>pour trois pianos, trois harpes, trois percussions</description>
 			<length>37:06</length>
-			<player name="Solistes de l'Ensemble Intercontemporain"/>
+			<player name="Solistes de l’Ensemble Intercontemporain"/>
 			<conductor>Pierre Boulez</conductor>
 			<composed start="1996" end="1998"/>
 			<recorded start="1999"/>
@@ -2421,7 +2421,7 @@
 			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Une page d'éphéméride</name>
+			<name>Une page d’éphéméride</name>
 			<description>pour piano</description>
 			<length>4:26</length>
 			<instrument name="Piano">
@@ -2433,7 +2433,7 @@
 			<released>2012</released>
 		</composition>
 		<composition>
-			<name>Une page d'éphéméride</name>
+			<name>Une page d’éphéméride</name>
 			<description>pour piano</description>
 			<length>5:05</length>
 			<instrument name="piano">
@@ -2483,7 +2483,7 @@
 		<composition>
 			<name>November 1952</name>
 			<length>8:13</length>
-			<instrument name="Prepared acoustic guitar, ring modulator, computer, synthi 'A'">
+			<instrument name="Prepared acoustic guitar, ring modulator, computer, synthi ’A’">
 				<player name="Merzbow"/>
 			</instrument>
 			<composed start="1952"/>
@@ -3017,7 +3017,7 @@
 		</composition>
 		<composition>
 			<name>Ancora odono i colli</name>
-			<description>from "5 Frammenti all'Italia"</description>
+			<description>from "5 Frammenti all’Italia"</description>
 			<description>per sestetto vocale</description>
 			<length>5:23</length>
 			<instrument name="soprano">
@@ -3041,8 +3041,8 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>La curva dell'amore</name>
-			<description>from "5 Frammenti all'Italia"</description>
+			<name>La curva dell’amore</name>
+			<description>from "5 Frammenti all’Italia"</description>
 			<description>per sestetto vocale</description>
 			<length>7:32</length>
 			<instrument name="soprano">
@@ -3066,8 +3066,8 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Rar'ancora</name>
-			<description>from "5 Frammenti all'Italia"</description>
+			<name>Rar’ancora</name>
+			<description>from "5 Frammenti all’Italia"</description>
 			<description>per sestetto vocale</description>
 			<length>3:52</length>
 			<instrument name="soprano">
@@ -3091,7 +3091,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Fogli d'Album</name>
+			<name>Fogli d’Album</name>
 			<description>per pianoforte</description>
 			<length>50:38</length>
 			<instrument name="pianoforte">
@@ -3125,7 +3125,7 @@
 		</composition>
 		<composition>
 			<name>Autotono</name>
-			<description>un divertimento - sette più sette fogli a quattro mani - bianco e nero per una vita d'artista, come concerto di danza in scena</description>
+			<description>un divertimento - sette più sette fogli a quattro mani - bianco e nero per una vita d’artista, come concerto di danza in scena</description>
 			<length>17:31</length>
 			<player name="mdi ensemble"/>
 			<conductor>Yoichi Sugiyama</conductor>
@@ -3188,7 +3188,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>E l'uccellino</name>
+			<name>E l’uccellino</name>
 			<description>per canto e pianoforte</description>
 			<length>2:02</length>
 			<instrument name="flute">
@@ -3334,7 +3334,7 @@
 		</composition>
 		<composition>
 			<name>Echi Danzanti</name>
-			<description>tratti da &quot;Solo&quot; della Passion Selon Sade per arpa sola e nastro magnetico</description>
+			<description>tratti da “Solo” della Passion Selon Sade per arpa sola e nastro magnetico</description>
 			<length>40:14</length>
 			<instrument name="harp">
 				<player name="Giovanna Reitano"/>

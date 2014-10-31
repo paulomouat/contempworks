@@ -69,7 +69,7 @@
 			<released>2009</released>
 		</composition>
 		<composition>
-			<name>Studi per &quot;Il Processo&quot; di Franz Kafka</name>
+			<name>Studi per “Il Processo” di Franz Kafka</name>
 			<description>for speaker, soprano and orchestra</description>
 			<length>20:42</length>
 			<instrument name="speaker">
@@ -365,7 +365,7 @@
 			<released>2010</released>
 		</composition>
 		<composition>
-			<name>Cadenza da &quot;Dimensioni III&quot;</name>
+			<name>Cadenza da “Dimensioni III”</name>
 			<description>for flute solo</description>
 			<length>4:57</length>
 			<instrument name="flute">
@@ -710,7 +710,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name>Sacateca's Dance</name>
+			<name>Sacateca’s Dance</name>
 			<description>für Flöte, Tonband, Radio Baton und Computer</description>
 			<length>10:16</length>
 			<instrument name="Flöte">
@@ -919,7 +919,7 @@
 	</composer>
 	<composer name="Philippe" surname="Manoury" born="1952" died="">
 		<composition>
-			<name>La Partition du ciel et de l'enfer</name>
+			<name>La Partition du ciel et de l’enfer</name>
 			<description>pour flûte et 2 pianos solistes, ensemble et électronique</description>
 			<length>39:39</length>
 			<instrument name="Flûte">
@@ -1482,7 +1482,7 @@
 		</composition>
 		<composition>
 			<name>Sea of Singularity</name>
-			<description>Rêve de l'aube</description>
+			<description>Rêve de l’aube</description>
 			<length>31:48</length>
 			<instrument name="Electroacoustic realisation">
 				<player name="University of Sheffield Sound Studios"/>
@@ -1494,7 +1494,7 @@
 		</composition>
 		<composition>
 			<name>Dreaming of the Dawn</name>
-			<description>Rêve de l'aube</description>
+			<description>Rêve de l’aube</description>
 			<length>14:01</length>
 			<instrument name="Electroacoustic realisation">
 				<player name="GRM, Paris"/>
@@ -1506,7 +1506,7 @@
 		</composition>
 		<composition>
 			<name>Power Tools</name>
-			<description>Rêve de l'aube</description>
+			<description>Rêve de l’aube</description>
 			<length>14:25</length>
 			<instrument name="Electroacoustic realisation">
 				<player name="Private studio of the composer"/>
@@ -1518,7 +1518,7 @@
 		</composition>
 		<composition>
 			<name>Piano Piece (for Peter)</name>
-			<description>Rêve de l'aube</description>
+			<description>Rêve de l’aube</description>
 			<length>7:19</length>
 			<instrument name="piano">
 				<player name="Peter Hill"/>
@@ -1583,7 +1583,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>L'Attente</name>
+			<name>L’Attente</name>
 			<description>pour 7 instruments</description>
 			<length>14:19</length>
 			<player name="Ensemble Court-Circuit"/>
@@ -1600,7 +1600,7 @@
 			<instrument name="Cor">
 				<player name="Alain Noël"/>
 			</instrument>
-			<player name="Ensemble l'Itinéraire"/>
+			<player name="Ensemble l’Itinéraire"/>
 			<conductor>Charles Bruck</conductor>
 			<composed start="1976"/>
 			<recorded start="1978"/>
@@ -1608,7 +1608,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>C'est un jardin secret, ma soeur, ma fiancée, une fontaine close, une source scellée</name>
+			<name>C’est un jardin secret, ma soeur, ma fiancée, une fontaine close, une source scellée</name>
 			<description>pour alto seul</description>
 			<length>5:00</length>
 			<instrument name="Alto">
@@ -1620,7 +1620,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Territoires de l'oubli</name>
+			<name>Territoires de l’oubli</name>
 			<description>pour piano</description>
 			<length>25:56</length>
 			<instrument name="Piano">
@@ -1685,7 +1685,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Les courants de l'espace</name>
+			<name>Les courants de l’espace</name>
 			<description>pour Ondes Martenot et orchestre</description>
 			<length>19:21</length>
 			<instrument name="Ondes Martenot">
@@ -1767,7 +1767,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>L'esprit des dunes</name>
+			<name>L’esprit des dunes</name>
 			<description>pour ensemble et électronique</description>
 			<length>15:47</length>
 			<player name="Ensemble InterContemporain"/>
