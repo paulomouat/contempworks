@@ -4456,6 +4456,22 @@
 			<released>1991</released>
 		</composition>
 		<composition>
+			<name>Schlagtrio</name>
+			<description>for piano and 2 timpanists</description>
+			<length>16:08</length>
+			<instrument name="piano">
+				<player name="Katalin Lukács"/>
+			</instrument>
+			<instrument name="timpani">
+				<player name="Justin DeHart"/>
+				<player name="Fabio Oliveira"/>
+			</instrument>
+			<composed start="1952" end="1973"/>
+			<recorded start="2008"/>
+			<release>Mode 274</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Spiel</name>
 			<description>für Orchester</description>
 			<length>16:01</length>
@@ -4775,6 +4791,18 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Zyklus</name>
+			<description>for solo percussionist</description>
+			<length>10:30</length>
+			<instrument name="percussion">
+				<player name="Steven Schick"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="2008"/>
+			<release>Mode 274</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Refrain</name>
 			<description>für drei Spieler</description>
 			<length>11:40</length>
@@ -4821,6 +4849,24 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Refrain</name>
+			<description>for 3 players</description>
+			<length>10:15</length>
+			<instrument name="celesta, antique cymbals">
+				<player name="Pavlos Antoniadis"/>
+			</instrument>
+			<instrument name="piano, woodblocks">
+				<player name="James Avery"/>
+			</instrument>
+			<instrument name="vibraphone, alpine bells">
+				<player name="Steven Schick"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="2008"/>
+			<release>Mode 274</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Kontakte</name>
 			<description>Elektronische Musik</description>
 			<length>33:37</length>
@@ -4859,6 +4905,21 @@
 			<recorded start="1987" end="1988"/>
 			<release>Koch CD 310 020 H1</release>
 			<released>1988</released>
+		</composition>
+		<composition>
+			<name>Kontakte</name>
+			<description>for piano, percussion and 4-channel tape</description>
+			<length>30:00</length>
+			<instrument name="piano, percussion">
+				<player name="James Avery"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Steven Schick"/>
+			</instrument>
+			<composed start="1958" end="1960"/>
+			<recorded start="2008"/>
+			<release>Mode 274</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Carré</name>
@@ -4977,6 +5038,16 @@
 			<recorded start="1965"/>
 			<release>Stockhausen-Verlag CD9</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Mikrophonie</name>
+			<description>for tamtam, 2 microphones, 2 filters and controllers</description>
+			<length>31:44</length>
+			<player name="red fish blue fish"/>
+			<composed start="1964"/>
+			<recorded start="2008"/>
+			<release>Mode 274</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Stop</name>
