@@ -516,6 +516,17 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Sarà dolce tacere</name>
+			<description>for 8 solo voices</description>
+			<length>7:48</length>
+			<player name="Exaudi"/>
+			<conductor>James Weeks</conductor>
+			<composed start="1960"/>
+			<recorded start="2009"/>
+			<release>Aeon AECD 1441</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Intolleranza 1960</name>
 			<description>Handlung in zwei Teilen</description>
 			<length>54:36</length>
@@ -1084,6 +1095,37 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Donde estas hermano?</name>
+			<description>for 2 sopranos, mezzo soprano and contralto</description>
+			<length>5:19</length>
+			<player name="Vox Nova"/>
+			<conductor>Carol Thompson</conductor>
+			<composed start="1982"/>
+			<recorded start=""/>
+			<release>Mode 87</release>
+			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Dónde estás, hermano?</name>
+			<description>for 4 female voices</description>
+			<length>5:33</length>
+			<composed start="1982"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1SACD 20603</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Donde estás, hermano?</name>
+			<description>for 2 sopranos, mezzo-soprano and contralto</description>
+			<length>6:06</length>
+			<player name="Exaudi"/>
+			<conductor>James Weeks</conductor>
+			<composed start="1982"/>
+			<recorded start="2012"/>
+			<release>Aeon AECD 1441</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Guai ai gelidi mostri</name>
 			<description>for flute, clarinet, tuba, two contraltos, viola, cello, double-bass and live electronics</description>
 			<length>43:28</length>
@@ -1261,24 +1303,6 @@
 			<recorded start="2010"/>
 			<release>Neos 11122</release>
 			<released>2012</released>
-		</composition>
-		<composition>
-			<name>Donde estas hermano?</name>
-			<description>for 2 sopranos, mezzo soprano and contralto</description>
-			<length>5:19</length>
-			<composed start="1986"/>
-			<recorded start=""/>
-			<release>Mode 87</release>
-			<released>2000</released>
-		</composition>
-		<composition>
-			<name>Dónde estás, hermano?</name>
-			<description>for 4 female voices</description>
-			<length>5:33</length>
-			<composed start="1982"/>
-			<recorded start="2002"/>
-			<release>Col Legno WWE 1SACD 20603</release>
-			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Caminantes... Ayacucho</name>

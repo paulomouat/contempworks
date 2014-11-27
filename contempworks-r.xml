@@ -1045,6 +1045,17 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Mit geschlossenem Mund</name>
+			<description>for double SATB voices</description>
+			<length>4:11</length>
+			<player name="Exaudi"/>
+			<conductor>James Weeks</conductor>
+			<composed start="1982"/>
+			<recorded start="2006"/>
+			<release>Aeon AECD 1441</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Fremde Szenen I-III</name>
 			<description>Versuche für Klaviertrio</description>
 			<length>43:38</length>
@@ -1506,6 +1517,17 @@
 			<recorded start="2010"/>
 			<release>Col Legno WWE 1CD 20297</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Quo me rapis</name>
+			<description>for 8 solo voices</description>
+			<length>11:19</length>
+			<player name="Exaudi"/>
+			<conductor>James Weeks</conductor>
+			<composed start="1990"/>
+			<recorded start="2006"/>
+			<release>Aeon AECD 1441</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Ins Offene...</name>
@@ -2299,6 +2321,17 @@
 			<recorded start="2011"/>
 			<release>Harmonia Mundi HMC 902129</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Sieben Passions-Texte</name>
+			<description>for 6 voices</description>
+			<length>28:34</length>
+			<player name="Exaudi"/>
+			<conductor>James Weeks</conductor>
+			<composed start="2001" end="2006"/>
+			<recorded start="2012"/>
+			<release>Aeon AECD 1441</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Vier Studien zu einem Klarinettenquintett</name>
