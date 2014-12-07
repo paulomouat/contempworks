@@ -2054,6 +2054,29 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Liza" surname="Lim" born="1966" died="">
+		<composition>
+			<name>Ochred string</name>
+			<description>for oboe, viola, violoncello and double bass</description>
+			<length>12:45</length>
+			<instrument name="oboe">
+				<player name="Stefan Schilli"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Nimrod Guez"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Sebastian Klinger"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Philipp Stubenrauch"/>
+			</instrument>
+			<composed start="2007"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
+	</composer>	
 	<composer name="Magnus" surname="Lindberg" born="1947" died="">
 		<composition>
 			<name>Tendenza</name>

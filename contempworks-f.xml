@@ -409,6 +409,15 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Structures</name>
+			<length>5:55</length>
+			<player name="FLUX Quartet"/>
+			<composed start="1951"/>
+			<recorded start="2011"/>
+			<release>Mode 269/70</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Piano Piece</name>
 			<length>8:47</length>
 			<instrument name="Piano">
@@ -576,6 +585,15 @@
 			<recorded start="1993"/>
 			<release>hat[now]Art 138</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Three Pieces for String Quartet</name>
+			<length>13:24</length>
+			<player name="FLUX Quartet"/>
+			<composed start="1954" end="1956"/>
+			<recorded start="2011"/>
+			<release>Mode 269/70</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Piano Piece</name>
@@ -1037,6 +1055,15 @@
 			<recorded start="2009"/>
 			<release>Mode 238</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 1</name>
+			<length>1:29:49</length>
+			<player name="FLUX Quartet"/>
+			<composed start="1979"/>
+			<recorded start="2009"/>
+			<release>Mode 269/70</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Trio</name>
@@ -2201,6 +2228,19 @@
 			<recorded start="2005"/>
 			<release>Col Legno WWE 1SACD 20612</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Konzert für Klavier und orchester</name>
+			<length>16:45</length>
+			<instrument name="piano">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<player name="WDR Sinfonieorchester Köln"/>
+			<conductor>Brad Lubman</conductor>
+			<composed start="2007"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Wüstenbuch</name>

@@ -542,6 +542,17 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Antikhton</name>
+			<description>for orchestra</description>
+			<length>19:23</length>
+			<player name="WDR Sinfonieorchester Köln"/>
+			<conductor>Brad Lubman</conductor>
+			<composed start="1971"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Mikka</name>
 			<description>for solo violin</description>
 			<length>3:58</length>

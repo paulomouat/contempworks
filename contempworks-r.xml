@@ -229,6 +229,20 @@
 			<release>Cadenza 800 897</release>
 			<released>1993</released>
 		</composition>
+		<composition>
+			<name>Cantus</name>
+			<description>for clarinet and orchestra</description>
+			<length>15:32</length>
+			<instrument name="clarinet">
+				<player name="Jörg Widmann"/>
+			</instrument>
+			<player name="Deutsche Radio Philharmonie Saarbrücken Kaiserslautern"/>
+			<conductor>Christoph Poppen</conductor>
+			<composed start="2006"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
 	</composer>
 	<composer name="Steve" surname="Reich" born="1936" died="">
 		<composition>
@@ -626,6 +640,17 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Klavierstück Nr. 1 op.8a</name>
+			<length>13:07</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>String Quartet No. 2 op.10</name>
 			<length>8:40</length>
 			<player name="Minguet Quartet"/>
@@ -644,6 +669,17 @@
 			<recorded start="2001"/>
 			<release>Kairos 0012372KAI</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Klavierstück Nr. 2 op.8b</name>
+			<length>14:35</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Hekton</name>
@@ -751,6 +787,17 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Klavierstück Nr. 4</name>
+			<length>14:32</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1974"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>Siebengestalt</name>
 			<description>für Orgel und Tamtam</description>
 			<length>16:40</length>
@@ -803,7 +850,7 @@
 		</composition>
 		<composition>
 			<name>Klavierstück Nr. 5</name>
-			<description>Tombeau</description>
+			<description><q>Tombeau</q></description>
 			<length>12:14</length>
 			<instrument name="Piano">
 				<player name="Bernhard Wambach"/>
@@ -812,6 +859,18 @@
 			<recorded start="2001"/>
 			<release>Kairos 0012372KAI</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Klavierstück Nr. 5</name>
+			<description><q>Tombeau</q></description>
+			<length>9:58</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Symphonie</name>
@@ -885,6 +944,18 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Klavierstück Nr. 6</name>
+			<description><q>Bagatellen</q></description>
+			<length>14:33</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1977" end="1978"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>Musik für drei Streicher</name>
 			<length>54:55</length>
 			<player name="Trio Recherche"/>
@@ -904,6 +975,17 @@
 			<recorded start="2003"/>
 			<release>Neos 10721</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Ländler</name>
+			<length>8:23</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>String Quartet No. 4</name>
@@ -937,6 +1019,17 @@
 			<recorded start="2001"/>
 			<release>Kairos 0012372KAI</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Klavierstück Nr. 7</name>
+			<length>9:20</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Erster Doppelgesang</name>
@@ -1254,6 +1347,17 @@
 			<recorded start="1988"/>
 			<release>CPO 999 134-2</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Brahmsliebewalzer</name>
+			<length>3:16</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Chiffre VIII</name>
@@ -1699,6 +1803,17 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Nachstudie</name>
+			<length>26:03</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1992" end="1994"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>Raumauge</name>
 			<description>für Chor und Schlagzeug</description>
 			<length>5:01</length>
@@ -1922,6 +2037,42 @@
 			<recorded start="2000"/>
 			<release>Kairos 0012122KAI</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Zwiesprache</name>
+			<length>16:46</length>
+			<part>
+				<number>1</number>
+				<name>A. Schlee in memoriam</name>
+				<length>3:16</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>P. Sacher in memoriam</name>
+				<length>3:57</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>H. Klotz in memoriam</name>
+				<length>3:26</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>H. H. Eggebrecht in memoriam</name>
+				<length>3:58</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>H. Wiesler in memoriam</name>
+				<length>2:10</length>
+			</part>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Sotto voce - Notturno</name>
@@ -2157,6 +2308,17 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Auf einem anderen Blatt</name>
+			<length>2:53</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>“Vier Male”</name>
 			<description>für Klarinette solo</description>
 			<length>25:44</length>
@@ -2379,6 +2541,17 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Zwei kleine Schwingungen</name>
+			<length>3:50</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="2004" end="2005"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>Grave</name>
 			<description>in memoriam Thomas Kakuska</description>
 			<description>für Streichquartett</description>
@@ -2439,6 +2612,17 @@
 			<recorded start="2007"/>
 			<release>hänssler Classic CD 93.236</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Wortlos</name>
+			<length>5:24</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<composed start="2007"/>
+			<recorded start="2007" end="2008"/>
+			<release>Neos 10717/18</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>Verwandlungen I-IV</name>

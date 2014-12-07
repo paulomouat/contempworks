@@ -914,6 +914,17 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>La navette</name>
+			<description>for orchestra</description>
+			<length>19:17</length>
+			<player name="Deutsche Radio Philharmonie Saarbrücken Kaiserslautern"/>
+			<conductor>Christoph Poppen</conductor>
+			<composed start="2001"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>the soadie waste</name>
 			<description>for piano quintet</description>
 			<length>13:25</length>

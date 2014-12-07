@@ -1675,6 +1675,17 @@
 			<release>Neos 10725</release>
 			<released>2007</released>
 		</composition>
+		<composition>
+			<name>Armonica</name>
+			<description>for orchestra</description>
+			<length>13:13</length>
+			<player name="Deutsche Radio Philharmonie Saarbrücken Kaiserslautern"/>
+			<conductor>Christoph Poppen</conductor>
+			<composed start="2006"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
 	</composer>
 	<composer name="Scott" surname="Wilson" born="1969" end="">
 		<composition>

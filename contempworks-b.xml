@@ -793,6 +793,18 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Sequenza I</name>
+			<description>for flute</description>
+			<length>7:56</length>
+			<instrument name="flute">
+				<player name="Paula Robison"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1996"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Momenti</name>
 			<length>7:11</length>
 			<player name="Studio di Fonologia, RAI"/>
@@ -823,6 +835,18 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Sequenza II</name>
+			<description>for harp</description>
+			<length>10:14</length>
+			<instrument name="harp">
+				<player name="Susan Jolles"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="1995"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Sincronie</name>
 			<description>for string quartet</description>
 			<length>18:26</length>
@@ -831,6 +855,18 @@
 			<recorded start="2002"/>
 			<release>Montaigne 782155</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Rounds</name>
+			<description>for harpsichord</description>
+			<length>2:08</length>
+			<instrument name="harpsichord">
+				<player name="Jane Chapman"/>
+			</instrument>
+			<composed start="1964" end="1965"/>
+			<recorded start="2005"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Sequenza III</name>
@@ -844,6 +880,18 @@
 			<release>Deutsche Grammophon 457038-2</release>
 			<released>1998</released>
 		</composition>
+		<composition>
+			<name>Sequenza III</name>
+			<description>for woman’s voice</description>
+			<length>8:46</length>
+			<instrument name="voice">
+				<player name="Isabelle Ganz"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="1996"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
 		<composition score="Y">
 			<name>Sequenza V</name>
 			<description>for trombone</description>
@@ -855,6 +903,18 @@
 			<recorded start="1994" end="1997"/>
 			<release>Deutsche Grammophon 457038-2</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Sequenza V</name>
+			<description>for trombone</description>
+			<length>5:02</length>
+			<instrument name="trombone">
+				<player name="Stuart Dempster"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="1995"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Chemins I</name>
@@ -883,6 +943,30 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Sequenza IV</name>
+			<description>for piano</description>
+			<length>12:05</length>
+			<instrument name="piano">
+				<player name="Aki Takahashi"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1999"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Gesti</name>
+			<description>for recorder</description>
+			<length>5:20</length>
+			<instrument name="recorder">
+				<player name="Lucia Mense"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1995"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Sequenza VI</name>
 			<description>for viola</description>
 			<length>12:13</length>
@@ -893,6 +977,18 @@
 			<recorded start="1994" end="1997"/>
 			<release>Deutsche Grammophon 457038-2</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Sequenza VI</name>
+			<description>for viola</description>
+			<length>13:16</length>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1995"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Chemins II (su "Sequenza VI")</name>
@@ -926,6 +1022,18 @@
 			<recorded start="1994" end="1997"/>
 			<release>Deutsche Grammophon 457038-2</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Sequenza VII</name>
+			<description>for oboe</description>
+			<length>7:36</length>
+			<instrument name="oboe">
+				<player name="Jacqueline Leclair"/>
+			</instrument>
+			<composed start="1969" end="2000"/>
+			<recorded start="2004"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Chemins IIb</name>
@@ -963,7 +1071,7 @@
 			<released>1990</released>
 		</composition>
 		<composition>
-			<name> "Points on the curve to find..."</name>
+			<name><q>Points on the curve to find...</q></name>
 			<description>for piano and 22 instrumentalists</description>
 			<length>13:33</length>
 			<player name="Ensemble InterContemporain"/>
@@ -972,6 +1080,18 @@
 			<recorded start="1989"/>
 			<release>Sony SK 45 862</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Fa-Si</name>
+			<description>for organ</description>
+			<length>9:47</length>
+			<instrument name="organ">
+				<player name="Gary Verkade"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="2005"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Sequenza VIII</name>
@@ -986,6 +1106,18 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Sequenza VIII</name>
+			<description>for violin</description>
+			<length>13:10</length>
+			<instrument name="violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1995"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Ritorno degli snovidenia</name>
 			<description>per violoncello e piccola orchestra</description>
 			<length>18:11</length>
@@ -995,6 +1127,18 @@
 			<recorded start="1989"/>
 			<release>Sony SK 45 862</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Les mots sont allés...</name>
+			<description>for cello</description>
+			<length>4:03</length>
+			<instrument name="cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="2004"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 		<composition score="Y">
 			<name>Sequenza IXa</name>
@@ -1009,6 +1153,30 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Sequenza IXa</name>
+			<description>for clarinet</description>
+			<length>16:04</length>
+			<instrument name="clarinet">
+				<player name="Carol Robinson"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2003"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Sequenza IXc</name>
+			<description>for bass clarinet, adaptation by Rocco Parisi</description>
+			<length>13:37</length>
+			<instrument name="bass clarinet">
+				<player name="Alain Billard"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2005"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Sequenza IXb</name>
 			<description>for saxophone</description>
 			<length>14:19</length>
@@ -1019,6 +1187,30 @@
 			<recorded start="1994" end="1997"/>
 			<release>Deutsche Grammophon 457038-2</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Sequenza IXb</name>
+			<description>for alto saxophone</description>
+			<length>13:50</length>
+			<instrument name="alto saxophone">
+				<player name="Kelland Thomas"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1997"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Sequenza VIb</name>
+			<description>for cello, adaptation by Rohan de Saram</description>
+			<length>15:34</length>
+			<instrument name="cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="2001"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Corale</name>
@@ -1045,6 +1237,18 @@
 			<release>Sony SK 45 862</release>
 			<released>1990</released>
 		</composition>
+		<composition>
+			<name>Lied</name>
+			<description>for clarinet</description>
+			<length>5:04</length>
+			<instrument name="clarinet">
+				<player name="Carol Robinson"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="2005"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
 		<composition score="Y">
 			<name>Sequenza X</name>
 			<description>for trumpet in C and piano resonance</description>
@@ -1058,6 +1262,18 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Sequenza X</name>
+			<description>for trumpet in C and piano resonance</description>
+			<length>15:16</length>
+			<instrument name="trumpet">
+				<player name="William Forman"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2000"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Formazioni</name>
 			<description>for orchestra</description>
 			<length>19:42</length>
@@ -1067,6 +1283,30 @@
 			<recorded start="2007"/>
 			<release>Col Legno WWE 1CD 20281</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Gute Nacht</name>
+			<description>for trumpet</description>
+			<length>1:04</length>
+			<instrument name="trumpet">
+				<player name="Brian McWhorter"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="2005"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Comma</name>
+			<description>for e-flat clarinet</description>
+			<length>1:34</length>
+			<instrument name="clarinet">
+				<player name="Carol Robinson"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="2005"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Sequenza XI</name>
@@ -1081,6 +1321,30 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Sequenza XI</name>
+			<description>for guitar</description>
+			<length>18:42</length>
+			<instrument name="guitar">
+				<player name="Seth Josel"/>
+			</instrument>
+			<composed start="1987" end="1988"/>
+			<recorded start="2003"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Psy</name>
+			<description>for contrabass</description>
+			<length>1:57</length>
+			<instrument name="contrabass">
+				<player name="Michael Cameron"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="?"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Notturno</name>
 			<description>for string quartet</description>
 			<length>25:01</length>
@@ -1089,6 +1353,18 @@
 			<recorded start="2002"/>
 			<release>Montaigne 782155</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Sequenza VIIb</name>
+			<description>for for soprano saxophone, adaptation by Claude Delangle</description>
+			<length>7:39</length>
+			<instrument name="soprano saxophone">
+				<player name="Ulrich Krieger"/>
+			</instrument>
+			<composed start="1995"/>
+			<recorded start="2004"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 		<composition score="Y">
 			<name>Sequenza XII</name>
@@ -1103,8 +1379,20 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Sequenza XII</name>
+			<description>for bassoon</description>
+			<length>17:07</length>
+			<instrument name="bassoon">
+				<player name="Noriko Shimada"/>
+			</instrument>
+			<composed start="1995"/>
+			<recorded start="2000"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Sequenza XIII</name>
-			<description>for accordion "Chanson"</description>
+			<description>for accordion <q>Chanson</q></description>
 			<length>8:15</length>
 			<instrument name="Accordion">
 				<player name="Teodoro Anzellotti"/>
@@ -1115,6 +1403,18 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Sequenza XIII</name>
+			<description>for accordion <q>Chanson</q></description>
+			<length>10:10</length>
+			<instrument name="accordion">
+				<player name="Stefan Hussong"/>
+			</instrument>
+			<composed start="1995"/>
+			<recorded start="2000"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Glosse</name>
 			<description>for string quartet</description>
 			<length>9:48</length>
@@ -1123,6 +1423,42 @@
 			<recorded start="2002"/>
 			<release>Montaigne 782155</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Chanson pour Pierre Boulez</name>
+			<description>for cello</description>
+			<length>2:46</length>
+			<instrument name="cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2006"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Sequenza XIVa</name>
+			<description>for cello</description>
+			<length>11:38</length>
+			<instrument name="cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2004"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Sequenza XIVb</name>
+			<description>for contrabass, adaptation by Stefano Scodanibbio</description>
+			<length>12:56</length>
+			<instrument name="contrabass">
+				<player name="Stefano Scodanibbio"/>
+			</instrument>
+			<composed start="2004"/>
+			<recorded start="2005"/>
+			<release>Mode 161/3</release>
+			<released>2006</released>
 		</composition>
 	</composer>
 	<composer name="Antoine" surname="Beuger" born="1955" died="">

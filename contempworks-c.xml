@@ -3606,4 +3606,22 @@
 			<released>2011</released>
 		</composition>
 	</composer>
+	<composer name="Chaya" surname="Czernowin" born="1957" died="">
+		<composition>
+			<name>Pilgerfahrten</name>
+			<description>for speaker, treble choir and instruments</description>
+			<description>after texts by Tove Jansson and Stefan George</description>
+			<length>48:33</length>
+			<instrument name="speaker">
+				<player name="Matthias Bundschuh"/>
+			</instrument>
+			<player name="Dresdner Kreuzchor"/>
+			<player name="Ensemble Courage"/>
+			<conductor>Roderich Kreile</conductor>
+			<composed start="2006" end="2007"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
+	</composer>
 </list>

@@ -385,6 +385,16 @@
 	</composer>
 	<composer name="Karl Amadeus" surname="Hartmann" born="1905" died="1963">
 		<composition>
+			<name>Symphonie <q>L'Oeuvre</q></name>
+			<length>22:39</length>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Emilio Pomárico</conductor>
+			<composed start="1937" end="1938"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Adagio (2. Sinfonie)</name>
 			<description>für Großes Orchester</description>
 			<length>15:26</length>
@@ -1029,6 +1039,31 @@
 	</composer>
 	<composer name="York" surname="Höller" born="1944" died="">
 		<composition>
+			<name>Topic</name>
+			<description>for large orchestra</description>
+			<length>12:56</length>
+			<player name="WDR Sinfonieorchester Köln"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1967"/>
+			<recorded start="1970"/>
+			<release>Neos 10829</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Horizont</name>
+			<description>quadrophonic electronic music</description>
+			<length>10:39</length>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<instrument name="realization">
+				<player name="Peter Eötvös"/>
+				<player name="Volker Müller"/>
+			</instrument>
+			<composed start="1971" end="1972"/>
+			<recorded start="1971" end="1972"/>
+			<release>Neos 10829</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Antiphon</name>
 			<description>für Streichquartett auf Tonband</description>
 			<length>17:29</length>
@@ -1044,14 +1079,46 @@
 			<description>Klanggedicht für 13 Instrumente, Schlagzeug und elektronische Klänge</description>
 			<length>22:57</length>
 			<player name="Mitglieder des Rundfunk-Sinfonieorchesters des Südwestfunks"/>
-			<instrument name="Köln">
-				<player name="Studio für Elektronische Musik des WDR"/>
-			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
 			<conductor>Johannes Kalitzke</conductor>
 			<composed start="1979" end="1980"/>
 			<recorded start="1990"/>
 			<release>Wergo WER 6515-2</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Mythos</name>
+			<description>for 13 instruments, percussion and 4-channel tape</description>
+			<length>22:52</length>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<instrument name="sound direction">
+				<player name="Volker Müller"/>
+			</instrument>
+			<player name="musikFabrik"/>
+			<conductor>Zsolt Nagy</conductor>
+			<composed start="1979" end="1995"/>
+			<recorded start="1997"/>
+			<release>Neos 10829</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Schwarze Halbinseln</name>
+			<description>for large orchestra, vocal and electronic sounds on 4-channel tape</description>
+			<length>20:53</length>
+			<player name="WDR Sinfonieorchester Köln"/>
+			<player name="WDR Rundfunkchor Köln"/>
+			<conductor>Diego Masson</conductor>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<instrument name="sound direction">
+				<player name="Volker Müller"/>
+			</instrument>
+			<instrument name="speaker (tape)">
+				<player name="Marie-Louise Gilles"/>
+			</instrument>
+			<composed start="1982"/>
+			<recorded start="1982"/>
+			<release>Neos 10829</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Traumspiel</name>
@@ -1371,6 +1438,49 @@
 			<recorded start="2008"/>
 			<release>ECM 2201</release>
 			<released>2011</released>
+		</composition>
+	</composer>
+	<composer name="Adriana" surname="Hölszky" born="1953" died="">
+		<composition>
+			<name>Countdown</name>
+			<description>Scenic concert piece after texts by Ver du Bois</description>
+			<length>11:40</length>
+			<instrument name="countertenor">
+				<player name="Daniel Gloger"/>
+			</instrument>
+			<instrument name="alphorn, trumpet">
+				<player name="Malte Burba"/>
+				<player name="Georg Birner"/>
+				<player name="Lutz Mandler"/>
+				<player name="Paul Hübner"/>
+			</instrument>
+			<instrument name="alphorn, trombone">
+				<player name="Armin Rosin"/>
+				<player name="Berthold Schick"/>
+				<player name="Dieter Eckert"/>
+				<player name="Viacheslau Chumachenko"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Markus Stange"/>
+				<player name="Anna Zassimova"/>
+				<player name="Yukiko Naito"/>
+				<player name="Jürg Henneberger"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Thomas Hastreiter"/>
+				<player name="Sebastian Hausl"/>
+				<player name="Wolfram Winkel"/>
+				<player name="Alexander Glöggler"/>
+				<player name="Philipp Jungk"/>
+				<player name="Martin Ruhland"/>
+				<player name="Werner Hoffmeister"/>
+				<player name="Stefan Blum"/>
+			</instrument>
+			<conductor>Rüdiger Bohn</conductor>
+			<composed start="2007"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
 		</composition>
 	</composer>
 	<composer name="Toshio" surname="Hosokawa" born="1955" died="">

@@ -412,6 +412,21 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Vent nocturne</name>
+			<description>for viola and electronics</description>
+			<length>22:50</length>
+			<instrument name="viola">
+				<player name="Nimrod Guez"/>
+			</instrument>
+			<instrument name="live electronics">
+				<player name="Josh Martin"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Mirage</name>
 			<length>13:31</length>
 			<instrument name="soprano">
@@ -551,6 +566,21 @@
 			<recorded start="1957"/>
 			<release>INA C 1031</release>
 			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Rebecca" surname="Saunders" born="1967" died="">
+		<composition>
+			<name>Blue and Gray</name>
+			<description>for two double basses</description>
+			<length>10:10</length>
+			<instrument name="double bass">
+				<player name="Philipp Stubenrauch"/>
+				<player name="Frank Reinecke"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
 		</composition>
 	</composer>
 	<composer name="Alain" surname="Savouret" born="1942" died="">
@@ -1123,6 +1153,17 @@
 			<recorded start="1989"/>
 			<release>Accord 200612</release>
 			<released>1989</released>
+		</composition>
+		<composition>
+			<name>Uaxuctum</name>
+			<description>for 7 percussionists, timpanist, chorus and orchestra</description>
+			<length>18:08</length>
+			<player name="Chor und Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Emilio Pomárico</conductor>
+			<composed start="1966"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Natura Renovatur</name>
@@ -6678,6 +6719,38 @@
 			<recorded start="2005"/>
 			<release>Stockhausen-Verlag CD79</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Mixtur 2003</name>
+			<description>for 5 orchestral groups, 4 sine-wave generator players, 4 sound mixers, with 4 ring modulators and sound projectionist</description>
+			<description>Forward version</description>
+			<length>29:04</length>
+			<player name="Experimentalstudio des SWR"/>
+			<instrument name="sound director">
+				<player name="André Richard"/>
+			</instrument>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Lucas Vis</conductor>
+			<composed start="2003"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Mixtur 2003</name>
+			<description>for 5 orchestral groups, 4 sine-wave generator players, 4 sound mixers, with 4 ring modulators and sound projectionist</description>
+			<description>Retrograde version</description>
+			<length>29:37</length>
+			<player name="Experimentalstudio des SWR"/>
+			<instrument name="sound director">
+				<player name="André Richard"/>
+			</instrument>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Lucas Vis</conductor>
+			<composed start="2003"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Mittwoch-Formel</name>

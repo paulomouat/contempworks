@@ -1278,6 +1278,20 @@
 	</composer>
 	<composer name="Matthias" surname="Pintscher" born="1971" died="">
 		<composition>
+			<name>Hérodiade-Fragmente</name>
+			<description>Dramatic scenes for soprano and orchestra</description>
+			<length>1946</length>
+			<instrument name="soprano">
+				<player name="Marisol Montalvo"/>
+			</instrument>
+			<player name="Deutsche Radio Philharmonie Saarbrücken Kaiserslautern"/>
+			<conductor>Christoph Poppen</conductor>
+			<composed start="1999"/>
+			<recorded start="2008"/>
+			<release>Neos 10926</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>tenebrae</name>
 			<description>Musik für skordierte Viola und klein Ensemble mit Live-Elektronik</description>
 			<length>15:58</length>
