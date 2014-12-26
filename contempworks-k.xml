@@ -842,6 +842,16 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Signs, Games and Messages</name>
+			<description>for strings</description>
+			<length>26:59</length>
+			<player name="Orlando Trio"/>
+			<composed start="1989" end="in progress"/>
+			<recorded start="2002"/>
+			<release>ECM New Series 1730</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Samuel Beckett: What is the Word op. 30b</name>
 			<description>für Altstimme (Rezitation), Vokalensemble und Kammerensemble</description>
 			<length>16:39</length>
@@ -877,6 +887,41 @@
 			<recorded start="1993"/>
 			<release>Col Legno WWE 31870</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Hölderlin-Gesänge</name>
+			<description>for baritone, op. 35a</description>
+			<length>11:49</length>
+			<instrument name="baritone">
+				<player name="Kurt Widmer"/>
+			</instrument>
+			<instrument name="trombone">
+				<player name="Heinrich Huber"/>
+			</instrument>
+			<instrument name="tuba">
+				<player name="David LeClair"/>
+			</instrument>
+			<composed start="1993" end="1997"/>
+			<recorded start="2002"/>
+			<release>ECM New Series 1730</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>...pas à pas - nulle part...</name>
+			<description>Poèmes de Samuel Beckett et Maximes de Sébastien Chamfort</description>
+			<description>for baritone solo, string trio and percussion, op. 36</description>
+			<length>29:49</length>
+			<instrument name="baritone">
+				<player name="Kurt Widmer"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Mircea Ardeleanu"/>
+			</instrument>
+			<player name="Orlando Trio"/>
+			<composed start="1993" end="1998"/>
+			<recorded start="2002"/>
+			<release>ECM New Series 1730</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>ΣΤΉΛΗ [Stele]</name>
