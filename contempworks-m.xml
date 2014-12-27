@@ -293,6 +293,119 @@
 			<released/>
 		</composition>
 		<composition>
+			<name>Hyperion</name>
+			<description>d'après Friedrich Hölderlin</description>
+			<length>1:22:43</length>
+			<part>
+				<number>1</number>
+				<name>Dimensioni II avec Dimensioni III (flute)</name>
+				<description>pour bande magnétique; pour orchestre, avec une cadence pour flûte soliste</description>
+				<length>5:20</length>
+				<composed>1959-1964</composed>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Dimensioni III (part 1, part 2)</name>
+				<description>pour orchestre, avec une cadence pour flûte soliste</description>
+				<length>6:19</length>
+				<composed>1962-1964</composed>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Hyperion, Hyperions Jugend, Hyperion (Vorletzte Fassung)</name>
+				<description>textes de Hölderlin, dits par le récitant</description>
+				<length>4:28</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Dimensioni III (part 3)</name>
+				<description>pour orchestre, avec une cadence pour flûte soliste</description>
+				<length>4:11</length>
+				<composed>1962-1964</composed>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Amanda</name>
+				<description>pour orchestre de chambre</description>
+				<length>12:40</length>
+				<composed>1966</composed>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Aria (part 1)</name>
+				<description>pour soprano, flûte soliste et orchestre sur des textes de Friedrich Hölderlin</description>
+				<length>9:10</length>
+				<composed>1964</composed>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Hyperions Schicksalslied (part 1)</name>
+				<description>pour choeur et instruments sur un texte de Friedrich Hölderlin</description>
+				<length>4:08</length>
+				<composed>1968-1969</composed>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Aria (part 2)</name>
+				<description>pour soprano, flûte soliste et orchestre sur des textes de Friedrich Hölderlin</description>
+				<length>4:35</length>
+				<composed>1964</composed>
+			</part>
+			<part>
+				<number>9</number>
+				<name>Stele per Diotima</name>
+				<description>pour orchestre avec une cadence pour solistes: violon, clarinette, clarinette basse, cor</description>
+				<length>13:45</length>
+				<composed>1964-1965</composed>
+			</part>
+			<part>
+				<number>10</number>
+				<name>Entropia I avec Brot und Wein</name>
+				<description>pour orchestre; poème dit par le récitant</description>
+				<length>6:45</length>
+				<composed>1963</composed>
+			</part>
+			<part>
+				<number>11</number>
+				<name>Entropia II</name>
+				<description>pour musette soliste et orchestre</description>
+				<length>6:21</length>
+				<composed>1964</composed>
+			</part>
+			<part>
+				<number>12</number>
+				<name>Entropia III</name>
+				<description>pour orchestre</description>
+				<length>3:16</length>
+				<composed>1968-1969</composed>
+			</part>
+			<part>
+				<number>13</number>
+				<name>Hyperions Schicksalslied (part 2)</name>
+				<description>pour choeur et instruments sur un texte de Friedrich Hölderlin</description>
+				<length>1:45</length>
+				<composed>1968-1969</composed>
+			</part>
+			<instrument name="flute">
+				<player name="Jacques Zoon"/>
+			</instrument>
+			<instrument name="soprano">
+				<player name="Penelope Walmsley-Clark"/>
+			</instrument>
+			<instrument name="speaker">
+				<player name="Bruno Ganz"/>
+			</instrument>
+			<instrument name="vocal ensemble">
+				<player name="Les Jeunes Solistes"/>
+			</instrument>
+			<player name="Asko Ensemble"/>
+			<conductor>Péter Eötvös</conductor>
+			<composed start="1960" end="1969"/>
+			<recorded start="1992"/>
+			<release>Montaigne 782014</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Serenata III</name>
 			<length>11:24</length>
 			<player name="Studio di Fonologia, RAI"/>
@@ -546,7 +659,7 @@
 		</composition>
 		<composition>
 			<name>Serenata per un satellite</name>
-			<description>arranged for for flutes by R. Fabbriciani</description>
+			<description>arranged for flutes by R. Fabbriciani</description>
 			<length>5:17</length>
 			<instrument name="flute">
 				<player name="Roberto Fabbriciani"/>
