@@ -2,6 +2,95 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+	<composer name="Jakob" surname="Ullmann" born="1958" died="">
+		<composition>
+			<name>Disappearing Musics</name>
+			<description>for six players (more or less)</description>
+			<length>34:14</length>
+			<instrument name="Flöte">
+				<player name="Maruta Staravoitava"/>
+			</instrument>
+			<instrument name="Klarinette">
+				<player name="Pavlos Serassis"/>
+			</instrument>
+			<instrument name="Saxophon">
+				<player name="Patrick Stadler"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Orsolya Sepsi"/>
+				<player name="Éva Csizmadia"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Lucie Martin"/>
+				<player name="Hans-Peter Schulz"/>
+			</instrument>
+			<composed start="1989" end="1991"/>
+			<recorded start="2011"/>
+			<release>Edition RZ 1026-1028</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Solo I + II + III</name>
+			<length>40:42</length>
+			<instrument name="Oboe da caccia">
+				<player name="Molly McDolan"/>
+			</instrument>
+			<instrument name="Fagott">
+				<player name="Dafne Vicente-Sandoval"/>
+			</instrument>
+			<instrument name="Orgel">
+				<player name="Hans-Peter Schulz"/>
+			</instrument>
+			<composed start="1992" end="2010"/>
+			<recorded start="2010"/>
+			<release>Edition RZ 1026-1028</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Komposition für Streichquartett 2</name>
+			<length>47:26</length>
+			<player name="Pellegrini-Quartett"/>
+			<composed start="1997" end="1999"/>
+			<recorded start="2009"/>
+			<release>Edition RZ 1026-1028</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>PRAHA: celetná-karlova-maiselova</name>
+			<length>55:29</length>
+			<instrument name="Stimme">
+				<player name="Jardena Flückiger"/>
+			</instrument>
+			<instrument name="Flöte">
+				<player name="Christoph Bösch"/>
+			</instrument>
+			<instrument name="Fagott">
+				<player name="Dafne Vicente-Sandoval"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Helena Winkelman"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Oliver Margulies"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Ellen Fallowfield"/>
+			</instrument>
+			<instrument name="Kontrabass, Schlagzeug">
+				<player name="Clara Gervais"/>
+			</instrument>
+			<instrument name="Sprecher">
+				<player name="Stephan Schmidt"/>
+			</instrument>
+			<instrument name="Elektronik, Zuspielrealisation">
+				<player name="Leonardo Idrobo Arce"/>
+			</instrument>
+			<composed start="2004" end="2007"/>
+			<recorded start="2008"/>
+			<release>Edition RZ 1026-1028</release>
+			<released>2012</released>
+		</composition>
+	</composer>
 	<composer name="Vladimir" surname="Ussachevsky" born="1911" died="">
 		<composition>
 			<name>Sonic Contours</name>
