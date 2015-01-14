@@ -47,6 +47,37 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Solo III</name>
+			<description>für Orgel</description>
+			<length>1:06:03</length>
+			<instrument name="Orgel">
+				<player name="Hans-Peter Schulz"/>
+			</instrument>
+			<composed start="1992" end="2012"/>
+			<recorded start="2012"/>
+			<release>Edition RZ 1029</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>A catalogue of sounds</name>
+			<description>für Violine, Viola, Violoncello and Ensemble</description>
+			<length>1:13:16</length>
+			<instrument name="Violine">
+				<player name="Freya Ritts-Kirby"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Sophie Renshaw"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Michael M. Kasper"/>
+			</instrument>
+			<player name="Ensemble Oriol Berlin"/>
+			<composed start="1995" end="1997"/>
+			<recorded start="1997"/>
+			<release>Edition RZ 1017</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Komposition für Streichquartett 2</name>
 			<length>47:26</length>
 			<player name="Pellegrini-Quartett"/>
@@ -54,6 +85,15 @@
 			<recorded start="2009"/>
 			<release>Edition RZ 1026-1028</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Voice, books and FIRE 3</name>
+			<length>1:13:16</length>
+			<player name="Ensemble für experimentelle Musik 2006"/>
+			<composed start="2004" end="2005"/>
+			<recorded start="2006"/>
+			<release>Edition RZ 2005</release>
+			<released>2008</released>
 		</composition>
 		<composition>
 			<name>PRAHA: celetná-karlova-maiselova</name>
