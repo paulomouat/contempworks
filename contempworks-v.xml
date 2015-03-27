@@ -398,4 +398,15 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Mario" surname="Verandi" born="1960" died="">
+		<composition>
+			<name>Comme un jeu des images</name>
+			<description></description>
+			<length>13:00</length>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Edition RZ 10016</release>
+			<released>2007</released>
+		</composition>
+	</composer>
 </list>

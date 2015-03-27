@@ -498,6 +498,32 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Schreiben</name>
+			<description>for orchestra</description>
+			<length>26:41</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Sylvain Cambreling</conductor>
+			<player name="Experimentalstudio des SWR"/>
+			<instrument name="sound projection">
+				<player name="Michael Acker"/>
+			</instrument>	
+			<composed start="2003"/>
+			<recorded start="2006"/>
+			<release>Kairos 0013342KAI</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Double (Grido II)</name>
+			<description>for string orchestra</description>
+			<length>24:25</length>
+			<player name="Lucerne Festival Academy Ensemble"/>
+			<conductor>Matthias Hermann</conductor>
+			<composed start="2004"/>
+			<recorded start="2005"/>
+			<release>Kairos 0013342KAI</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Concertini</name>
 			<description>Musik für Ensemble</description>
 			<length>37:06</length>

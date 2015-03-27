@@ -67,6 +67,16 @@
 			<released>2012</released>
 		</composition>
 	</composer>
+	<composer name="Edgar" surname="Barroso" born="1977" died="">
+		<composition>
+			<name>ODD</name>
+			<length>10:35</length>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Edition RZ 10016</release>
+			<released>2007</released>
+		</composition>
+	</composer>
 	<composer name="Béla" surname="Bartók" born="1881" died="1945">
 		<composition>
 			<name>Le Prince de bois</name>
@@ -3130,6 +3140,17 @@
 			<composed start="1999"/>
 			<recorded start="2005"/>
 			<release>Mode 179</release>
+			<released>2007</released>
+		</composition>
+	</composer>
+	<composer name="Ludger" surname="Brümmer" born="1958" died="">
+		<composition>
+			<name>Glasharfe</name>
+			<description></description>
+			<length>19:01</length>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Edition RZ 10016</release>
 			<released>2007</released>
 		</composition>
 	</composer>

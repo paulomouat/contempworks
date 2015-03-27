@@ -3468,6 +3468,18 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Ricardo" surname="Climent" born="1965" died="">
+		<composition>
+			<name>Wallwoodpeckers</name>
+			<description></description>
+			<length>9:06</length>
+			<player name="Elektronischen Studio der TU Berlin"/>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>Edition RZ 10016</release>
+			<released>2007</released>
+		</composition>
+	</composer>
 	<composer name="Robert" surname="Cohen-Solal" born="" died="">
 		<composition>
 			<name>Les Shadoks (version concert)</name>

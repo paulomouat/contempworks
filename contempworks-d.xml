@@ -995,6 +995,18 @@
 			<released>1996</released>
 		</composition>
 	</composer>
+	<composer name="Vladimir" surname="Djambazov" born="1954" died="">
+		<composition>
+			<name>The secret life of a snare drum</name>
+			<description></description>
+			<length>10:52</length>
+			<player name="Elektronischen Studio der TU Berlin"/>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>Edition RZ 10016</release>
+			<released>2007</released>
+		</composition>
+	</composer>
 	<composer name="Franco" surname="Donatoni" born="1927" died="">
 		<composition>
 			<name>Ali</name>

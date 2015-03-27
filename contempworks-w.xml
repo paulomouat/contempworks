@@ -1687,6 +1687,17 @@
 			<released>2009</released>
 		</composition>
 	</composer>
+	<composer name="Paul" surname="Wilson" born="1974" died="">
+		<composition>
+			<name>Through the Rain</name>
+			<description></description>
+			<length>11:59</length>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Edition RZ 10016</release>
+			<released>2007</released>
+		</composition>
+	</composer>
 	<composer name="Scott" surname="Wilson" born="1969" end="">
 		<composition>
 			<name>Böse</name>
