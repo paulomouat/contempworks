@@ -372,6 +372,90 @@
 	</composer>
 	<composer name="Josef Anton" surname="Riedl" born="1929" died="">
 		<composition>
+			<name>Musique Concrète - Studie I</name>
+			<description>Konkrete Klänge</description>
+			<length>2:53</length>
+			<player name="Studio für konkrete Musik (J. A. Riedl)"/>
+			<player name="Siemens-Studio für elektronische Musik"/>
+			<composed start="1951" end="1959"/>
+			<recorded start="1951" end="1959"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Musique Concrète - Studie II</name>
+			<description>Konkrete Klänge, Stimme (Lautgedicht), Harfe</description>
+			<length>2:27</length>
+			<player name="Studio für konkrete Musik (J. A. Riedl)"/>
+			<player name="Siemens-Studio für elektronische Musik"/>
+			<composed start="1951" end="1959"/>
+			<recorded start="1951" end="1959"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Elektronische Musik - Studie I</name>
+			<length>2:17</length>
+			<player name="Siemens Studio für elektronische Musik"/>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Elektronische Musik - Studie II</name>
+			<length>4:55</length>
+			<player name="Siemens Studio für elektronische Musik"/>
+			<composed start="1959"/>
+			<recorded start="1959"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Studie 59 I</name>
+			<description>Elektronische Klänge</description>
+			<description>aus Folge von 4 Studien</description>
+			<length>2:39</length>
+			<player name="Siemens-Studio für elektronische Musik"/>
+			<composed start="1959"/>
+			<recorded start="1959"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Studie 61 I</name>
+			<description>Elektronische Klänge</description>
+			<description>aus Folge von 4 Studien</description>
+			<length>2:08</length>
+			<player name="Siemens-Studio für elektronische Musik"/>
+			<composed start="1961"/>
+			<recorded start="1961"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Studie 62 I</name>
+			<description>Elektronische Klänge</description>
+			<description>aus Folge von 4 Studien</description>
+			<length>2:07</length>
+			<player name="Siemens-Studio für elektronische Musik"/>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Studie 62 II</name>
+			<description>Elektronische Klänge</description>
+			<description>aus Folge von 4 Studien</description>
+			<length>5:46</length>
+			<player name="Siemens-Studio für elektronische Musik"/>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Folge von 4 Studien</name>
 			<length>12:34</length>
 			<part>
@@ -397,8 +481,8 @@
 			<instrument name="Realisation">
 				<player name="Siemens Studio für elektronische Musik"/>
 			</instrument>
-			<composed start="?"/>
-			<recorded start="?"/>
+			<composed start="1959" end="1962"/>
+			<recorded start="1959" end="1962"/>
 			<release>Siemens</release>
 			<released>1998</released>
 		</composition>
@@ -414,6 +498,19 @@
 			<recorded start="1975"/>
 			<release>Siemens</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Paper Music I</name>
+			<description>Fassung für 2 Interpreten</description>
+			<length>4:28</length>
+			<instrument name="verschiedene Papiere">
+				<player name="Michael Hirsch"/>
+				<player name="Florian Tielebier-Langenscheidt"/>
+			</instrument>
+			<composed start="1961" end="1970"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Sendezeichen</name>
@@ -457,6 +554,17 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Komposition Nr. 2</name>
+			<description>Lochstreifengesteuerte elektronische Klänge</description>
+			<description>Musik der VariaVision “Unendliche Fahrt” von Edgar Reitz</description>
+			<length>10:15</length>
+			<player name="Siemens-Studio für elektronische Musik"/>
+			<composed start="1963" end="1965"/>
+			<recorded start="1963" end="1965"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Leonce und Lena</name>
 			<description>(von Georg Büchner)</description>
 			<description>Sprache, Instrumentalklänge, elektronische veränderte Sprache, elektronische veränderte Instrumentalklänge (Zwei Stücke)</description>
@@ -484,6 +592,41 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>aus Leonce und Lena</name>
+			<description>Lautgedicht, Stimmen, Vocoder, präparierte Instrumente</description>
+			<length>1:44</length>
+			<instrument name="Stimme">
+				<player name="Mitwirkende der “Leonce und Lena”-Aufführung an den Münchener Kammerspielen"/>
+			</instrument>
+			<player name="Siemens-Studio für elektronische Musik"/>
+			<composed start="1963" end="1964"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Leonce und Lena b)</name>
+			<description>Elektroakustische Musik, Instrumentalklänge und -geräusche teilweise elektronisch verändert, elektronische Klänge und Geräusche</description>
+			<length>3:38</length>
+			<player name="Siemens-Studio für elektronische Musik"/>
+			<composed start="1963"/>
+			<recorded start="1963"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Vielleicht-Duo</name>
+			<description>Stimmen, Atmen, Wasser, Pfeifinstrument, Mundsirene, Zuspielung</description>
+			<length>3:16</length>
+			<instrument name="Stimmen, Atmen, Wasser, Pfeifinstrument, Mundsirene">
+				<player name="Johannes Göhl"/>
+			</instrument>
+			<composed start="1963" end="1970"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Komposition Nr. 3</name>
 			<description>Elektronische und konkrete Klänge, François Bayle, Alfred Feussner u.a., Stimme</description>
 			<length>6:50</length>
@@ -494,6 +637,165 @@
 			<recorded start="1967"/>
 			<release>Siemens</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Komposition Nr. 3</name>
+			<description>Elektronische und konkrete Klänge</description>
+			<length>6:49</length>
+			<instrument name="Stimme">
+				<player name="François Bayle"/>
+				<player name="Alfred Feussner"/>
+			</instrument>
+			<player name="Siemens Studio für elektronische Musik"/>
+			<composed start="1965" end="1967"/>
+			<recorded start="1965" end="1967"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Polygonum</name>
+			<description>Lautgedicht Duo, Gegenstände, Tierlautinstrumente, Stimme</description>
+			<length>1:25</length>
+			<instrument name="Stimme">
+				<player name="Simone Rist"/>
+			</instrument>
+			<instrument name="Gegenstände, Tierlautinstrumente, Stimme">
+				<player name="Nicolaus A. Huber"/>
+			</instrument>
+			<composed start="1968" end="1970"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>aus Silphium</name>
+			<description>Metallophonic</description>
+			<length>4:08</length>
+			<instrument name="Metallgegenstände">
+				<player name="Johannes Göhl"/>
+				<player name="Peter Michael Hamel"/>
+				<player name="Mike Lewis"/>
+				<player name="Max Nyffeler"/>
+			</instrument>
+			<composed start="1969" end="1970"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Douce-Amère</name>
+			<description>Fassung für Violine, Gitarre, Zither präpariertes Klavier</description>
+			<length>3:06</length>
+			<instrument name="Violine">
+				<player name="Florian Tielebier-Langenscheidt"/>
+			</instrument>
+			<instrument name="Gitarre">
+				<player name="Clemens von Schacky"/>
+			</instrument>
+			<instrument name="Zither">
+				<player name="Johannes Göhl"/>
+			</instrument>
+			<instrument name="präpariertes Klavier">
+				<player name="Fuat Kent"/>
+			</instrument>
+			<composed start="1972" end="1981"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>aus Landschaftsbeschreibung I</name>
+			<description>Papiere, Metallgegenstände, Tierlautinstrumente, elektronische Klänge</description>
+			<length>4:58</length>
+			<instrument name="Papiere, Metallgegenstände, Tierlautinstrumente">
+				<player name="Johannes Göhl"/>
+			</instrument>
+			<player name="Siemens Studio für elektronische Musik"/>
+			<composed start="1973"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Mix Fontana Mix</name>
+			<description>Radiogeräte, 2 Synthesizer</description>
+			<length>4:58</length>
+			<instrument name="Synthesizer">
+				<player name="Lorenzo Ferrero"/>
+				<player name="Alberto Vignani"/>
+			</instrument>
+			<instrument name="Radiogeräte">
+				<player name="Josef Anton Riedl"/>
+			</instrument>
+			<composed start="1974" end="1979"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>aus Lautgedichtfolge g)</name>
+			<description>Stimme, Saxophone</description>
+			<length>4:52</length>
+			<instrument name="Stimme, Saxophone">
+				<player name="Michael Lentz"/>
+			</instrument>
+			<composed start="1977" end="1998"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>	
+		<composition>
+			<name>Zeichnen-Klatschen/Zeichnen-Zeichnen</name>
+			<length>4:00</length>
+			<instrument name="Zeichnen">
+				<player name="Michael Hirsch"/>
+			</instrument>
+			<instrument name="Klatschen">
+				<player name="Stefan Gabanyi"/>
+				<player name="Johannes Göhl"/>
+				<player name="Florian Tielebier-Langenscheidt"/>
+			</instrument>
+			<composed start="1979" end="1981"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Klangsynchronie I Studie 59</name>
+			<length>6:16</length>
+			<instrument name="Synthesizer">
+				<player name="Lorenzo Ferrero"/>
+				<player name="Alberto Vignani"/>
+			</instrument>
+			<instrument name="Tonband">
+				<player name="Josef Anton Riedl"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1981"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Ideir notna fesoj</name>
+			<description>Der Komponist Josef Anton Riedl - Ein radiophonisches Porträt von Helmut Rohm</description>
+			<length>50:53</length>
+			<player name="Bayersichen Rundfunks"/>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Ausfluss, Niederschlag, Spur, Nachhall I</name>
+			<description>Fassung für Phonola, Gesampeltes Klatschen, Händereiben und Stampfen</description>
+			<length>4:17</length>
+			<instrument name="Realisation">
+				<player name="Wolfgang Heisig"/>
+			</instrument>
+			<composed start="2000" end="2007"/>
+			<recorded start="?"/>
+			<release>Edition RZ 1020-21</release>
+			<released>2009</released>
 		</composition>
 	</composer>
 	<composer name="Rolf" surname="Riehm" born="1937" died="">

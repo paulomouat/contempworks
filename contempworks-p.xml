@@ -213,6 +213,69 @@
 			<release>Mode 165</release>
 			<released>2006</released>
 		</composition>
+		<composition>
+			<name>Papalote</name>
+			<description>for treble voice and violin</description>
+			<length>5:49</length>
+			<instrument name="countertenor">
+				<player name="Jake Arditti"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2011"/>
+			<release>Aeon AECD 1439</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Papalote</name>
+			<description>for treble voice and string quartet</description>
+			<length>5:46</length>
+			<instrument name="countertenor">
+				<player name="Jake Arditti"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2007"/>
+			<recorded start="2011"/>
+			<release>Aeon AECD 1439</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Cuerdas del destino</name>
+			<description>for string quartet</description>
+			<length>18:30</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2007" end="2008"/>
+			<recorded start="2011"/>
+			<release>Aeon AECD 1439</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Canciones lunáticas</name>
+			<description>for countertenor and string quartet</description>
+			<length>19:18</length>
+			<instrument name="countertenor">
+				<player name="Jake Arditti"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="2008" end="2009"/>
+			<recorded start="2011"/>
+			<release>Aeon AECD 1439</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>In Memoriam Thomas Kakuska</name>
+			<description>for solo violin</description>
+			<length>9:36</length>
+			<instrument name="violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="2010"/>
+			<recorded start="2013"/>
+			<release>Aeon AECD 1439</release>
+			<released>2014</released>
+		</composition>
 	</composer>
 	<composer name="Bernard" surname="Parmegiani" born="1927" died="2013">
 		<composition>
