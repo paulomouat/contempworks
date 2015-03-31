@@ -5484,6 +5484,45 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Für Kommende Zeiten</name>
+			<length>1:04:00</length>
+			<part>
+				<number>1</number>
+				<name>Verkürzung</name>
+				<length>9:16</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Wach</name>
+				<length>10:00</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Anhalt</name>
+				<length>10:00</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Vorahnung</name>
+				<length>9:29</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Innerhalb</name>
+				<length>8:43</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Wellen</name>
+				<length>10:27</length>
+			</part>
+			<player name="Ensemble für Intuitive Musik Weimar"/>
+			<composed start="1968" end="1970"/>
+			<recorded start="2005"/>
+			<release>Stockhausen-Verlag CD17.1</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Hymnen (Dritte Region)</name>
 			<description>Elektronische und Konkrete Musik mit Orchester</description>
 			<length>41:51</length>
@@ -5582,6 +5621,37 @@
 			<recorded start="1971"/>
 			<release>Stockhausen-Verlag CD15</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Pole</name>
+			<description>für 2</description>
+			<description>integrale version</description>
+			<length>1:14:30</length>
+			<instrument name="Stimmen, Instrumente und Kurzwellen-Empfänger">
+				<player name="Natascha Nikeprelevic"/>
+				<player name="Michael Wetter"/>
+			</instrument>
+			<composed start="1969" end="1970"/>
+			<recorded start="2012"/>
+			<release>Stockhausen-Verlag CD103</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Expo</name>
+			<description>für 3</description>
+			<description>integrale version in 2 Fassungen</description>
+			<length>1:17:00</length>
+			<instrument name="Stimmen, Instrumente und Kurzwellen-Empfänger">
+				<player name="Natascha Nikeprelevic"/>
+				<player name="Michael Wetter"/>
+			</instrument>
+			<instrument name="Computer, Stimme und Kurzwellen-Empfänger">
+				<player name="F. X. Randomiz"/>
+			</instrument>
+			<composed start="1969" end="1970"/>
+			<recorded start="2013"/>
+			<release>Stockhausen-Verlag CD104</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Sternklang</name>
@@ -6651,6 +6721,21 @@
 			<recorded start="2003"/>
 			<release>Stockhausen-Verlag CD69</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Strahlen</name>
+			<description>für einen Schlagzeuger und 10-kanalige Tonaufnahme</description>
+			<length>35:00</length>
+			<instrument name="Vibraphon">
+				<player name="László Hudacsek"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Kathinka Pasveer"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2010"/>
+			<release>Stockhausen-Verlag CD75</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Licht-Bilder</name>
