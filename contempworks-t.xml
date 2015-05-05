@@ -433,6 +433,21 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Untitled</name>
+			<description>for live electronics</description>
+			<length>19:37</length>
+			<instrument name="vocals">
+				<player name="Takehisa Kosugi"/>
+			</instrument>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1982"/>
+			<release>Lovely Music LCD 1601</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Rainforest IV</name>
 			<description>for live electronics</description>
 			<length>46:41</length>
@@ -466,6 +481,21 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Pulsers</name>
+			<description>for live electronics</description>
+			<length>20:26</length>
+			<instrument name="electronic violin (on tape)">
+				<player name="Takehisa Kosugi"/>
+			</instrument>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="1976"/>
+			<release>Lovely Music LCD 1601</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Weatherings</name>
 			<description>for live electronics</description>
 			<length>36:25</length>
@@ -488,6 +518,18 @@
 			<recorded start="1992"/>
 			<release>New World Records 80737-2</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Phonemes</name>
+			<description>for live electronics</description>
+			<length>31:55</length>
+			<instrument name="live electronics">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1981"/>
+			<release>Lovely Music LCD 1601</release>
+			<released>1996</released>
 		</composition>
 		<composition>
 			<name>Webwork</name>
