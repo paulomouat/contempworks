@@ -984,6 +984,168 @@
 			<released>2007</released>
 		</composition>
 	</composer>
+	<composer name="" surname="Gruppo di Improvvisazione Nuova Consonanza" born="" died="">
+		<composition>
+			<name>String Quartet</name>
+			<length>4:13</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Roland Kayn"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Improvvisazione per cinque</name>
+			<length>7:06</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Roland Kayn"/>
+				<player name="Frederic Rzewski"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>RKBA 1675/I</name>
+			<length>5:12</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Roland Kayn"/>
+				<player name="Frederic Rzewski"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Percussione per tutti</name>
+			<length>7:23</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Mirage</name>
+			<length>4:44</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Wenig aber kurz</name>
+			<length>2:00</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>NC Berlino 1969 Auschnitt</name>
+			<length>7:40</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Zum Schluß</name>
+			<length>6:13</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+				<player name="Giovanni Piazza"/>
+				<player name="Jesus Villa Rojo"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Eflot</name>
+			<length>11:15</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+				<player name="Giovanni Piazza"/>
+				<player name="Jesus Villa Rojo"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Soup</name>
+			<length>7:37</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+				<player name="Giovanni Piazza"/>
+				<player name="Jesus Villa Rojo"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>Edition RZ 1009</release>
+			<released>1992</released>
+		</composition>
+	</composer>
 	<composer name="Sofia" surname="Gubaidulina" born="1931" died="">
 		<composition>
 			<name>String Quartet No. 3</name>
