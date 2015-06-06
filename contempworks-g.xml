@@ -137,6 +137,18 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>How Now</name>
+			<description>for piano</description>
+			<length>26:31</length>
+			<instrument name="Piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="2008"/>
+			<release>MDG 613 1600-2</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Music in Similar Motion</name>
 			<description>for ensemble</description>
 			<length>12:38</length>
@@ -145,6 +157,18 @@
 			<recorded start="1999"/>
 			<release>Stradivarius STR 33602</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Music in Similar Motion</name>
+			<description>for organ</description>
+			<length>18:14</length>
+			<instrument name="Organ">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="2008"/>
+			<release>MDG 613 1600-2</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Contrary Motion</name>
@@ -195,6 +219,18 @@
 			<recorded start="1973"/>
 			<release>Nonesuch 79326-2</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Music in Fifths</name>
+			<description>for organ</description>
+			<length>22:07</length>
+			<instrument name="Organ">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="2008"/>
+			<release>MDG 613 1600-2</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Music in Similar Motion</name>

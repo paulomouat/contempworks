@@ -2983,6 +2983,32 @@
 			<released>2011</released>
 		</composition>
 	</composer>
+	<composer name="Terry" surname="Riley" born="1935" died="">
+		<composition>
+			<name>Keyboard Study #1</name>
+			<description>for piano</description>
+			<length>21:39</length>
+			<instrument name="Piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="2000"/>
+			<release>MDG 613 1135-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Keyboard Study #2</name>
+			<description>for piano</description>
+			<length>24:06</length>
+			<instrument name="Piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="2000"/>
+			<release>MDG 613 1135-2</release>
+			<released>2002</released>
+		</composition>
+	</composer>
 	<composer name="Jean-Claude" surname="Risset" born="1938" died="">
 		<composition>
 			<name>Sud</name>

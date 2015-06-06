@@ -1965,6 +1965,20 @@
 			<released>1990</released>
 		</composition>
 	</composer>
+	<composer name="Steffen" surname="Schleiermacher" born="1960" died="">
+		<composition>
+			<name>Hommage à RILEY - REICHlich verGLASSt</name>
+			<description>for piano</description>
+			<length>17:38</length>
+			<instrument name="Piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>MDG 613 1135-2</release>
+			<released>2002</released>
+		</composition>
+	</composer>
 	<composer name="Dieter" surname="Schnebel" born="1930" died="">
 		<composition>
 			<name>Stücke</name>
@@ -4844,6 +4858,18 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Zyklus</name>
+			<description>for solo percussionist</description>
+			<length>12:53</length>
+			<instrument name="percussion">
+				<player name="Tristan Fry"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="1974" end="1975"/>
+			<release>Warner 50999 6 95598 2</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Refrain</name>
 			<description>für drei Spieler</description>
 			<length>11:40</length>
@@ -5400,6 +5426,30 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Spiral</name>
+			<description>for a soloist</description>
+			<length>15:07</length>
+			<instrument name="electronium, short-wave radio">
+				<player name="Harald Bojé"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1971"/>
+			<release>Warner 50999 6 95598 2</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Spiral</name>
+			<description>for a soloist</description>
+			<length>16:08</length>
+			<instrument name="zither, bamboo flute, reed pipe, synthesizer and short-wave radio">
+				<player name="Peter Eötvös"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1971"/>
+			<release>Warner 50999 6 95598 2</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Aus den Sieben Tagen</name>
 			<length>6:57:32</length>
 			<part>
@@ -5523,6 +5573,44 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Japan</name>
+			<description>for small ensemble</description>
+			<description>Intuitive Music from the cycle “Für Kommende Zeiten”</description>
+			<length>11:41</length>
+			<instrument name="electronium, woodblock">
+				<player name="Harald Bojé"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Christoph Caskel"/>
+			</instrument>
+			<instrument name="electrochord, woodblock">
+				<player name="Peter Eötvös"/>
+			</instrument>
+			<composed start="1968" end="1970"/>
+			<recorded start="1971"/>
+			<release>Warner 50999 6 95598 2</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Wach</name>
+			<description>for small ensemble</description>
+			<description>Intuitive Music from the cycle “Für Kommende Zeiten”</description>
+			<length>19:57</length>
+			<instrument name="electronium">
+				<player name="Harald Bojé"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Christoph Caskel"/>
+			</instrument>
+			<instrument name="electrochord">
+				<player name="Peter Eötvös"/>
+			</instrument>
+			<composed start="1968" end="1970"/>
+			<recorded start="1971"/>
+			<release>Warner 50999 6 95598 2</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Hymnen (Dritte Region)</name>
 			<description>Elektronische und Konkrete Musik mit Orchester</description>
 			<length>41:51</length>
@@ -5635,6 +5723,21 @@
 			<recorded start="2012"/>
 			<release>Stockhausen-Verlag CD103</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Pole</name>
+			<description>for 2</description>
+			<length>21:56</length>
+			<instrument name="electronium, short-wave radio">
+				<player name="Harald Bojé"/>
+			</instrument>
+			<instrument name="electrochord, short-wave radio">
+				<player name="Peter Eötvös"/>
+			</instrument>
+			<composed start="1969" end="1970"/>
+			<recorded start="1971"/>
+			<release>Warner 50999 6 95598 2</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Expo</name>
@@ -5799,6 +5902,21 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Tierkreis</name>
+			<description>for trumpet and organ</description>
+			<length>26:18</length>
+			<instrument name="trumpet">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<instrument name="organ">
+				<player name="Margareta Hulholz"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1992"/>
+			<release>Warner 50999 6 95598 2</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Musik im Bauch</name>
 			<description>für 6 Schlagzeuger, Spieluhren und Klangregisseur</description>
 			<length>34:00</length>
@@ -5914,6 +6032,18 @@
 			<recorded start="1994"/>
 			<release>Stockhausen-Verlag CD32ABC</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>In Freundschaft</name>
+			<description>for E-flat trumpet with fourth-step valve</description>
+			<length>16:41</length>
+			<instrument name="trumpet">
+				<player name="Markus Stockhausen"/>
+			</instrument>
+			<composed start="1977" end="1997"/>
+			<recorded start="1997"/>
+			<release>Warner 50999 6 95598 2</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Piccolo</name>
