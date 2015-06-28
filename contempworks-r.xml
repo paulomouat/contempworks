@@ -2968,6 +2968,18 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Et Lux</name>
+			<description>Für Vokalensemble und Streichquartett</description>
+			<length>1:01:32</length>
+			<player name="Huelgas Ensemble"/>
+			<player name="Minguet Quartett"/>
+			<conductor>Paul Van Nevel</conductor>
+			<composed start="2009"/>
+			<recorded start="2014"/>
+			<release>ECM New Series 2404</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Dyade</name>
 			<description>for violin and double bass</description>
 			<length>12:35</length>
