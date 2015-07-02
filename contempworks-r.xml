@@ -1056,6 +1056,41 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Vier Gedichte aus Atemwende von Paul Celan</name>
+			<description>for voice and piano</description>
+			<length>8:22</length>
+			<part>
+				<number>I</number>
+				<name>In den Flüssen nördlich der Zukunft</name>
+				<length>1:32</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Die Zahlen, im Bund</name>
+				<length>1:45</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Stehen, im Schatten des Wundenmals</name>
+				<length>1:47</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Fadensonnen über der grauschwarzen Ödnis</name>
+				<length>3:18</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Richard Salter"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1982"/>
+			<release>CPO 999 049-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Dis-Kontur</name>
 			<description>für großes Orchester</description>
 			<length>22:44</length>
@@ -1246,6 +1281,66 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Hölderlin-Fragmente</name>
+			<description>for voice and piano</description>
+			<length>11:52</length>
+			<part>
+				<number>I</number>
+				<name>57 Ähnlich, dem Manne, der Menschen frisset</name>
+				<length>1:20</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>92 wie Wolken um die Zeiten legt</name>
+				<length>1:00</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>19 An meine Schwester</name>
+				<length>1:42</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>14 Aber nun ruhet er eine Weile</name>
+				<length>1:35</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>27 am stürzenden Strom</name>
+				<length>0:11</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>17 Empedokles auf dem Ätna</name>
+				<length>2:07</length>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>38 Denn nirgend bleibt er</name>
+				<length>1:15</length>
+			</part>
+			<part>
+				<number>VIII</number>
+				<name>22 Gestalt und Geist</name>
+				<length>1:50</length>
+			</part>
+			<part>
+				<number>IX</number>
+				<name>4 Lied des Schweden</name>
+				<length>0:52</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Richard Salter"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1976" end="1977"/>
+			<recorded start="1982"/>
+			<release>CPO 999 049-2</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Klavierstück Nr. 6</name>
 			<description><q>Bagatellen</q></description>
 			<length>14:33</length>
@@ -1288,6 +1383,47 @@
 			<recorded start="2007" end="2008"/>
 			<release>Neos 10717/18</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Neue Alexanderlieder</name>
+			<description>Five poems by Ernst Herbeck</description>
+			<description>for baritone and piano</description>
+			<length>12:09</length>
+			<part>
+				<number>I</number>
+				<name>Die Frau in Mir</name>
+				<length>2:54</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Der Herbst</name>
+				<length>3:26</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Ich mag euch alle nicht</name>
+				<length>1:12</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Zwei Segel</name>
+				<length>2:26</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Der Flieder</name>
+				<length>2:11</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Richard Salter"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1982"/>
+			<release>CPO 999 049-2</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>String Quartet No. 4</name>
@@ -1401,6 +1537,60 @@
 			<recorded start="2002"/>
 			<release>Metier MSV CD92068</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Wölfli-Liederbuch</name>
+			<description>for voice and piano (2 drums ad libitum)</description>
+			<length>15:16</length>
+			<part>
+				<number>I</number>
+				<name>Ich habe Dich, geliebet</name>
+				<length>1:27</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Ich habe dich geliebet</name>
+				<length>1:37</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Auf dieser Brücke, steht ein Mann!</name>
+				<length>1:47</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Das Schimmern zweier Steerne</name>
+				<length>3:15</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Ich kenn&apos; ein wunderschönes Kind</name>
+				<length>2:00</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>Graab-Innschrift 1868</name>
+				<length>1:30</length>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>Wölfli arbeitet wie irr. schreibt...</name>
+				<length>3:40</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Richard Salter"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<instrument name="drums">
+				<player name="Franz Lang"/>
+				<player name="Martin Rosenthal"/>
+			</instrument>
+			<composed start="1980" end="1981"/>
+			<recorded start="1982"/>
+			<release>CPO 999 049-2</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Tutuguri</name>
