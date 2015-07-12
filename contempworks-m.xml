@@ -1256,6 +1256,18 @@
 			<released>1996</released>
 		</composition>
 	</composer>
+	<composer name="Joanne" surname="Metcalf" born="1958" died="">
+		<composition>
+			<name>Il nome del bel fior</name>
+			<length>21:21</length>
+			<player name="Singer Pur"/>
+			<player name="The Hilliard Ensemble"/>
+			<composed start="1998"/>
+			<recorded start="2003"/>
+			<release>Oehms Classics OC 354</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="András" surname="Mihály" born="1917" died="1993">
 		<composition>
 			<name>Drei Sätze für Kammerensemble</name>
@@ -1530,6 +1542,17 @@
 			<recorded start="2006"/>
 			<release>Neos 10724</release>
 			<released>2007</released>
+		</composition>
+	</composer>
+	<composer name="Ivan" surname="Moody" born="1964" died="">
+		<composition>
+			<name>Lamentation of the Virgin</name>
+			<length>13:18</length>
+			<player name="Singer Pur"/>
+			<composed start="1995"/>
+			<recorded start="2004"/>
+			<release>Oehms Classics OC 354</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Adrian" surname="Moore" born="1969" died="">

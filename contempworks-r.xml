@@ -2980,12 +2980,69 @@
 			<name>Sieben Passions-Texte</name>
 			<description>for 6 voices</description>
 			<length>28:34</length>
+			<part>
+				<number>I</number>
+				<name>Tristis est anima mea</name>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Ecce vidimus eum</name>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Velum templi scissum est</name>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Tenebrae factae sunt</name>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Caligaverunt oculi mei</name>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>Recessit pastor noster</name>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>Aestimatus sum</name>
+			</part>
 			<player name="Exaudi"/>
 			<conductor>James Weeks</conductor>
 			<composed start="2001" end="2006"/>
 			<recorded start="2012"/>
 			<release>Aeon AECD 1441</release>
 			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Passionsmotetten (I-IV)</name>
+			<length>14:58</length>
+			<part>
+				<number>I</number>
+				<name>Tristis est anima mea</name>
+				<length>2:47</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Ecce vidimus eum</name>
+				<length>3:56</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Velum templi scissum est</name>
+				<length>3:30</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Tenebrae factae sunt</name>
+				<length>4:45</length>
+			</part>
+			<player name="Singer Pur"/>
+			<composed start="2001" end="2006"/>
+			<recorded start="2004"/>
+			<release>Oehms Classics OC 354</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Vier Studien zu einem Klarinettenquintett</name>
