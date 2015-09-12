@@ -423,6 +423,18 @@
 			<release>Astrée-Auvidis E 8741</release>
 			<released>1990</released>
 		</composition>
+		<composition score="Y">
+			<name>Variazioni canoniche</name>
+			<description>sulla serie dell’op. 41 di Arnold Schönberg</description>
+			<description>per orchestra da camera</description>
+			<length>25:48</length>
+			<player name="Sinfonieorchester Basel"/>
+			<conductor>Mario Venzago</conductor>
+			<composed start="1950"/>
+			<recorded start="2000"/>
+			<release>Col Legno WWE 1CD 31822</release>
+			<released>2001</released>
+		</composition>
 		<composition>
 			<name>Polifonica-Monodia-Ritmica</name>
 			<description>für sechs Instrumente und Schlagzeug</description>
@@ -467,6 +479,17 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Incontri</name>
+			<description>per 24 strumenti</description>
+			<length>6:49</length>
+			<player name="Sinfonieorchester Basel"/>
+			<conductor>Mario Venzago</conductor>
+			<composed start="1955"/>
+			<recorded start="2000"/>
+			<release>Col Legno WWE 1CD 31822</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Il canto sospeso</name>
 			<description>für Sopran-, Alt- und Tenor-Solo, gemischten Chor und Orchester</description>
 			<length>37:19</length>
@@ -493,6 +516,20 @@
 			<recorded start="1992"/>
 			<release>Sony SK 53 360</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Varianti</name>
+			<description>Musica per violino solo, archi e legni</description>
+			<length>26:41</length>
+			<instrument name="violin">
+				<player name="Mark Kaplan"/>
+			</instrument>
+			<player name="Sinfonieorchester Basel"/>
+			<conductor>Mario Venzago</conductor>
+			<composed start="1957"/>
+			<recorded start="2000"/>
+			<release>Col Legno WWE 1CD 31822</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>Cori di Didone</name>
@@ -1366,6 +1403,17 @@
 			<recorded start="1989"/>
 			<release>Astrée-Auvidis E 8741</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>No hay caminos, hay que caminar... Andrej Tarkowskij</name>
+			<description>per 7 cori</description>
+			<length>25:44</length>
+			<player name="Sinfonieorchester Basel"/>
+			<conductor>Mario Venzago</conductor>
+			<composed start="1987"/>
+			<recorded start="2000"/>
+			<release>Col Legno WWE 1CD 31822</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>No hay caminos, hay que caminar... Andrej Tarkowskij</name>
