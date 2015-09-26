@@ -2082,6 +2082,66 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Europera 3</name>
+			<length>1:10:00</length>
+			<instrument name="soprano">
+				<player name="Susan Hanson"/>
+			</instrument>
+			<instrument name="mezzo-soprano">
+				<player name="Ruby Hinds"/>
+				<player name="Patricia McAfee"/>
+			</instrument>
+			<instrument name="tenor">
+				<player name="Michael Lyon"/>
+				<player name="Richard Powell"/>
+			</instrument>
+			<instrument name="bass">
+				<player name="Kevin Bell"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Vicki Ray"/>
+				<player name="Brian Pezzone"/>
+			</instrument>
+			<instrument name="record players">
+				<player name="Hannes Geiger"/>
+				<player name="Joseph Giri"/>
+				<player name="William Houston"/>
+				<player name="Dren McDonald"/>
+				<player name="Ronda Rindone"/>
+				<player name="Clarice Ross"/>
+			</instrument>
+			<instrument name="&quot;Truckera&quot; tape">
+				<player name="Scott Fraser"/>
+			</instrument>
+			<player name="Long Beach Opera"/>
+			<composed start="1990"/>
+			<recorded start="1993"/>
+			<release>Mode 38/39</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Europera 4</name>
+			<length>30:08</length>
+			<instrument name="soprano">
+				<player name="Anne-Marie Ketchum"/>
+				<player name="Daisetta Kim"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Brian Pezzone"/>
+			</instrument>
+			<instrument name="Victrola (78)">
+				<player name="Jerry Wheeler"/>
+			</instrument>
+			<instrument name="&quot;Truckera&quot; tape">
+				<player name="Scott Fraser"/>
+			</instrument>
+			<player name="Long Beach Opera"/>
+			<composed start="1990"/>
+			<recorded start="1993"/>
+			<release>Mode 38/39</release>
+			<released>1995</released>
+		</composition>
+		<composition>
 			<name>Two4</name>
 			<description>for violin and sho</description>
 			<length>30:16</length>
