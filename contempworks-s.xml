@@ -4230,6 +4230,16 @@
 	</composer>
 	<composer name="Mathias" surname="Spahlinger" born="1944" died="">
 		<composition>
+			<name>funf sätze für zwei klaviere</name>
+			<description>pour 2 pianos</description>
+			<length>7:07</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1969"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Sotto voce</name>
 			<length>5:23</length>
 			<player name="Schola Cantorum Stuttgart"/>
@@ -4240,6 +4250,79 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>entlöschend</name>
+			<description>pour tamtam</description>
+			<length>20:13</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1974"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>vier stücke</name>
+			<description>pour soprano, clarinette, violon, violoncelle, piano</description>
+			<length>3:37</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1975"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>128 erfüllte augenblicke</name>
+			<name>version I</name>
+			<description>pour soprano, clarinette et violoncelle</description>
+			<length>5:55</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1976"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>128 erfüllte augenblicke</name>
+			<name>version II</name>
+			<description>pour soprano, clarinette et violoncelle</description>
+			<length>2:26</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1976"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>128 erfüllte augenblicke</name>
+			<name>version III</name>
+			<description>pour soprano, clarinette et violoncelle</description>
+			<length>4:27</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1976"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>éphémère</name>
+			<description>pour percussion, &quot;instruments véritables&quot; et piano</description>
+			<length>23:35</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1977"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>aussageverweigerung / gegendarstellung</name>
+			<description>pour 2 clarinettes, 2 saxophones, violoncelle, contrebasse et 2 pianos</description>
+			<length>12:54</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1981"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Apo do</name>
 			<description>für Streichquartett</description>
 			<length>12:06</length>
@@ -4248,6 +4331,27 @@
 			<recorded start="1994"/>
 			<release>Kairos 0012692KAI</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>musica impura</name>
+			<description>pour voix, guitarre et percussions</description>
+			<length>8:26</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1983"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>adieu m&apos;amour</name>
+			<description>hommage à guillaume dufay</description>
+			<description>pour violon et violoncelle</description>
+			<length>12:17</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1983"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Furioso</name>
@@ -4270,6 +4374,16 @@
 			<recorded start="1993"/>
 			<release>Col Legno CD1 31905</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>presentimientos</name>
+			<description>pour trio à cordes</description>
+			<length>29:54</length>
+			<player name="Ensemble Recherche"/>
+			<composed start="1993"/>
+			<recorded start="1992" end="1995"/>
+			<release>Accord 206222</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Gegen unendlich</name>
