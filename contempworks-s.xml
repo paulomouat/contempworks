@@ -4271,7 +4271,7 @@
 		</composition>
 		<composition>
 			<name>128 erfüllte augenblicke</name>
-			<name>version I</name>
+			<description>version I</description>
 			<description>pour soprano, clarinette et violoncelle</description>
 			<length>5:55</length>
 			<player name="Ensemble Recherche"/>
@@ -4282,7 +4282,7 @@
 		</composition>
 		<composition>
 			<name>128 erfüllte augenblicke</name>
-			<name>version II</name>
+			<description>version II</description>
 			<description>pour soprano, clarinette et violoncelle</description>
 			<length>2:26</length>
 			<player name="Ensemble Recherche"/>
@@ -4293,7 +4293,7 @@
 		</composition>
 		<composition>
 			<name>128 erfüllte augenblicke</name>
-			<name>version III</name>
+			<description>version III</description>
 			<description>pour soprano, clarinette et violoncelle</description>
 			<length>4:27</length>
 			<player name="Ensemble Recherche"/>
