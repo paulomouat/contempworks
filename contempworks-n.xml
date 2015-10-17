@@ -532,6 +532,25 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>La terra e la compagna</name>
+			<description>Canti di Cesare Pavese</description>
+			<description>für Sopran- und Tenor-Solo, Chor und Instrumente</description>
+			<length>7:45</length>
+			<instrument name="Sopran">
+				<player name="Margot Laminet"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Albert Gassner"/>
+			</instrument>
+			<player name="Chor der Bayersichen Rundfunks"/>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1957" end="1958"/>
+			<recorded start="1961"/>
+			<release>Edition RZ 1031-32</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Cori di Didone</name>
 			<description>per coro misto e percussione</description>
 			<length>9:53</length>
@@ -1211,6 +1230,46 @@
 			<release>Neos 10801/02</release>
 			<released>2008</released>
 		</composition>
+		<composition>
+			<name>Guai ai gelidi mostri</name>
+			<description>für zwei Altstimmen, Ensemble und Live-Elektronik</description>
+			<length>30:16</length>
+			<instrument name="Alt">
+				<player name="Elisabeth Laurence"/>
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="Flöte">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="Klarinette">
+				<player name="Ciro Scarponi"/>
+			</instrument>
+			<instrument name="Tuba">
+				<player name="Giancarlo Schiaffini"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Charlotte Geselbracht"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Christine Theus"/>
+			</instrument>
+			<instrument name="Kontrabass">
+				<player name="Stefano Scodanibbio"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Luigi Nono"/>
+				<player name="Hans Peter Haller"/>
+			</instrument>
+			<instrument name="Gesamtleitung">
+				<player name="Luigi Nono"/>
+			</instrument>
+			<player name="Experimentalstudio des SWR"/>
+			<conductor>Roberto Cecconi</conductor>
+			<composed start="1983"/>
+			<recorded start="1985"/>
+			<release>Edition RZ 1031-32</release>
+			<released>2014</released>
+		</composition>
 		<composition score="Y">
 			<name>A Carlo Scarpa, architetto, ai suoi infiniti possibili</name>
 			<description>pour orchestre</description>
@@ -1221,6 +1280,17 @@
 			<recorded start="1989"/>
 			<release>Astrée-Auvidis E 8741</release>
 			<released>1990</released>
+		</composition>
+		<composition score="Y">
+			<name>A Carlo Scarpa, architetto, ai suoi infiniti possibili</name>
+			<description>für Orchester in Mikrointervallen</description>
+			<length>9:32</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1984"/>
+			<recorded start="1986"/>
+			<release>Edition RZ 1031-32</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Prometeo - Tragedia dell’ascolto</name>
@@ -1258,7 +1328,7 @@
 			<released>2007</released>
 		</composition>
 		<composition>
-			<name>A Pierre, Dell’Azzurro Silenzio, Inquietum</name>
+			<name>A Pierre. Dell’Azzurro Silenzio, Inquietum</name>
 			<description>a più cori, per flauto contrabbasso in Sol, clarinetto contrabasso in Si bemolle e live electronics</description>
 			<length>9:43</length>
 			<instrument name="Flauto">
@@ -1278,7 +1348,7 @@
 			<released>1991</released>
 		</composition>
 		<composition>
-			<name>A Pierre, Dell’azzurro silenzio, inquietum</name>
+			<name>A Pierre. Dell’azzurro silenzio, inquietum</name>
 			<description>for bass flute, double bass clarinet and live electronics</description>
 			<length>9:25</length>
 			<instrument name="flute">
@@ -1298,6 +1368,28 @@
 			<recorded start="2010"/>
 			<release>Neos 11122</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>A Pierre. Dell'azzurro silenzio, inquietum</name>
+			<description>a più cori, für Kontrabassflöte in G, Kontrabassklarinette in B und Live-Elektronik</description>
+			<length>8:24</length>
+			<instrument name="Kontrabassflöte">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="Kontrabassklarinette">
+				<player name="Ciro Scarponi"/>
+			</instrument>
+			<instrument name="Klangregie">
+				<player name="Hans Peter Haller"/>
+			</instrument>
+			<instrument name="Gesamtleitung">
+				<player name="Luigi Nono"/>
+			</instrument>
+			<player name="Experimentalstudio des SWR"/>
+			<composed start="1985"/>
+			<recorded start="1985"/>
+			<release>Edition RZ 1031-32</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Omaggio a György Kurtág</name>
@@ -1364,6 +1456,33 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Caminantes... Ayacucho</name>
+			<description>für Mezzosopran, Flöte, kleinen und großen Chor, Orgel, drei Chöre (Orchestergruppen) und Live-Elektronik</description>
+			<length>35:08</length>
+			<instrument name="Mezzosopran">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<player name="Wiener Konzertchor"/>
+			<instrument name="Einstudierung">
+				<player name="Gottfried Rabl"/>
+			</instrument>
+			<player name="Solistenchor Freiburg"/>
+			<instrument name="Einstudierung">
+				<player name="André Richard"/>
+			</instrument>
+			<player name="Ensemble Modern Frankfurt"/>
+			<conductor>Ingo Metzmacher</conductor>
+			<player name="Experimentalstudio des SWR"/>
+			<instrument name="Klangregie">
+				<player name="André Richard"/>
+				<player name="Rudolf Strauß"/>
+			</instrument>
+			<composed start="1986" end="1987"/>
+			<recorded start="1995"/>
+			<release>Edition RZ 1031-32</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Risonanze erranti</name>
 			<description>a Massimo Cacciari</description>
 			<description>for contralto, flute, tuba, percussionists and live electronics</description>
@@ -1425,6 +1544,17 @@
 			<recorded start="2004"/>
 			<release>Kairos 0012512KAI</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>No hay caminos, hay que caminar... Andrej Tarkowskij</name>
+			<description>für sieben Orchestergruppen</description>
+			<length>25:39</length>
+			<player name="hr-Sinfonieorchester"/>
+			<conductor>Friedrich Goldmann</conductor>
+			<composed start="1987"/>
+			<recorded start="1994"/>
+			<release>Edition RZ 1031-32</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Post-Prae-Ludium</name>
