@@ -253,6 +253,17 @@
 			<released>2012</released>
 		</composition>
 	</composer>
+	<composer name="Erik Mikael" surname="Karlsson" born="1967" died="">
+		<composition>
+			<name>Intensities and Interludes</name>
+			<length>12:23</length>
+			<player name="Danish Radio, Copenhagen"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Richard" surname="Karpen" born="1957" died="">
 		<composition>
 			<name>Eclipse</name>
@@ -536,6 +547,21 @@
 			<recorded start="1996"/>
 			<release>RZ 2003-4</release>
 			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Patrick" surname="Kosk" born="1951" died="">
+		<composition>
+			<name>IceBice</name>
+			<length>11:07</length>
+			<instrument name="flutes">
+				<player name="Heikki Halme"/>
+			</instrument>
+			<player name="Private studio"/>
+			<player name="TU Berlin"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Wlodzimierz" surname="Kotonski" born="1925" died="">

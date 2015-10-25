@@ -1711,6 +1711,15 @@
 	</composer>
 	<composer name="Trevor" surname="Wishart" born="1946" end="">
 		<composition>
+			<name>Two Women - Four Voiceprints</name>
+			<length>14:12</length>
+			<player name="Private studio"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Encounters in the Republic of Heaven</name>
 			<description>Akt 1-4</description>
 			<length>1:15:00</length>

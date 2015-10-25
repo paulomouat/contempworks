@@ -514,6 +514,17 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Phonurgie</name>
+			<description>Cycle du son</description>
+			<length>12:29</length>
+			<player name="Private studio"/>
+			<player name="INA/GRM, Paris"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>En cuerdas</name>
 			<description>Jalons</description>
 			<length>11:25</length>
@@ -1005,6 +1016,17 @@
 			<recorded start="2005"/>
 			<release>Edition RZ 10016</release>
 			<released>2007</released>
+		</composition>
+	</composer>
+	<composer name="François" surname="Donato" born="1963" died="">
+		<composition>
+			<name>Sept Jours</name>
+			<length>10:34</length>
+			<player name="INA/GRM, Paris"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Franco" surname="Donatoni" born="1927" died="">

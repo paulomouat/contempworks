@@ -1293,6 +1293,17 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Robin" surname="Minard" born="1953" died="">
+		<composition>
+			<name>4 Räume</name>
+			<length>14:55</length>
+			<player name="TU Berlin"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Diego" surname="Minciacchi" born="1955" died="">
 		<composition>
 			<name>Klavierstück Nr.4: Vae Victis</name>
@@ -1409,6 +1420,22 @@
 			<recorded start="2004"/>
 			<release>Col Legno WWE 1SACD 20615</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>uluru 1</name>
+			<description>for prepared piano, electronics and tape</description>
+			<length>14:05</length>
+			<instrument name="piano">
+				<player name="Thomas Larcher"/>
+			</instrument>
+			<instrument name="live electronics">
+				<player name="Wolfgang Mitterer"/>
+			</instrument>
+			<player name="Private studio"/>
+			<composed start="1998" end="1999"/>
+			<recorded start="1998"/>
+			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>bwv.org</name>

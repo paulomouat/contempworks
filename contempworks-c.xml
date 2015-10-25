@@ -2952,6 +2952,17 @@
 			<released>1995</released>
 		</composition>
 	</composer>
+	<composer name="Werner" surname="Cee" born="1953" died="">
+		<composition>
+			<name>Berlin Indoors (Slow motion)</name>
+			<length>10:14</length>
+			<player name="TU Berlin"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Friedrich" surname="Cerha" born="1926" died="">
 		<composition>
 			<name>Ein Buch von der Minne</name>
@@ -3513,6 +3524,17 @@
 			<released>2012</released>
 		</composition>
 	</composer>
+	<composer name="Unsuk" surname="Chin" born="1961" died="">
+		<composition>
+			<name>Allegro ma non troppo</name>
+			<length>13:31</length>
+			<player name="TU Berlin"/>
+			<composed start="1993" end="1994"/>
+			<recorded start="1994"/>
+			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
+		</composition>
+	</composer>
 	<composer name="Nicola" surname="Cisternino" born="1957" died="">
 		<composition>
 			<name>Xöömij</name>
@@ -3664,7 +3686,7 @@
 	</composer>
 	<composer name="Sebastian" surname="Currier" born="1959" died="">
 		<composition>
-			<name>Time Machines</name>
+			<name>Time Matthiases</name>
 			<description>for violin and orchestra</description>
 			<length>29:05</length>
 			<instrument name="Violin">
