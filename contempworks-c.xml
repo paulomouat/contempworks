@@ -964,6 +964,16 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Imaginary Landscape No. 5</name>
+			<description>Tape</description>
+			<length>3:00</length>
+			<player name="Langham Research Centre"/>
+			<composed start="1952"/>
+			<recorded start="2013"/>
+			<release>Sub Rosa SR361</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>4'33&quot;</name>
 			<description>(open windows version)</description>
 			<description>version for saxophone trio</description>
@@ -1225,6 +1235,19 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Fontana Mix with Aria</name>
+			<description>Radio, 2 open-reel tape machines, synthesizer, voice</description>
+			<length>13:36</length>
+			<instrument name="mezzo-soprano">
+				<player name="Catherine Carter"/>
+			</instrument>
+			<player name="Langham Research Centre"/>
+			<composed start="1958"/>
+			<recorded start="2013"/>
+			<release>Sub Rosa SR361</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Indeterminacy</name>
 			<description>Ninety Stories by John Cage, with Music</description>
 			<length>1:30:22</length>
@@ -1265,6 +1288,36 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Cartridge Music</name>
+			<description>Phonograph cartridges, auxiliary sounds</description>
+			<length>10:00</length>
+			<player name="Langham Research Centre"/>
+			<composed start="1960"/>
+			<recorded start="2013"/>
+			<release>Sub Rosa SR361</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>WBAI</name>
+			<description>Sine wave oscillator, record player, synthesizer, radio</description>
+			<length>7:00</length>
+			<player name="Langham Research Centre"/>
+			<composed start="1960"/>
+			<recorded start="2013"/>
+			<release>Sub Rosa SR361</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Variations I</name>
+			<description>Record player, cassette tape, radio, spoken word</description>
+			<length>10:00</length>
+			<player name="Langham Research Centre"/>
+			<composed start="1960"/>
+			<recorded start="2013"/>
+			<release>Sub Rosa SR361</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Atlas Eclipticalis</name>
 			<description>for orchestra</description>
 			<length>29:44</length>
@@ -1298,6 +1351,16 @@
 			<recorded start="1983"/>
 			<release>Mode 3/6</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>0'00&quot;</name>
+			<description>Amplified objects/action</description>
+			<length>2:36</length>
+			<player name="Langham Research Centre"/>
+			<composed start="1962"/>
+			<recorded start="2013"/>
+			<release>Sub Rosa SR361</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Klangexperimente</name>

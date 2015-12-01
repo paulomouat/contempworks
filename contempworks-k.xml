@@ -85,6 +85,34 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Acustica</name>
+			<description>pour sources sonores expérimentales et haut-parleurs</description>
+			<description>première version</description>
+			<length>38:58</length>
+			<player name="TAM Theater, Krefeld"/>
+			<instrument name="Tape playback">
+				<player name="Mauricio Kagel"/>
+			</instrument>
+			<composed start="1968" end="1970"/>
+			<recorded start="2007"/>
+			<release>Zig-Zag Territoires ZZT 080403</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Acustica</name>
+			<description>pour sources sonores expérimentales et haut-parleurs</description>
+			<description>seconde version</description>
+			<length>35:53</length>
+			<player name="TAM Theater, Krefeld"/>
+			<instrument name="Tape playback">
+				<player name="Mauricio Kagel"/>
+			</instrument>
+			<composed start="1968" end="1970"/>
+			<recorded start="2007"/>
+			<release>Zig-Zag Territoires ZZT 080403</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>Atem</name>
 			<description>für einen Bläser</description>
 			<length>10:31</length>
