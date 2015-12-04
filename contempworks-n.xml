@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+-->
 <list>
 	<composer name="Conlon" surname="Nancarrow" born="1912" died="1997">
 		<composition>
@@ -393,6 +397,17 @@
 			<recorded start="1997"/>
 			<release>Phono Suecia PSCD 106 1-2</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Quantitäten</name>
+			<length>4:21</length>
+			<instrument name="piano">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>Neos 11213</release>
+			<released>2012</released>
 		</composition>
 	</composer>
 	<composer name="Ivo" surname="Nilsson" born="1966" died="">

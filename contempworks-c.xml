@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+-->
 <list>
 	<composer name="John" surname="Cage" born="1912" died="1992">
 		<composition>
@@ -1246,6 +1250,54 @@
 			<recorded start="2013"/>
 			<release>Sub Rosa SR361</release>
 			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Communication</name>
+			<description>Third part of the Darmstadt Lecture “Composition as Process”</description>
+			<length>6:07</length>
+			<part>
+				<number>1</number>
+				<length>6:07</length>
+			</part>
+			<part>
+				<number>2</number>
+				<length>6:19</length>
+			</part>
+			<part>
+				<number>3</number>
+				<length>7:25</length>
+			</part>
+			<part>
+				<number>4</number>
+				<length>6:18</length>
+			</part>
+			<part>
+				<number>5</number>
+				<length>1:43</length>
+			</part>
+			<part>
+				<number>6</number>
+				<length>5:48</length>
+			</part>
+			<instrument name="voice">
+				<player name="John Cage"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>Neos 11213</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Variations I</name>
+			<length>8:50</length>
+			<instrument name="pianos, radio sets">
+				<player name="John Cage"/>
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>Neos 11213</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Indeterminacy</name>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+-->
 <list>
 	<composer name="Juan Felipe" surname="Waller" born="1971" died="">
 		<composition>
@@ -1731,6 +1735,17 @@
 		</composition>
 	</composer>
 	<composer name="Christian" surname="Wolff" born="1934" died="">
+		<composition>
+			<name>For Piano with Preparations</name>
+			<length>11:04</length>
+			<instrument name="piano">
+				<player name="David Tudor"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="1958"/>
+			<release>Neos 11213</release>
+			<released>2012</released>
+		</composition>
 		<composition>
 			<name>For 1, 2 or 3 People</name>
 			<length>24:47</length>
