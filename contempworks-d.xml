@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Viking" surname="Dahl" born="1895" died="1945">
 		<composition>
@@ -112,15 +117,37 @@
 	</composer>
 	<composer name="Claude" surname="Debussy" born="1862" died="1918">
 		<composition>
-			<name>La Mer</name>
-			<description>Trois Esquisses symphoniques</description>
-			<length>23:57</length>
+			<name>Printemps</name>
+			<description>Suite symphonique</description>
+			<length>16:02</length>
 			<player name="New Philharmonia Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
+			<composed start="1882"/>
+			<recorded start="1968"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Prélude à l’après-midi d’un faune</name>
+			<description>D’après une églogue de Stéphane Mallarmé</description>
+			<length>9:41</length>
+			<player name="New Philharmonia Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1894"/>
 			<recorded start="1966"/>
 			<release>Sony SM2K 68 327</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Prélude à l’après-midi d’un faune</name>
+			<description>D’après une églogue de Stéphane Mallarmé</description>
+			<length>11:05</length>
+			<player name="Anima Eterna Brugge"/>
+			<conductor>Jos van Immerseel</conductor>
+			<composed start="1894"/>
+			<recorded start="2012"/>
+			<release>Zig Zag Territoires ZZT313</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Nocturnes</name>
@@ -129,19 +156,43 @@
 			<player name="The John Alldis Choir"/>
 			<player name="New Philharmonia Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
+			<composed start="1899"/>
 			<recorded start="1966"/>
 			<release>Sony SM2K 68 327</release>
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Printemps</name>
-			<description>Suite symphonique</description>
-			<length>16:02</length>
+			<name>La Mer</name>
+			<description>Trois Esquisses symphoniques</description>
+			<length>23:57</length>
 			<player name="New Philharmonia Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
-			<recorded start="1968"/>
+			<composed start="1903" end="1905"/>
+			<recorded start="1966"/>
+			<release>Sony SM2K 68 327</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>La Mer</name>
+			<description>Trois Esquisses symphoniques</description>
+			<length>25:39</length>
+			<player name="Anima Eterna Brugge"/>
+			<conductor>Jos van Immerseel</conductor>
+			<composed start="1903" end="1905"/>
+			<recorded start="2012"/>
+			<release>Zig Zag Territoires ZZT313</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Danses</name>
+			<length>10:08</length>
+			<instrument name="Harp">
+				<player name="Alice Chalifoux"/>
+			</instrument>
+			<player name="Cleveland Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1904"/>
+			<recorded start="1967"/>
 			<release>Sony SM2K 68 327</release>
 			<released>1995</released>
 		</composition>
@@ -154,28 +205,8 @@
 			</instrument>
 			<player name="New Philharmonia Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
+			<composed start="1909" end="1910"/>
 			<recorded start="1968"/>
-			<release>Sony SM2K 68 327</release>
-			<released>1995</released>
-		</composition>
-		<composition>
-			<name>Prélude à l’après-midi d’un faune</name>
-			<length>9:41</length>
-			<player name="New Philharmonia Orchestra"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
-			<recorded start="1966"/>
-			<release>Sony SM2K 68 327</release>
-			<released>1995</released>
-		</composition>
-		<composition>
-			<name>Jeux</name>
-			<length>17:02</length>
-			<player name="New Philharmonia Orchestra"/>
-			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
-			<recorded start="1966"/>
 			<release>Sony SM2K 68 327</release>
 			<released>1995</released>
 		</composition>
@@ -185,21 +216,29 @@
 			<length>35:29</length>
 			<player name="Cleveland Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
+			<composed start="1905" end="1912"/>
 			<recorded start="1967"/>
 			<release>Sony SM2K 68 327</release>
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Danses</name>
-			<length>10:08</length>
-			<instrument name="Harp">
-				<player name="Alice Chalifoux"/>
-			</instrument>
-			<player name="Cleveland Orchestra"/>
+			<name>Images</name>
+			<description>pour orchestre</description>
+			<length>40:09</length>
+			<player name="Anima Eterna Brugge"/>
+			<conductor>Jos van Immerseel</conductor>
+			<composed start="1905" end="1912"/>
+			<recorded start="2012"/>
+			<release>Zig Zag Territoires ZZT313</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Jeux</name>
+			<length>17:02</length>
+			<player name="New Philharmonia Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
-			<composed start=""/>
-			<recorded start="1967"/>
+			<composed start="1912" end="1913"/>
+			<recorded start="1966"/>
 			<release>Sony SM2K 68 327</release>
 			<released>1995</released>
 		</composition>

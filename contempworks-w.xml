@@ -4,6 +4,7 @@
 <!--
   opening quotes: “
   closing quotes: ”
+  single quote: ’
 -->
 <list>
 	<composer name="Juan Felipe" surname="Waller" born="1971" died="">
