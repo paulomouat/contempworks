@@ -463,6 +463,16 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Composizione per orchestra n. 1</name>
+			<length>13:55</length>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Peter Hirsch</conductor>
+			<composed start="1951"/>
+			<recorded start="1998"/>
+			<release>Wergo WER 6667 2</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Due espressioni</name>
 			<description>Musik für Donaueschingen</description>
 			<length>12:00</length>
@@ -483,6 +493,24 @@
 			<recorded start="1988"/>
 			<release>Deutsche Grammophon 429260-2</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Der rote Mantel</name>
+			<description>Ballett für Sopran, Bariton, gemischten Chor und Orchester</description>
+			<length>37:01</length>
+			<instrument name="Sopran">
+				<player name="Angelika Luz"/>
+			</instrument>
+			<instrument name="Bariton">
+				<player name="Jörg Gottschick"/>
+			</instrument>
+			<player name="RIAS Kammerchor"/>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Peter Hirsch</conductor>
+			<composed start="1954"/>
+			<recorded start="2000"/>
+			<release>Wergo WER 6667 2</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Canti per 13</name>

@@ -1301,6 +1301,37 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Variations I</name>
+			<description>for David Tudor, on his birthday (tardily)</description>
+			<length>20:03</length>
+			<instrument name="trumpet">
+				<player name="Curtis Dietz"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Nadia Francavilla"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="D’Arcy Philip Gray"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Richard Hornsby"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Andrew R. Miller"/>
+			</instrument>
+			<instrument name="horn">
+				<player name="Gina Patterson"/>
+			</instrument>
+			<instrument name="prepared piano">
+				<player name="Helen Pridmore"/>
+			</instrument>
+			<player name="Motion Ensemble"/>
+			<composed start="1958"/>
+			<recorded start="2000"/>
+			<release>Mode 129</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Indeterminacy</name>
 			<description>Ninety Stories by John Cage, with Music</description>
 			<length>1:30:22</length>
@@ -1395,6 +1426,28 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Variations II with Lecture on Nothing</name>
+			<description>for any number of players and any sound producing means</description>
+			<length>29:48</length>
+			<instrument name="prepared &amp; amplified violin">
+				<player name="Nadia Francavilla"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="D’Arcy Philip Gray"/>
+			</instrument>
+			<instrument name="prepared &amp; amplified double bass">
+				<player name="Andrew R. Miller"/>
+			</instrument>
+			<instrument name="voice">
+				<player name="Helen Pridmore"/>
+			</instrument>
+			<player name="Motion Ensemble"/>
+			<composed start="1961"/>
+			<recorded start="2000"/>
+			<release>Mode 129</release>
+			<released>2003</released>
+		</composition>
+		<composition>
 			<name>Atlas Eclipticalis with Winter Music</name>
 			<description>Performance II, Dec/11/83 8:30 pm</description>
 			<length>1:19:59</length>
@@ -1438,6 +1491,21 @@
 			<recorded start="1963"/>
 			<release>New World Records 80737-2</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Variations III</name>
+			<description>for one or any number of people performing any actions</description>
+			<length>20:20</length>
+			<instrument name="electronics">
+				<player name="John D. S. Adams"/>
+				<player name="D’Arcy Philip Gray"/>
+				<player name="Andrew R. Miller"/>
+			</instrument>
+			<player name="Motion Ensemble"/>
+			<composed start="1962" end="1963"/>
+			<recorded start="2001"/>
+			<release>Mode 129</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>Electronic music for piano</name>
