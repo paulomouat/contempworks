@@ -903,6 +903,19 @@
 			<released>1988</released>
 		</composition>
 		<composition>
+			<name>Al gran sole carico d’amore</name>
+			<description>Azione scenica in 2 tempi</description>
+			<length>1:34:42</length>
+			<player name="Staatsopernchor Stuttgart"/>
+			<conductor>Ulrich Eistert</conductor>
+			<player name="Staatsorchester Stuttgart"/>
+			<conductor>Lothar Zagrosek</conductor>
+			<composed start="1972" end="1974"/>
+			<recorded start="1999"/>
+			<release>Teldec 8573-81059-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Für Paul Dessau</name>
 			<length>7:07</length>
 			<composed start="1974"/>
