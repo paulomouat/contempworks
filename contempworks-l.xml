@@ -118,6 +118,23 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Consolation I</name>
+			<description>für 12 Stimmen und 4 Schlagzeuger</description>
+			<length>8:54</length>
+			<instrument name="Schlagzeug">
+				<player name="Arno Arndt"/>
+				<player name="Siegfried Fink"/>
+				<player name="Hermann Gschwendtner"/>
+				<player name="Michael Ranta"/>
+			</instrument>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1967"/>
+			<recorded start="1968"/>
+			<release>Wergo WER 6738 2</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Consolation II</name>
 			<description>für 16 Stimmen</description>
 			<length>5:39</length>
@@ -209,6 +226,17 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Kontrakadenz</name>
+			<description>für großes Orchester</description>
+			<length>18:49</length>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1970" end="1971"/>
+			<recorded start="1971"/>
+			<release>Wergo WER 6738 2</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Guero</name>
 			<description>for piano</description>
 			<length>4:11</length>
@@ -271,6 +299,20 @@
 			<recorded start="1975"/>
 			<release>Col Legno CD1 31910</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Accanto</name>
+			<description>Musik für einen Klarinettisten mit Orchester</description>
+			<length>26:55</length>
+			<instrument name="Klarinette">
+				<player name="Eduard Brunner"/>
+			</instrument>
+			<player name="Rundfunk-Sinfonieorchester Saarbrücken"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1975" end="1976"/>
+			<recorded start="1977"/>
+			<release>Wergo WER 6738 2</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Salut für Caudwell</name>
