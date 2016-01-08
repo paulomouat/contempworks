@@ -47,17 +47,28 @@
 			<released>1998</released>
 		</composition>
 		<composition>
-			<name>Interieur I</name>
+			<name>Intérieur I</name>
 			<description>for a percussion-soloist</description>
 			<length>16:21</length>
 			<instrument name="Percussion">
 				<player name="Christian Dierstein"/>
 			</instrument>
-			<player name="Ensemble Recherche"/>
 			<composed start="1966"/>
 			<recorded start="1995"/>
 			<release>Montaigne 782075</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Intérieur I</name>
+			<description>für einen Schlagzeugsolisten</description>
+			<length>14:14</length>
+			<instrument name="percussion">
+				<player name="Christoph Caskel"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1967"/>
+			<release>Col Legno WWE 1CD 20511</release>
+			<released>2000</released>
 		</composition>
 		<composition>
 			<name>Trio Fluido</name>
@@ -163,6 +174,20 @@
 			<recorded start="1992"/>
 			<release>Montaigne 782023</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Air</name>
+			<description>Musik für großes Orchester und Schlagzeug-Solo</description>
+			<length>19:08</length>
+			<instrument name="percussion">
+				<player name="Christian Dierstein"/>
+			</instrument>
+			<player name="Staatsorchester Stuttgart"/>
+			<conductor>Lothar Zagrosek</conductor>
+			<composed start="1968" end="1969"/>
+			<recorded start="1998"/>
+			<release>Col Legno WWE 1CD 20511</release>
+			<released>2000</released>
 		</composition>
 		<composition>
 			<name>Pression</name>
@@ -299,6 +324,17 @@
 			<recorded start="1975"/>
 			<release>Col Legno CD1 31910</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Schwankungen am Rand</name>
+			<description>Musik für Blech und Saiten</description>
+			<length>32:20</length>
+			<player name="SWF-Sinfonieorchester Baden-Baden"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1974" end="1975"/>
+			<recorded start="1975"/>
+			<release>Col Legno WWE 1CD 20511</release>
+			<released>2000</released>
 		</composition>
 		<composition>
 			<name>Accanto</name>
