@@ -1637,6 +1637,19 @@
 			<release>Deutsche Grammophon 423244-2</release>
 			<released>1983</released>
 		</composition>
+		<composition>
+			<name>Concerto for cello and orchestra</name>
+			<length>11:37</length>
+			<instrument name="cello">
+				<player name="Pierre Strauch"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Matthias Pintscher</conductor>
+			<composed start="1966"/>
+			<recorded start="2014"/>
+			<release>Alpha 217</release>
+			<released>2015</released>
+		</composition>
 		<composition score="Y">
 			<name>Lontano</name>
 			<description>für großes Orchester</description>
@@ -2011,6 +2024,19 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Concerto for piano and orchestra</name>
+			<length>23:52</length>
+			<instrument name="piano">
+				<player name="Hidéki Nagano"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Matthias Pintscher</conductor>
+			<composed start="1985" end="1988"/>
+			<recorded start="2014"/>
+			<release>Alpha 217</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Études pour piano</name>
 			<description>Deuxième livre</description>
 			<length>23:16</length>
@@ -2117,6 +2143,19 @@
 			<recorded start="1995"/>
 			<release>Sony SK 62310</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Concerto for violin and orchestra</name>
+			<length>27:52</length>
+			<instrument name="violin">
+				<player name="Jeanne-Marie Conquer"/>
+			</instrument>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Matthias Pintscher</conductor>
+			<composed start="1989" end="1993"/>
+			<recorded start="2014"/>
+			<release>Alpha 217</release>
+			<released>2015</released>
 		</composition>
 		<composition>
 			<name>Sonate pour alto</name>
@@ -2406,17 +2445,6 @@
 			<released>2011</released>
 		</composition>
 	</composer>
-	<composer name="Gareth" surname="Loy" born="1945" died="">
-		<composition>
-			<name>Nekyia</name>
-			<length>10:00</length>
-			<player name="CCRMA, Stanford University"/>
-			<composed start="1980"/>
-			<recorded start="1980"/>
-			<release>Wergo WER 2025</release>
-			<released>1990</released>
-		</composition>
-	</composer>
 	<composer name="José Manuel López" surname="López" born="1956" died="">
 		<composition>
 			<name>Concierto para violin y orquesta</name>
@@ -2457,6 +2485,17 @@
 			<recorded start="2009"/>
 			<release>Kairos 0013022KAI</release>
 			<released>2010</released>
+		</composition>
+	</composer>
+	<composer name="Gareth" surname="Loy" born="1945" died="">
+		<composition>
+			<name>Nekyia</name>
+			<length>10:00</length>
+			<player name="CCRMA, Stanford University"/>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>Wergo WER 2025</release>
+			<released>1990</released>
 		</composition>
 	</composer>
 	<composer name="Otto" surname="Luening" born="1900" died="1996">

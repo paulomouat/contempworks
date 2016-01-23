@@ -146,6 +146,39 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Sonata for two pianos and percussion</name>
+			<length>25:17</length>
+			<instrument name="piano">
+				<player name="Dimitri Vassilakis"/>
+				<player name="Sébastien Vichard"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Gilles Durot"/>
+				<player name="Samuel Favre"/>
+			</instrument>
+			<composed start="1937"/>
+			<recorded start="2014"/>
+			<release>Alpha 217</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Contrasts</name>
+			<length>16:47</length>
+			<instrument name="clarinet">
+				<player name="Jérôme Comte"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Diego Tosi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Sébastien Vichard"/>
+			</instrument>
+			<composed start="1938"/>
+			<recorded start="2014"/>
+			<release>Alpha 217</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Concerto pour orchestre</name>
 			<length>37:07</length>
 			<player name="New York Philharmonic"/>
@@ -1576,7 +1609,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Pierre" surname="Boulez" born="1925" died="">
+	<composer name="Pierre" surname="Boulez" born="1925" died="2016">
 		<composition>
 			<name>Douze Notations</name>
 			<description>pour piano</description>

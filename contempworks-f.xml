@@ -993,6 +993,20 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Neither</name>
+			<description>Opera in one act for soprano and orchestra with words by Samuel Beckett</description>
+			<length>56:41</length>
+			<instrument name="soprano">
+				<player name="Petra Hoffmann"/>
+			</instrument>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Kwamé Ryan</conductor>
+			<composed start="1976" end="1977"/>
+			<recorded start="1998"/>
+			<release>Col Legno WWE 1CD 20081</release>
+			<released>2000</released>
+		</composition>
+		<composition>
 			<name>Piano</name>
 			<length>29:41</length>
 			<instrument name="Piano">
