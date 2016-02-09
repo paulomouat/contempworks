@@ -766,6 +766,18 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>La fabbrica illuminata</name>
+			<description>für Stimme und Tonband</description>
+			<length>16:32</length>
+			<instrument name="Sopran">
+				<player name="Hilde Torgersen"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="1999" end="2000"/>
+			<release>Albedo ALBCD 012</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Musiche di scena per Ermittlung</name>
 			<length>22:12</length>
 			<composed start="1965"/>

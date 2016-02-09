@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Horacio" surname="Vaggione" born="1943" died="">
 		<composition>
@@ -407,6 +412,32 @@
 			<recorded start="2006"/>
 			<release>Edition RZ 10016</release>
 			<released>2007</released>
+		</composition>
+	</composer>
+	<composer name="Alejandro" surname="Viñao" born="" died="">
+		<composition>
+			<name>Hildegard’s Dream</name>
+			<description>for female voice and tape</description>
+			<length>12:28</length>
+			<instrument name="voice">
+				<player name="Hilde Torgersen"/>
+			</instrument>
+			<composed start="1994"/>
+			<recorded start="1999" end="2000"/>
+			<release>Albedo ALBCD 012</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Masago’s Confession</name>
+			<description>for female voice and tape</description>
+			<length>7:51</length>
+			<instrument name="voice">
+				<player name="Hilde Torgersen"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="1999" end="2000"/>
+			<release>Albedo ALBCD 012</release>
+			<released>2001</released>
 		</composition>
 	</composer>
 </list>

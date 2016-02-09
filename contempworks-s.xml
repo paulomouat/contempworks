@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Kaija" surname="Saariaho" born="1952" died="">
 		<composition>
@@ -951,6 +956,18 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Hô</name>
+			<description>five melodies for soprano</description>
+			<length>14:26</length>
+			<instrument name="soprano">
+				<player name="Hilde Torgersen"/>
+			</instrument>
+			<composed start="1960"/>
+			<recorded start="1992"/>
+			<release>Albedo ALBCD 012</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Aion</name>
 			<description>pour orchestre</description>
 			<length>20:14</length>
@@ -990,6 +1007,18 @@
 			<recorded start="1988"/>
 			<release>Salabert Actuels SCD8904-5</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Taiagaru</name>
+			<description>five evocations for soprano</description>
+			<length>12:54</length>
+			<instrument name="soprano">
+				<player name="Hilde Torgersen"/>
+			</instrument>
+			<composed start="1962"/>
+			<recorded start="1999" end="2000"/>
+			<release>Albedo ALBCD 012</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>Hymnos</name>
