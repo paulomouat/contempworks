@@ -425,6 +425,20 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Ausklang</name>
+			<description>Musik für Klavier mit Orchester</description>
+			<length>48:13</length>
+			<instrument name="Piano">
+				<player name="Pierre-Laurent Aimard"/>
+			</instrument>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Jonathan Nott</conductor>
+			<composed start="1984" end="1985"/>
+			<recorded start="2013"/>
+			<release>Neos 11423</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Toccatina</name>
 			<description>study for violin</description>
 			<length>5:26</length>
