@@ -363,6 +363,14 @@
 	</composer>
 	<composer name="Jonty" surname="Harrison" born="1952" died="">
 		<composition>
+			<name>Et ainsi de suite...</name>
+			<length>19:17</length>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>EMF CD 053</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>BEASTory</name>
 			<length>8:09</length>
 			<player name="Birmingham ElectroAcoustic Sound Theatre"/>

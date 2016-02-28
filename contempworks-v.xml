@@ -19,6 +19,14 @@
 			<release>INA C 1034</release>
 			<released>2004</released>
 		</composition>
+		<composition>
+			<name>Harrison Variations</name>
+			<length>10:11</length>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>EMF CD 053</release>
+			<released>2004</released>
+		</composition>
 	</composer>
 	<composer name="Edgar" surname="Varèse" born="1883" died="1965">
 		<composition>

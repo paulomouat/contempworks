@@ -465,6 +465,159 @@
 	</composer>
 	<composer name="Gilles" surname="Gobeil" born="1954" died="">
 		<composition>
+			<name>Traces</name>
+			<length>6:31</length>
+			<player name="Montréal University Studios"/>
+			<composed start="1985"/>
+			<recorded start="1985"/>
+			<release>empreintes DIGITALes IMED 9421</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Rivage</name>
+			<length>8:44</length>
+			<player name="McGill University Studios, Montréal"/>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>empreintes DIGITALes IMED 9421</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Voix blanche</name>
+			<description>pour ondes Martenot et bande</description>
+			<length>12:58</length>
+			<instrument name="ondes Martenot">
+				<player name="Suzanne Binet-Audet"/>
+			</instrument>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="1988" end="1989"/>
+			<recorded start="1992"/>
+			<release>empreintes DIGITALes IMED 9421</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Associations libres</name>
+			<description>pour guitarre électrique et bande</description>
+			<length>3:01</length>
+			<instrument name="guitarre électrique">
+				<player name="René Lussier"/>
+			</instrument>
+			<player name="Studio Ondes, Montréal"/>
+			<composed start="1990"/>
+			<recorded start="1990"/>
+			<release>empreintes DIGITALes IMED 9421</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Là où vont les nuages...</name>
+			<description>pour ondes Martenot, instruments MIDI (synthétiseur, échantillonneur et unité de traitement) et bande</description>
+			<instrument name="ondes Martenot">
+				<player name="Suzanne Binet-Audet"/>
+			</instrument>
+			<length>11:20</length>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="1990"/>
+			<recorded start="1990"/>
+			<release>empreintes DIGITALes IMED 9421</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>La ville machine</name>
+			<length>14:45</length>
+			<instrument name="texte et scénario">
+				<player name="Lyette Limoges"/>
+			</instrument>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="1992"/>
+			<recorded start="1992"/>
+			<release>empreintes DIGITALes IMED 9421</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Nous sommes heureux de...</name>
+			<length>0:57</length>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="1992"/>
+			<recorded start="1992"/>
+			<release>empreintes DIGITALes IMED 9421</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Le vertige inconnu</name>
+			<length>8:23</length>
+			<player name="Studio GMEB, Bourges"/>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>empreintes DIGITALes IMED 9421</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Projet Proust</name>
+			<length>13:17</length>
+			<instrument name="narration enregistrée">
+				<player name="Marc Béland"/>
+			</instrument>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="1995" end="2001"/>
+			<recorded start="2001"/>
+			<release>empreintes DIGITALes IMED 0155</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Nuit cendre</name>
+			<length>12:19</length>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="1995"/>
+			<recorded start="1995"/>
+			<release>empreintes DIGITALes IMED 0155</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Point de passage</name>
+			<length>11:46</length>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>empreintes DIGITALes IMED 0155</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Derrière la porte la plus éloignée...</name>
+			<length>12:01</length>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>empreintes DIGITALes IMED 0155</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Ombres, espaces, silences...</name>
+			<length>23:00</length>
+			<player name="ZKM studios"/>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>empreintes DIGITALes IMED 0892 DVD</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Entre les deux rives du printemps</name>
+			<length>18:08</length>
+			<player name="ZKM studios"/>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>empreintes DIGITALes IMED 0892 DVD</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Le miroir triste</name>
+			<length>13:42</length>
+			<player name="ZKM studios"/>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>empreintes DIGITALes IMED 0892 DVD</release>
+			<released>2008</released>
+		</composition>
+		<composition>
 			<name>Castalie</name>
 			<length>10:41</length>
 			<player name="Elektronisches Studio der TU Berlin"/>
@@ -474,6 +627,15 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Castalie</name>
+			<length>10:36</length>
+			<player name="TU Berlin studios"/>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>empreintes DIGITALes IMED 15134</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Les lointains noirs et rouges</name>
 			<length>10:46</length>
 			<player name="Privatstudio und Elektronisches Studio der TU Berlin"/>
@@ -481,6 +643,51 @@
 			<recorded start="2009"/>
 			<release>Edition RZ 3006 DVD</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Les lointains noirs et rouges</name>
+			<length>10:44</length>
+			<player name="TU Berlin studios"/>
+			<composed start="2008" end="2009"/>
+			<recorded start="2009"/>
+			<release>empreintes DIGITALes IMED 15134</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Sibylle</name>
+			<length>15:17</length>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>empreintes DIGITALes IMED 15134</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Bol-Hydre</name>
+			<length>10:10</length>
+			<player name="Studio du compositeur, Montréal"/>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>empreintes DIGITALes IMED 15134</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Des temps oubliés</name>
+			<length>12:40</length>
+			<player name="GRM Studios, Paris"/>
+			<composed start="2012"/>
+			<recorded start="2012"/>
+			<release>empreintes DIGITALes IMED 15134</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Golem</name>
+			<length>10:35</length>
+			<player name="Miso Music Studio, Lisbonne et EMS, Stockholm"/>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>empreintes DIGITALes IMED 15134</release>
+			<released>2015</released>
 		</composition>
 	</composer>
 	<composer name="Karel" surname="Goeyvaerts" born="1923" died="1993">

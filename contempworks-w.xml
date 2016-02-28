@@ -1617,6 +1617,34 @@
 			<released>1991</released>
 		</composition>
 	</composer>
+	<composer name="Hildegard" surname="Westerkamp" born="" died="">
+		<composition>
+			<name>Gently penetrating beneath the sounding surfaces of another place</name>
+			<length>14:03</length>
+			<player name="Studio of the Institut International de Musique Electroacoustique, Bourges"/>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>earsay es02002</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Into the Labyrinth</name>
+			<length>15:04</length>
+			<player name="Studio of the School for the Contemporary Arts at Simon Fraser University"/>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>earsay es02002</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Attending to Sacred Matters</name>
+			<length>26:24</length>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>earsay es02002</release>
+			<released>2002</released>
+		</composition>
+	</composer>
 	<composer name="Jörg" surname="Widmann" born="1973" died="">
 		<composition>
 			<name>1. Streichquartett</name>
@@ -1722,6 +1750,14 @@
 			<composed start="1998"/>
 			<recorded start="1998"/>
 			<release>Edition RZ 10009/10</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Imago</name>
+			<length>25:38</length>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>EMF CD 053</release>
 			<released>2004</released>
 		</composition>
 		<composition>
