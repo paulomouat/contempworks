@@ -1617,7 +1617,7 @@
 			<released>1991</released>
 		</composition>
 	</composer>
-	<composer name="Hildegard" surname="Westerkamp" born="" died="">
+	<composer name="Hildegard" surname="Westerkamp" born="1946" died="">
 		<composition>
 			<name>Gently penetrating beneath the sounding surfaces of another place</name>
 			<length>14:03</length>
@@ -1731,7 +1731,7 @@
 			<released>2007</released>
 		</composition>
 	</composer>
-	<composer name="Scott" surname="Wilson" born="1969" end="">
+	<composer name="Scott" surname="Wilson" born="1969" died="">
 		<composition>
 			<name>Böse</name>
 			<length>9:06</length>
@@ -1742,7 +1742,7 @@
 			<released>2012</released>
 		</composition>
 	</composer>
-	<composer name="Trevor" surname="Wishart" born="1946" end="">
+	<composer name="Trevor" surname="Wishart" born="1946" died="">
 		<composition>
 			<name>Two Women - Four Voiceprints</name>
 			<length>14:12</length>
