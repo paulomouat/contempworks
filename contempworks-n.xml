@@ -2010,6 +2010,61 @@
 			<release>empreintes DIGITALes IMED 9944</release>
 			<released>1999</released>
 		</composition>
+		<composition>
+			<name>Kuppel</name>
+			<length>17:49</length>
+			<composed start="2005" end="2014"/>
+			<recorded start="2014"/>
+			<release>empreintes DIGITALes IMED 14128</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Pluies noires</name>
+			<length>11:16</length>
+			<composed start="2008" end="2014"/>
+			<recorded start="2014"/>
+			<release>empreintes DIGITALes IMED 14128</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>La part des anges</name>
+			<length>14:37</length>
+			<composed start="2011" end="2012"/>
+			<recorded start="2012"/>
+			<release>empreintes DIGITALes IMED 14128</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Hamlet-Machine without Actors</name>
+			<length>8:54</length>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>empreintes DIGITALes IMED 14128</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Baobabs</name>
+			<length>13:32</length>
+			<instrument name="soprano">
+				<player name="Stéphanie Lessard"/>
+			</instrument>
+			<instrument name="alto">
+				<player name="Marie-Annick Béliveau"/>
+			</instrument>
+			<instrument name="tenor">
+				<player name="Michiel Schrey"/>
+			</instrument>
+			<instrument name="bass">
+				<player name="Pierre-Étienne Bergeron"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Sixtrum"/>
+			</instrument>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>empreintes DIGITALes IMED 14128</release>
+			<released>2014</released>
+		</composition>
 	</composer>
 	<composer name="Emmanuel" surname="Nunes" born="1941" died="2012">
 		<composition>

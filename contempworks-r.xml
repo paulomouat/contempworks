@@ -155,6 +155,28 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Éliane" surname="Radigue" born="1932" died="">
+		<composition>
+			<name>Ψ 847</name>
+			<description>for tape</description>
+			<description>(version concert)</description>
+			<length>1:12:54</length>
+			<composed start="1972"/>
+			<recorded start="2012"/>
+			<release>Oral 57</release>
+			<released>2013</released>
+		</composition>		
+		<composition>
+			<name>Ψ 847</name>
+			<description>for tape</description>
+			<description>(version studio)</description>
+			<length>1:11:30</length>
+			<composed start="1972"/>
+			<recorded start="2012"/>
+			<release>Oral 57</release>
+			<released>2013</released>
+		</composition>		
+	</composer>
 	<composer name="Horatiu" surname="Radulescu" born="1942" died="2008">
 		<composition>
 			<name>Inner Time II</name>
