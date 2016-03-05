@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Gilles" surname="Racot" born="1951" died="">
 		<composition>
@@ -1448,6 +1453,46 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Neue Alexanderlieder</name>
+			<description>Fünf Gedichte von Ernst Herbeck für Bariton und Klavier</description>
+			<length>12:56</length>
+			<part>
+				<number>I</number>
+				<name>Die Frau in Mir</name>
+				<length>3:09</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Der Herbst</name>
+				<length>2:59</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Ich mag euch alle nicht</name>
+				<length>1:18</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Zwei Segel! (nach Conrad Ferdinand Meyer)</name>
+				<length>2:57</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Der Flieder steht im Garten</name>
+				<length>2:30</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Holger Falk"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="2013"/>
+			<release>MDG 613 1848-2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>String Quartet No. 4</name>
 			<length>19:27</length>
 			<player name="Minguet Quartet"/>
@@ -1523,7 +1568,7 @@
 		<composition>
 			<name>Lenz-Fragmente</name>
 			<description>Fünf Gedichte von J. M. R. Lenz</description>
-			<length>17:04</length>
+			<length>12:04</length>
 			<part>
 				<number>I</number>
 				<name>den 28 December 1775</name>
@@ -1559,6 +1604,47 @@
 			<recorded start="2002"/>
 			<release>Metier MSV CD92068</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Lenz-Fragmente</name>
+			<description>Fünf Gedichte von J. M. R. Lenz</description>
+			<description>für Gesang und Klavier</description>
+			<length>11:54</length>
+			<part>
+				<number>I</number>
+				<name>den 28 December 1775</name>
+				<length>2:48</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>“Ich will den nagenden Beschwerden”</name>
+				<length>2:00</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>“Fühl alle Lust”</name>
+				<length>1:34</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>An die Sonne</name>
+				<length>2:58</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>Lied zum teutschen Tanz</name>
+				<length>2:31</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Holger Falk"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2013"/>
+			<release>MDG 613 1848-2</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Wölfli-Liederbuch</name>
@@ -1613,6 +1699,56 @@
 			<recorded start="1982"/>
 			<release>CPO 999 049-2</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Wölfli-Liederbuch</name>
+			<description>für Bassbariton und Klavier (zwei große Trommeln)</description>
+			<length>15:57</length>
+			<part>
+				<number>I</number>
+				<name>“Ich habe Dich, geliebet”</name>
+				<length>1:36</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>“Ich habe dich geliebet!”</name>
+				<length>1:49</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>“Auf dieser Brücke, steht ein Mann!”</name>
+				<length>1:46</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>“Das Schimmern zweier Steerne”</name>
+				<length>3:19</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>“Ich kenn&apos; ein wunderschönes Kind”</name>
+				<length>2:09</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>Graab-Innschrift 1868</name>
+				<length>1:44</length>
+			</part>
+			<part>
+				<number>VII</number>
+				<name>ad libitum</name>
+				<length>3:31</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Holger Falk"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1980" end="1981"/>
+			<recorded start="2013"/>
+			<release>MDG 613 1848-2</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Tutuguri</name>
@@ -1702,6 +1838,17 @@
 			<recorded start="1992"/>
 			<release>Cadenza CAD 800 886</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Schattenstück</name>
+			<description>Tongemälde für Orchester</description>
+			<length>20:34</length>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Christian Arming</conductor>
+			<composed start="1982" end="1984"/>
+			<recorded start="2006"/>
+			<release>SWR 19001 CD</release>
+			<released>2016</released>
 		</composition>
 		<composition>
 			<name>Nach-Schrift (eine Chiffre)</name>
@@ -1883,6 +2030,17 @@
 			<recorded start="2004"/>
 			<release>CPO 777 169-2</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Abkehr</name>
+			<description>for orchestra</description>
+			<length>8:04</length>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Christian Arming</conductor>
+			<composed start="1985"/>
+			<recorded start="2006"/>
+			<release>SWR 19001 CD</release>
+			<released>2016</released>
 		</composition>
 		<composition>
 			<name>Verzeichnung - Studie</name>
@@ -2953,6 +3111,51 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Sechs Gedichte von Friedrich Nietzsche</name>
+			<description>für Bariton und Klavier</description>
+			<length>24:05</length>
+			<part>
+				<number>I</number>
+				<name>Der Einsamste</name>
+				<length>2:37</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Der Herbst</name>
+				<length>7:27</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Der Wandrer</name>
+				<length>4:49</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Der Wandrer</name>
+				<length>3:01</length>
+			</part>
+			<part>
+				<number>V</number>
+				<name>“Der Wanderer und sein Schatten”</name>
+				<length>3:27</length>
+			</part>
+			<part>
+				<number>VI</number>
+				<name>Venedig</name>
+				<length>2:41</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Holger Falk"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="2001"/>
+			<recorded start="2013"/>
+			<release>MDG 613 1848-2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Sieben Passions-Texte</name>
 			<description>für sechs Stimmen</description>
 			<length>28:11</length>
@@ -3112,6 +3315,17 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Two Other Movements</name>
+			<description>for orchestra</description>
+			<length>36:25</length>
+			<player name="Radio-Sinfonieorchester Stuttgart des SWR"/>
+			<conductor>Roger Norrington</conductor>
+			<composed start="2004"/>
+			<recorded start="2009"/>
+			<release>SWR 19001 CD</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Zwei kleine Schwingungen</name>
 			<length>3:50</length>
 			<instrument name="piano">
@@ -3194,6 +3408,31 @@
 			<recorded start="2007" end="2008"/>
 			<release>Neos 10717/18</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Wortlos</name>
+			<description>Zwei Stücke für Gesang (stumm) und Klavier</description>
+			<length>6:22</length>
+			<part>
+				<number>I</number>
+				<name>Langsam</name>
+				<length>3:36</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Noch langsamer</name>
+				<length>2:44</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Holger Falk"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="2007"/>
+			<recorded start="2013"/>
+			<release>MDG 613 1848-2</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Verwandlungen I-IV</name>
