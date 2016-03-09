@@ -550,6 +550,20 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>“...zwei Gefühle...”: Musik mit Leonardo</name>
+			<description>for speaker and ensemble</description>
+			<length>18:58</length>
+			<instrument name="speaker">
+				<player name="Helmut Lachenmann"/>
+			</instrument>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Peter Eötvös</conductor>
+			<composed start="1991" end="1992"/>
+			<recorded start="2014"/>
+			<release>Neos 11424</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>NUN</name>
 			<description>für Flöte, Posaune, Orchester mit Männerstimmen</description>
 			<length>39:14</length>
@@ -603,6 +617,17 @@
 			<recorded start="2006"/>
 			<release>Kairos 0013342KAI</release>
 			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Schreiben</name>
+			<description>Musik für Orchester (new version 2004)</description>
+			<length>22:31</length>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Susanna Mälkki</conductor>
+			<composed start="2002" end="2004"/>
+			<recorded start="2011"/>
+			<release>Neos 11424</release>
+			<released>2015</released>
 		</composition>
 		<composition>
 			<name>Double (Grido II)</name>
