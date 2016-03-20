@@ -2195,6 +2195,15 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>String Quartet, op. 7</name>
+			<length>46:03</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1904" end="1905"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782024</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>2 Kanons (Goethe)</name>
 			<description>für gemischten Chor</description>
 			<length>3:31</length>
@@ -2215,6 +2224,18 @@
 			<recorded start="1979"/>
 			<release>Sony 88765429572 (9)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>String Quartet II, op. 10</name>
+			<length>30:29</length>
+			<instrument name="soprano">
+				<player name="Dawn Upshaw"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1907" end="1908"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782024</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>3 Klavierstücke, op. 11</name>
@@ -2610,6 +2631,15 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>String Quartet III, op. 30</name>
+			<length>30:19</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1927"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782024</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Kaiserwalzer</name>
 			<description>pour piano, flûte, clarinette et quatuor à cordes</description>
 			<description>(Johann Strauss, transcription de Schönberg, 1925)</description>
@@ -2756,6 +2786,15 @@
 			<recorded start="1984"/>
 			<release>Sony 88765429572 (6)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>String Quartet IV, op. 37</name>
+			<length>31:53</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1936"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782024</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Kammersymphonie Nr. 2, op. 38</name>

@@ -694,13 +694,31 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>String Quartet, op. 3</name>
+			<length>20:11</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1911"/>
+			<recorded start="1989"/>
+			<release>Montaigne WM 789001</release>
+			<released>1989</released>
+		</composition>
+		<composition>
 			<name>Lyrische Suite</name>
 			<length>27:22</length>
 			<player name="LaSalle Quartett"/>
-			<composed start="?"/>
-			<recorded start="1927" end="1978"/>
+			<composed start="1925"/>
+			<recorded start="1958"/>
 			<release>Col Legno CD1 31901</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Lyrische Suite</name>
+			<length>28:22</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1925"/>
+			<recorded start="1989"/>
+			<release>Montaigne WM 789001</release>
+			<released>1989</released>
 		</composition>
 		<composition>
 			<name>Lyrische Suite</name>
