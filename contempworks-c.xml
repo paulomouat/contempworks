@@ -175,6 +175,26 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Fads and Fancies in the Academy</name>
+			<description></description>
+			<length>18:03</length>
+			<player name="Essential Music"/>
+			<composed start="1940"/>
+			<recorded start="1994" end="1995"/>
+			<release>Mode 55</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>A Chant with Claps</name>
+			<description></description>
+			<length>1:02</length>
+			<player name="Essential Music"/>
+			<composed start="1940"/>
+			<recorded start="1994" end="1995"/>
+			<release>Mode 55</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Totem Ancestor</name>
 			<description>for prepared piano</description>
 			<length>2:02</length>
@@ -262,6 +282,16 @@
 			<recorded start="1942"/>
 			<release>El Records ACMEM 194 CD</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>The city wears a slouch hat</name>
+			<description>A radio play by Kenneth Patchen</description>
+			<length>39:57</length>
+			<player name="Essential Music"/>
+			<composed start="1942"/>
+			<recorded start="1994" end="1995"/>
+			<release>Mode 55</release>
+			<released>1996</released>
 		</composition>
 		<composition>
 			<name>Imaginary Landscape No. 2, “March No. 1”</name>
