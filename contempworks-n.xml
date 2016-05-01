@@ -473,6 +473,57 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Epitaffio per Federico García Lorca No. 1. España en el corazón</name>
+			<description>Tre studi per soprano solo, baritono solo, coro parlato e strumenti su testi di Federico García Lorca e Pablo Neruda</description>
+			<length>10:38</length>
+			<part>
+				<number>1</number>
+				<name>Tarde (Federico García Lorca)</name>
+				<length>3:35</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>La Guerra (Pablo Neruda)</name>
+				<length>4:23</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Casida de la rosa (Federico García Lorca)</name>
+				<length>2:33</length>
+			</part>
+			<instrument name="soprano, speaker">
+				<player name="Roswitha Trexler"/>
+			</instrument>
+			<instrument name="baritone, speaker">
+				<player name="Werner Haseleu"/>
+			</instrument>
+			<player name="Rundfunkchor"/>
+			<player name="Rundfunk-Sinfonie-Orchester Leipzig"/>
+			<conductor>Horst Neumann</conductor>
+			<composed start="1952" end="1953"/>
+			<recorded start="1977"/>
+			<release>Berlin Classics 0021412BC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Epitaffio per Federico García Lorca No. 3. Memento. Romance de la Guardia civil española</name>
+			<description>Per voce recitante, coro parlato ed orchestra, testo di Federico García Lorca</description>
+			<length>16:46</length>
+			<instrument name="soprano, speaker">
+				<player name="Roswitha Trexler"/>
+			</instrument>
+			<instrument name="baritone, speaker">
+				<player name="Werner Haseleu"/>
+			</instrument>
+			<player name="Rundfunkchor"/>
+			<player name="Rundfunk-Sinfonie-Orchester Leipzig"/>
+			<conductor>Horst Neumann</conductor>
+			<composed start="1952" end="1953"/>
+			<recorded start="1977"/>
+			<release>Berlin Classics 0021412BC</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Due espressioni</name>
 			<description>Musik für Donaueschingen</description>
 			<length>12:00</length>
@@ -913,6 +964,23 @@
 			<recorded start="1973"/>
 			<release>Deutsche Grammophon 423248-2</release>
 			<released>1988</released>
+		</composition>
+		<composition>
+			<name>Como una ola de fuerza y luz</name>
+			<description>per soprano, pianoforte, orchestra e nastro magnetico</description>
+			<length>30:03</length>
+			<instrument name="Soprano">
+				<player name="Ursula Reinhardt-Kiss"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Giuseppe La Licata"/>
+			</instrument>
+			<player name="Rundfunk-Sinfonie-Orchester Leipzig"/>
+			<conductor>Herbert Kegel</conductor>
+			<composed start="1971" end="1972"/>
+			<recorded start="1976"/>
+			<release>Berlin Classics 0021412BC</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Al gran sole carico d’amore</name>
