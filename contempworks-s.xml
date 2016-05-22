@@ -3851,6 +3851,16 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Tre duetti con l’eco</name>
+			<description>per flauto, viola, fagotto</description>
+			<length>11:52</length>
+			<player name="Ensemble Algoritmo"/>
+			<composed start="2006"/>
+			<recorded start="2011"/>
+			<release>Stradivarius STR 33942</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Le stagioni artificiali</name>
 			<description>per violino e strumenti</description>
 			<length>23:04</length>
@@ -3871,6 +3881,32 @@
 			<composed start="2008"/>
 			<recorded start="2010"/>
 			<release>Kairos 0013212KAI</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>L’altro giardino</name>
+			<description>per voce e strumenti</description>
+			<length>24:37</length>
+			<instrument name="mezzosoprano">
+				<player name="Anna Radziejewska"/>
+			</instrument>
+			<player name="Ensemble Algoritmo"/>
+			<composed start="2009"/>
+			<recorded start="2009"/>
+			<release>Stradivarius STR 33942</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Il cantiere del poema</name>
+			<description>per voce e strumenti</description>
+			<length>22:08</length>
+			<instrument name="mezzosoprano">
+				<player name="Anna Radziejewska"/>
+			</instrument>
+			<player name="Ensemble Algoritmo"/>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>Stradivarius STR 33942</release>
 			<released>2012</released>
 		</composition>
 	</composer>

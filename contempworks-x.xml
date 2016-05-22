@@ -571,6 +571,7 @@
 			<player name="Ensemble Resonanz"/>
 			<conductor>Johannes Kalitzke</conductor>
 			<composed start="1971"/>
+			<recorded start=""/>
 			<release>Mode 152</release>
 			<released>2005</released>
 		</composition>
@@ -624,6 +625,42 @@
 			<recorded start="2002"/>
 			<release>Timpani 1C1131</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Linaia-Agon</name>
+			<description>for french horn, trombone and tuba</description>
+			<length>10:40</length>
+			<instrument name="french horn">
+				<player name="Jens McManama"/>
+			</instrument>
+			<instrument name="trombone">
+				<player name="Benny Sluchin"/>
+			</instrument>
+			<instrument name="tuba">
+				<player name="Arnaud Boukhitine"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="2005"/>
+			<release>Mode 284</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Linaia-Agon</name>
+			<description>for french horn, trombone and tuba</description>
+			<length>15:06</length>
+			<instrument name="french horn">
+				<player name="Jens McManama"/>
+			</instrument>
+			<instrument name="trombone">
+				<player name="Benny Sluchin"/>
+			</instrument>
+			<instrument name="tuba">
+				<player name="Jérémie Dufourt"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="2011"/>
+			<release>Mode 284</release>
+			<released>2015</released>
 		</composition>
 		<composition>
 			<name>Evryali</name>
@@ -1758,6 +1795,20 @@
 			<recorded start="2010"/>
 			<release>Aeon AECD 1109</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Zythos</name>
+			<description>for trombone and 6 marimbas</description>
+			<length>7:44</length>
+			<instrument name="trombone">
+				<player name="Benny Sluchin"/>
+			</instrument>
+			<player name="red fish blue fish"/>
+			<conductor>Steven Schick</conductor>
+			<composed start="1996"/>
+			<recorded start="2010"/>
+			<release>Mode 284</release>
+			<released>2015</released>
 		</composition>
 		<composition>
 			<name>Zythos</name>
