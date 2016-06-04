@@ -2974,6 +2974,17 @@
 	</composer>
 	<composer name="Salvatore" surname="Sciarrino" born="1947" died="">
 		<composition>
+			<name>Berceuse</name>
+			<description>per grande orchestra</description>
+			<length>11:07</length>
+			<player name="Tokyo Philharmonic Orchestra"/>
+			<conductor>Marco Angius</conductor>
+			<composed start="1967" end="1969"/>
+			<recorded start="2012"/>
+			<release>Stradivarius STR 33987</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Sei Quartetti brevi per archi</name>
 			<length>16:41</length>
 			<player name="Arditti String Quartet"/>
@@ -3671,6 +3682,22 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Cantare con silenzio</name>
+			<description>per flauto, 6 voci, percussori e live electronics</description>
+			<length>40:42</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<player name="Neue Vocalsolisten"/>
+			<instrument name="live electronics">
+				<player name="Alvise Vidolin"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2007"/>
+			<release>Stradivarius STR 33987</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Il giornale della necropoli</name>
 			<description>for accordion and orchestra</description>
 			<length>20:15</length>
@@ -3895,6 +3922,20 @@
 			<recorded start="2009"/>
 			<release>Stradivarius STR 33942</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Libro notturno delle voci</name>
+			<description>per flauto e orchestra</description>
+			<length>26:27</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<player name="Tokyo Philharmonic Orchestra"/>
+			<conductor>Marco Angius</conductor>
+			<composed start="2009"/>
+			<recorded start="2012"/>
+			<release>Stradivarius STR 33987</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Il cantiere del poema</name>

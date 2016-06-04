@@ -1905,6 +1905,16 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Livre pour quatuor</name>
+			<description>révisé, version 2012</description>
+			<length>45:47</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="1948" end="2012"/>
+			<recorded start="2014"/>
+			<release>Megadisc MDC 7796</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Deuxième sonate</name>
 			<description>pour piano</description>
 			<length>29:35</length>
