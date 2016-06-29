@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Mauricio" surname="Kagel" born="1931" died="2008">
 		<composition>
@@ -919,6 +924,25 @@
 			<recorded start="1993"/>
 			<release>Col Legno WWE 31870</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Samuel Beckett: What is the Word op. 30b</name>
+			<description>pour contralto solo (récitante), cinq voix et groupes instrumentaux dispersés dans l’espace</description>
+			<length>12:01</length>
+			<instrument name="Rezitation">
+				<player name="Ildikó Monyók"/>
+			</instrument>
+			<instrument name="Sopran">
+				<player name="Annet Zaire"/>
+			</instrument>
+			<player name="Arnold Schoenberg Chor"/>
+			<conductor>Erwin Ortner</conductor>
+			<player name="Ensemble Anton Webern"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1990" end="1991"/>
+			<recorded start="1991"/>
+			<release>Deutsche Grammophon 437 840-2</release>
+			<released>1996</released>
 		</composition>
 		<composition>
 			<name>Aus der Ferne III</name>

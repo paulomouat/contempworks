@@ -2215,6 +2215,27 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Face de la chaleur</name>
+			<description>Erster Teil</description>
+			<description>pour flûte, clarinette, piano et orchestre divisé en 4 groupes répartis dans la salle</description>
+			<length>9:08</length>
+			<instrument name="Flöte">
+				<player name="Wissam Boustany"/>
+			</instrument>
+			<instrument name="Klarinette">
+				<player name="Ernesto Molinari"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Thomas Larcher"/>
+			</instrument>
+			<player name="Ensemble Anton Webern"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Deutsche Grammophon 437 840-2</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Lied</name>
 			<description>for violin and piano</description>
 			<length>8:59</length>

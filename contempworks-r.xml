@@ -2318,6 +2318,22 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>bildlos / weglos</name>
+			<description>pour sept voix de femmes et orchestre</description>
+			<length>12:42</length>
+			<instrument name="Sopran-Solo">
+				<player name="Annet Zaire"/>
+			</instrument>
+			<player name="Arnold Schoenberg Chor"/>
+			<conductor>Erwin Ortner</conductor>
+			<player name="Ensemble Anton Webern"/>
+			<conductor>Claudio Abbado</conductor>
+			<composed start="1990" end="1991"/>
+			<recorded start="1991"/>
+			<release>Deutsche Grammophon 437 840-2</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Am Horizont</name>
 			<description>Stille Szene für Violine, Violoncello und Akkordeon</description>
 			<length>6:50</length>
