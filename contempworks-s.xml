@@ -2129,6 +2129,33 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Streichquartett in D-Dur</name>
+			<length>25:14</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1897"/>
+			<recorded start="1994"/>
+			<release>Montaigne MO 782025</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Scherzo en fa</name>
+			<length>7:03</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1897"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782025</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Presto en do</name>
+			<length>6:06</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1896" end="1897"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782025</release>
+			<released>1995</released>
+		</composition>
+		<composition>
 			<name>Verklärte Nacht, op. 4</name>
 			<length>29:53</length>
 			<player name="Berliner Philharmoniker"/>
@@ -2159,6 +2186,23 @@
 			<recorded start="1973"/>
 			<release>Sony 88765429572 (3)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Verklärte Nacht, op. 4</name>
+			<description>pour 2 violons, 2 altos et 2 violoncelles</description>
+			<description>d’après le poème du même titre de Richard Dehmel</description>
+			<length>27:49</length>
+			<player name="Arditti String Quartet"/>
+			<instrument name="alto">
+				<player name="Thomas Kakuska"/>
+			</instrument>
+			<instrument name="violoncelle">
+				<player name="Valentin Erben"/>
+			</instrument>
+			<composed start="1899"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782025</release>
+			<released>1995</released>
 		</composition>
 		<composition>
 			<name>Gurre-Lieder</name>
@@ -2224,6 +2268,20 @@
 			<recorded start="1979"/>
 			<release>Sony 88765429572 (9)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Kammersymphonie Nr. 1, op. 9</name>
+			<description>pour quatuor à cordes et piano</description>
+			<description>transcription d’Anton Webern</description>
+			<length>19:39</length>
+			<player name="Arditti String Quartet"/>
+			<instrument name="piano">
+				<player name="Stefan Litwin"/>
+			</instrument>
+			<composed start="1906" end="1923"/>
+			<recorded start="1994"/>
+			<release>Montaigne MO 782025</release>
+			<released>1995</released>
 		</composition>
 		<composition>
 			<name>String Quartet II, op. 10</name>
@@ -2596,6 +2654,20 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Sonett Nr. 217 von Petrarca (aus der Serenade op. 24)</name>
+			<description>pour violon, violoncelle et piano</description>
+			<description>transcription de Felix Greissle</description>
+			<length>3:10</length>
+			<player name="Arditti String Quartet"/>
+			<instrument name="piano">
+				<player name="Stefan Litwin"/>
+			</instrument>
+			<composed start="1922" end="1923"/>
+			<recorded start="1994"/>
+			<release>Montaigne MO 782025</release>
+			<released>1995</released>
+		</composition>
+		<composition>
 			<name>Vier Stücke, op. 27</name>
 			<description>für gemischten Chor</description>
 			<length>10:38</length>
@@ -2837,6 +2909,32 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Ode to Napoleon Buonaparte, op. 41</name>
+			<description>pour récitant, quatuor à cordes et piano</description>
+			<length>14:59</length>
+			<player name="Arditti String Quartet"/>
+			<instrument name="baritone-narrator">
+				<player name="Matthew Carey"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Stefan Litwin"/>
+			</instrument>
+			<composed start="1942"/>
+			<recorded start="1994"/>
+			<release>Montaigne MO 782025</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Streichtrio, op. 45</name>
+			<description>pour violon, alto et violoncelle</description>
+			<length>18:54</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1946"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782025</release>
+			<released>1995</released>
+		</composition>
+		<composition>
 			<name>A Survivor from Warsaw, op. 46</name>
 			<description>for Narrator, Men’s Chorus and Orchestra</description>
 			<length>7:26</length>
@@ -2850,6 +2948,21 @@
 			<recorded start="1976"/>
 			<release>Sony 88765429572 (6)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Phantasy, op. 47</name>
+			<description>pour violon et piano</description>
+			<length>8:23</length>
+			<instrument name="violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Stefan Litwin"/>
+			</instrument>
+			<composed start="1949"/>
+			<recorded start="1994"/>
+			<release>Montaigne MO 782025</release>
+			<released>1995</released>
 		</composition>
 		<composition>
 			<name>Drei Volksliedsätze, op. 49</name>
