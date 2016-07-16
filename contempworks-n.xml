@@ -463,6 +463,16 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Composizione per Orchestra</name>
+			<length>13:40</length>
+			<player name="Sinfonie Orchester des Norddeutsche Rundfunk"/>
+			<conductor>Bruno Maderna</conductor>
+			<composed start="1951"/>
+			<recorded start="1952"/>
+			<release>Arkadia CDMAD 027.1</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Composizione per orchestra n. 1</name>
 			<length>13:55</length>
 			<player name="Deutsches Symphonie-Orchester Berlin"/>
@@ -471,6 +481,39 @@
 			<recorded start="1998"/>
 			<release>Wergo WER 6667 2</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Epitaffio per Federico García Lorca No. 1. España en el corazón</name>
+			<description>Tre studi per Soprano, Baritono, Coro parlato e Strumenti</description>
+			<length>10:37</length>
+			<part>
+				<number>1</number>
+				<name>Tarde (Federico García Lorca)</name>
+				<length>3:29</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>La Guerra (Pablo Neruda)</name>
+				<length>4:32</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Casida de la rosa (Federico García Lorca)</name>
+				<length>2:36</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Lidia Marimpietri"/>
+			</instrument>
+			<instrument name="Baritono">
+				<player name="Mario Borriello"/>
+			</instrument>
+			<player name="Orchestra Sinfonica e Coro di Roma della Rai"/>
+			<conductor>Nino Antonellini</conductor>
+			<conductor>Bruno Maderna</conductor>
+			<composed start="1952" end="1953"/>
+			<recorded start="1961"/>
+			<release>Arkadia CDMAD 027.1</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Epitaffio per Federico García Lorca No. 1. España en el corazón</name>
@@ -504,6 +547,21 @@
 			<recorded start="1977"/>
 			<release>Berlin Classics 0021412BC</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Epitaffio per Federico García Lorca No. 3. Memento. Romance de la Guardia civil española</name>
+			<description>Per voce recitante, coro parlato e orchestra, testo di Federico García Lorca</description>
+			<length>17:40</length>
+			<instrument name="voce recitante">
+				<player name="Christa Ludwig"/>
+			</instrument>
+			<player name="Sinfonie Orchester und Chor des Norddeutsche Rundfunk"/>
+			<conductor>Otto Franze</conductor>
+			<conductor>Bruno Maderna</conductor>
+			<composed start="1952" end="1953"/>
+			<recorded start="1953"/>
+			<release>Arkadia CDMAD 027.1</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Epitaffio per Federico García Lorca No. 3. Memento. Romance de la Guardia civil española</name>
@@ -655,6 +713,16 @@
 			<recorded start="1993"/>
 			<release>hänssler Classic CD 93.022</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Composizione per Orchestra n. 2 (Diario Polacco 58)</name>
+			<length>14:28</length>
+			<player name="Orchestra Sinfonica di Roma della Rai"/>
+			<conductor>Bruno Maderna</conductor>
+			<composed start="1959"/>
+			<recorded start="1959"/>
+			<release>Arkadia CDMAD 027.1</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Sarà dolce tacere</name>
@@ -890,8 +958,7 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Per Bastiana</name>
-			<description>Tai-Yang Cheng</description>
+			<name>Per Bastiana: Tai-Yang Cheng</name>
 			<description>für Orchester und Tonband</description>
 			<length>15:07</length>
 			<player name="Radio-Symphonie-Orchester, Berlin"/>
@@ -900,6 +967,17 @@
 			<recorded start="?"/>
 			<release>Wergo WER 6229-2</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>Per Bastiana: Tai-Yang Cheng</name>
+			<description>per nastro magnetico e strumenti</description>
+			<length>15:16</length>
+			<player name="Sinfonie Orchester des Bayerischen Rundfunks"/>
+			<conductor>Bruno Maderna</conductor>
+			<composed start="1967"/>
+			<recorded start="1970"/>
+			<release>Arkadia CDMAD 027.1</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Contrappunto dialettico alla mente</name>
@@ -2165,6 +2243,16 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Esquisses</name>
+			<description>pour quatuor à cordes</description>
+			<length>13:28</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1967" end="1980"/>
+			<recorded start="1987"/>
+			<release>Erato ECD 75551</release>
+			<released>1990</released>
+		</composition>
+		<composition>
 			<name>Litanies du feu et de la mer I</name>
 			<length>25:28</length>
 			<instrument name="Piano">
@@ -2188,7 +2276,7 @@
 		</composition>
 		<composition>
 			<name>Nachtmusik I</name>
-			<description>pour ensemble</description>
+			<description>pour cinq instruments et électronique ad libitum</description>
 			<length>33:49</length>
 			<player name="Ensemble Contrechamps"/>
 			<conductor>Mark Foster</conductor>
@@ -2196,6 +2284,17 @@
 			<recorded start="1993"/>
 			<release>Accord 204392</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Musik der Frühe</name>
+			<description>pour 18 instruments</description>
+			<length>40:39</length>
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Peter Eötvös</conductor>
+			<composed start="1980" end="1984"/>
+			<recorded start="1985"/>
+			<release>Erato ECD 75551</release>
+			<released>1990</released>
 		</composition>
 		<composition>
 			<name>Wandlungen</name>
