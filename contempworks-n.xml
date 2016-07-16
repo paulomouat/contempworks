@@ -2147,6 +2147,24 @@
 	</composer>
 	<composer name="Emmanuel" surname="Nunes" born="1941" died="2012">
 		<composition>
+			<name>Degrés</name>
+			<description>pour trio à cordes</description>
+			<length>13:39</length>
+			<instrument name="violon">
+				<player name="Isabelle Magnenat"/>
+			</instrument>
+			<instrument name="alto">
+				<player name="Jürg Dähler"/>
+			</instrument>
+			<instrument name="violoncelle">
+				<player name="Daniel Haefliger"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="1993"/>
+			<release>Accord 204392</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Litanies du feu et de la mer I</name>
 			<length>25:28</length>
 			<instrument name="Piano">
@@ -2167,6 +2185,17 @@
 			<recorded start="1991"/>
 			<release>Numerica NUM 1007</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Nachtmusik I</name>
+			<description>pour ensemble</description>
+			<length>33:49</length>
+			<player name="Ensemble Contrechamps"/>
+			<conductor>Mark Foster</conductor>
+			<composed start="1977" end="1978"/>
+			<recorded start="1993"/>
+			<release>Accord 204392</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Wandlungen</name>

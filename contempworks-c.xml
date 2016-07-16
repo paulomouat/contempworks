@@ -99,6 +99,38 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Bacchanale</name>
+			<description>for prepared piano</description>
+			<length>9:28</length>
+			<instrument name="Prepared Piano">
+				<player name="Philipp Vandré"/>
+			</instrument>
+			<composed start="1940"/>
+			<recorded start="2001" end="2002"/>
+			<release>Mode 180/81</release>
+			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Fads and Fancies in the Academy</name>
+			<description></description>
+			<length>18:03</length>
+			<player name="Essential Music"/>
+			<composed start="1940"/>
+			<recorded start="1994" end="1995"/>
+			<release>Mode 55</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>A Chant with Claps</name>
+			<description></description>
+			<length>1:02</length>
+			<player name="Essential Music"/>
+			<composed start="1940"/>
+			<recorded start="1994" end="1995"/>
+			<release>Mode 55</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Living room music</name>
 			<length>8:04</length>
 			<player name="Third Coast Percussion"/>
@@ -106,6 +138,20 @@
 			<recorded start="2011"/>
 			<release>Mode 243</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Living room music</name>
+			<description>for percussion and speech quartet</description>
+			<length>7:51</length>
+			<instrument name="percussion">
+				<player name="Gert Sorensen"/>
+			</instrument>
+			<player name="Vocal Group Ars Nova"/>
+			<conductor>Támas Vetö</conductor>
+			<composed start="1940"/>
+			<recorded start="1997"/>
+			<release>Mode 71</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Second construction</name>
@@ -161,38 +207,6 @@
 			<recorded start="1942"/>
 			<release>Siemens</release>
 			<released>1998</released>
-		</composition>
-		<composition>
-			<name>Bacchanale</name>
-			<description>for prepared piano</description>
-			<length>9:28</length>
-			<instrument name="Prepared Piano">
-				<player name="Philipp Vandré"/>
-			</instrument>
-			<composed start="1940"/>
-			<recorded start="2001" end="2002"/>
-			<release>Mode 180/81</release>
-			<released>2007</released>
-		</composition>
-		<composition>
-			<name>Fads and Fancies in the Academy</name>
-			<description></description>
-			<length>18:03</length>
-			<player name="Essential Music"/>
-			<composed start="1940"/>
-			<recorded start="1994" end="1995"/>
-			<release>Mode 55</release>
-			<released>1996</released>
-		</composition>
-		<composition>
-			<name>A Chant with Claps</name>
-			<description></description>
-			<length>1:02</length>
-			<player name="Essential Music"/>
-			<composed start="1940"/>
-			<recorded start="1994" end="1995"/>
-			<release>Mode 55</release>
-			<released>1996</released>
 		</composition>
 		<composition>
 			<name>Totem Ancestor</name>
@@ -1874,6 +1888,17 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Hymns and Variations</name>
+			<description>for 12 amplified voices</description>
+			<length>28:29</length>
+			<player name="Vocal Group Ars Nova"/>
+			<conductor>Támas Vetö</conductor>
+			<composed start="1979"/>
+			<recorded start="1997"/>
+			<release>Mode 71</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Thirty Pieces for String Quartet</name>
 			<length>33:57</length>
 			<player name="Arditti String Quartet"/>
@@ -1881,6 +1906,17 @@
 			<recorded start="1988"/>
 			<release>Mode 17</release>
 			<released>1989</released>
+		</composition>
+		<composition>
+			<name>ear for EAR (Antiphonies)</name>
+			<description>for widely separated single voices</description>
+			<length>3:55</length>
+			<player name="Vocal Group Ars Nova"/>
+			<conductor>Támas Vetö</conductor>
+			<composed start="1983"/>
+			<recorded start="1997"/>
+			<release>Mode 71</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Ryoanji</name>
@@ -2076,6 +2112,17 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Five</name>
+			<description>for 5 voices or instruments</description>
+			<length>4:56</length>
+			<player name="Vocal Group Ars Nova"/>
+			<conductor>Támas Vetö</conductor>
+			<composed start="1988"/>
+			<recorded start="1997"/>
+			<release>Mode 71</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Seven</name>
 			<length>20:00</length>
 			<player name="Essential Music"/>
@@ -2106,6 +2153,17 @@
 			<recorded start="1988"/>
 			<release>Mode 84/85</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Four Solos</name>
+			<description>for solo quartet</description>
+			<length>15:00</length>
+			<player name="Vocal Group Ars Nova"/>
+			<conductor>Támas Vetö</conductor>
+			<composed start="1988"/>
+			<recorded start="1997"/>
+			<release>Mode 71</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Four</name>
@@ -2384,6 +2442,30 @@
 			<recorded start="1995"/>
 			<release>Mode 88</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Four2</name>
+			<description>for mixed chorus</description>
+			<description>version 1</description>
+			<length>6:47</length>
+			<player name="Vocal Group Ars Nova"/>
+			<conductor>Támas Vetö</conductor>
+			<composed start="1990"/>
+			<recorded start="1997"/>
+			<release>Mode 71</release>
+			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Four2</name>
+			<description>for mixed chorus</description>
+			<description>version 2</description>
+			<length>6:54</length>
+			<player name="Vocal Group Ars Nova"/>
+			<conductor>Támas Vetö</conductor>
+			<composed start="1990"/>
+			<recorded start="1997"/>
+			<release>Mode 71</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Four3</name>
