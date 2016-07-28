@@ -2243,6 +2243,16 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Degrés</name>
+			<description>pour trio à cordes</description>
+			<length>16:02</length>
+			<player name="Paris String Trio"/>
+			<composed start="1965"/>
+			<recorded start="1973"/>
+			<release>Strauss SP 4032</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Esquisses</name>
 			<description>pour quatuor à cordes</description>
 			<length>13:28</length>
@@ -2273,6 +2283,19 @@
 			<recorded start="1991"/>
 			<release>Numerica NUM 1007</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Impromptu pour un voyage</name>
+			<description>pour trompette, flûte, alto et harpe</description>
+			<length>23:16</length>
+			<instrument name="Trompette">
+				<player name="Jean-Jacques Greffin"/>
+			</instrument>
+			<player name="Debussy Trio"/>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>Strauss SP 4032</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Nachtmusik I</name>
