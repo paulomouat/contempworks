@@ -1397,6 +1397,46 @@
 			<released>2007</released>
 		</composition>
 	</composer>
+	<composer name="Filipe" surname="Pires" born="1934" died="">
+		<composition>
+			<name>Akronos</name>
+			<description>for string orchestra</description>
+			<length>7:53</length>
+			<player name="Budapest Philharmonic Orchestra"/>
+			<conductor>János Sándor</conductor>
+			<composed start="1964"/>
+			<recorded start="1984"/>
+			<release>Portugalsom CD 870019/PS</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Portugaliae Genesis</name>
+			<description>for baritone, choir and orchestra</description>
+			<length>33:30</length>
+			<instrument name="baritone">
+				<player name="Oliveira Lopes"/>
+			</instrument>
+			<player name="Hungarian State Opera Choir"/>
+			<conductor>Miklós Szalay</conductor>
+			<player name="Budapest Philharmonic Orchestra"/>
+			<conductor>János Sándor</conductor>
+			<composed start="1968"/>
+			<recorded start="1984"/>
+			<release>Portugalsom CD 870019/PS</release>
+			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Sintra</name>
+			<description>Music for an imaginary short film</description>
+			<length>9:55</length>
+			<player name="Budapest Philharmonic Orchestra"/>
+			<conductor>János Sándor</conductor>
+			<composed start="1969"/>
+			<recorded start="1984"/>
+			<release>Portugalsom CD 870019/PS</release>
+			<released>1990</released>
+		</composition>
+	</composer>
 	<composer name="Robert HP" surname="Platz" born="1951" died="">
 		<composition>
 			<name>from fear of thunder, dreams...</name>
