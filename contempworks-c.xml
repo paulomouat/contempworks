@@ -36,6 +36,16 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Sonata for two voices</name>
+			<description>soprano and tenor saxophones</description>
+			<length>4:43</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1933"/>
+			<recorded start="2000"/>
+			<release>Mode 160</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Solo with obbligato accompaniment of two voices in canon, and six short inventions on the subjects of the solo</name>
 			<description>for any 3 or more instruments encompassing the range g below middle c to g one and a half octaves above middle c</description>
 			<length>15:49</length>
@@ -44,6 +54,26 @@
 			<recorded start="1998"/>
 			<release>Mode 186</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Solo with obbligato accompaniment of two voices in canon, and six short inventions on the subjects of the solo</name>
+			<description>for alto saxophone, Bb clarinet and english horn</description>
+			<length>15:39</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1933"/>
+			<recorded start="2003"/>
+			<release>Mode 160</release>
+			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Composition for three voices</name>
+			<description>for soprano saxophone, accordion and cello</description>
+			<length>5:02</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1934"/>
+			<recorded start="2003"/>
+			<release>Mode 160</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Quartet</name>
@@ -1240,6 +1270,16 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Solo for Baritone Saxophone</name>
+			<description>(from pages 145-156 of the orchestral parts of Concert for Piano and Orchestra)</description>
+			<length>12:08</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1957" end="1958"/>
+			<recorded start="2000"/>
+			<release>Mode 160</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>Music Walk</name>
 			<description>for 1 or more pianists, at a single piano, using also radio and/or recordings</description>
 			<length>10:53</length>
@@ -1457,6 +1497,17 @@
 			<recorded start="1988"/>
 			<release>Mode 3/6</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Atlas Eclipticalis</name>
+			<description>(from the pages 193-204 of the orchestral parts of Atlas Eclipticalis)</description>
+			<description>for 3 soprano saxophones and electronics</description>
+			<length>24:15</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1961"/>
+			<recorded start="1999"/>
+			<release>Mode 160</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Atlas Eclipticalis with Winter Music</name>
@@ -1969,6 +2020,16 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Ryoanji</name>
+			<description>for saxophone, 3 pre-recorded saxophones and percussion</description>
+			<length>21:26</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1984"/>
+			<recorded start="1999"/>
+			<release>Mode 104</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Souvenir</name>
 			<length>6:50</length>
 			<instrument name="organ">
@@ -2051,6 +2112,16 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Hymnkus</name>
+			<description>for 2 saxophones, accordion, 2 pianos and 2 percussions</description>
+			<length>30:04</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1986"/>
+			<recorded start="1999"/>
+			<release>Mode 104</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>One</name>
 			<description>for piano solo</description>
 			<length>10:00</length>
@@ -2061,6 +2132,16 @@
 			<recorded start="1993"/>
 			<release>Mode 47</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Two</name>
+			<description>for soprano saxophone and piano</description>
+			<length>10:05</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1987"/>
+			<recorded start="1999"/>
+			<release>Mode 160</release>
+			<released>2006</released>
 		</composition>
 		<composition>
 			<name>Organ2/ASLSP</name>
@@ -2121,6 +2202,16 @@
 			<recorded start="1997"/>
 			<release>Mode 71</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Five</name>
+			<description>version for 2 saxophones, accordion and 2 pianos</description>
+			<length>5:07</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1988"/>
+			<recorded start="1999"/>
+			<release>Mode 104</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>Seven</name>
@@ -2490,6 +2581,16 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Four5</name>
+			<description>for saxophone quartet</description>
+			<length>12:02</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1991"/>
+			<recorded start="1999"/>
+			<release>Mode 104</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>One5</name>
 			<description>for piano solo</description>
 			<length>20:40</length>
@@ -2572,6 +2673,16 @@
 			<recorded start="1993"/>
 			<release>Mode 75</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Five4</name>
+			<description>for 2 saxophones and 3 percussions</description>
+			<length>5:01</length>
+			<player name="Ulrich Krieger et al"/>
+			<composed start="1991"/>
+			<recorded start="1999"/>
+			<release>Mode 104</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>Europera 5</name>
