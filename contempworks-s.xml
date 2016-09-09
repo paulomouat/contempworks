@@ -2118,7 +2118,322 @@
 	</composer>
 	<composer name="Arnold" surname="Schönberg" born="1874" died="1951">
 		<composition>
-			<name>Drei Klavierstücke</name>
+			<name>Nachgelassene Lieder</name>
+			<length>20:39</length>
+			<part>
+				<number>1</number>
+				<name>Waldesnacht</name>
+				<composed>1897</composed>
+				<length>4:13</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Ekloge (3. Fassung)</name>
+				<composed>1897</composed>
+				<length>3:40</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Warum bist Du aufgewacht</name>
+				<composed>1893/94</composed>
+				<length>2:20</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Zweifler</name>
+				<composed>1895</composed>
+				<length>1:09</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Du kehrst mir den Rücken</name>
+				<composed>1895</composed>
+				<length>1:22</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Gott grüß dich, Marie</name>
+				<composed>1895</composed>
+				<length>2:02</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Sehnsucht</name>
+				<composed>1896</composed>
+				<length>1:53</length>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Wanderlied (unvollst.)</name>
+				<composed>1895/96</composed>
+				<length>1:19</length>
+			</part>
+			<part>
+				<number>9</number>
+				<name>Gruß in die Ferne</name>
+				<composed>1900</composed>
+				<length>2:41</length>
+			</part>
+			<instrument name="Bariton">
+				<player name="Konrad Jarnot"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1893" end="1900"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Brettl-Lieder</name>
+			<length>20:24</length>
+			<instrument name="Sopran">
+				<player name="Claudia Barainsky"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<instrument name="Kleine Flöte">
+				<player name="Michael Hasel"/>
+			</instrument>
+			<instrument name="Trompete">
+				<player name="Florian Dörpholz"/>
+			</instrument>
+			<instrument name="Kleine Trommel">
+				<player name="Dominic Oelze"/>
+			</instrument>
+			<composed start="1901"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Nachgelassene Lieder</name>
+			<length>12:58</length>
+			<part>
+				<number>1</number>
+				<name>Deinem Blick mich zu bequemen (1. Fassung)</name>
+				<composed>1903</composed>
+				<length>2:39</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Natur op. 8, 1</name>
+				<composed>1903/04</composed>
+				<length>5:07</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Natur op. 8, 1</name>
+				<composed>1903/04</composed>
+				<length>3:21</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Deinem Blick mich zu bequemen (2. Fassung, Fragment)</name>
+				<composed>1903</composed>
+				<length>1:51</length>
+			</part>
+			<instrument name="Sopran">
+				<player name="Claudia Barainsky"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1893" end="1897"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Nachgelassene Lieder</name>
+			<length>10:51</length>
+			<part>
+				<number>1</number>
+				<name>Die Beiden</name>
+				<description>(Tenor)</description>
+				<composed>1899</composed>
+				<length>2:37</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Mailied</name>
+				<description>(Tenor)</description>
+				<composed>1899</composed>
+				<length>1:58</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Mädchenfrühling</name>
+				<description>(Sopran)</description>
+				<composed>1897</composed>
+				<length>1:09</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Nicht doch!</name>
+				<description>(Tenor)</description>
+				<composed>1897</composed>
+				<length>3:59</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Mannesbangen</name>
+				<description>(Tenor)</description>
+				<composed>1899</composed>
+				<length>1:08</length>
+			</part>
+			<instrument name="Sopran">
+				<player name="Melanie Diener"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Markus Schäfer"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1897" end="1899"/>
+			<recorded start="2009" end="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Frühe Lieder</name>
+			<length>38:38</length>
+			<part>
+				<number>1</number>
+				<name>Ekloge (2. Fassung)</name>
+				<composed>1894/97</composed>
+				<length>3:13</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Juble, schöne junge Rose</name>
+				<composed>1893/94</composed>
+				<length>0:49</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Einst hat vor deines Vaters Haus</name>
+				<composed>1893</composed>
+				<length>1:20</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Einsam bin ich und alleine</name>
+				<composed>1895</composed>
+				<length>1:48</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Lied der Schnitterin</name>
+				<composed>1895/96</composed>
+				<length>1:58</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Vergißmeinnicht</name>
+				<composed>1895</composed>
+				<length>3:51</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Mädchenlied</name>
+				<composed>1896</composed>
+				<length>1:23</length>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Im Fliederbusch ein Vöglein saß</name>
+				<composed>1895</composed>
+				<length>2:30</length>
+			</part>
+			<part>
+				<number>9</number>
+				<name>Daß schon die Maienzeit vorüber</name>
+				<composed>1895</composed>
+				<length>1:20</length>
+			</part>
+			<part>
+				<number>10</number>
+				<name>Ich grüne wie die Weide grünt</name>
+				<composed>1893/95</composed>
+				<length>2:13</length>
+			</part>
+			<part>
+				<number>11</number>
+				<name>Der Pflanze, die dort über dem Abgrund schwebt</name>
+				<composed>1895</composed>
+				<length>1:33</length>
+			</part>
+			<part>
+				<number>12</number>
+				<name>Drüben geht die Sonne scheiden</name>
+				<composed>1893</composed>
+				<length>3:58</length>
+			</part>
+			<part>
+				<number>13</number>
+				<name>Nur das tut mir so bitterweh’</name>
+				<composed>1893/95</composed>
+				<length>1:39</length>
+			</part>
+			<part>
+				<number>14</number>
+				<name>Mein Schatz ist wie ein Schneck</name>
+				<composed>1893/95</composed>
+				<length>1:17</length>
+			</part>
+			<part>
+				<number>15</number>
+				<name>Das zerbrochene Krüglein</name>
+				<composed>1893/94</composed>
+				<length>1:00</length>
+			</part>
+			<part>
+				<number>16</number>
+				<name>Daß gestern eine Wespe</name>
+				<composed>1893/94</composed>
+				<length>1:26</length>
+			</part>
+			<part>
+				<number>17</number>
+				<name>Mädchenlied</name>
+				<composed>1897</composed>
+				<length>1:00</length>
+			</part>
+			<part>
+				<number>18</number>
+				<name>Mein Herz, das ist ein tiefer Schacht</name>
+				<composed>1895/96</composed>
+				<length>2:02</length>
+			</part>
+			<part>
+				<number>19</number>
+				<name>Könnt’ ich zu dir, mein Licht</name>
+				<composed>1895</composed>
+				<length>1:31</length>
+			</part>
+			<part>
+				<number>20</number>
+				<name>In hellen Träumen</name>
+				<composed>1893</composed>
+				<length>2:47</length>
+			</part>
+			<instrument name="Sopran">
+				<player name="Claudia Barainsky"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1893" end="1897"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>3 Klavierstücke</name>
 			<length>7:22</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -2154,6 +2469,48 @@
 			<recorded start="1993"/>
 			<release>Montaigne MO 782025</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>2 Gesänge, op. 1</name>
+			<length>14:07</length>
+			<instrument name="Bariton">
+				<player name="Konrad Jarnot"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1898"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>4 Lieder, op. 2</name>
+			<length>12:12</length>
+			<instrument name="Bariton">
+				<player name="Konrad Jarnot"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1899" end="1900"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>6 Lieder, op. 3</name>
+			<length>13:45</length>
+			<instrument name="Bariton">
+				<player name="Konrad Jarnot"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1903"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Verklärte Nacht, op. 4</name>
@@ -2206,6 +2563,27 @@
 		</composition>
 		<composition>
 			<name>Gurre-Lieder</name>
+			<description>Frühfassungen für Stimmen und Klavier</description>
+			<length>57:17</length>
+			<instrument name="Sopran">
+				<player name="Melanie Diener"/>
+			</instrument>
+			<instrument name="Mezzosopran">
+				<player name="Anke Vondung"/>
+			</instrument>
+			<instrument name="Tenor">
+				<player name="Markus Schäfer"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1900" end="1901"/>
+			<recorded start="2009" end="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Gurre-Lieder</name>
 			<description>für Soli, Chor und Orchester</description>
 			<length>1:55:22</length>
 			<instrument name="Tenor">
@@ -2237,6 +2615,20 @@
 			<recorded start="1974"/>
 			<release>Sony 88765429572 (7 &amp; 8)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>8 Lieder, op. 6</name>
+			<length>20:27</length>
+			<instrument name="Sopran">
+				<player name="Melanie Diener"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1903" end="1905"/>
+			<recorded start="2009" end="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>String Quartet, op. 7</name>
@@ -2307,7 +2699,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Drei Klavierstücke, op. 11</name>
+			<name>3 Klavierstücke, op. 11</name>
 			<length>13:53</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -2315,6 +2707,23 @@
 			<composed start="1909"/>
 			<recorded start="1996"/>
 			<release>hat[now] ART 184</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>2 Balladen, op. 12</name>
+			<length>9:44</length>
+			<instrument name="Sopran">
+				<player name="Melanie Diener"/>
+			</instrument>
+			<instrument name="Bariton">
+				<player name="Konrad Jarnot"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1907"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
 			<released>2011</released>
 		</composition>
 		<composition>
@@ -2329,6 +2738,64 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Jeduch (Fragment)</name>
+			<description>für Sopran und Klavier</description>
+			<length>4:0</length>
+			<instrument name="Sopran">
+				<player name="Melanie Diener"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1907"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>2 Lieder, op. 14</name>
+			<length>5:48</length>
+			<instrument name="Bariton">
+				<player name="Konrad Jarnot"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1907" end="1908"/>
+			<recorded start="2011"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Am Strande</name>
+			<description>für Bariton und Klavier, vorgesehen als op. 14, nr. 3</description>
+			<length>2:25</length>
+			<instrument name="Bariton">
+				<player name="Konrad Jarnot"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1909"/>
+			<recorded start="2011"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Das Buch der hängenden Gärten, op. 15</name>
+			<length>30:14</length>
+			<instrument name="Bariton">
+				<player name="Konrad Jarnot"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1908" end="1909"/>
+			<recorded start="2011"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>5 Orchesterstücke, op. 16</name>
 			<description>original version</description>
 			<length>18:39</length>
@@ -2340,7 +2807,7 @@
 			<released>1989</released>
 		</composition>
 		<composition>
-			<name>Fünf Orchesterstücke, op. 16</name>
+			<name>5 Orchesterstücke, op. 16</name>
 			<length>15:07</length>
 			<player name="BBC Symphony Orchestra"/>
 			<conductor>Pierre Boulez</conductor>
@@ -2364,7 +2831,7 @@
 			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Drei Stücke für Kammerensemble</name>
+			<name>3 Stücke für Kammerensemble</name>
 			<length>2:16</length>
 			<player name="Ensemble InterContemporain"/>
 			<conductor>Pierre Boulez</conductor>
@@ -2400,7 +2867,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Sechs kleine Klavierstücke, op. 19</name>
+			<name>6 kleine Klavierstücke, op. 19</name>
 			<length>6:20</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -2439,7 +2906,7 @@
 			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Vier Lieder für Gesang und Orchester, op. 22</name>
+			<name>4 Lieder für Gesang und Orchester, op. 22</name>
 			<length>13:13</length>
 			<instrument name="Mezzo-Soprano">
 				<player name="Yvonne Minton"/>
@@ -2560,7 +3027,7 @@
 			<released>1975</released>
 		</composition>
 		<composition>
-			<name>Fünf Klavierstücke, op. 23</name>
+			<name>5 Klavierstücke, op. 23</name>
 			<length>9:50</length>
 			<instrument name="piano">
 				<player name="Pi-Hsien Chen"/>
@@ -2668,7 +3135,7 @@
 			<released>1995</released>
 		</composition>
 		<composition>
-			<name>Vier Stücke, op. 27</name>
+			<name>4 Stücke, op. 27</name>
 			<description>für gemischten Chor</description>
 			<length>10:38</length>
 			<player name="BBC Singers"/>
@@ -2680,7 +3147,7 @@
 			<released>2013</released>
 		</composition>
 		<composition>
-			<name>Drei Satiren, op. 28</name>
+			<name>3 Satiren, op. 28</name>
 			<description>für gemischten Chor</description>
 			<length>11:08</length>
 			<player name="BBC Singers"/>
@@ -2786,6 +3253,20 @@
 			<recorded start="1986"/>
 			<release>Sony 88765429572 (5)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>4 deutsche Volkslieder</name>
+			<length>10:12</length>
+			<instrument name="Alt">
+				<player name="Christa Mayer"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1929"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Moses und Aron</name>
@@ -2963,6 +3444,20 @@
 			<recorded start="1994"/>
 			<release>Montaigne MO 782025</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>3 Lieder, op. 48</name>
+			<length>6:06</length>
+			<instrument name="Alt">
+				<player name="Christa Mayer"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Urs Liska"/>
+			</instrument>
+			<composed start="1933"/>
+			<recorded start="2010"/>
+			<release>Capriccio 7120</release>
+			<released>2011</released>
 		</composition>
 		<composition>
 			<name>Drei Volksliedsätze, op. 49</name>
