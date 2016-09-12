@@ -1404,6 +1404,53 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Invention</name>
+			<length>2:08</length>
+			<instrument name="Piano">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="2014"/>
+			<release>Neos 11501-02</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Epigrams</name>
+			<length>8:44</length>
+			<instrument name="Piano">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="2011"/>
+			<release>Neos 11501-02</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Sonata for Two Pianos</name>
+			<length>15:37</length>
+			<instrument name="Piano">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Rolf Hind"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="2011"/>
+			<release>Neos 11501-02</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>3 Pieces for Piano</name>
+			<length>19:52</length>
+			<instrument name="Piano">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<composed start="1966" end="1967"/>
+			<recorded start="2011"/>
+			<release>Neos 11501-02</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Prometheus</name>
 			<description>pour sextuor à vent</description>
 			<length>16:15</length>
@@ -1556,6 +1603,17 @@
 			<recorded start="2000"/>
 			<release>Bridge 9120</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Lemma-Icon-Epigram</name>
+			<length>13:48</length>
+			<instrument name="Piano">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="2014"/>
+			<release>Neos 11501-02</release>
+			<released>2015</released>
 		</composition>
 		<composition>
 			<name>Kurze Schatten II</name>
@@ -1849,6 +1907,18 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>Opus Contra Naturam</name>
+			<description>A shadow play for speaking pianist</description>
+			<length>21:35</length>
+			<instrument name="Piano">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2014"/>
+			<release>Neos 11501-02</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>In nomine a 3</name>
 			<length>2:16</length>
 			<player name="Ensemble Recherche"/>
@@ -1925,6 +1995,17 @@
 			<recorded start="2011" end="2012"/>
 			<release>Aeon AECD 1335</release>
 			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Quirl</name>
+			<length>15:47</length>
+			<instrument name="Piano">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<composed start="2011" end="2013"/>
+			<recorded start="2014"/>
+			<release>Neos 11501-02</release>
+			<released>2015</released>
 		</composition>
 	</composer>
 	<composer name="Luc" surname="Ferrari" born="1929" died="2005">
