@@ -230,6 +230,21 @@
 			<released>1994</released>
 		</composition>
 	</composer>
+	<composer name="Gilbert" surname="Amy" born="1936" died="">
+		<composition>
+			<name>Concerto pour violoncelle et orchestre</name>
+			<length>30:01</length>
+			<instrument name="violoncelle">
+				<player name="Jean-Guihen Queyras"/>
+			</instrument>
+			<player name="Orchestre de Paris"/>
+			<conductor>Gilbert Amy</conductor>
+			<composed start="2000"/>
+			<recorded start="2006"/>
+			<release>Harmonia Mundi HMC 901973</release>
+			<released>2009</released>
+		</composition>				
+	</composer>
 	<composer name="Carl-Olof" surname="Anderberg" born="1914" died="1972">
 		<composition>
 			<name>Tre Stycken för piano</name>

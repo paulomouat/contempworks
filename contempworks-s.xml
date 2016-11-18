@@ -2116,6 +2116,22 @@
 			<released>1990</released>
 		</composition>
 	</composer>
+	<composer name="Philippe" surname="Schoeller" born="1957" died="">
+		<composition>
+			<name>The eyes of the wind</name>
+			<description>Concerto pour violoncelle et orchestre</description>
+			<length>20:09</length>
+			<instrument name="violoncelle">
+				<player name="Jean-Guihen Queyras"/>
+			</instrument>
+			<player name="Orchestre Philharmonique de Radio France"/>
+			<conductor>Alexandre Briger</conductor>
+			<composed start="2004" end="2005"/>
+			<recorded start="2008"/>
+			<release>Harmonia Mundi HMC 901973</release>
+			<released>2009</released>
+		</composition>		
+	</composer>
 	<composer name="Arnold" surname="Schönberg" born="1874" died="1951">
 		<composition>
 			<name>Nachgelassene Lieder</name>
@@ -2640,6 +2656,17 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Ein Stelldichein</name>
+			<description>For oboe, clarinet, violin, violoncello and piano</description>
+			<length>8:04</length>
+			<player name="Junge Philharmonie Wien"/>
+			<conductor>Michael Lessky</conductor>
+			<composed start="1905"/>
+			<recorded start="2009"/>
+			<release>Gramola 98891</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>2 Kanons (Goethe)</name>
 			<description>für gemischten Chor</description>
 			<length>3:31</length>
@@ -3119,6 +3146,20 @@
 			<recorded start="1979"/>
 			<release>Sony 88765429572 (4)</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Lied der Waldtaube</name>
+			<description>Version for chamber orchestra</description>
+			<length>12:18</length>
+			<instrument name="Soprano">
+				<player name="Ildikó Raimondi"/>
+			</instrument>
+			<player name="Junge Philharmonie Wien"/>
+			<conductor>Michael Lessky</conductor>
+			<composed start="1922"/>
+			<recorded start="2009"/>
+			<release>Gramola 98891</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Sonett Nr. 217 von Petrarca (aus der Serenade op. 24)</name>

@@ -549,6 +549,20 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Epitaffio per Federico García Lorca No. 2. Y su sangre ya viene cantando</name>
+			<description>Musik für Flöte und Streichorchester</description>
+			<length>15:08</length>
+			<instrument name="flute">
+				<player name="Evelyn Peña Comas"/>
+			</instrument>
+			<player name="Junge Philharmonie Wien"/>
+			<conductor>Michael Lessky</conductor>
+			<composed start="1952" end="1953"/>
+			<recorded start="2009"/>
+			<release>Gramola 98891</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Epitaffio per Federico García Lorca No. 3. Memento. Romance de la Guardia civil española</name>
 			<description>Per voce recitante, coro parlato e orchestra, testo di Federico García Lorca</description>
 			<length>17:40</length>

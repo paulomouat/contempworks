@@ -831,6 +831,40 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>4 Lieder, op. 12</name>
+			<description>Arrangement for soprano and chamber ensemble, by Thomas Pernes</description>
+			<length>5:58</length>
+			<part>
+				<number>I</number>
+				<name>Der Tag ist vergangen</name>
+				<length>1:30</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Die geheimnisvolle Flöte</name>
+				<length>1:42</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Schien mir’s, als ich sah die Sonne</name>
+				<length>1:45</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Gleich und gleich</name>
+				<length>1:01</length>
+			</part>
+			<instrument name="Soprano">
+				<player name="Ildikó Raimondi"/>
+			</instrument>
+			<player name="Junge Philharmonie Wien"/>
+			<conductor>Michael Lessky</conductor>
+			<composed start="1922"/>
+			<recorded start="2009"/>
+			<release>Gramola 98891</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Vier Lieder, op. 13</name>
 			<description>für Sopran und Orchester</description>
 			<length>6:54</length>

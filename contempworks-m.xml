@@ -1109,6 +1109,19 @@
 	</composer>
     <composer name="Bruno" surname="Mantovani" born="1974" died="">
 		<composition>
+			<name>Concerto pour violoncelle et orchestre</name>
+			<length>18:36</length>
+			<instrument name="violoncelle">
+				<player name="Jean-Guihen Queyras"/>
+			</instrument>
+			<player name="Rundfunk Sinfonieorchester Saarbrücken"/>
+			<conductor>Günther Herbig</conductor>
+			<composed start="2003"/>
+			<recorded start="2005"/>
+			<release>Harmonia Mundi HMC 901973</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Time Stretch (on Gesualdo)</name>
 			<description>pour orchestre</description>
 			<length>15:54</length>
