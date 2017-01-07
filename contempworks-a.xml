@@ -53,7 +53,7 @@
 			<released>2011</released>
 		</composition>
 	</composer>
-	<composer name="Mathew" surname="Adkins" born="1972" died="">
+	<composer name="Mathew (Monty)" surname="Adkins" born="1972" died="">
 		<composition>
 			<name>Melt</name>
 			<description>Mondes inconnus</description>
@@ -128,6 +128,50 @@
 			<recorded start="2005"/>
 			<release>empreintes DIGITALes IMED 0679</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Fragile.Flicker.Fragment</name>
+			<length>52:00</length>
+			<part>
+				<number>1</number>
+				<name>memory box</name>
+			</part>
+			<part>
+				<number>2</number>
+				<name>etched in air</name>
+			</part>
+			<part>
+				<number>3</number>
+				<name>remnant</name>
+			</part>
+			<part>
+				<number>4</number>
+				<name>suspended edges</name>
+			</part>
+			<part>
+				<number>5</number>
+				<name>first snow</name>
+			</part>
+			<part>
+				<number>6</number>
+				<name>ode</name>
+			</part>
+			<part>
+				<number>7</number>
+				<name>forensic embers</name>
+			</part>
+			<part>
+				<number>8</number>
+				<name>torn mosaic</name>
+			</part>
+			<part>
+				<number>9</number>
+				<name>memory etching</name>
+			</part>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Audiobulb AB035</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Claude Loyola" surname="Allgén" born="1920" died="1990">
