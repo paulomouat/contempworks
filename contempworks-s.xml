@@ -671,6 +671,18 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Trio</name>
+			<description>pour 3 percussionnistes</description>
+			<length>4:42</length>
+			<player name="Nuovo Ensemble Italiano"/>
+			<player name="Gruppo Musica Insieme"/>
+			<conductor>Aldo Brizzi</conductor>
+			<composed start="1950"/>
+			<recorded start="1988"/>
+			<release>INA Mémoire Vive IMV009</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Suite</name>
 			<description>for flute &amp; clarinet</description>
 			<length>8:42</length>
@@ -920,6 +932,17 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>I presagi</name>
+			<description>pour 11 instrumentistes</description>
+			<length>10:36</length>
+			<player name="Nuovo Ensemble Italiano"/>
+			<conductor>Aldo Brizzi</conductor>
+			<composed start="1958"/>
+			<recorded start="1987"/>
+			<release>INA Mémoire Vive IMV009</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Quattro Pezzi per Orchestra</name>
 			<description>ciascuno su una nota sola</description>
 			<length>15:59</length>
@@ -943,6 +966,18 @@
 			<recorded start=""/>
 			<release>Adda 581189</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Kya</name>
+			<description>version pour saxophone et sept instruments</description>
+			<length>17:16</length>
+			<player name="Nuovo Ensemble Italiano"/>
+			<player name="Gruppo Musica Insieme"/>
+			<conductor>Aldo Brizzi</conductor>
+			<composed start="1959"/>
+			<recorded start="1988"/>
+			<release>INA Mémoire Vive IMV009</release>
+			<released>1993</released>
 		</composition>
 		<composition>
 			<name>Hurqualia</name>
@@ -1019,6 +1054,19 @@
 			<recorded start="1999" end="2000"/>
 			<release>Albedo ALBCD 012</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Riti: I funerali di Alessandro Magno (323 A.C.)</name>
+			<description>pour 5 instruments</description>
+			<description>(nouvelle version d’Aldo Brizzi, 1988)</description>
+			<length>9:45</length>
+			<player name="Nuovo Ensemble Italiano"/>
+			<player name="Gruppo Musica Insieme"/>
+			<conductor>Aldo Brizzi</conductor>
+			<composed start="1962"/>
+			<recorded start="1988"/>
+			<release>INA Mémoire Vive IMV009</release>
+			<released>1993</released>
 		</composition>
 		<composition>
 			<name>Hymnos</name>
@@ -1230,6 +1278,18 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Ko-Tha (Trois danses de Shiva)</name>
+			<description>pour percussionniste jouant une guitare amplifiée</description>
+			<length>15:04</length>
+			<instrument name="Percussion">
+				<player name="Maurizio Ben Omar"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1988"/>
+			<release>INA Mémoire Vive IMV009</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Mantram</name>
 			<description>for double bass</description>
 			<length>4:47</length>
@@ -1345,6 +1405,20 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Pranam I</name>
+			<description>pour voix, 12 instruments et bande</description>
+			<length>6:40</length>
+			<instrument name="Soprano">
+				<player name="Michiko Hirayama"/>
+			</instrument>
+			<player name="Nuovo Ensemble Italiano"/>
+			<conductor>Aldo Brizzi</conductor>
+			<composed start="1972"/>
+			<recorded start="1987"/>
+			<release>INA Mémoire Vive IMV009</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Et maintenant c’est à vous de jouer...</name>
 			<description>for double bass</description>
 			<length>6:21</length>
@@ -1390,6 +1464,20 @@
 			<recorded start=""/>
 			<release>Adda 581189</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Manto per quattro</name>
+			<description>pour voix, flûte, trombone et violoncelle</description>
+			<length>3:45</length>
+			<instrument name="Soprano">
+				<player name="Michiko Hirayama"/>
+			</instrument>
+			<player name="Nuovo Ensemble Italiano"/>
+			<conductor>Aldo Brizzi</conductor>
+			<composed start="1974"/>
+			<recorded start="1987"/>
+			<release>INA Mémoire Vive IMV009</release>
+			<released>1993</released>
 		</composition>
 		<composition>
 			<name>Dharana</name>
@@ -1489,6 +1577,35 @@
 			<recorded start="2005"/>
 			<release>Mode 159</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Entretiens avec Giacinto Scelsi</name>
+			<description>par Franck Mallet, Marie-Cécile Mazzoni et Marc Texier</description>
+			<length>8:00</length>
+			<part>
+				<number>1</number>
+				<name>Le son sphérique</name>
+				<length>1:05</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Le voyage en Inde</name>
+				<length>2:09</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Souvenirs parisiens</name>
+				<length>3:01</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Je suis un intermédiaire</name>
+				<length>1:35</length>
+			</part>
+			<composed start=""/>
+			<recorded start=""/>
+			<release>INA Mémoire Vive IMV009</release>
+			<released>1993</released>
 		</composition>
 	</composer>
 	<composer name="Boguslaw" surname="Schaeffer" born="1929" died="">
