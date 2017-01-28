@@ -49,6 +49,35 @@
 			<release>BVHaast 9106</release>
 			<released>?</released>
 		</composition>
+		<composition>
+			<name>Epitaph für Aikichi Kuboyama</name>
+			<description>Elektronische Musik für Sprecher und Sprachklänge</description>
+			<length>23:29</length>
+			<instrument name="Übersetzung der Grabinschrift">
+				<player name="Günther Anders"/>
+			</instrument>
+			<instrument name="Sprecher">
+				<player name="Richard Münch"/>
+			</instrument>
+			<player name="WDR, Köln"/>
+			<composed start="1957" end="1962"/>
+			<recorded start="1962"/>
+			<release>Wergo WER 6773 2</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Sechs Studien</name>
+			<description>Elektronische Musik</description>
+			<length>17:53</length>
+			<instrument name="Klangliche Realisation">
+				<player name="Leopold von Knobelsdorff"/>
+			</instrument>
+			<player name="WDR, Köln"/>
+			<composed start="1962"/>
+			<recorded start="1962"/>
+			<release>Wergo WER 6773 2</release>
+			<released>2012</released>
+		</composition>
 	</composer>
 	<composer name="Rolf" surname="Enström" born="1951" died="">
 		<composition>
