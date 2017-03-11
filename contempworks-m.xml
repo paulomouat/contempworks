@@ -1801,6 +1801,18 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>C’est un jardin secret...</name>
+			<description>for solo viola</description>
+			<length>3:57</length>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2002"/>
+			<release>Edition Zeitklang ez-10012</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Territoires de l’oubli</name>
 			<description>pour piano</description>
 			<length>25:56</length>

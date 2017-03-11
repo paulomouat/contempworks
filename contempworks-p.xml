@@ -1192,6 +1192,18 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Capriccio per Siegfried Palm</name>
+			<description>for solo cello</description>
+			<length>2:01</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1974"/>
+			<release>Deutsche Grammophon 471 573-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Canticum canticorum salomonis</name>
 			<length>16:47</length>
 			<player name="Kraków Philharmonic Chorus"/>

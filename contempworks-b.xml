@@ -3119,6 +3119,20 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Music for cello and piano</name>
+			<length>8:11</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="1974"/>
+			<release>Deutsche Grammophon 471 573-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Available Forms I</name>
 			<description>for chamber ensemble</description>
 			<length>14:00</length>

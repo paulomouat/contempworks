@@ -169,6 +169,20 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Unguis incarnatus est</name>
+			<length>5:34</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1974"/>
+			<release>Deutsche Grammophon 471 573-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>1898</name>
 			<description>for chamber ensemble</description>
 			<length>46:43</length>

@@ -156,6 +156,20 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Intercomunicazione</name>
+			<length>21:08</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 471 573-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Requiem für einen jungen dichter</name>
 			<length>1:03:10</length>
 			<instrument name="Sopran">
@@ -194,6 +208,17 @@
 			<recorded start="2005"/>
 			<release>Cybele SACD 860.501</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Vier Kurze Studien</name>
+			<length>2:21</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1974"/>
+			<release>Deutsche Grammophon 471 573-2</release>
+			<released>2002</released>
 		</composition>
 	</composer>
 	<composer name="Walter" surname="Zimmermann" born="1949" died="">

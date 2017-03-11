@@ -908,6 +908,28 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Manto I</name>
+			<length>4:41</length>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2002"/>
+			<release>Edition Zeitklang ez-10012</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Manto II</name>
+			<length>5:07</length>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2002"/>
+			<release>Edition Zeitklang ez-10012</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Trio à cordes</name>
 			<length>13:17</length>
 			<player name="Arditti String Quartet"/>
@@ -8789,6 +8811,21 @@
 	</composer>
 	<composer name="Marco" surname="Stroppa" born="1959" died="">
 		<composition>
+			<name>Traettoria</name>
+			<description>per pianoforte e elettronica</description>
+			<length>19:12</length>
+			<instrument name="pianoforte">
+				<player name="Pierre-Laurent Aimard"/>
+			</instrument>
+			<instrument name="elettronica">
+				<player name="Marco Stroppa"/>
+			</instrument>
+			<composed start="1982" end="1984"/>
+			<recorded start="1991"/>
+			<release>Stradivarius STR 57008</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Spirali</name>
 			<description>pour quatuor à cordes avec dispositif de spatialisation du son</description>
 			<length>18:53</length>
@@ -8797,6 +8834,19 @@
 			<recorded start="1993"/>
 			<release>Montaigne 782042</release>
 			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Spirali</name>
+			<description>per quartetto d’archi proiettato nello spazio</description>
+			<length>19:12</length>
+			<player name="Arditti String Quartet"/>
+			<instrument name="proiezione del suono">
+				<player name="Marco Stroppa"/>
+			</instrument>
+			<composed start="1987" end="1993"/>
+			<recorded start="1993"/>
+			<release>Stradivarius STR 57008</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Let me sing into your ear</name>

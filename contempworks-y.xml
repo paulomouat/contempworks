@@ -2,4 +2,18 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+	<composer name="Isang" surname="Yun" born="1917" died="1995">
+		<composition>
+			<name>Glissées</name>
+			<description>for solo cello</description>
+			<length>14:03</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1974"/>
+			<release>Deutsche Grammophon 471 573-2</release>
+			<released>2002</released>
+		</composition>		
+	</composer>
 </list>

@@ -195,6 +195,17 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Das Andere</name>
+			<length>18:16</length>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="2002"/>
+			<release>Edition Zeitklang ez-10012</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Streichquartett nr. 4 opus 33</name>
 			<description>"Infinite to be cannot be infinite, infinite anti-be could be infinite", Hommage à Leonardo da Vinci</description>
 			<description>for nine string quartets or a string quartet surrounded by an imaginary 128-string viola da gamba</description>

@@ -928,6 +928,21 @@
 		</composition>
 		<composition>
 			<name>Prologue</name>
+			<description>for viola and resonators</description>
+			<length>17:56</length>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<instrument name="live electronics">
+				<player name="Eric Daubresse"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2002"/>
+			<release>Edition Zeitklang ez-10012</release>
+			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Prologue</name>
 			<description>pour alto solo</description>
 			<description>Cycle Les Espaces Acoustiques, 1</description>
 			<length>17:27</length>

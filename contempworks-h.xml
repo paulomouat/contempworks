@@ -60,6 +60,17 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Solo for viola d’amore</name>
+			<length>14:13</length>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2002"/>
+			<release>Edition Zeitklang ez-10012</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Hyperion</name>
 			<description>Concerto for light and orchestra</description>
 			<length>40:13</length>

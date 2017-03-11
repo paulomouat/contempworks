@@ -607,6 +607,20 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Sonata for cello and piano</name>
+			<length>2:01</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1911"/>
+			<recorded start="1974"/>
+			<release>Deutsche Grammophon 471 573-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Sechs Bagatellen für Streichquartett op. 9</name>
 			<length>4:33</length>
 			<player name="Juilliard String Quartet"/>
@@ -730,6 +744,20 @@
 			<recorded start="1994"/>
 			<release>Naive Montaigne MO 782069</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Drei kleine Stücke, op. 11</name>
+			<length>2:45</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1914"/>
+			<recorded start="1974"/>
+			<release>Deutsche Grammophon 471 573-2</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>Cello Sonata</name>
