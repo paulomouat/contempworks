@@ -1835,6 +1835,17 @@
 	</composer>
 	<composer name="Christian" surname="Wolff" born="1934" died="">
 		<composition>
+			<name>For Prepared Piano</name>
+			<length>5:36</length>
+			<instrument name="piano">
+				<player name="Nils Vigeland"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>For Piano with Preparations</name>
 			<length>11:04</length>
 			<instrument name="piano">
@@ -1855,6 +1866,92 @@
 			<recorded start="1972"/>
 			<release>New World Records 80737-2</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>For 1, 2 or 3 People</name>
+			<description>Realization for Flute, Violoncello and Piano</description>
+			<length>3:39</length>
+			<instrument name="flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Frances-Marie Uitti"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Nils Vigeland"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Pairs</name>
+			<description>Version 1</description>
+			<length>5:10</length>
+			<instrument name="flute, sound objects">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="piano, celesta">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Pairs</name>
+			<description>Version 2</description>
+			<length>2:30</length>
+			<instrument name="flute, sound objects">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="piano, celesta">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Edges</name>
+			<description>for any number of players</description>
+			<description>realization for flute and percussion, version 1</description>
+			<length>2:17</length>
+			<instrument name="flute, sound objects">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1995"/>
+			<release>hat ART CD 6176</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Edges</name>
+			<description>for any number of players</description>
+			<description>realization for flute and percussion, version 2</description>
+			<length>2:56</length>
+			<instrument name="flute, sound objects">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1995"/>
+			<release>hat ART CD 6176</release>
+			<released>1995</released>
 		</composition>
 	</composer>
 	<composer name="Ivan" surname="Wyschnegradsky" born="1893" died="1979">

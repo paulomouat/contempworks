@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Dror" surname="Feiler" born="1951" died="">
 		<composition>
@@ -66,6 +71,18 @@
 			<composed start="1950"/>
 			<release>Mode 146</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Projection I</name>
+			<description>for Violoncello</description>
+			<length>2:52</length>
+			<instrument name="violoncello">
+				<player name="Frances-Marie Uitti"/>
+			</instrument>
+			<composed start="1950"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Two Intermissions</name>
@@ -319,6 +336,17 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Intersection 2</name>
+			<length>12:05</length>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1951"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Nature Pieces</name>
 			<description>for piano</description>
 			<length>13:59</length>
@@ -522,6 +550,17 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Intersection 3</name>
+			<length>3:20</length>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1953"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Intersection IV</name>
 			<length>3:10</length>
 			<instrument name="Cello">
@@ -530,6 +569,18 @@
 			<composed start="1953"/>
 			<release>Mode 146</release>
 			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Intersection 4</name>
+			<description>for Violoncello</description>
+			<length>3:00</length>
+			<instrument name="violoncello">
+				<player name="Frances-Marie Uitti"/>
+			</instrument>
+			<composed start="1953"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Intersection</name>
@@ -549,6 +600,18 @@
 			<recorded start="1995"/>
 			<release>Mode 54</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Extension 3</name>
+			<description>for Piano</description>
+			<length>4:46</length>
+			<instrument name="piano">
+				<player name="Nils Vigeland"/>
+			</instrument>
+			<composed start="1953"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Extensions 4</name>
@@ -709,6 +772,21 @@
 			<recorded start="1996" end="1997"/>
 			<release>Mode 103</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Duration 2</name>
+			<description>for Violoncello and Piano</description>
+			<length>5:34</length>
+			<instrument name="violoncello">
+				<player name="Frances-Marie Uitti"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Nils Vigeland"/>
+			</instrument>
+			<composed start="1960"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
 		</composition>
 		<composition>
 			<name>Something Wild in the City: Mary Ann’s Theme</name>
@@ -907,6 +985,17 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>The King of Denmark</name>
+			<length>7:55</length>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Four Instruments</name>
 			<description>for chimes, piano, violin, cello</description>
 			<length>20:42</length>
@@ -946,6 +1035,17 @@
 			<recorded start="2001"/>
 			<release>Kairos 0012292KAI</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Give My Regards to Eighth Street</name>
+			<length>19:37</length>
+			<instrument name="reading">
+				<player name="Art Lange"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1995"/>
+			<release>hat ART CD 6176</release>
+			<released>1995</released>
 		</composition>
 		<composition>
 			<name>Between Categories</name>

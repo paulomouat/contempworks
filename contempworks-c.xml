@@ -992,6 +992,18 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Seven Haiku</name>
+			<description>for Piano</description>
+			<length>1:56</length>
+			<instrument name="piano">
+				<player name="Nils Vigeland"/>
+			</instrument>
+			<composed start="1951" end="1952"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Music for carillon no. 1</name>
 			<length>3:58</length>
 			<instrument name="electronic carillon">
@@ -1280,6 +1292,18 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Solo for Flute, Alto Flute and Piccolo</name>
+			<description>from Concert for Piano and Orchestra</description>
+			<length>10:40</length>
+			<instrument name="flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<composed start="1957" end="1958"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Music Walk</name>
 			<description>for 1 or more pianists, at a single piano, using also radio and/or recordings</description>
 			<length>10:53</length>
@@ -1416,6 +1440,18 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Variations I</name>
+			<description>Realization for Piccolo, Flute, Alto Flute and Bass Flute</description>
+			<length>10:04</length>
+			<instrument name="flutes">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Indeterminacy</name>
 			<description>Ninety Stories by John Cage, with Music</description>
 			<length>1:30:22</length>
@@ -1521,6 +1557,17 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Variations II</name>
+			<length>9:55</length>
+			<instrument name="flute, sound objects">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Variations II with Lecture on Nothing</name>
 			<description>for any number of players and any sound producing means</description>
 			<length>29:48</length>
@@ -1601,6 +1648,19 @@
 			<recorded start="2001"/>
 			<release>Mode 129</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Variations III</name>
+			<description>for one or any number of people performing any actions</description>
+			<description>realization for percussion</description>
+			<length>9:43</length>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1962" end="1963"/>
+			<recorded start="1995"/>
+			<release>hat ART CD 6176</release>
+			<released>1995</released>
 		</composition>
 		<composition>
 			<name>Electronic music for piano</name>
@@ -2153,6 +2213,18 @@
 			<recorded start="2007"/>
 			<release>Mode 253</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>cComposed Improvisation</name>
+			<description>for snare drum alone</description>
+			<length>8:05</length>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Music for Four</name>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Milton" surname="Babbitt" born="1916" died="">
 		<composition>
@@ -3057,6 +3062,58 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Folio</name>
+			<length>6:19</length>
+			<part>
+				<number>1</number>
+				<name>October 1952 for piano</name>
+				<length>0:32</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>November 1952 (“Synergy”) for piano, flute and violoncello</name>
+				<length>0:18</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>December 1952 for piano, flute and violoncello</name>
+				<length>0:41</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>MM-87 for piano</name>
+				<length>1:00</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>MM-135, March 1952 for piano</name>
+				<length>0:36</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Music for “Trio for Five Dancers,” June 1953 for piano, flute and violoncello</name>
+				<length>1:27</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>1953 for piano</name>
+				<length>1:45</length>
+			</part>
+			<instrument name="flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Frances-Marie Uitti"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Nils Vigeland"/>
+			</instrument>
+			<composed start="1952" end="1953"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
+		</composition>
+		<composition>
 			<name>Octet I</name>
 			<description>for 8-channel tape</description>
 			<length>3:29</length>
@@ -3064,6 +3121,15 @@
 			<recorded start="2005"/>
 			<release>Mode 179</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Octet I</name>
+			<description>for Tape</description>
+			<length>3:25</length>
+			<composed start="1952" end="1953"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Four Systems 1954</name>
@@ -3119,6 +3185,20 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Four Systems</name>
+			<length>8:10</length>
+			<instrument name="flute">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Music for cello and piano</name>
 			<length>8:11</length>
 			<instrument name="violoncello">
@@ -3131,6 +3211,56 @@
 			<recorded start="1974"/>
 			<release>Deutsche Grammophon 471 573-2</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Music for cello and piano</name>
+			<length>9:38</length>
+			<instrument name="violoncello">
+				<player name="Frances-Marie Uitti"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Nils Vigeland"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="1991"/>
+			<release>hat ART CD 6101</release>
+			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Hodograph 1</name>
+			<description>Version 1</description>
+			<length>3:15</length>
+			<instrument name="flute, sound objects">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="piano, celesta">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Hodograph 1</name>
+			<description>Version 2</description>
+			<length>2:45</length>
+			<instrument name="flute, sound objects">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="piano, celesta">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="1993"/>
+			<release>hat ART CD 6146</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Available Forms I</name>
@@ -3175,6 +3305,68 @@
 			<recorded start="1994"/>
 			<release>hat ART CD 6147</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Folio II</name>
+			<description>a collection of graphic scores</description>
+			<description>realizations for flute and percussion</description>
+			<length>6:05</length>
+			<part>
+				<number>1</number>
+				<name>1991 (version 1)</name>
+				<length>1:06</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>For Ann, Berlin, 1 May 1994 (version 1)</name>
+				<length>3:00</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>1980 (version 1)</name>
+				<length>1:59</length>
+			</part>
+			<instrument name="flute, sound objects">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1970" end="1994"/>
+			<recorded start="1995"/>
+			<release>hat ART CD 6176</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Folio II</name>
+			<description>a collection of graphic scores</description>
+			<description>realizations for flute and percussion</description>
+			<length>6:10</length>
+			<part>
+				<number>1</number>
+				<name>1991 (version 2)</name>
+				<length>1:02</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>For Ann, Berlin, 1 May 1994 (version 2)</name>
+				<length>3:05</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>1980 (version 2)</name>
+				<length>2:03</length>
+			</part>
+			<instrument name="flute, sound objects">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1970" end="1994"/>
+			<recorded start="1995"/>
+			<release>hat ART CD 6176</release>
+			<released>1995</released>
 		</composition>
 		<composition>
 			<name>New Piece</name>
