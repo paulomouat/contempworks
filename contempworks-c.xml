@@ -1652,8 +1652,21 @@
 		<composition>
 			<name>Variations III</name>
 			<description>for one or any number of people performing any actions</description>
-			<description>realization for percussion</description>
+			<description>realization for percussion, version 1</description>
 			<length>9:43</length>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<composed start="1962" end="1963"/>
+			<recorded start="1995"/>
+			<release>hat ART CD 6176</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Variations III</name>
+			<description>for one or any number of people performing any actions</description>
+			<description>realization for percussion, version 2</description>
+			<length>8:04</length>
 			<instrument name="percussion">
 				<player name="Jan Williams"/>
 			</instrument>
