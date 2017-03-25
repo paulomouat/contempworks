@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Georg Friedrich" surname="Haas" born="1953" died="">
 		<composition>
@@ -156,33 +161,6 @@
 	</composer>
 	<composer name="Cristóbal" surname="Halffter" born="1930" died="">
 		<composition>
-			<name>Planto por las víctimas de la violencia</name>
-			<description>für Kammerensemble und elektronische Klangumwandlung</description>
-			<length>16:51</length>
-			<instrument name="Altsaxophon">
-				<player name="Kurt Edelhagen"/>
-				<player name="Franz von Klenck"/>
-			</instrument>
-			<instrument name="Trompete">
-				<player name="Heinz Hermannsdörfer"/>
-				<player name="Posaune"/>
-				<player name="Hans Wilfert"/>
-			</instrument>
-			<instrument name="Klavier">
-				<player name="Werner Drexler"/>
-			</instrument>
-			<instrument name="Hans Peter Haller">
-				<player name="Elektronischer Entwurf und Realisation"/>
-			</instrument>
-			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
-			<player name="SWF-Sinfonieorchester"/>
-			<conductor>Ernest Bour</conductor>
-			<composed start="?"/>
-			<recorded start="1971"/>
-			<release>Col Legno CD1 31903</release>
-			<released>1996</released>
-		</composition>
-		<composition>
 			<name>Tres piezas para cuarteto de cuerda</name>
 			<description>String Quartet No. 1</description>
 			<length>12:35</length>
@@ -222,6 +200,59 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Planto por las víctimas de la violencia</name>
+			<description>für Kammerensemble und elektronische Klangumwandlung</description>
+			<length>16:51</length>
+			<instrument name="Altsaxophon">
+				<player name="Kurt Edelhagen"/>
+				<player name="Franz von Klenck"/>
+			</instrument>
+			<instrument name="Trompete">
+				<player name="Heinz Hermannsdörfer"/>
+				<player name="Posaune"/>
+				<player name="Hans Wilfert"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Werner Drexler"/>
+			</instrument>
+			<instrument name="Hans Peter Haller">
+				<player name="Elektronischer Entwurf und Realisation"/>
+			</instrument>
+			<player name="Experimentalstudio der Heinrich-Strobel Stiftung des SWF, Freiburg"/>
+			<player name="SWF-Sinfonieorchester"/>
+			<conductor>Ernest Bour</conductor>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>Col Legno CD1 31903</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Elegias a la muerte de tres poetas españoles</name>
+			<description>Concierto para violoncello y orquesta no. 2</description>
+			<length>28:37</length>
+			<part>
+				<number>I</number>
+				<name>“Exilio” - Elegia a la muerte de Antonio Machado</name>
+				<length>11:32</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>“Cárcel” - Elegia a la muerte de Miguel Hernández</name>
+				<length>6:17</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>“Sangre” - Elegia a la muerte de Federico García Lorca</name>
+				<length>10:46</length>
+			</part>
+			<player name="Radio-Sinfonie-Orchester Frankfurt"/>
+			<conductor>Cristóbal Halffter</conductor>
+			<composed start="1974" end="1975"/>
+			<recorded start="1997"/>
+			<release>Montaigne Auvidis MO 782111</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Variaciones sobre la resonancia de un grito</name>
 			<description>für 11 Instrumente, Tonband und live-elektronische Klangumwandlung</description>
 			<length>26:50</length>
@@ -256,6 +287,20 @@
 			<recorded start="1980"/>
 			<release>Cadenza 800 896</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>No queda más que el silencio</name>
+			<description>Concierto para violoncello y orquesta no. 2</description>
+			<length>35:01</length>
+			<instrument name="cello">
+				<player name="Boris Pergamenschikow"/>
+			</instrument>
+			<player name="Radio-Sinfonie-Orchester Frankfurt"/>
+			<conductor>Cristóbal Halffter</conductor>
+			<composed start="1985"/>
+			<recorded start="1997"/>
+			<release>Montaigne Auvidis MO 782111</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Con bravura y sentimiento</name>
