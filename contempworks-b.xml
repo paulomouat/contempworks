@@ -2739,7 +2739,7 @@
 		</composition>
 		<composition>
 			<name>Dialogue de l’ombre double</name>
-			<description>version for bassoon &quot; electronics</description>
+			<description>version for bassoon and electronics</description>
 			<length>18:59</length>
 			<instrument name="Bassoon">
 				<player name="Pascal Gallois"/>
