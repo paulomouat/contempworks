@@ -2061,6 +2061,34 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Le marteau sans maître</name>
+			<description>for alto and 6 instruments</description>
+			<length>37:25</length>
+			<instrument name="mezzo-soprano">
+				<player name="Katalin Károlyi"/>
+			</instrument>
+			<player name="International Contemporary Ensemble"/>
+			<conductor>Pascal Gallois</conductor>
+			<composed start="1953" end="1955"/>
+			<recorded start="2015"/>
+			<release>Stradivarius STR 37071</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Le marteau sans maître</name>
+			<description>for alto and 6 instruments</description>
+			<length>38:05</length>
+			<instrument name="alto">
+				<player name="Hilary Summers"/>
+			</instrument>
+			<player name="West-Eastern Divan Orchestra"/>
+			<conductor>Pierre Boulez</conductor>
+			<composed start="1953" end="1955"/>
+			<recorded start="2010"/>
+			<release>Deutsche Grammophon 479 7160</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Doubles</name>
 			<description>for large orchestra</description>
 			<length>11:06</length>
@@ -2364,6 +2392,17 @@
 			<released>1989-94</released>
 		</composition>
 		<composition>
+			<name>Éclat</name>
+			<description>for ensemble</description>
+			<length>10:32</length>
+			<player name="International Contemporary Ensemble"/>
+			<conductor>Pascal Gallois</conductor>
+			<composed start="1964"/>
+			<recorded start="2015"/>
+			<release>Stradivarius STR 37071</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Livre pour cordes</name>
 			<length>10:34</length>
 			<player name="Strings of the New Philharmonia Orchestra"/>
@@ -2536,6 +2575,27 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Messagesquisse</name>
+			<description>for cello solo and 6 cellos</description>
+			<length>10:31</length>
+			<instrument name="solo cello">
+				<player name="Hassan Moataz El Molla"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Sary Khalifé"/>
+				<player name="Alberto Martos Lozano"/>
+				<player name="Noa Chorin"/>
+				<player name="Jana Semaan"/>
+				<player name="Linor Katz"/>
+				<player name="Nassib Ahmadieh"/>
+			</instrument>
+			<conductor>Daniel Barenboim</conductor>
+			<composed start="1976" end="1977"/>
+			<recorded start="2010"/>
+			<release>Deutsche Grammophon 479 7160</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Eclat-Multiples</name>
 			<description>pour ensemble instrumental</description>
 			<length>26:43</length>
@@ -2678,6 +2738,33 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Dialogue de l’ombre double</name>
+			<description>version for bassoon &quot; electronics</description>
+			<length>18:59</length>
+			<instrument name="Bassoon">
+				<player name="Pascal Gallois"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="2015"/>
+			<release>Stradivarius STR 37071</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Dialogue de l’ombre double</name>
+			<description>for clarinet, pre-recorded tape and live electronics</description>
+			<length>25:03</length>
+			<instrument name="Clarinet">
+				<player name="Jussef Eisa"/>
+			</instrument>
+			<instrument name="Electronics">
+				<player name="IRCAM"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2012"/>
+			<release>Deutsche Grammophon 479 7160</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Mémoriale (...explosante-fixe... originel)</name>
 			<description>pour flûte solo et huit instruments</description>
 			<length>5:04</length>
@@ -2720,6 +2807,20 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Mémoriale (...explosante-fixe... originel)</name>
+			<description>for flute and 8 instruments</description>
+			<length>5:49</length>
+			<instrument name="flute">
+				<player name="Guy Eshed"/>
+			</instrument>
+			<player name="West-Eastern Divan Orchestra"/>
+			<conductor>Daniel Barenboim</conductor>
+			<composed start="1985" end="1993"/>
+			<recorded start="2012"/>
+			<release>Deutsche Grammophon 479 7160</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Dérive 2</name>
 			<description>pour 11 instruments</description>
 			<length>50:40</length>
@@ -2740,6 +2841,17 @@
 			<recorded start="2010"/>
 			<release>Deutsche Grammophon 480 6831</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Dérive 2</name>
+			<description>for 11 instruments</description>
+			<length>48:59</length>
+			<player name="West-Eastern Divan Orchestra"/>
+			<conductor>Daniel Barenboim</conductor>
+			<composed start="1988" end="2009"/>
+			<recorded start="2012"/>
+			<release>Deutsche Grammophon 479 7160</release>
+			<released>2017</released>
 		</composition>
 		<composition>
 			<name>Anthèmes</name>
@@ -2831,6 +2943,21 @@
 			<recorded start="1999"/>
 			<release>Deutsche Grammophon 480 6835</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Anthèmes 2</name>
+			<description>for violin and live electronics</description>
+			<length>19:44</length>
+			<instrument name="violin">
+				<player name="Michael Barenboim"/>
+			</instrument>
+			<instrument name="live electronics">
+				<player name="IRCAM"/>
+			</instrument>
+			<composed start="1997"/>
+			<recorded start="2010"/>
+			<release>Deutsche Grammophon 479 7160</release>
+			<released>2017</released>
 		</composition>
 		<composition>
 			<name>Une page d’éphéméride</name>
