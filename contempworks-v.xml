@@ -330,6 +330,21 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Poème électronique</name>
+			<description>Electronic music, 3-channel</description>
+			<length>8:04</length>
+			<instrument name="sound projection">
+				<player name="Kees Tazelaar"/>
+			</instrument>
+			<instrument name="surround and stereo mixes">
+				<player name="Kees Tazelaar"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="2014" end="2016"/>
+			<release>Col Legno WWE 2SACD 40002</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Nocturnal</name>
 			<length>10:25</length>
 			<instrument name="Soprano">

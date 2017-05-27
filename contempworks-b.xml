@@ -819,6 +819,35 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Différences</name>
+			<description>For five instruments and stereophonic tape</description>
+			<length>15:26</length>
+			<instrument name="flute">
+				<player name="Tomomi Matsuo"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Felix Behringer"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Grigory Maximenko"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Isabel Gehweiler"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Polina Skryabina"/>
+			</instrument>
+			<instrument name="sound projection">
+				<player name="Florian Bogner"/>
+				<player name="Carlos Hidalgo"/>
+			</instrument>
+			<conductor>Georg Köhler</conductor>
+			<composed start="1958" end="1959"/>
+			<recorded start="2016"/>
+			<release>Col Legno WWE 2SACD 40002</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Quartetto per archi</name>
 			<length>7:38</length>
 			<player name="Arditti String Quartet"/>
@@ -887,6 +916,21 @@
 			<recorded start="1961"/>
 			<release>BV Haast CD 9109</release>
 			<released/>
+		</composition>
+		<composition>
+			<name>Visage</name>
+			<description>Electronic music with the voice of Cathy Berberian</description>
+			<length>21:10</length>
+			<instrument name="sound projection">
+				<player name="Alvise Vidolin"/>
+			</instrument>
+			<instrument name="surround and stereo mixes">
+				<player name="Alvise Vidolin"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="2016"/>
+			<release>Col Legno WWE 2SACD 40002</release>
+			<released>2016</released>
 		</composition>
 		<composition>
 			<name>Sequenza II</name>
@@ -2763,6 +2807,25 @@
 			<recorded start="2012"/>
 			<release>Deutsche Grammophon 479 7160</release>
 			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Dialogue de l’ombre double</name>
+			<description>For clarinet on stage and pre-recorded clarinet</description>
+			<length>21:14</length>
+			<instrument name="clarinet">
+				<player name="Felix Behringer"/>
+			</instrument>
+			<instrument name="clarinet tape">
+				<player name="Felix Behringer"/>
+			</instrument>
+			<instrument name="sound projection">
+				<player name="Florian Bogner"/>
+				<player name="Germán Toro Pérez"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="2009" end="2016"/>
+			<release>Col Legno WWE 2SACD 40002</release>
+			<released>2016</released>
 		</composition>
 		<composition>
 			<name>Mémoriale (...explosante-fixe... originel)</name>

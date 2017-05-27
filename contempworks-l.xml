@@ -47,6 +47,23 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Szenario</name>
+			<description>Electronic music, 4-channel</description>
+			<length>12:30</length>
+			<player name="ICST Studio, Zurich"/>
+			<instrument name="Restoration">
+				<player name="Florian Bogner"/>
+			</instrument>
+			<player name="Institute of Sonology, Den Haag"/>
+			<instrument name="Tape digitization">
+				<player name="Kees Tazelaar"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="2016"/>
+			<release>Col Legno WWE 2SACD 40002</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Intérieur I</name>
 			<description>for a percussion-soloist</description>
 			<length>16:21</length>
@@ -1423,6 +1440,24 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>Glissandi</name>
+			<description>Electronic music, mono</description>
+			<length>7:35</length>
+			<instrument name="sound projection">
+				<player name="Florian Bogner"/>
+				<player name="Carlos Hidalgo"/>
+				<player name="Germán Toro Pérez"/>
+			</instrument>
+			<player name="ICST Studio, Zurich"/>
+			<instrument name="Restoration">
+				<player name="Florian Bogner"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2014" end="2016"/>
+			<release>Col Legno WWE 2SACD 40002</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Artikulation</name>
 			<description>elektronische Komposition</description>
 			<length>3:55</length>
@@ -1453,6 +1488,19 @@
 			<recorded start="1958" end="2003"/>
 			<release>Teldec 8573-88262-2</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Artikulation</name>
+			<description>Electronic music, 4-channel</description>
+			<length>3:49</length>
+			<player name="ICST Studio, Zurich"/>
+			<instrument name="Restoration">
+				<player name="Florian Bogner"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="2014" end="2016"/>
+			<release>Col Legno WWE 2SACD 40002</release>
+			<released>2016</released>
 		</composition>
 		<composition>
 			<name>Apparitions</name>

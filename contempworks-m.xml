@@ -251,6 +251,21 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Musica su due dimensioni</name>
+			<description>For flute and stereophonic tape</description>
+			<length>12:44</length>
+			<instrument name="flute">
+				<player name="Rafał Zolkos"/>
+			</instrument>
+			<instrument name="sound projection">
+				<player name="Germán Toro Pérez"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="2016"/>
+			<release>Col Legno WWE 2SACD 40002</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Concerto per pianoforte e orchestra</name>
 			<length>17:39</length>
 			<instrument name="piano">

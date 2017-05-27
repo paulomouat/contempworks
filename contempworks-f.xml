@@ -1779,6 +1779,22 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Mnemosyne</name>
+			<description>For bass flute and pre-recorded tape</description>
+			<length>10:56</length>
+			<instrument name="bass flute">
+				<player name="Rafał Zolkos"/>
+			</instrument>
+			<instrument name="sound projection">
+				<player name="Florian Bogner"/>
+				<player name="Carlos Hidalgo"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="2015" end="2016"/>
+			<release>Col Legno WWE 2SACD 40002</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>3rd String Quartet</name>
 			<length>16:41</length>
 			<player name="Arditti String Quartet"/>
