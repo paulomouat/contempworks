@@ -866,6 +866,15 @@
 	</composer>
 	<composer name="Wolfgang" surname="Rihm" born="1952" died="">
 		<composition>
+			<name>Streichquartett in g</name>
+			<length>9:14</length>
+			<player name="Minguet Quartett"/>
+			<composed start="1966"/>
+			<recorded start="2015" end="2016"/>
+			<release>Wergo WER 7346 2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Drei Fantasien</name>
 			<description>für Orgel</description>
 			<length>11:30</length>
@@ -936,6 +945,15 @@
 			<recorded start="2011"/>
 			<release>Wergo WER 6751 2</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Streichquartett</name>
+			<length>15:37</length>
+			<player name="Minguet Quartett"/>
+			<composed start="1968"/>
+			<recorded start="2015" end="2016"/>
+			<release>Wergo WER 7346 2</release>
+			<released>2017</released>
 		</composition>
 		<composition>
 			<name>Zweites Streichtrio</name>
@@ -3528,6 +3546,29 @@
 			<recorded start="2011"/>
 			<release>Deutsche Grammophon 477 9359</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Epilog</name>
+			<description>für Streichquintett</description>
+			<length>11:57</length>
+			<player name="Minguet Quartett"/>
+			<instrument name="Violoncello">
+				<player name="Jens Peter Maintz"/>
+			</instrument>
+			<composed start="2012" end="2013"/>
+			<recorded start="2015" end="2016"/>
+			<release>Wergo WER 7346 2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Geste zu Vedova</name>
+			<description>für Streichquartett</description>
+			<length>10:03</length>
+			<player name="Minguet Quartett"/>
+			<composed start="2015"/>
+			<recorded start="2015" end="2016"/>
+			<release>Wergo WER 7346 2</release>
+			<released>2017</released>
 		</composition>
 	</composer>
 	<composer name="Terry" surname="Riley" born="1935" died="">

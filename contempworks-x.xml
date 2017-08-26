@@ -535,12 +535,22 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Persepolis (version avec mouvement)</name>
+			<name>Persepolis</name>
+			<description>Version avec mouvement</description>
 			<length>50:49</length>
 			<composed start="1971"/>
 			<recorded start=""/>
 			<release>RZ 1015-16</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Persepolis</name>
+			<description>GRM Mix</description>
+			<length>1:00:42</length>
+			<composed start="1971"/>
+			<recorded start=""/>
+			<release>Asphodel LTD 2005</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>Antikhthon</name>

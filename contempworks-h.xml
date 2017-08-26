@@ -732,6 +732,15 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>String Trio No. 1 (“Ricercari”)</name>
+			<length>4:52</length>
+			<player name="Klangforum Wien"/>
+			<composed start="1948" end="1978"/>
+			<recorded start="2010"/>
+			<release>Kairos 0015003KAI</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>L’amen de verre</name>
 			<length>4:46</length>
 			<instrument name="Réalisation">
@@ -831,6 +840,16 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Multiple 4</name>
+			<description>Version for oboe and horn</description>
+			<length>8:15</length>
+			<player name="Klangforum Wien"/>
+			<composed start="1965"/>
+			<recorded start="2010"/>
+			<release>Kairos 0015003KAI</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Batterie</name>
 			<description>for percussion</description>
 			<length>10:48</length>
@@ -841,6 +860,28 @@
 			<recorded start="1997"/>
 			<release>hat[now]ART 101</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Konstellationen</name>
+			<description>Version for ensemble</description>
+			<length>32:43</length>
+			<part>
+				<number>I</number>
+				<length>10:55</length>
+			</part>
+			<part>
+				<number>II</number>
+				<length>4:39</length>
+			</part>
+			<part>
+				<number>III</number>
+				<length>17:09</length>
+			</part>
+			<player name="Klangforum Wien"/>
+			<composed start="1971"/>
+			<recorded start="2010"/>
+			<release>Kairos 0015003KAI</release>
+			<released>2016</released>
 		</composition>
 		<composition>
 			<name>Kreise</name>
@@ -955,6 +996,29 @@
 			<recorded start="2002"/>
 			<release>Col Legno WWE 1CD 20220</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Pluriel</name>
+			<description>for string quartet</description>
+			<length>10:12</length>
+			<player name="Klangforum Wien"/>
+			<composed start="1991"/>
+			<recorded start="2010"/>
+			<release>Kairos 0015003KAI</release>
+			<released>2016</released>
+		</composition>
+		<composition>
+			<name>Morendo - double/echo</name>
+			<description>for tape and bass flute</description>
+			<length>9:50</length>
+			<instrument name="bass flute">
+				<player name="Vera Fischer"/>
+			</instrument>
+			<player name="Klangforum Wien"/>
+			<composed start="1991" end="2002"/>
+			<recorded start="2010"/>
+			<release>Kairos 0015003KAI</release>
+			<released>2016</released>
 		</composition>
 	</composer>
 	<composer name="Pierre" surname="Henry" born="1927" died="">

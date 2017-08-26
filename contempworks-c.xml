@@ -4015,6 +4015,45 @@
 			<release>Neos 10921</release>
 			<released>2012</released>
 		</composition>
+		<composition>
+			<name>Drei Orchesterstücke</name>
+			<length>43:54</length>
+			<part>
+				<number>1</number>
+				<name>Berceuse céleste</name>
+				<length>9:45</length>
+				<composed start="2006"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Intermezzo</name>
+				<length>20:13</length>
+				<composed start="2010" end="2011"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Tombeau</name>
+				<length>13:57</length>
+				<composed start="2011"/>
+			</part>
+			<player name="WDR Sinfonieorchester Köln"/>
+			<conductor>Jukka-Pekka Saraste</conductor>
+			<composed start="2006" end="2011"/>
+			<recorded start="2014"/>
+			<release>Kairos 0015005KAI</release>
+			<released>2016</released>
+		</composition>
+		<composition>
+			<name>Nacht</name>
+			<description>for orchestra</description>
+			<length>20:03</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="2012" end="2013"/>
+			<recorded start="2014"/>
+			<release>Kairos 0015005KAI</release>
+			<released>2016</released>
+		</composition>
 	</composer>
 	<composer name="Unsuk" surname="Chin" born="1961" died="">
 		<composition>
