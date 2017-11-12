@@ -17,6 +17,17 @@
 	</composer>
 	<composer name="Christian" surname="Zanési" born="" died="">
 		<composition>
+			<name>Grand bruit</name>
+			<length>20:45</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="1994"/>
+			<release>Metamkine MKCD011</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Sonal “voyageurs” RATP</name>
 			<length>0:04</length>
 			<instrument name="Réalisation">

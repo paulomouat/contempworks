@@ -79,6 +79,67 @@
 			<released>2012</released>
 		</composition>
 	</composer>
+	<composer name="Jean-Claude" surname="Eloy" born="1938" died="">
+		<composition>
+			<name>Shânti</name>
+			<length>2:21:39</length>
+			<part>
+				<number>I a</number>
+				<name>Les foules de la mémoire</name>
+				<length>26:48</length>
+			</part>
+			<part>
+				<number>I b</number>
+				<name>Son de méditation</name>
+				<length>26:48</length>
+			</part>
+			<part>
+				<number>II a</number>
+				<name>Prémonitions</name>
+				<length>20:24</length>
+			</part>
+			<part>
+				<number>II b</number>
+				<name>Flash-back</name>
+				<length>7:29</length>
+			</part>
+			<part>
+				<number>II c</number>
+				<name>Interview (Aurobindo/Mao)</name>
+				<length>8:33</length>
+			</part>
+			<part>
+				<number>III a</number>
+				<name>Mantra des étoiles</name>
+				<length>32:26</length>
+			</part>
+			<part>
+				<number>III b</number>
+				<name>Soldats</name>
+				<length>2:21</length>
+			</part>
+			<part>
+				<number>IV a</number>
+				<name>Vagues lentes, boucles de feu</name>
+				<length>6:07</length>
+			</part>
+			<part>
+				<number>IV b</number>
+				<name>Contemplation des enfants</name>
+				<length>14:42</length>
+			</part>
+			<part>
+				<number>IV c</number>
+				<name>Vastitude</name>
+				<length>17:44</length>
+			</part>
+			<player name="WDR, Köln"/>
+			<composed start="1972" end="1973"/>
+			<recorded start="1973"/>
+			<release>Hors Territoires HT 05-6</release>
+			<released>2001</released>
+		</composition>
+	</composer>
 	<composer name="Rolf" surname="Enström" born="1951" died="">
 		<composition>
 			<name>Fractal</name>
