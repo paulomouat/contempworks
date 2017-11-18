@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Herbert" surname="Eimert" born="1897" died="1972">
 		<composition>
@@ -138,6 +143,94 @@
 			<recorded start="1973"/>
 			<release>Hors Territoires HT 05-6</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Gaku-No-Michi</name>
+			<length>4:01:49</length>
+			<part>
+				<number>I a</number>
+				<name>Pachinko</name>
+				<description>Son d’introduction</description>
+				<length>12:00</length>
+			</part>
+			<part>
+				<number>I b</number>
+				<name>Tokyo</name>
+				<description>La Voie des sons quotidiens, du concret à l’abstrait</description>
+				<length>50:11</length>
+			</part>
+			<part>
+				<number>II a</number>
+				<name>Fukushi-e, “Vers ce qui n’est pas connaissable”</name>
+				<description>La Voie des sons de méditation, de l’abstrait au concret</description>
+				<length>1:19:29</length>
+			</part>
+			<part>
+				<number>II b</number>
+				<name>Mokuso, “Contemplation”</name>
+				<description>Son d’immobilisation</description>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Banbutsu-no-Ryûdo, “Le flot incessant de toutes les choses”</name>
+				<description>La Voie des métamorphoses du sens, du concret au concret</description>
+				<length>42:52</length>
+			</part>
+			<part>
+				<number>IV a</number>
+				<name>Kaiso, “Reminiscence”</name>
+				<description>La Voie du sens au-delà des métamorphoses, de l’abstrait à l’abstrait</description>
+				<length>57:17</length>
+			</part>
+			<part>
+				<number>IV b</number>
+				<name>Han</name>
+				<description>Son de prolongation</description>
+				<length>10:00</length>
+			</part>
+			<player name="NHK Denshi Ongaku Studio, Tokyo"/>
+			<composed start="1977" end="1978"/>
+			<recorded start="1977" end="1978"/>
+			<release>Hors Territoires HT 01-2-3-4</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Yo-In</name>
+			<description>Théâtre sonore pour un rituel imaginaire, en quatre actes</description>
+			<description>Version pour “Asian sound”</description>
+			<length>3:28:33</length>
+			<part>
+				<number>I</number>
+				<name>Aube, Appel, Rituel d’imploration</name>
+				<length>50:05</length>
+			</part>
+			<part>
+				<number>II</number>
+				<name>Midi, Unification, Rituel d’absorption, d’intégration</name>
+				<length>1:00:34</length>
+			</part>
+			<part>
+				<number>III</number>
+				<name>Crépuscule, Méditation, Rituel de contemplation</name>
+				<length>39:13</length>
+			</part>
+			<part>
+				<number>IV</number>
+				<name>Nuit, Exorcisme, Rituel de libération</name>
+				<length>58:41</length>
+			</part>
+			<instrument name="personnage-percussioniste">
+				<player name="Michael Ranta"/>
+			</instrument>
+			<instrument name="projection sonore">
+				<player name="Jean-Claude Eloy"/>
+			</instrument>
+			<player name="Institut de sonologie, Utrecht"/>
+			<player name="NHK Denshi Ongaku Studio, Tokyo"/>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>Hors Territoires HT 07-8-9-10</release>
+			<released>2011</released>
 		</composition>
 	</composer>
 	<composer name="Rolf" surname="Enström" born="1951" died="">

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Iannis" surname="Xenakis" born="1922" died="2001">
 		<composition>
@@ -50,6 +55,16 @@
 			<recorded start="2000"/>
 			<release>Col Legno WWE 1CD 20086</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Metastaseis A</name>
+			<length>6:19</length>
+			<player name="Orchestra Sinfonica RAI"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1953" end="1954"/>
+			<recorded start="2008"/>
+			<release>Mode 299</release>
+			<released>2017</released>
 		</composition>
 		<composition>
 			<name>Metastasis</name>
@@ -413,6 +428,17 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Terretektorh</name>
+			<description>for 88 musicians dispersed among the public</description>
+			<length>14:53</length>
+			<player name="Residentie Orkest The Hague"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1965" end="1966"/>
+			<recorded start="2011"/>
+			<release>Mode 299</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Nomos Alpha</name>
 			<description>for solo cello</description>
 			<length>15:22</length>
@@ -478,6 +504,17 @@
 			<recorded start=""/>
 			<release>RZ 1015-16</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Nomos Gamma</name>
+			<description>for 98 musicians dispersed among the public</description>
+			<length>19:57</length>
+			<player name="Residentie Orkest The Hague"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1967" end="1968"/>
+			<recorded start="2011"/>
+			<release>Mode 299</release>
+			<released>2017</released>
 		</composition>
 		<composition>
 			<name>Kraanerg</name>
