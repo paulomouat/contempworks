@@ -1288,6 +1288,256 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>A5-3</name>
+			<length>8:01</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Roland Kayn"/>
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>A5-4</name>
+			<length>4:28</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Roland Kayn"/>
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>A7</name>
+			<length>7:04</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Roland Kayn"/>
+				<player name="Ennio Morricone"/>
+				<player name="Ivan Vandor"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>A7-2</name>
+			<length>8:01</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Roland Kayn"/>
+				<player name="Ennio Morricone"/>
+				<player name="Ivan Vandor"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Trio</name>
+			<length>10:44</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Walter Branchi"/>
+				<player name="John Heineman"/>
+				<player name="Ivan Vandor"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Trix 3</name>
+			<length>4:37</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="John Heineman"/>
+				<player name="Ennio Morricone"/>
+				<player name="Ivan Vandor"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Fili 2</name>
+			<length>11:11</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="Roland Kayn"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Pianoforte con i fili</name>
+			<length>4:02</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="Roland Kayn"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Concreto 1</name>
+			<length>3:29</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Improvvisazioni</name>
+			<length>1:42:03</length>
+			<part>
+				<number>1</number>
+				<length>11:58</length>
+			</part>
+			<part>
+				<number>2</number>
+				<length>4:11</length>
+			</part>
+			<part>
+				<number>3</number>
+				<length>3:23</length>
+			</part>
+			<part>
+				<number>4</number>
+				<length>3:08</length>
+			</part>
+			<part>
+				<number>5</number>
+				<length>16:43</length>
+			</part>
+			<part>
+				<number>6</number>
+				<length>7:16</length>
+			</part>
+			<part>
+				<number>7</number>
+				<length>5:33</length>
+			</part>
+			<part>
+				<number>8</number>
+				<length>6:15</length>
+			</part>
+			<part>
+				<number>9</number>
+				<length>8:01</length>
+			</part>
+			<part>
+				<number>10</number>
+				<length>9:20</length>
+			</part>
+			<part>
+				<number>11</number>
+				<length>3:24</length>
+			</part>
+			<part>
+				<number>12</number>
+				<length>3:23</length>
+			</part>
+			<part>
+				<number>13</number>
+				<length>19:28</length>
+			</part>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Roland Kayn"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+				<player name="Ivan Vandor"/>
+			</instrument>
+			<composed start="1967" end="1968"/>
+			<recorded start="1967" end="1968"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Kate</name>
+			<length>7:09</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1968" end="1969"/>
+			<recorded start="1968" end="1969"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Es War Einmal</name>
+			<length>25:49</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Untitled</name>
+			<length>18:23</length>
+			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
+				<player name="Mario Bertoncini"/>
+				<player name="Walter Branchi"/>
+				<player name="Franco Evangelisti"/>
+				<player name="John Heineman"/>
+				<player name="Egisto Macchi"/>
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Die Schachtel DS33/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Percussione per tutti</name>
 			<length>7:23</length>
 			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
