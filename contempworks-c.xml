@@ -731,6 +731,18 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>In a Landscape</name>
+			<description>for harp or piano solo</description>
+			<length>9:17</length>
+			<instrument name="harp">
+				<player name="Gabriele Emde"/>				
+			</instrument>
+			<composed start="1948"/>
+			<recorded start="1985"/>
+			<release>Edition RZ 1033-35</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>String Quartet in Four Parts</name>
 			<length>20:12</length>
 			<player name="Arditti String Quartet"/>
@@ -1901,6 +1913,18 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Some of “The Harmony of Maine” (Supply Belcher)</name>
+			<description>for organ and six assistants</description>
+			<length>59:05</length>
+			<instrument name="organ">
+				<player name="Jakob Ullmann"/>				
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1990"/>
+			<release>Edition RZ 1033-35</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Branches</name>
 			<description>for amplified plant materials</description>
 			<length>16:12</length>
@@ -2021,6 +2045,18 @@
 			<recorded start="1997"/>
 			<release>Mode 71</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Postcard from Heaven</name>
+			<description>for one or up to 20 harps</description>
+			<length>21:16</length>
+			<instrument name="17 harps">
+				<player name="Gabriele Emde"/>				
+			</instrument>
+			<composed start="1982"/>
+			<recorded start="1985"/>
+			<release>Edition RZ 1033-35</release>
+			<released>2017</released>
 		</composition>
 		<composition>
 			<name>Thirty Pieces for String Quartet</name>
@@ -2747,6 +2783,17 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>103</name>
+			<description>for orchestra</description>
+			<length>1:30:40</length>
+			<player name="WDR Sinfonieorchester Köln"/>
+			<conductor>Arturo Tamayo</conductor>
+			<composed start="1991"/>
+			<recorded start="1992"/>
+			<release>Edition RZ 1033-35</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Five3</name>
 			<description>for trombone &amp; string quartet</description>
 			<length>39:59</length>
@@ -2872,6 +2919,17 @@
 			<recorded start="2004"/>
 			<release>Mode 222/223</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Seventy-Four</name>
+			<description>for orchestra</description>
+			<length>12:06</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Jonathan Stockhammer</conductor>
+			<composed start="1992"/>
+			<recorded start="2011"/>
+			<release>Edition RZ 1033-35</release>
+			<released>2017</released>
 		</composition>
 	</composer>
 	<composer name="Uri" surname="Caine" born="1956" died="">
