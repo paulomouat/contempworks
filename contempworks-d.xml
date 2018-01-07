@@ -255,6 +255,20 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Christophe" surname="Desjardins" born="1962" died="">
+		<composition>
+			<name>Madrigale X, Quinto libro (Carlo Gesualdo)</name>
+			<description>Transcription pour 5 altos</description>
+			<length>3:32</length>
+			<instrument name="altos">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="?"/>
+			<recorded start="2008" end="2009"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>		
+	</composer>
 	<composer name="Francis" surname="Dhomont" born="1926" died="">
 		<composition>
 			<name>Cité du dedans (extrait)</name>

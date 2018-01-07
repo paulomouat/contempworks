@@ -1101,6 +1101,18 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Sequenza VI</name>
+			<description>for viola</description>
+			<length>12:02</length>
+			<instrument name="viola">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Chemins II (su "Sequenza VI")</name>
 			<length>12:34</length>
 			<player name="Ensemble InterContemporain"/>
@@ -2638,6 +2650,18 @@
 			<recorded start="2010"/>
 			<release>Deutsche Grammophon 479 7160</release>
 			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Messagesquisse</name>
+			<description>version pour 7 altos</description>
+			<length>7:45</length>
+			<instrument name="altos">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2008" end="2009"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Eclat-Multiples</name>

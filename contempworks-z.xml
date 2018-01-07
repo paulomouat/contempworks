@@ -167,6 +167,17 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Sonate für Viola</name>
+			<length>8:51</length>
+			<instrument name="Viola">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Intercomunicazione</name>
 			<length>21:08</length>
 			<instrument name="violoncello">

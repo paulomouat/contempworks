@@ -955,6 +955,18 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Prologue</name>
+			<description>pour alto et résonateurs</description>
+			<length>15:36</length>
+			<instrument name="alto">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2008" end="2009"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Modulations</name>
 			<description>pour 33 musiciens</description>
 			<description>Cycle Les Espaces Acoustiques, 4</description>

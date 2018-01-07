@@ -552,6 +552,18 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Ricercare una melodia</name>
+			<description>version for viola and electronics</description>
+			<length>6:00</length>
+			<instrument name="viola">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1984" end="2003"/>
+			<recorded start="2008" end="2009"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>From Silence</name>
 			<description>for soprano, violin, viola, percussion, 3 electronic keyboards, computer and tape</description>
 			<length>21:45</length>
@@ -1107,10 +1119,22 @@
 			<name>3. Streichquartett, op. 16</name>
 			<length>30:24</length>
 			<player name="Buchberger Quartett"/>
-			<composed start="?"/>
+			<composed start="1920"/>
 			<recorded start="1921" end="86"/>
 			<release>Col Legno CD1 31900</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Sonate Op. 25 No. 1</name>
+			<description>pour alto</description>
+			<length>15:03</length>
+			<instrument name="alto">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1922"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Lindberghflug</name>
@@ -1130,7 +1154,7 @@
 			<player name="Berliner Funkchor"/>
 			<player name="Berliner Funkorchester"/>
 			<conductor>Hermann Scherchen</conductor>
-			<composed start="?"/>
+			<composed start="1929"/>
 			<recorded start="1929" end="30"/>
 			<release>Col Legno CD1 31900</release>
 			<released>1996</released>

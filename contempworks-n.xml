@@ -2323,6 +2323,18 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Einspielung III</name>
+			<description>pour alto</description>
+			<length>20:28</length>
+			<instrument name="alto">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1982"/>
+			<recorded start="2008"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Musik der Frühe</name>
 			<description>pour 18 instruments</description>
 			<length>40:39</length>

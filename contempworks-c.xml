@@ -3246,6 +3246,18 @@
 			<release>Mode 128 DVD</release>
 			<released>2003</released>
 		</composition>
+		<composition>
+			<name>Figment IV</name>
+			<description>for viola</description>
+			<length>2:39</length>
+			<instrument name="viola">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="2007"/>
+			<recorded start="2008" end="2009"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>
 	</composer>
 	<composer name="Tristram" surname="Cary" born="1925" died="2008">
 		<composition>

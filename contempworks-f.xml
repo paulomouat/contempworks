@@ -7,6 +7,20 @@
   single quote: ’
 -->
 <list>
+	<composer name="Ivan" surname="Fedele" born="1953" died="">
+		<composition>
+			<name>Elettra</name>
+			<description>per viola e live electronics</description>
+			<length>12:28</length>
+			<instrument name="alto">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2008" end="2009"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>		
+	</composer>
 	<composer name="Dror" surname="Feiler" born="1951" died="">
 		<composition>
 			<name>Barrikad</name>
@@ -2377,6 +2391,48 @@
 			<recorded start="1994"/>
 			<release>Montaigne 782032</release>
 			<released>1996</released>
+		</composition>
+	</composer>
+	<composer name="Arturo" surname="Fuentes" born="1975" died="">
+		<composition>
+			<name>Liquid crystals</name>
+			<description>for string quartet</description>
+			<length>10:42</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2011"/>
+			<recorded start="2015"/>
+			<release>Kairos 0015015KAI</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Broken mirrors</name>
+			<description>for string quartet</description>
+			<length>11:04</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2008" end="2014"/>
+			<recorded start="2015"/>
+			<release>Kairos 0015015KAI</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Ice reflection</name>
+			<description>for string quartet</description>
+			<length>13:02</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2014"/>
+			<recorded start="2015"/>
+			<release>Kairos 0015015KAI</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Glass distortion</name>
+			<description>for string quartet</description>
+			<length>24:59</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2015"/>
+			<recorded start="2015"/>
+			<release>Kairos 0015015KAI</release>
+			<released>2017</released>
 		</composition>
 	</composer>
 	<composer name="Beat" surname="Furrer" born="1954" died="">

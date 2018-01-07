@@ -671,6 +671,20 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Georg" surname="Kröll" born="1934" died="">
+		<composition>
+			<name>Tant plus ayme (Gilles Binchois)</name>
+			<description>Transcription for 3 violas</description>
+			<length>5:02</length>
+			<instrument name="violas">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="?"/>
+			<recorded start="2008" end="2009"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>		
+	</composer>
 	<composer name="György" surname="Kurtág" born="1926" died="">
 		<composition>
 			<name>String quartet op. 1</name>

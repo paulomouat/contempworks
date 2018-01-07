@@ -43,6 +43,18 @@
 	</composer>
 	<composer name="Bruno" surname="Maderna" born="1920" died="1973">
 		<composition>
+			<name>Malor me bat (Johannes Ockeghem)</name>
+			<description>transcription for 3 violas</description>
+			<length>2:14</length>
+			<instrument name="violas">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="?"/>
+			<recorded start="2008" end="2009"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Quartetto per archi</name>
 			<length>6:40</length>
 			<player name="Arditti String Quartet"/>

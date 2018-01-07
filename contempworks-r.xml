@@ -3427,6 +3427,18 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Canzona nuova</name>
+			<description>für 5 Bratschen</description>
+			<length>32:15</length>
+			<instrument name="Bratsche">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<composed start="1982" end="2006"/>
+			<recorded start="2008" end="2009"/>
+			<release>Aeon AECD 0981</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Vigilia</name>
 			<description>for six voices and ensemble</description>
 			<length>1:01:53</length>
