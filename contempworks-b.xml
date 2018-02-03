@@ -808,6 +808,17 @@
 	</composer>
 	<composer name="Luciano" surname="Berio" born="1925" died="2003">
 		<composition>
+			<name>Serenata I</name>
+			<description>per flauto e 14 strumenti</description>
+			<length>11:09</length>
+			<player name="Ensemble Avantgarde"/>
+			<conductor>Thomas Michael Gribow</conductor>
+			<composed start="1957"/>
+			<recorded start="1997"/>
+			<release>MDG 613 0754-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Différences</name>
 			<description>pour ensemble</description>
 			<length>14:29</length>
@@ -1065,6 +1076,18 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Sequenza IV</name>
+			<description>for piano</description>
+			<length>12:09</length>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1964" end="1993"/>
+			<recorded start="1997"/>
+			<release>MDG 613 0754-2</release>
+			<released>1998</released>
+		</composition>
+		<composition>
 			<name>Gesti</name>
 			<description>for recorder</description>
 			<length>5:20</length>
@@ -1121,6 +1144,17 @@
 			<recorded start="1989"/>
 			<release>Sony SK 45 862</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>O King</name>
+			<description>for voice and 5 instruments</description>
+			<length>4:33</length>
+			<player name="Ensemble Avantgarde"/>
+			<conductor>Thomas Michael Gribow</conductor>
+			<composed start="1968"/>
+			<recorded start="1997"/>
+			<release>MDG 613 0754-2</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Sinfonia für acht Stimmen und Orchester</name>
@@ -1181,6 +1215,25 @@
 			<recorded start="2007"/>
 			<release>Col Legno WWE 1CD 20281</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Linea</name>
+			<description>for two pianos, vibraphone and marimba</description>
+			<length>13:55</length>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+				<player name="Josef Christof"/>
+			</instrument>
+			<instrument name="vibraphone">
+				<player name="Stefan Stopora"/>
+			</instrument>
+			<instrument name="marimba">
+				<player name="Winfried Nitsche"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1997"/>
+			<release>MDG 613 0754-2</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Chemins IV (su "Sequenza VII")</name>
@@ -1285,6 +1338,18 @@
 			<recorded start="2003"/>
 			<release>Mode 161/3</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Sequenza IXa</name>
+			<description>for clarinet</description>
+			<length>14:37</length>
+			<instrument name="clarinet">
+				<player name="Matthias Kreher"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1997"/>
+			<release>MDG 613 0754-2</release>
+			<released>1998</released>
 		</composition>
 		<composition>
 			<name>Sequenza IXc</name>

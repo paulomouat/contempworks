@@ -1409,6 +1409,18 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Klavierstück Nr. 6</name>
+			<description><q>Bagatellen</q></description>
+			<length>15:29</length>
+			<instrument name="Klavier">
+				<player name="Klaus Steffes-Holländer"/>
+			</instrument>
+			<composed start="1977" end="1978"/>
+			<recorded start="1997"/>
+			<release>Wergo WER 6623-2</release>
+			<released>1997</released>
+		</composition>
+		<composition>
 			<name>Musik für drei Streicher</name>
 			<length>54:55</length>
 			<player name="Trio Recherche"/>
@@ -2376,6 +2388,16 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Kolchis</name>
+			<description>für Harfe, Klavier, Schlagzeug, Violoncello und Kontrabaß</description>
+			<length>4:28</length>
+			<player name="ensemble recherche"/>
+			<composed start="1992"/>
+			<recorded start="1997"/>
+			<release>Wergo WER 6623-2</release>
+			<released>1997</released>
+		</composition>
+		<composition>
 			<name>Gesungene Zeit</name>
 			<description>Musik für Violine und Orchester</description>
 			<length>24:23</length>
@@ -2412,6 +2434,50 @@
 			<recorded start="1998"/>
 			<release>CPO 999 883-2</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Antlitz</name>
+			<description>Zeichnung für Violine und Klavier</description>
+			<length>12:08</length>
+			<instrument name="Violine">
+				<player name="Melise Mellinger"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Klaus Steffes-Holländer"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="1997"/>
+			<release>Wergo WER 6623-2</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>von weit.</name>
+			<description>“Antlitz”-Version, umschrieben für Violoncello und Klavier</description>
+			<length>12:51</length>
+			<instrument name="Violoncello">
+				<player name="Lucas Fels"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Klaus Steffes-Holländer"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="1997"/>
+			<release>Wergo WER 6623-2</release>
+			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Dritte Musik</name>
+			<description>für Violine und Orchester</description>
+			<length>17:43</length>
+			<instrument name="Violine">
+				<player name="Gottfried Schneider"/>
+			</instrument>
+			<player name="SWF-Sinfonieorchester"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Wergo WER 6623-2</release>
+			<released>1997</released>
 		</composition>
 		<composition>
 			<name>String Quartet No. 10</name>

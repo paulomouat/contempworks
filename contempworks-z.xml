@@ -101,6 +101,34 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Hölderlin lesen I</name>
+			<description>für Streichquartett mit Sprechstimme ad lib.</description>
+			<length>20:23</length>
+			<instrument name="voice">
+				<player name="Salome Kammer"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1979"/>
+			<recorded start="1996"/>
+			<release>Montaigne MO 782094</release>
+			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Hölderlin lesen II</name>
+			<description>für Sprechstimme, Viola und Live-Elektronik</description>
+			<length>14:15</length>
+			<instrument name="voice">
+				<player name="Salome Kammer"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="1996"/>
+			<release>Montaigne MO 782094</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Furin no kyo</name>
 			<description>für Sopran, Klarinette und Ensemble</description>
 			<length>21:45</length>
@@ -116,6 +144,19 @@
 			<recorded start="2000"/>
 			<release>Kairos 0012262KAI</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Hölderlin lesen III, “denn wiederkommen”</name>
+			<description>für Streichquartett und Sprechstimme</description>
+			<length>23:04</length>
+			<instrument name="voice">
+				<player name="Salome Kammer"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1996"/>
+			<release>Montaigne MO 782094</release>
+			<released>1999</released>
 		</composition>
 		<composition>
 			<name>Schuberts “Winterreise”</name>
