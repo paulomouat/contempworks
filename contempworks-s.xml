@@ -3753,6 +3753,18 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Sei Capricci</name>
+			<description>per violino</description>
+			<length>25:24</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1975" end="1976"/>
+			<recorded start="2015"/>
+			<release>Aeon AECD 1755</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Fauno che fischia a un merlo</name>
 			<description>per flauto e arpa</description>
 			<length>5:46</length>

@@ -1711,6 +1711,25 @@
 			<release>Wergo WER 60045-50</release>
 			<released>1985</released>
 		</composition>
+		<composition>
+			<name>Requiem</name>
+			<description>for soprano and mezzo soprano solo, mixed chorus and orchestra</description>
+			<length>26:20</length>
+			<instrument name="soprano">
+				<player name="Caroline Stein"/>
+			</instrument>
+			<instrument name="mezzo soprano">
+				<player name="Margriet van Reisen"/>
+			</instrument>
+			<player name="London Voices"/>
+			<conductor>Terry Edwards</conductor>
+			<player name="Berliner Philharmoniker"/>
+			<conductor>Jonathan Nott</conductor>
+			<composed start="1963" end="1965"/>
+			<recorded start="2002"/>
+			<release>Teldec 8573-88263-2</release>
+			<released>2003</released>
+		</composition>
 		<composition score="Y">
 			<name>Lux Aeterna</name>
 			<description>für 16 stimmigen gemischten Chor a cappella</description>
@@ -1924,6 +1943,17 @@
 			<release>Deutsche Grammophon 423244-2</release>
 			<released>1983</released>
 		</composition>
+		<composition>
+			<name>Ramifications</name>
+			<description>for 12 solo strings</description>
+			<length>8:00</length>
+			<player name="Schönberg Ensemble"/>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1968" end="1969"/>
+			<recorded start="2001"/>
+			<release>Teldec 8573-88263-2</release>
+			<released>2003</released>
+		</composition>
 		<composition score="Y">
 			<name>Kammerkonzert</name>
 			<description>für 13 Instrumentalisten</description>
@@ -1945,6 +1975,23 @@
 			<recorded start="1987" end="1988"/>
 			<release>Montaigne 780518</release>
 			<released>1989-94</released>
+		</composition>
+		<composition>
+			<name>Double Concerto</name>
+			<description>for flute, oboe and orchestra</description>
+			<length>16:19</length>
+			<instrument name="flute">
+				<player name="Jacques Zoon"/>
+			</instrument>
+			<instrument name="oboe">
+				<player name="Heinz Holliger"/>
+			</instrument>
+			<player name="Schönberg Ensemble"/>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1972"/>
+			<recorded start="2002"/>
+			<release>Teldec 8573-88263-2</release>
+			<released>2003</released>
 		</composition>
 		<composition>
 			<name>San Francisco Polyphony</name>
@@ -2282,6 +2329,20 @@
 			<recorded start="1997"/>
 			<release>Col Legno WWE 3CD 20026</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Hamburg Concerto</name>
+			<description>for solo horn and chamber orchestra with 4 obligato natural horns</description>
+			<length>14:50</length>
+			<instrument name="Horn">
+				<player name="Marie Luise Neunecker"/>
+			</instrument>
+			<player name="Asko Ensemble"/>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1998" end="2003"/>
+			<recorded start="2002"/>
+			<release>Teldec 8573-88263-2</release>
+			<released>2003</released>
 		</composition>
 	</composer>
 	<composer name="Liza" surname="Lim" born="1966" died="">

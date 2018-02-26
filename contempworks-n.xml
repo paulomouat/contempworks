@@ -2323,6 +2323,18 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Einspielung I</name>
+			<description>for violin</description>
+			<length>19:01</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="2015"/>
+			<release>Aeon AECD 1755</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Einspielung III</name>
 			<description>pour alto</description>
 			<length>20:28</length>
