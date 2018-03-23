@@ -2045,6 +2045,18 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Thomas-Daniel" surname="Schlee" born="1957" died="">
+		<composition>
+			<name>Tempus Floridum</name>
+			<description>Moment musical pour quatuor à cordes</description>
+			<length>1:59</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
+	</composer>
 	<composer name="Steffen" surname="Schleiermacher" born="1960" died="">
 		<composition>
 			<name>Hommage à RILEY - REICHlich verGLASSt</name>
@@ -2166,6 +2178,18 @@
 			<release>Gramavision R2 79439</release>
 			<released>1990</released>
 		</composition>
+		<composition>
+			<name>Herrn Alfred Schlee zum 90. Geburtstag</name>
+			<description>for solo viola</description>
+			<length>3:40</length>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 	</composer>
 	<composer name="Philippe" surname="Schoeller" born="1957" died="">
 		<composition>
@@ -3671,6 +3695,18 @@
 			<release>INA C 1035</release>
 			<released>2004</released>
 		</composition>
+	</composer>
+	<composer name="Kurt" surname="Schwertsik" born="1935" died="">
+		<composition>
+			<name>Baumgesang III</name>
+			<description>pour quatuor à cordes</description>
+			<length>2:05</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 	</composer>
 	<composer name="Salvatore" surname="Sciarrino" born="1947" died="">
 		<composition>

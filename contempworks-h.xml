@@ -303,6 +303,16 @@
 		</composition>
 		<composition>
 			<name>Con bravura y sentimiento</name>
+			<description>for string quartet</description>
+			<length>2:20</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
+		<composition>
+			<name>Con bravura y sentimiento</name>
 			<length>2:38</length>
 			<player name="Arditti Quartet"/>
 			<composed start="1991"/>

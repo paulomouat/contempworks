@@ -2489,6 +2489,16 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Für Alfred Schlee</name>
+			<description>for string quartet</description>
+			<length>1:31</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
+		<composition>
 			<name>Lied</name>
 			<description>for violin and piano</description>
 			<length>8:59</length>

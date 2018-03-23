@@ -669,6 +669,17 @@
 			<released>2008</released>
 		</composition>
 	</composer>
+	<composer name="Gerhard" surname="Lampersberg" born="1928" died="2002">
+		<composition>
+			<name>Quartet for strings to the Ardittis</name>
+			<length>1:00</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
+	</composer>
 	<composer name="René" surname="Leibowitz" born="1913" died="1972">
 		<composition>
 			<name>Kammersymphonie für zwölf Instrumente, op. 16</name>
@@ -924,6 +935,16 @@
 			<release>Col Legno CD1 31903</release>
 			<released>1996</released>
 		</composition>
+		<composition>
+			<name>Quartettino</name>
+			<description>“Zeichen meiner Zuneigung” for string quartet</description>
+			<length>1:34</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 	</composer>
 	<composer name="György" surname="Ligeti" born="1923" died="2006">
 		<composition>
@@ -2291,6 +2312,18 @@
 			<release>Alpha 217</release>
 			<released>2015</released>
 		</composition>
+		<composition>
+			<name>Loop</name>
+			<description>for viola solo</description>
+			<length>2:32</length>
+			<instrument name="viola">
+				<player name="Garth Knox"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1992"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 		<composition>
 			<name>Sonate pour alto</name>
 			<length>22:12</length>

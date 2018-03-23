@@ -1300,6 +1300,18 @@
 			<release>Col Legno CD1 31911</release>
 			<released>1996</released>
 		</composition>
+		<composition>
+			<name>Pièce pour piano et quatuor à cordes</name>
+			<length>3:46</length>
+			<instrument name="piano">
+				<player name="Pierre-Laurent Aimard"/>
+			</instrument>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 	</composer>
 	<composer name="Joanne" surname="Metcalf" born="1958" died="">
 		<composition>
@@ -1368,6 +1380,18 @@
 			<release>Col Legno WWE 3CD 20025</release>
 			<released>1998</released>
 		</composition>
+	</composer>
+	<composer name="Francis" surname="Miroglio" born="1924" died="2005">
+		<composition>
+			<name>Nineties</name>
+			<description>for string quartet</description>
+			<length>2:10</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 	</composer>
 	<composer name="Wolfgang" surname="Mitterer" born="1958" died="">
 		<composition>

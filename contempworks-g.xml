@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Alain" surname="Gaussin" born="1943" died="">
 		<composition>
@@ -55,6 +60,20 @@
 			<release>INA C 1033</release>
 			<released>2004</released>
 		</composition>
+	</composer>
+	<composer name="Michael" surname="Gielen" born="1927" died="">
+		<composition>
+			<name>Rezitativ und Lied</name>
+			<description>extrait de “Weitblick” pour violoncelle seul</description>
+			<length>4:16</length>
+			<instrument name="Violoncello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 	</composer>
 	<composer name="Philip" surname="Glass" born="1937" died="">
 		<composition>

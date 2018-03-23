@@ -261,6 +261,18 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Günter" surname="Kahowez" born="1940" died="">
+		<composition>
+			<name>Calmo andantino “Die Besonnenheit”</name>
+			<description>extrait de “Feuerrose” pour quatuor à cordes</description>
+			<length>3:10</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
+	</composer>
 	<composer name="Johannes" surname="Kalitzke" born="1959" died="">
 		<composition>
 			<name>Nachtschleife</name>
@@ -596,6 +608,18 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Peter" surname="Kolman" born="1937" died="">
+		<composition>
+			<name>Ausgedehnter Dominantseptakkord</name>
+			<description>“zu Ehren Alfred Schlees” pour quatuor à cordes</description>
+			<length>1:04</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
+	</composer>
 	<composer name="Patrick" surname="Kosk" born="1951" died="">
 		<composition>
 			<name>IceBice</name>
@@ -620,6 +644,18 @@
 			<release>NEEMC 02</release>
 			<released>2002</released>
 		</composition>
+	</composer>
+	<composer name="Zygmunt" surname="Krauze" born="1938" died="">
+		<composition>
+			<name>For Alfred Schlee with admiration</name>
+			<description>for string quartet</description>
+			<length>1:36</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 	</composer>
 	<composer name="Ernst" surname="Krenek" born="1900" died="1991">
 		<composition>
@@ -683,6 +719,18 @@
 			<recorded start="2008" end="2009"/>
 			<release>Aeon AECD 0981</release>
 			<released>2009</released>
+		</composition>		
+	</composer>
+	<composer name="Ladislav" surname="Kupkovic" born="1936" died="">
+		<composition>
+			<name>Initiale</name>
+			<description>for string quartet</description>
+			<length>1:43</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
 		</composition>		
 	</composer>
 	<composer name="György" surname="Kurtág" born="1926" died="">
@@ -982,6 +1030,16 @@
 			<release>Neos 11033</release>
 			<released>2011</released>
 		</composition>
+		<composition>
+			<name>Aus der Ferne III</name>
+			<description>for string quartet</description>
+			<length>2:04</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 		<composition>
 			<name>Tamás Blum in memoriam</name>
 			<description>für Viola</description>

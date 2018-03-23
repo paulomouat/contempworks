@@ -255,6 +255,18 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Edison" surname="Denisov" born="1929" died="1996">
+		<composition>
+			<name>Agitato</name>
+			<name>extrait de Quatre pièces pour quatuor à cordes</name>
+			<length>1:20</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>				
+	</composer>
 	<composer name="Christophe" surname="Desjardins" born="1962" died="">
 		<composition>
 			<name>Madrigale X, Quinto libro (Carlo Gesualdo)</name>
@@ -1058,6 +1070,15 @@
 			<release>Col Legno CD1 31902</release>
 			<released>1996</released>
 		</composition>
+		<composition>
+			<name>IV. Streichquartett</name>
+			<length>1:53</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 	</composer>
 	<composer name="Vladimir" surname="Djambazov" born="1954" died="">
 		<composition>

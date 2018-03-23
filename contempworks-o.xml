@@ -158,6 +158,18 @@
 			<released>1968</released>
 		</composition>
 	</composer>
+	<composer name="Nigel" surname="Osborne" born="1948" died="">
+		<composition>
+			<name>Graffiti after Cy Twombly</name>
+			<description>for string quartet</description>
+			<length>2:56</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
+	</composer>
 	<composer name="Hans" surname="Otte" born="1926" died="2007">
 		<composition>
 			<name>Tasso-Concetti</name>

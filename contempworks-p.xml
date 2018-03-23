@@ -969,6 +969,16 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Psalom</name>
+			<name>for string quartet</name>
+			<length>2:23</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1985" end="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
+		<composition>
 			<name>Berliner Messe</name>
 			<length>24:31</length>
 			<player name="Estonian Philharmonic Chamber Choir"/>
@@ -1706,6 +1716,17 @@
 			<release>BVHaast 9010</release>
 			<released>?</released>
 		</composition>
+		<composition>
+			<name>U- oder E-Musik?</name>
+			<description>Variation über das Lied “Dem lieben Schlee noch viele Jahre”</description>
+			<description>for string quartet</description>
+			<length>0:48</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
 	</composer>
 	<composer name="Bernfried" surname="Pröve" born="1963" died="">
 		<composition>

@@ -159,6 +159,16 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Fünf Haiku</name>
+			<description>for string quartet</description>
+			<length>3:30</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>		
+		<composition>
 			<name>Schuberts “Winterreise”</name>
 			<description>Eine komponierte Interpretation</description>
 			<description>für Tenor und kleines Orchester</description>
