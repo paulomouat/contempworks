@@ -3731,6 +3731,21 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Un’Immagine d’Arpocrate</name>
+			<description>for piano and orchestra with choir, on texts by Goethe and Wittgenstein</description>
+			<length>46:51</length>
+			<instrument name="Piano">
+				<player name="Tamara Stefanovich"/>
+			</instrument>
+			<player name="Chorwerk Ruhr"/>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Susanna Mälkki</conductor>
+			<composed start="1974" end="1979"/>
+			<recorded start="2014"/>
+			<release>Neos 11626</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Per Mattia</name>
 			<description>per violino</description>
 			<length>1:55</length>
@@ -4661,6 +4676,20 @@
 			<recorded start="2011"/>
 			<release>Stradivarius STR 33942</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Giorno velato presso il lago nero</name>
+			<description>for violin and orchestra</description>
+			<length>18:52</length>
+			<instrument name="Violin">
+				<player name="Carolin Widmann"/>
+			</instrument>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Jonathan Nott</conductor>
+			<composed start="2012"/>
+			<recorded start="2013"/>
+			<release>Neos 11626</release>
+			<released>2016</released>
 		</composition>
 	</composer>
 	<composer name="Agostino di" surname="Scipio" born="1962" died="">

@@ -276,6 +276,19 @@
 	</composer>
 	<composer name="Gilbert" surname="Amy" born="1936" died="">
 		<composition>
+			<name>Petit Duo</name>
+			<name>pour deux violons</name>
+			<length>1:16</length>
+			<instrument name="violin">
+				<player name="Irvine Arditti"/>
+				<player name="David Alberman"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Concerto pour violoncelle et orchestre</name>
 			<length>30:01</length>
 			<instrument name="violoncelle">

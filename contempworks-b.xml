@@ -1532,6 +1532,16 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Glossa</name>
+			<name>for string quartet</name>
+			<length>3:03</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Notturno</name>
 			<description>for string quartet</description>
 			<length>25:01</length>
@@ -1677,6 +1687,15 @@
 		</composition>
 	</composer>
 	<composer name="Harrison" surname="Birtwistle" born="1934" died="">
+		<composition>
+			<name>Movement for string quartet</name>
+			<length>3:38</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>
 		<composition>
 			<name>9 Movements for String Quartet</name>
 			<length>30:31</length>
@@ -3034,6 +3053,16 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Anthèmes</name>
+			<name>pour violon seul</name>
+			<length>3:14</length>
+			<player name="Irvine Arditti"/>
+			<composed start="1991"/>
+			<recorded start="1993"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Anthèmes I</name>
 			<description>for violin</description>
 			<length>8:04</length>
@@ -3807,6 +3836,18 @@
 			<composed start="1981"/>
 			<release>EMF CD 00644</release>
 			<released>1998</released>
+		</composition>
+	</composer>
+	<composer name="Francis" surname="Burt" born="1926" died="2012">
+		<composition>
+			<name>Für Alfred Schlee</name>
+			<name>for string quartet</name>
+			<length>0:59</length>
+			<player name="Arditti Quartet"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782027</release>
+			<released>1994</released>
 		</composition>
 	</composer>
 	<composer name="Sylvano" surname="Bussotti" born="1931" died="">
