@@ -1245,6 +1245,16 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Antiphon</name>
+			<description>for string quartet and string quartet with electronics (tape)</description>
+			<length>17:20</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1976" end="1984"/>
+			<recorded start="1992"/>
+			<release>Montaigne MO 782036</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Mythos</name>
 			<description>Klanggedicht für 13 Instrumente, Schlagzeug und elektronische Klänge</description>
 			<length>22:57</length>

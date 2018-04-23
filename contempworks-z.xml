@@ -416,6 +416,16 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Festina lente</name>
+			<description>for string quartet</description>
+			<length>23:17</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1990"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782036</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Distentio</name>
 			<description>from “About Time 2”</description>
 			<description>for string trio</description>

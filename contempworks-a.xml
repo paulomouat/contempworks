@@ -410,4 +410,18 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Paulo" surname="Assis" born="1969" died="">
+		<composition>
+			<name>unfolding waves... con luigi nono</name>
+			<description>for orchestra and 3 instrumental groups</description>
+			<length>14:08</length>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Peter Rundel</conductor>
+			<conductor>Léo Warinsky</conductor>
+			<composed start="2012"/>
+			<recorded start="2012"/>
+			<release>Kairos 0015022KAI</release>
+			<released>2018</released>
+		</composition>
+	</composer>
 </list>

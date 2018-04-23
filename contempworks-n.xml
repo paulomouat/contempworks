@@ -1075,6 +1075,27 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Como una ola de fuerza y luz</name>
+			<description>for soprano, piano, orchestra and tape</description>
+			<length>30:18</length>
+			<instrument name="Soprano">
+				<player name="Claudia Barainsky"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Jan Michiels"/>
+			</instrument>
+			<instrument name="Sound projection">
+				<player name="André Richard"/>
+			</instrument>
+			<player name="SWR Experimentalstudio"/>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="1971" end="1972"/>
+			<recorded start="2012"/>
+			<release>Kairos 0015022KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Al gran sole carico d’amore</name>
 			<description>Azione scenica in 2 tempi</description>
 			<length>1:34:42</length>
@@ -1137,6 +1158,21 @@
 			<recorded start="2010"/>
 			<release>Neos 11122</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>...sofferte onde serene...</name>
+			<description>for piano and tape</description>
+			<length>13:55</length>
+			<instrument name="Piano">
+				<player name="Jan Michiels"/>
+			</instrument>
+			<instrument name="Sound projection">
+				<player name="Paulo de Assis"/>
+			</instrument>
+			<composed start="1975" end="1977"/>
+			<recorded start="2016"/>
+			<release>Kairos 0015022KAI</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Con Luigi Dallapiccola</name>

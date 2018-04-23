@@ -5255,6 +5255,16 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Apo Do (“von hier”)</name>
+			<description>for string quartet</description>
+			<length>12:06</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1982"/>
+			<recorded start="1991"/>
+			<release>Montaigne MO 782036</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>musica impura</name>
 			<description>pour voix, guitarre et percussions</description>
 			<length>8:26</length>

@@ -2993,14 +2993,36 @@
 			<instrument name="cello, electronics">
 				<player name="Fred Lonberg-Holm"/>
 			</instrument>
-			<instrument name="Jim O’Rourke">
-				<player name="Electronics"/>
+			<instrument name="electronics">
+				<player name="Jim O’Rourke"/>
 			</instrument>
 			<conductor>Art Lange</conductor>
 			<composed start="1963" end="1967"/>
 			<recorded start="1998"/>
 			<release>hat[now]ART 2-122</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Treatise</name>
+			<description>for any number of musicians with any instruments</description>
+			<length>4:48:24</length>
+			<instrument name="drums, percussion">
+				<player name="Paul Allen"/>
+			</instrument>
+			<instrument name="guitar, harmonium, pianos">
+				<player name="Steve Gibson"/>
+			</instrument>
+			<instrument name="electronics, live and found samples, modular and semi-modular synthesizers">
+				<player name="Adrian Newton"/>
+			</instrument>
+			<instrument name="electronics, harmonium, little instruments, saxophone">
+				<player name="Stuart Riddle"/>
+			</instrument>
+			<player name="Gerauschhersteller"/>
+			<composed start="1963" end="1967"/>
+			<recorded start="2017"/>
+			<release>Noisemaker Records CD01</release>
+			<released>2018</released>
 		</composition>
 	</composer>
 	<composer name="Carmen Maria" surname="Cârneci" born="1957" died="">
