@@ -1490,6 +1490,59 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Beiseit</name>
+			<description>12 Lieder nach Gedichten von Robert Walser</description>
+			<length>37:05</length>
+			<instrument name="Countertenor">
+				<player name="David James"/>
+			</instrument>
+			<instrument name="Klarinette">
+				<player name="Elmar Schmid"/>
+			</instrument>
+			<instrument name="Akkordeon">
+				<player name="Teodoro Anzelotti"/>
+			</instrument>
+			<instrument name="Kontrabaß">
+				<player name="Johannes Nied"/>
+			</instrument>
+			<conductor>Heinz Holliger</conductor>
+			<composed start="1990" end="1991"/>
+			<recorded start="1994"/>
+			<release>ECM 1540</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Alb-Chehr</name>
+			<description>Geischter- und Alpenmusig for d Oberwalliser Spillit</description>
+			<length>23:20</length>
+			<instrument name="Klarinette">
+				<player name="Elmar Schmid"/>
+				<player name="Klaus Schmid"/>
+			</instrument>
+			<instrument name="Geige">
+				<player name="Paul Locher"/>
+			</instrument>
+			<instrument name="Schwyzerörgeli">
+				<player name="Marcel Volken"/>
+				<player name="Markus Tenisch"/>
+			</instrument>
+			<instrument name="Hackbrett">
+				<player name="Sabine Gertschen"/>
+				<player name="Edmund Volken"/>
+			</instrument>
+			<instrument name="Baß">
+				<player name="Oswald Bumann"/>
+			</instrument>
+			<instrument name="Sprecher">
+				<player name="Franziskus Abgottspon"/>
+			</instrument>
+			<conductor>Heinz Holliger</conductor>
+			<composed start="1992" end="1993"/>
+			<recorded start="1995"/>
+			<release>ECM 1540</release>
+			<released>1995</released>
+		</composition>
+		<composition>
 			<name>Lieder ohne Worte II</name>
 			<description>für Violine und Klavier</description>
 			<length>22:11</length>

@@ -2967,6 +2967,87 @@
 	</composer>
 	<composer name="Cornelius" surname="Cardew" born="1936" died="1981">
 		<composition>
+			<name>Autumn 60</name>
+			<length>8:59</length>
+			<instrument name="Viola">
+				<player name="Jen Paulson"/>
+			</instrument>
+			<instrument name="Trombone">
+				<player name="Jeb Bishop"/>
+			</instrument>
+			<instrument name="Tenor Saxophone">
+				<player name="Guillermo Gregorio"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Amy Williams"/>
+			</instrument>
+			<instrument name="Electric Guitar">
+				<player name="Jeff Parker"/>
+			</instrument>
+			<instrument name="Double Bass">
+				<player name="Michael Cameron"/>
+			</instrument>
+			<conductor>Art Lange</conductor>
+			<composed start="1960"/>
+			<recorded start="2001"/>
+			<release>hat[now]ART 150</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Octet ’61 for Jasper Johns</name>
+			<length>20:53</length>
+			<instrument name="Viola">
+				<player name="Jen Paulson"/>
+			</instrument>
+			<instrument name="Clarinet">
+				<player name="Guillermo Gregorio"/>
+			</instrument>
+			<instrument name="Trombone">
+				<player name="Jeb Bishop"/>
+			</instrument>
+			<instrument name="Double Bass">
+				<player name="Michael Cameron"/>
+			</instrument>
+			<instrument name="Arp Synthesizer">
+				<player name="Jim Baker"/>
+			</instrument>
+			<instrument name="Electronics (Crackle-box)">
+				<player name="Warren Po"/>
+			</instrument>
+			<instrument name="Electronics">
+				<player name="Lou Mallozzi"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="2001"/>
+			<release>hat[now]ART 150</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Memories Of You</name>
+			<length>7:03</length>
+			<instrument name="Piano, Performer (Objects)">
+				<player name="Art Lange"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="2001"/>
+			<release>hat[now]ART 150</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Material</name>
+			<length>8:02</length>
+			<instrument name="Piano">
+				<player name="Amy Williams"/>
+			</instrument>
+			<instrument name="Electric Guitar">
+				<player name="Jeff Parker"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="2001"/>
+			<release>hat[now]ART 150</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Treatise</name>
 			<description>for any number of musicians with any instruments</description>
 			<length>2:07:00</length>
@@ -3023,6 +3104,20 @@
 			<recorded start="2017"/>
 			<release>Noisemaker Records CD01</release>
 			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Treatise (Pages 21, 22)</name>
+			<length>11:38</length>
+			<instrument name="Voice">
+				<player name="Lou Mallozzi"/>
+			</instrument>
+			<instrument name="Arp Synthesizer">
+				<player name="Jim Baker"/>
+			</instrument>
+			<composed start="1963" end="1967"/>
+			<recorded start="2001"/>
+			<release>hat[now]ART 150</release>
+			<released>2004</released>
 		</composition>
 	</composer>
 	<composer name="Carmen Maria" surname="Cârneci" born="1957" died="">
