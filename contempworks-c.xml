@@ -370,6 +370,21 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>The Wonderful Widow of Eighteen Springs</name>
+			<description>for voice and closed piano</description>
+			<length>2:25</length>
+			<instrument name="voice">
+				<player name="Anna Clementi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1942"/>
+			<recorded start="2000"/>
+			<release>MDG 613 1076-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Our Spring Will Come</name>
 			<description>for prepared piano</description>
 			<length>4:30</length>
@@ -440,6 +455,21 @@
 			<recorded start="2001" end="2002"/>
 			<release>Mode 180/81</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>She is asleep</name>
+			<description>Duet: voice and piano</description>
+			<length>6:54</length>
+			<instrument name="voice">
+				<player name="Anna Clementi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1943"/>
+			<recorded start="2000"/>
+			<release>MDG 613 1076-2</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>The Perilous Night</name>
@@ -589,6 +619,21 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Four Walls</name>
+			<description>for voice and piano</description>
+			<length>58:54</length>
+			<instrument name="voice">
+				<player name="Anna Clementi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1944"/>
+			<recorded start="2000"/>
+			<release>MDG 613 1076-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Soliloquy</name>
 			<description>for piano</description>
 			<length>3:09</length>
@@ -599,6 +644,18 @@
 			<recorded start="1995"/>
 			<release>Mode 123</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Experiences II</name>
+			<description>for voice</description>
+			<length>2:47</length>
+			<instrument name="voice">
+				<player name="Anna Clementi"/>
+			</instrument>
+			<composed start="1944" end="1948"/>
+			<recorded start="2000"/>
+			<release>MDG 613 1076-2</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>Daughters of the Lonesome Isle</name>
@@ -830,6 +887,21 @@
 			<recorded start="2009"/>
 			<release>Col Legno WWE 1CD 20292</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>A flower</name>
+			<description>for voice and closed piano</description>
+			<length>2:58</length>
+			<instrument name="voice">
+				<player name="Anna Clementi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1950"/>
+			<recorded start="2000"/>
+			<release>MDG 613 1076-2</release>
+			<released>2001</released>
 		</composition>
 		<composition>
 			<name>Haiku</name>
@@ -2150,6 +2222,22 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Nowth upon Nacht</name>
+			<description>for voice and piano</description>
+			<description>in memoriam Cathy Berberian</description>
+			<length>1:33</length>
+			<instrument name="voice">
+				<player name="Anna Clementi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Steffen Schleiermacher"/>
+			</instrument>
+			<composed start="1944"/>
+			<recorded start="2000"/>
+			<release>MDG 613 1076-2</release>
+			<released>2001</released>
+		</composition>
+		<composition>
 			<name>Music for two</name>
 			<description>for 2 pianos</description>
 			<length>29:57</length>
@@ -2444,6 +2532,27 @@
 			<recorded start="2004"/>
 			<release>Mode 222/223</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Sculptures Musicales</name>
+			<description>for an indeterminate number of sound sources</description>
+			<length>19:47</length>
+			<instrument name="recycled electroacoustics and mechanical elements">
+				<player name="Salvatore Carannante"/>
+			</instrument>
+			<instrument name="cello and prepared cello">
+				<player name="Chiara Mallozzi"/>
+			</instrument>
+			<instrument name="computer">
+				<player name="Dario Sanfilippo"/>
+			</instrument>
+			<instrument name="self-built analog synthesis circuits">
+				<player name="Stefano Silvestri"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2012"/>
+			<release>die Schachtel Zeit C11</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Freeman Etudes books 3 &amp; 4</name>
@@ -2964,6 +3073,17 @@
 			<release>INA C 1035</release>
 			<released>2004</released>
 		</composition>
+	</composer>
+	<composer name="Salvatore" surname="Carannante" born="1985" died="">
+		<composition>
+			<name>...in the temple of Mercury...</name>
+			<description>acousmatic music (field recording, recycled electroacoustics and mechanical elements)</description>
+			<length>7:57</length>
+			<composed start="2012"/>
+			<recorded start="2013"/>
+			<release>die Schachtel Zeit C11</release>
+			<released>2014</released>
+		</composition>	
 	</composer>
 	<composer name="Cornelius" surname="Cardew" born="1936" died="1981">
 		<composition>

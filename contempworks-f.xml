@@ -1299,6 +1299,20 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Patterns in a chromatic field</name>
+			<length>1:45:25</length>
+			<instrument name="violoncello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Marianne Schroeder"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="1993"/>
+			<release>hat[now]ART 204-1/2</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Bass Clarinet and Percussion</name>
 			<length>17:30</length>
 			<instrument name="Clarinet">

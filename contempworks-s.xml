@@ -560,6 +560,20 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Dario" surname="Sanfilippo" born="1983" died="">
+		<composition>
+			<name>LIES (distances-incidences) 1.3 (estratto)</name>
+			<description>computer and electroacoustic systems</description>
+			<length>8:48</length>
+			<instrument name="computer and electroacoustic systems">
+				<player name="Dario Sanfilippo"/>
+			</instrument>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>die Schachtel Zeit C11</release>
+			<released>2014</released>
+		</composition>	
+	</composer>
 	<composer name="Henri" surname="Sauguet" born="1901" died="1989">
 		<composition>
 			<name>Aspect sentimental</name>
@@ -4832,6 +4846,21 @@
 			<release>Edition RZ 10015</release>
 			<released>2005</released>
 		</composition>
+		<composition>
+			<name>Setup 1.2.3 (January 2011)</name>
+			<description>impro project with saxophone and recycled analog electronics</description>
+			<length>10:28</length>
+			<instrument name="tenor saxophone and feedback systems with recycled electronics">
+				<player name="Mario Gabola"/>
+			</instrument>
+			<instrument name="feedback systems with recycled electronics">
+				<player name="Agostino di Scipio"/>
+			</instrument>
+			<composed start="2010" end="2011"/>
+			<recorded start="2013"/>
+			<release>die Schachtel Zeit C11</release>
+			<released>2014</released>
+		</composition>	
 	</composer>
 	<composer name="Stefano" surname="Scodanibbio" born="1956" died="">
 		<composition>
@@ -5077,6 +5106,19 @@
 			<release>Fuga Libera FUG512</release>
 			<released>2005</released>
 		</composition>
+	</composer>
+	<composer name="Stefano" surname="Silvestri" born="" died="">
+		<composition>
+			<name>Esperimento delle interazioni caotiche (part 1)</name>
+			<length>9:17</length>
+			<instrument name="analog synthesizer with Chua nonlinear oscillators">
+				<player name="Stefano Silvestri"/>
+			</instrument>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>die Schachtel Zeit C11</release>
+			<released>2014</released>
+		</composition>	
 	</composer>
 	<composer name="Denis" surname="Smalley" born="1946" died="">
 		<composition>
@@ -6428,6 +6470,17 @@
 			<recorded start="1969"/>
 			<release>Stockhausen-Verlag CD13</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Kurzwellen</name>
+			<description>for 4 instruments, 4 shortwave radios, 6 computers and conductor</description>
+			<length>48:02</length>
+			<player name="C.L.S.I. Ensemble"/>
+			<conductor>Paul Méfano</conductor>
+			<composed start="1968"/>
+			<recorded start="2012"/>
+			<release>Mode 302</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Spiral</name>

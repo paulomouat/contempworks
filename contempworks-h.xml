@@ -1209,6 +1209,16 @@
 	</composer>
 	<composer name="York" surname="Höller" born="1944" died="">
 		<composition>
+			<name>Drei Fragmente</name>
+			<description>for string quartet</description>
+			<length>7:36</length>
+			<player name="Minguet Quartett"/>
+			<composed start="1966"/>
+			<recorded start="2011"/>
+			<release>Neos 11518</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Topic</name>
 			<description>for large orchestra</description>
 			<length>12:56</length>
@@ -1253,6 +1263,16 @@
 			<recorded start="1992"/>
 			<release>Montaigne MO 782036</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Antiphon (1. Streichquartett)</name>
+			<description>for string quartet and electronically transformed string quartet</description>
+			<length>17:35</length>
+			<player name="Minguet Quartett"/>
+			<composed start="1976" end="1984"/>
+			<recorded start="2011"/>
+			<release>Neos 11518</release>
+			<released>2016</released>
 		</composition>
 		<composition>
 			<name>Mythos</name>
@@ -1328,6 +1348,28 @@
 			<recorded start="1985"/>
 			<release>Wergo WER 6515-2</release>
 			<released>1993</released>
+		</composition>
+		<composition>
+			<name>2. Streichquartett</name>
+			<length>19:25</length>
+			<player name="Minguet Quartett"/>
+			<composed start="1997"/>
+			<recorded start="2011"/>
+			<release>Neos 11518</release>
+			<released>2016</released>
+		</composition>
+		<composition>
+			<name>Zwiegestalt</name>
+			<description>for string quartet and piano</description>
+			<length>24:52</length>
+			<instrument name="piano">
+				<player name="Markus Bellheim"/>
+			</instrument>
+			<player name="Minguet Quartett"/>
+			<composed start="2007" end="2008"/>
+			<recorded start="2011"/>
+			<release>Neos 11518</release>
+			<released>2016</released>
 		</composition>
 	</composer>
 	<composer name="Heinz" surname="Holliger" born="1939" died="">

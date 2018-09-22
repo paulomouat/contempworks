@@ -3956,6 +3956,17 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Introspezione</name>
+			<description>Dokumentation für Streichquartett</description>
+			<description>String Quartet No. 1</description>
+			<length>10:43</length>
+			<player name="Minguet Quartett"/>
+			<composed start="1969" end="1970"/>
+			<recorded start="2008"/>
+			<release>Neos 10822/23</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>“...fragment...”</name>
 			<description>Fünf Epigramme für Streichquartett</description>
 			<description>2. Streichquartett</description>
@@ -3965,6 +3976,32 @@
 			<recorded start="1996" end="1997"/>
 			<release>ECM 1694</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>“...fragment...”</name>
+			<description>Fünf Epigramme für Streichquartett</description>
+			<description>String Quartet No. 2</description>
+			<length>8:03</length>
+			<player name="Minguet Quartett"/>
+			<composed start="1970"/>
+			<recorded start="2008"/>
+			<release>Neos 10822/23</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>“...der die Gesänge zerschlug”</name>
+			<description>Stele for Paul Celan after poems from “Zeitgehöft”</description>
+			<description>for baritone and chamber ensemble</description>
+			<length>19:22</length>
+			<instrument name="baritone">
+				<player name="Dietrich Henschel"/>
+			</instrument>
+			<player name="oenm ensemble"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="1985"/>
+			<recorded start="2015"/>
+			<release>Neos 11521</release>
+			<released>2016</released>
 		</composition>
 		<composition>
 			<name>Klangschatten für Alfred Schlee</name>
@@ -3986,6 +4023,16 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Klangschatten</name>
+			<description>for string quartet</description>
+			<length>1:52</length>
+			<player name="Minguet Quartett"/>
+			<composed start="1991"/>
+			<recorded start="2008"/>
+			<release>Neos 10822/23</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>...über ein Verschwinden</name>
 			<description>3. Streichquartett</description>
 			<length>23:04</length>
@@ -3994,6 +4041,16 @@
 			<recorded start="1996" end="1997"/>
 			<release>ECM 1694</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>...über ein Verschwinden</name>
+			<description>String Quartet No. 3</description>
+			<length>22:51</length>
+			<player name="Minguet Quartett"/>
+			<composed start="1992"/>
+			<recorded start="2008"/>
+			<release>Neos 10822/23</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>“...sich verlierend”</name>
@@ -4008,6 +4065,79 @@
 			<recorded start="1996" end="1997"/>
 			<release>ECM 1694</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>“...sich verlierend”</name>
+			<description>for string quartet and speaker</description>
+			<description>String Quartet No. 4</description>
+			<length>22:54</length>
+			<instrument name="speaker">
+				<player name="Christoph Bantzer"/>
+			</instrument>
+			<player name="Minguet Quartett"/>
+			<composed start="1996"/>
+			<recorded start="2008"/>
+			<release>Neos 10822/23</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Sturz</name>
+			<description>String Quartet No. 5</description>
+			<length>16:40</length>
+			<player name="oenm string quartet"/>
+			<composed start="2004"/>
+			<recorded start="2016"/>
+			<release>Neos 11521</release>
+			<released>2016</released>
+		</composition>
+		<composition>
+			<name>Sturz</name>
+			<description>String Quartet No. 5</description>
+			<length>13:44</length>
+			<player name="Minguet Quartett"/>
+			<composed start="2004"/>
+			<recorded start="2008"/>
+			<release>Neos 10822/23</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Erinnerung und vergessen</name>
+			<description>for string quartet and soprano</description>
+			<description>String Quartet No. 6</description>
+			<length>31:34</length>
+			<instrument name="soprano">
+				<player name="Mojca Erdmann"/>
+			</instrument>
+			<player name="Minguet Quartett"/>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>Neos 10822/23</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>...über die Grenze</name>
+			<description>Concerto for violoncello and chamber orchestra</description>
+			<length>24:37</length>
+			<instrument name="violoncello">
+				<player name="Peter Sigl"/>
+			</instrument>
+			<player name="oenm ensemble"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="2010"/>
+			<recorded start="2015"/>
+			<release>Neos 11521</release>
+			<released>2016</released>
+		</composition>
+		<composition>
+			<name>...je weiter ich komme, um so mehr finde ich mich unfähig, die Idee wiederzugeben</name>
+			<description>Homage for chamber ensemble</description>
+			<length>9:33</length>
+			<player name="oenm ensemble"/>
+			<conductor>Johannes Kalitzke</conductor>
+			<composed start="2012"/>
+			<recorded start="2015"/>
+			<release>Neos 11521</release>
+			<released>2016</released>
 		</composition>
 	</composer>
 	<composer name="Frederic" surname="Rzewski" born="1938" died="">
