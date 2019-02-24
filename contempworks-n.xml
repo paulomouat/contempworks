@@ -2348,6 +2348,18 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Minnesang</name>
+			<description>für 12 Stimmen a cappella</description>
+			<description>Text: Jakob Böhme</description>
+			<length>23:40</length>
+			<player name="SWR Vokalensemble"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="1975" end="1976"/>
+			<recorded start="2017"/>
+			<release>Wergo WER 7378-2</release>
+			<released>2019</released>
+		</composition>
+		<composition>
 			<name>Nachtmusik I</name>
 			<description>pour cinq instruments et électronique ad libitum</description>
 			<length>33:49</length>
@@ -2491,6 +2503,17 @@
 			<recorded start="2001"/>
 			<release>Accord IRCAM LC 00280</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Musivus</name>
+			<description>für Orchester in vier Gruppen</description>
+			<length>39:37</length>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="1998" end="2001"/>
+			<recorded start="2001"/>
+			<release>Wergo WER 7378-2</release>
+			<released>2019</released>
 		</composition>
 		<composition>
 			<name>Improvisation II - Portrait</name>
