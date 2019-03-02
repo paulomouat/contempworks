@@ -3863,6 +3863,20 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Yann" surname="Robin" born="1974" died="">
+		<composition>
+			<name>Art of Metal II</name>
+			<description>pour clarinette contrebasse métal et dispositif électronique en temps réel</description>
+			<length>9:49</length>
+			<instrument name="clarinette contrebasse métal">
+				<player name="Armand Angster"/>
+			</instrument>
+			<composed start="2007"/>
+			<recorded start="2010"/>
+			<release>Triton TRI331202</release>
+			<released>2016</released>
+		</composition>
+	</composer>
 	<composer name="Brigitte" surname="Robindoré" born="1962" died="">
 		<composition>
 			<name>L’Autel de la Perte et de la Transformation</name>

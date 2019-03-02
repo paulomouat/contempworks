@@ -1518,6 +1518,18 @@
 	</composer>
 	<composer name="Alberto" surname="Posadas" born="1967" died="">
 		<composition>
+			<name>Sinolon</name>
+			<description>pour clarinette seule</description>
+			<length>11:22</length>
+			<instrument name="clarinette">
+				<player name="Armand Angster"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2012"/>
+			<release>Triton TRI331202</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Oscuro abismo de llanto y de ternura</name>
 			<description>for ensemble</description>
 			<length>19:51</length>

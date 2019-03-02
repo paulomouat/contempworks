@@ -1658,6 +1658,20 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Christophe" surname="Bertrand" born="1981" died="2010">
+		<composition>
+			<name>Dikha</name>
+			<description>pour clarinette et clarinette basse et électronique</description>
+			<length>9:01</length>
+			<instrument name="clarinette, clarinette basse">
+				<player name="Armand Angster"/>
+			</instrument>
+			<composed start="2001"/>
+			<recorded start="2014"/>
+			<release>Triton TRI331202</release>
+			<released>2016</released>
+		</composition>
+	</composer>
 	<composer name="Antoine" surname="Beuger" born="1955" died="">
 		<composition>
 			<name>Fourth Music for Marcia Hafif (3)</name>

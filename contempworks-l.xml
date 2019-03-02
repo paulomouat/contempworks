@@ -245,6 +245,18 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Dal Niente (Intérieur III)</name>
+			<description>pour clarinette</description>
+			<length>11:20</length>
+			<instrument name="clarinette">
+				<player name="Armand Angster"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="2014"/>
+			<release>Triton TRI331202</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Guero</name>
 			<description>for piano</description>
 			<length>3:57</length>
@@ -678,6 +690,17 @@
 			<recorded start="1991"/>
 			<release>Montaigne MO 782027</release>
 			<released>1994</released>
+		</composition>		
+	</composer>
+	<composer name="Klaus" surname="Lang" born="1971" died="">
+		<composition>
+			<name>Sei-jaku</name>
+			<length>39:57</length>
+			<player name="Arditti Quartet"/>
+			<composed start="2001"/>
+			<recorded start="2002"/>
+			<release>Edition RZ 4005</release>
+			<released>2003</released>
 		</composition>		
 	</composer>
 	<composer name="René" surname="Leibowitz" born="1913" died="1972">

@@ -1778,6 +1778,57 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Risonanze erranti</name>
+			<description>Liederzyklus a Massimo Cacciari</description>
+			<description>per contralto, flauto, tuba, sei percussioni e live electronics</description>
+			<length>38:14</length>
+			<instrument name="contralto">
+				<player name="Susanne Otto"/>
+			</instrument>
+			<instrument name="flauto basso, ottavino">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="tuba">
+				<player name="Giancarlo Schiaffini"/>
+			</instrument>
+			<instrument name="percussioni">
+				<player name="Carlos Beresi"/>
+				<player name="Konrad Graf"/>
+				<player name="Richard Lepetit"/>
+				<player name="Isao Nakamura"/>
+				<player name="Rüdiger Pawassar"/>
+				<player name="Gregory Riffel"/>
+			</instrument>
+			<player name="Experimentalstudio HSS des SWF"/>
+			<instrument name="regia del suono">
+				<player name="Luigi Nono"/>
+				<player name="Hans-Peter Haller"/>
+			</instrument>
+			<conductor>Friedrich Goldmann</conductor>
+			<composed start="1986" end="1987"/>
+			<recorded start="1987"/>
+			<release>Shiiin ELN1</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Risonanze erranti</name>
+			<description>Liederzyklus a Massimo Cacciari</description>
+			<description>per contralto, flauto, tuba, sei percussioni e live electronics</description>
+			<length>41:00</length>
+			<player name="Ensemble Prometeo"/>				
+			<instrument name="live electronics">
+				<player name="Luca Richelli"/>				
+			</instrument>
+			<instrument name="regia del suono">
+				<player name="Alvise Vidolin"/>				
+			</instrument>
+			<conductor>Marco Angius</conductor>
+			<composed start="1986" end="1987"/>
+			<recorded start="2014"/>
+			<release>Shiiin ELN1</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>No hay caminos, hay que caminar... Andrei Tarkovskij</name>
 			<description>pour sept groupes instrumentaux</description>
 			<length>24:00</length>

@@ -20,6 +20,18 @@
 			<release>Aeon AECD 0981</release>
 			<released>2009</released>
 		</composition>		
+		<composition>
+			<name>High</name>
+			<description>pour clarinette basse</description>
+			<length>7:22</length>
+			<instrument name="clarinette basse">
+				<player name="Armand Angster"/>
+			</instrument>
+			<composed start="2005"/>
+			<recorded start="2013"/>
+			<release>Triton TRI331202</release>
+			<released>2016</released>
+		</composition>
 	</composer>
 	<composer name="Dror" surname="Feiler" born="1951" died="">
 		<composition>
@@ -1664,6 +1676,18 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Time and Motion Study I</name>
+			<description>pour clarinette basse</description>
+			<length>9:05</length>
+			<instrument name="clarinette basse">
+				<player name="Armand Angster"/>
+			</instrument>
+			<composed start="1971" end="1977"/>
+			<recorded start="2014"/>
+			<release>Triton TRI331202</release>
+			<released>2016</released>
+		</composition>
+		<composition>
 			<name>Time and Motion Study II</name>
 			<description>für vokalisierenden Cellisten und Live-Elektronik</description>
 			<length>22:12</length>
@@ -2283,6 +2307,119 @@
 			<recorded start="1963"/>
 			<release>INA C 1032</release>
 			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Joshua" surname="Fineberg" born="1969" died="">
+		<composition>
+			<name>Empreintes</name>
+			<description>for 15 instruments and live electronics</description>
+			<length>20:00</length>
+			<player name="Ensemble Fa"/>
+			<instrument name="computer music designer">
+				<player name="Eric Daubresse"/>
+			</instrument>
+			<conductor>Jeffrey Milarsky</conductor>
+			<composed start="1995"/>
+			<recorded start="2006"/>
+			<release>Mode 208</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Broken Symmetries</name>
+			<description>for 5 instruments</description>
+			<length>14:46</length>
+			<player name="Ensemble Fa"/>
+			<conductor>Dominique My</conductor>
+			<composed start="2000" end="2001"/>
+			<recorded start="2005"/>
+			<release>Mode 208</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Veils</name>
+			<description>for piano</description>
+			<length>12:22</length>
+			<instrument name="piano">
+				<player name="Dominique My"/>
+			</instrument>
+			<composed start="2001"/>
+			<recorded start="2005"/>
+			<release>Mode 208</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Shards</name>
+			<length>17:21</length>
+			<instrument name="flutes">
+				<player name="Patrice Bocquillon"/>
+			</instrument>
+			<instrument name="clarinets">
+				<player name="Olivier Voize"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Isabelle Veyrier"/>
+			</instrument>
+			<composed start="2002" end="2003"/>
+			<recorded start="2005"/>
+			<release>Mode 208</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>The Texture of Time</name>
+			<description>for flute and live electronics</description>
+			<length>6:41</length>
+			<instrument name="flute">
+				<player name="Patrice Bocquillon"/>
+			</instrument>
+			<instrument name="computer music designer">
+				<player name="Stefan Tiedje"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2007"/>
+			<release>Mode 208</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Objets trouvés</name>
+			<description>for chamber ensemble</description>
+			<length>17:38</length>
+			<player name="Argento Chamber Ensemble"/>
+			<composed start="2008" end="2009"/>
+			<recorded start="2016"/>
+			<release>Métier MSV 28564</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>La Quintina</name>
+			<description>for string quartet and live electronics</description>
+			<length>18:58</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2011" end="2012"/>
+			<recorded start="2016"/>
+			<release>Métier MSV 28564</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Just as much entangled with other matter</name>
+			<description>for accordion and hidden playback</description>
+			<length>10:01</length>
+			<instrument name="solo accordion">
+				<player name="Pascal Contet"/>
+			</instrument>
+			<composed start="2013"/>
+			<recorded start="2016"/>
+			<release>Métier MSV 28564</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>L’abîme</name>
+			<description>for solo clarinet/bass clarinet, basson and cello with ensemble and off-stage instruments</description>
+			<length>16:36</length>
+			<player name="Talea Ensemble"/>
+			<composed start="2015" end="2016"/>
+			<recorded start="2017"/>
+			<release>Métier MSV 28564</release>
+			<released>2018</released>
 		</composition>
 	</composer>
 	<composer name="Michael" surname="Finnissy" born="1946" died="">
