@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
+	<composer name="Monique" surname="Jean" born="1960" died="">
+		<composition>
+			<name>13'13 pour voix défigurées</name>
+			<length>13:13</length>
+			<player name="fixed medium"/>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>Empreintes DIGITALes IMED 0366</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Danse de l’enfant esseulée</name>
+			<length>10:08</length>
+			<player name="fixed medium"/>
+			<composed start="1999"/>
+			<recorded start="1999"/>
+			<release>Empreintes DIGITALes IMED 0366</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Figures du temps</name>
+			<length>23:15</length>
+			<player name="fixed medium"/>
+			<composed start="1998" end="1999"/>
+			<recorded start="1999"/>
+			<release>Empreintes DIGITALes IMED 0366</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>low memory #2</name>
+			<description>for bass flute and fixed medium</description>
+			<length>10:23</length>
+			<instrument name="flutes">
+				<player name="Claire Merchand"/>
+			</instrument>
+			<player name="fixed medium"/>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Empreintes DIGITALes IMED 0366</release>
+			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Out of joint</name>
+			<length>19:04</length>
+			<player name="fixed medium"/>
+			<composed start="2009" end="2011"/>
+			<recorded start="2011"/>
+			<release>Empreintes DIGITALes IMED 18152</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>T.A.G.</name>
+			<length>24:44</length>
+			<player name="fixed medium"/>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>Empreintes DIGITALes IMED 18152</release>
+			<released>2018</released>
+		</composition>
+	</composer>
 	<composer name="Tom" surname="Johnson" born="1939" died="">
 		<composition>
 			<name>Rational Melodies</name>

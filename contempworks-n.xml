@@ -2434,6 +2434,17 @@
 			<released>2017</released>
 		</composition>
 		<composition>
+			<name>Chessed I</name>
+			<description>für Ensemble in vier Gruppen</description>
+			<length>22:44</length>
+			<player name="Ensemble Musikfabrik"/>
+			<conductor>Sian Edwards</conductor>
+			<composed start="1979" end="2005"/>
+			<recorded start="2005"/>
+			<release>Wergo WER 6862-2</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Einspielung III</name>
 			<description>pour alto</description>
 			<length>20:28</length>

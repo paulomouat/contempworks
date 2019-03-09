@@ -742,6 +742,17 @@
 			<release>aeon AECD 1090</release>
 			<released>2010</released>
 		</composition>
+		<composition>
+			<name>Sringâra Chaconne</name>
+			<description>für Ensemble</description>
+			<length>13:30</length>
+			<player name="Ensemble Musikfabrik"/>
+			<conductor>Peter Rundel</conductor>
+			<composed start="2008"/>
+			<recorded start="2010"/>
+			<release>Wergo WER 6862-2</release>
+			<released>2015</released>
+		</composition>
 	</composer>
 	<composer name="Roman" surname="Haubenstock-Ramati" born="1919" died="1994">
 		<composition>

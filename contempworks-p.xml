@@ -1482,6 +1482,19 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Enno" surname="Poppe" born="1969" died="">
+		<composition>
+			<name>Scherben</name>
+			<description>für Ensemble</description>
+			<length>13:30</length>
+			<player name="Ensemble Musikfabrik"/>
+			<conductor>Stefan Asbury</conductor>
+			<composed start="2000" end="2008"/>
+			<recorded start="2009"/>
+			<release>Wergo WER 6862-2</release>
+			<released>2015</released>
+		</composition>
+	</composer>
 	<composer name="Paul" surname="Pörtner" born="1925" died="1984">
 		<composition>
 			<name>Schallspielstudie 2</name>

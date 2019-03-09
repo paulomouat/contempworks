@@ -447,6 +447,20 @@
 			<release>Ondine ODE 1113-2Q</release>
 			<released>2012</released>
 		</composition>
+		<composition>
+			<name>Notes on Light</name>
+			<description>für Violoncello und Kammerensemble</description>
+			<length>13:30</length>
+			<instrument name="Violoncello">
+				<player name="Dirk Wietheger"/>
+			</instrument>
+			<player name="Ensemble Musikfabrik"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="2006" end="2010"/>
+			<recorded start="2010"/>
+			<release>Wergo WER 6862-2</release>
+			<released>2015</released>
+		</composition>
 	</composer>
 	<composer name="Oskar" surname="Sala" born="1910" died="2002">
 		<composition>
