@@ -1586,6 +1586,15 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Cartridge Music</name>
+			<length>30:00</length>
+			<player name="Gerauschhersteller"/>
+			<composed start="1960"/>
+			<recorded start="2018"/>
+			<release>Noisemaker Records NM2CD</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>WBAI</name>
 			<description>Sine wave oscillator, record player, synthesizer, radio</description>
 			<length>7:00</length>
@@ -1773,6 +1782,15 @@
 			<recorded start="2011"/>
 			<release>Stradivarius STR 33927</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Electronic music for piano/Music for piano 21-36;37-52</name>
+			<length>1:12:18</length>
+			<player name="Gerauschhersteller"/>
+			<composed start="1964"/>
+			<recorded start="2018"/>
+			<release>Noisemaker Records NM2CD</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Variations V</name>
@@ -2009,6 +2027,15 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Branches</name>
+			<length>1:12:29</length>
+			<player name="Gerauschhersteller"/>
+			<composed start="1976"/>
+			<recorded start="2018"/>
+			<release>Noisemaker Records NM2CD</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Cheap Imitation</name>
 			<description>for violin solo</description>
 			<length>31:52</length>
@@ -2211,6 +2238,15 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Ryoanji</name>
+			<length>20:15</length>
+			<player name="Gerauschhersteller"/>
+			<composed start="1983" end="1985"/>
+			<recorded start="2018"/>
+			<release>Noisemaker Records NM2CD</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Souvenir</name>
 			<length>6:50</length>
 			<instrument name="organ">
@@ -2297,6 +2333,15 @@
 			<recorded start="2009"/>
 			<release>Col Legno WWE 1CD 20292</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>But what about the noise of crumpling paper...</name>
+			<length>12:08</length>
+			<player name="Gerauschhersteller"/>
+			<composed start="1985"/>
+			<recorded start="2018"/>
+			<release>Noisemaker Records NM2CD</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Etcetera 2/4 Orchestras</name>
@@ -2464,6 +2509,15 @@
 			<recorded start="1997"/>
 			<release>Mode 71</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Anarchy</name>
+			<length>39:59</length>
+			<player name="Gerauschhersteller"/>
+			<composed start="1988"/>
+			<recorded start="2018"/>
+			<release>Noisemaker Records NM2CD</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Four</name>
@@ -2811,6 +2865,15 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Four4</name>
+			<length>1:12:00</length>
+			<player name="Gerauschhersteller"/>
+			<composed start="1991"/>
+			<recorded start="2018"/>
+			<release>Noisemaker Records NM2CD</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Four5</name>
 			<description>for saxophone quartet</description>
 			<length>12:02</length>
@@ -3028,6 +3091,15 @@
 			<recorded start="2004"/>
 			<release>Mode 222/223</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Four6</name>
+			<length>30:00</length>
+			<player name="Gerauschhersteller"/>
+			<composed start="1990" end="1992"/>
+			<recorded start="2018"/>
+			<release>Noisemaker Records NM2CD</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Seventy-Four</name>

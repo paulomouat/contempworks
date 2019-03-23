@@ -162,6 +162,47 @@
 	</composer>
 	<composer name="Éliane" surname="Radigue" born="1932" died="">
 		<composition>
+			<name>Chryptus</name>
+			<description>pour bande magnétique</description>
+			<description>(version 2001)</description>
+			<length>24:01</length>
+			<instrument name="Buchla Modular System">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="2001"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Chryptus</name>
+			<description>pour bande magnétique</description>
+			<description>(version 2006)</description>
+			<length>23:10</length>
+			<instrument name="Buchla Modular System">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="2006"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Geelriandre</name>
+			<description>pour bande magnétique et piano préparé</description>
+			<length>29:57</length>
+			<instrument name="piano préparé">
+				<player name="Gérard Frémy"/>
+			</instrument>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Ψ 847</name>
 			<description>for tape</description>
 			<description>(version concert)</description>
@@ -170,7 +211,20 @@
 			<recorded start="2012"/>
 			<release>Oral 57</release>
 			<released>2013</released>
-		</composition>		
+		</composition>
+		<composition>
+			<name>Ψ 847</name>
+			<description>pour bande magnétique</description>
+			<description>(version concert)</description>
+			<length>1:11:08</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
 		<composition>
 			<name>Ψ 847</name>
 			<description>for tape</description>
@@ -180,7 +234,144 @@
 			<recorded start="2012"/>
 			<release>Oral 57</release>
 			<released>2013</released>
-		</composition>		
+		</composition>
+		<composition>
+			<name>Arthesis</name>
+			<description>pour bande magnétique</description>
+			<length>25:40</length>
+			<instrument name="Moog Modular System">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Biogenesis</name>
+			<description>pour bande magnétique</description>
+			<length>21:06</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Adnos I</name>
+			<description>pour bande magnétique</description>
+			<length>1:11:08</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1974"/>
+			<recorded start="1974"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Adnos II</name>
+			<description>pour bande magnétique</description>
+			<length>1:12:44</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Adnos III</name>
+			<description>prélude à Milarepa</description>
+			<description>pour bande magnétique</description>
+			<length>1:12:40</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1982"/>
+			<recorded start="1982"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Les Chants de Milarepa</name>
+			<description>pour bande magnétique et voix enregistré</description>
+			<length>2:19:24</length>
+			<instrument name="voix enregistré">
+				<player name="Robert Ashley"/>
+				<player name="Lama Kunga Rinpoche"/>
+			</instrument>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1983" end="1984"/>
+			<recorded start="1983"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Jetsun Mila</name>
+			<description>pour bande magnétique</description>
+			<length>1:24:22</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Trilogie de la Mort: I. Kyema</name>
+			<description>pour bande magnétique</description>
+			<length>1:11:07</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="1988"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Trilogie de la Mort: II. Kailasha</name>
+			<description>pour bande magnétique</description>
+			<length>56:09</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Trilogie de la Mort: III. Koumé</name>
+			<description>pour bande magnétique</description>
+			<length>51:18</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>L’Île re-sonante</name>
+			<description>pour bande magnétique</description>
+			<length>55:04</length>
+			<instrument name="ARP 2500 Synthesizer, Serge Modular">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>INA/GRM INA 6060/74</release>
+			<released>2018</released>
+		</composition>
 	</composer>
 	<composer name="Horatiu" surname="Radulescu" born="1942" died="2008">
 		<composition>

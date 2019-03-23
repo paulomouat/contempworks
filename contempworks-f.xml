@@ -1250,6 +1250,24 @@
 			<released>1991</released>
 		</composition>
 		<composition>
+			<name>Why Patterns?</name>
+			<description>for flute/alto flute/bass flute, piano and glockenspiel</description>
+			<length>31:14</length>
+			<instrument name="Flutes">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="Glockenspiel">
+				<player name="Jan Williams"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Nils Vigeland"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1990"/>
+			<release>hat[now]ART 2-60801/2</release>
+			<released>1991</released>
+		</composition>
+		<composition>
 			<name>Orchestra</name>
 			<length>17:41</length>
 			<player name="Deutsches Symphonie-Orchester Berlin"/>
@@ -1397,6 +1415,24 @@
 			<recorded start="2001" end="2002"/>
 			<release>Mode 119</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Crippled Symmetry</name>
+			<description>for flute/bass flute, piano/celesta and glockenspiel/vibraphone</description>
+			<length>1:31:12</length>
+			<instrument name="Flutes">
+				<player name="Eberhard Blum"/>
+			</instrument>
+			<instrument name="Glockenspiel, Vibraphone">
+				<player name="Jan Williams"/>
+			</instrument>
+			<instrument name="Piano, Celesta">
+				<player name="Nils Vigeland"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="1990"/>
+			<release>hat[now]ART 2-60801/2</release>
+			<released>1991</released>
 		</composition>
 		<composition>
 			<name>For Philip Guston</name>
