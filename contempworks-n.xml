@@ -2364,6 +2364,17 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Un calendrier révolu</name>
+			<description>for 14 instruments</description>
+			<length>51:21</length>
+			<player name="Remix Ensemble Casa da Música"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="1968" end="1969"/>
+			<recorded start="2017"/>
+			<release>Neos 11826-27</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Litanies du feu et de la mer I</name>
 			<length>25:28</length>
 			<instrument name="Piano">

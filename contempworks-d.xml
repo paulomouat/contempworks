@@ -1092,6 +1092,28 @@
 			<released>2007</released>
 		</composition>
 	</composer>
+	<composer name="Andreas" surname="Dohmen" born="1962" died="">
+		<composition>
+			<name>a doppio movimento</name>
+			<description>for electric guitar, harp, piano and large orchestra</description>
+			<length>22:35</length>
+			<instrument name="electric guitar">
+				<player name="Yaron Deutsch"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Andreas Mildner"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Nicolas Hodges"/>
+			</instrument>
+			<player name="SWR Symphonieorchester"/>
+			<conductor>Ilan Volkov</conductor>
+			<composed start="2016" end="2017"/>
+			<recorded start="2017"/>
+			<release>Neos 11826-27</release>
+			<released>2018</released>
+		</composition>
+	</composer>
 	<composer name="François" surname="Donato" born="1963" died="">
 		<composition>
 			<name>Sept Jours</name>

@@ -2,4 +2,17 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+	<composer name="Márton" surname="Illés" born="1975" died="">
+		<composition>
+			<name>Ez-tér (Es-Raum)</name>
+			<description>for orchestra</description>
+			<length>17:40</length>
+			<player name="SWR Symphonieorchester"/>
+			<conductor>Pablo Rus Broseta</conductor>
+			<composed start="2014" end="2017"/>
+			<recorded start="2017"/>
+			<release>Neos 11826-27</release>
+			<released>2018</released>
+		</composition>
+	</composer>
 </list>

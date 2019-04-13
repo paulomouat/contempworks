@@ -3852,6 +3852,18 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Eivind" surname="Buene" born="1973" died="">
+		<composition>
+			<name>Lessons in Darkness</name>
+			<description>for ensemble</description>
+			<length>21:57</length>
+			<player name="Ensemble Musikfabrik"/>
+			<composed start="2017"/>
+			<recorded start="2017"/>
+			<release>Neos 11826-27</release>
+			<released>2018</released>
+		</composition>
+	</composer>
 	<composer name="Francis" surname="Burt" born="1926" died="2012">
 		<composition>
 			<name>Für Alfred Schlee</name>
