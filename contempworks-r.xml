@@ -162,6 +162,15 @@
 	</composer>
 	<composer name="Éliane" surname="Radigue" born="1932" died="">
 		<composition>
+			<name>Vice Versa, Etc...</name>
+			<description>feedback on magnetic tape</description>
+			<length>58:52</length>
+			<composed start="1970"/>
+			<recorded start="1970"/>
+			<release>Important Records IMPREC259</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Chryptus</name>
 			<description>pour bande magnétique</description>
 			<description>(version 2001)</description>
@@ -260,6 +269,18 @@
 			<released>2018</released>
 		</composition>
 		<composition>
+			<name>Transamorem - Transmortem</name>
+			<description>for tape</description>
+			<length>1:07:03</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>Important Records IMPREC337</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Adnos I</name>
 			<description>pour bande magnétique</description>
 			<length>1:11:08</length>
@@ -270,6 +291,18 @@
 			<recorded start="1974"/>
 			<release>INA/GRM INA 6060/74</release>
 			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Triptych</name>
+			<description>for tape</description>
+			<length>1:01:37</length>
+			<instrument name="ARP 2500 Synthesizer">
+				<player name="Éliane Radigue"/>
+			</instrument>
+			<composed start="1978"/>
+			<recorded start="1978"/>
+			<release>Important Records IMPREC260</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Adnos II</name>
