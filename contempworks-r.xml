@@ -1490,6 +1490,17 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Klavierstück Nr. 5</name>
+			<length>11:07</length>
+			<instrument name="Piano">
+				<player name="Andreas Werz"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="?"/>
+			<release>Bell Records BLR 89 233</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Symphonie</name>
 			<description>für großes Orchester</description>
 			<description>Erster und letzter Satz</description>
@@ -1666,6 +1677,17 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Erscheinung</name>
+			<description>Skizze über Schubert</description>
+			<description>für 9 Streicher (Klavier ad lib)</description>
+			<length>13:54</length>
+			<player name="Ensemble 13"/>
+			<composed start="1978"/>
+			<recorded start="?"/>
+			<release>Bell Records BLR 89 233</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Ländler</name>
 			<length>8:23</length>
 			<instrument name="piano">
@@ -1758,6 +1780,16 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Ländler</name>
+			<description>für 13 Streicher</description>
+			<length>9:51</length>
+			<player name="Ensemble 13"/>
+			<composed start="1979"/>
+			<recorded start="?"/>
+			<release>Bell Records BLR 89 233</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>String Quartet No. 4</name>
 			<length>19:27</length>
 			<player name="Minguet Quartet"/>
@@ -1765,6 +1797,16 @@
 			<recorded start="2002"/>
 			<release>Col Legno WWE 1CD 20211</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Nature Morte - Still Alive</name>
+			<description>Skizze für 13 Streicher</description>
+			<length>11:07</length>
+			<player name="Ensemble 13"/>
+			<composed start="1980"/>
+			<recorded start="?"/>
+			<release>Bell Records BLR 89 233</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Bratschenkonzert</name>
@@ -3031,6 +3073,23 @@
 			<recorded start="2003"/>
 			<release>Col Legno WWE 1CD 20228</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Marsyas</name>
+			<description>Szene für Trompete mit Schlagzeug und Orchester</description>
+			<length>15:21</length>
+			<instrument name="Trompete">
+				<player name="Reinhold Friedrich"/>
+			</instrument>
+			<instrument name="Schlagzeug">
+				<player name="Robyn Schulkowsky"/>
+			</instrument>
+			<player name="Badische Staatskapelle"/>
+			<conductor>Kazushi Ōno</conductor>
+			<composed start="1998" end="1999"/>
+			<recorded start="?"/>
+			<release>Bell Records BLR 89 233</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>11. Streichquartett</name>
@@ -4376,6 +4435,28 @@
 			<recorded start="2015"/>
 			<release>Neos 11521</release>
 			<released>2016</released>
+		</composition>
+		<composition>
+			<name>Clouds 2</name>
+			<description>for string quartet and orchestra</description>
+			<length>19:22</length>
+			<player name="Minguet Quartet"/>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Peter Ruzicka</conductor>
+			<composed start="2013"/>
+			<recorded start="2017"/>
+			<release>Neos 11808</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>...possible-à-chaque-instant</name>
+			<description>String Quartet No. 7</description>
+			<length>41:57</length>
+			<player name="Minguet Quartet"/>
+			<composed start="2015"/>
+			<recorded start="2017"/>
+			<release>Neos 11808</release>
+			<released>2017</released>
 		</composition>
 	</composer>
 	<composer name="Frederic" surname="Rzewski" born="1938" died="">
