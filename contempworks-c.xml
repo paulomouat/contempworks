@@ -94,6 +94,32 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Two Pieces for Piano</name>
+			<length>3:20</length>
+			<instrument name="piano">
+				<player name="Thomas Schultz"/>
+			</instrument>
+			<composed start="1936"/>
+			<recorded start="2017"/>
+			<release>Mode 304</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Music for an Aquatic Ballet</name>
+			<description>for flutes, percussion and tape</description>
+			<length>9:36</length>
+			<instrument name="flutes">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="percussion, tape">
+				<player name="Jonathan Faralli"/>
+			</instrument>
+			<composed start="1938"/>
+			<recorded start="2011"/>
+			<release>Brilliant Classics 9284</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>First construction in metal</name>
 			<length>8:51</length>
 			<player name="Manhattan Percussion Ensemble"/>
@@ -680,6 +706,17 @@
 			<recorded start="2001" end="2002"/>
 			<release>Mode 180/81</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Two Pieces for Piano</name>
+			<length>10:34</length>
+			<instrument name="piano">
+				<player name="Thomas Schultz"/>
+			</instrument>
+			<composed start="1946"/>
+			<recorded start="2017"/>
+			<release>Mode 304</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Sonatas and Interludes</name>
@@ -1342,6 +1379,18 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>27'10.554&quot;</name>
+			<description>for percussion and tape</description>
+			<length>27:18</length>
+			<instrument name="percussion, tape">
+				<player name="Jonathan Faralli"/>
+			</instrument>
+			<composed start="1956"/>
+			<recorded start="2011"/>
+			<release>Brilliant Classics 9284</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Winter Music</name>
 			<description>for 20 pianos</description>
 			<length>10:17</length>
@@ -1386,6 +1435,18 @@
 			<recorded start="1991"/>
 			<release>hat ART CD 6101</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Solo for Piano</name>
+			<description>from Concert for Piano and Orchestra</description>
+			<length>46:13</length>
+			<instrument name="piano">
+				<player name="Thomas Schultz"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="2017"/>
+			<release>Mode 304</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Music Walk</name>
@@ -1650,6 +1711,32 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Three Studies, from Atlas Eclipticalis</name>
+			<length>8:30</length>
+			<part>
+				<number>1</number>
+				<description>for solo alto flute</description>
+				<length>3:15</length>
+			</part>
+			<part>
+				<number>2</number>
+				<description>for solo flute</description>
+				<length>3:01</length>
+			</part>
+			<part>
+				<number>3</number>
+				<description>for piccolo flute</description>
+				<length>2:14</length>
+			</part>
+			<instrument name="flutes">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="2011"/>
+			<release>Brilliant Classics 9284</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Variations II</name>
 			<length>9:55</length>
 			<instrument name="flute, sound objects">
@@ -1692,6 +1779,21 @@
 			<recorded start="1983"/>
 			<release>Mode 3/6</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Music for carillon No. 6</name>
+			<description>for flute and percussion</description>
+			<length>7:04</length>
+			<instrument name="piccolo flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jonathan Faralli"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="2011"/>
+			<release>Brilliant Classics 9284</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>0'00&quot;</name>
@@ -2001,6 +2103,21 @@
 			<recorded start="2007"/>
 			<release>Mode 253</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Dialogues</name>
+			<description>for bass flute and percussion</description>
+			<length>6:06</length>
+			<instrument name="bass flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jonathan Faralli"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="2011"/>
+			<release>Brilliant Classics 9284</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Some of “The Harmony of Maine” (Supply Belcher)</name>
@@ -2386,6 +2503,21 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Two</name>
+			<description>for flute and vibraphone</description>
+			<length>9:59</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="vibraphone">
+				<player name="Jonathan Faralli"/>
+			</instrument>
+			<composed start="1987"/>
+			<recorded start="2011"/>
+			<release>Brilliant Classics 9284</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Organ2/ASLSP</name>
 			<length>32:56</length>
 			<instrument name="organ">
@@ -2607,6 +2739,18 @@
 			<recorded start="2012"/>
 			<release>die Schachtel Zeit C11</release>
 			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Swinging</name>
+			<description>for piano</description>
+			<length>0:57</length>
+			<instrument name="piano">
+				<player name="Thomas Schultz"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2017"/>
+			<release>Mode 304</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Freeman Etudes books 3 &amp; 4</name>

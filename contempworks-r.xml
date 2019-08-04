@@ -1665,6 +1665,25 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Jakob Lenz</name>
+			<length>1:13:28</length>
+			<instrument name="baritone">
+				<player name="Georg Nigl"/>
+			</instrument>
+			<instrument name="bass-baritone">
+				<player name="Henry Waddington"/>
+			</instrument>
+			<instrument name="tenor">
+				<player name="John Graham-Hall"/>
+			</instrument>
+			<player name="La Monnaie Symphony Orchestra"/>
+			<conductor>Franck Ollu</conductor>
+			<composed start="1977" end="1978"/>
+			<recorded start="2015"/>
+			<release>Alpha 717</release>
+			<released>2019</released>
+		</composition>
+		<composition>
 			<name>La musique creuse le ciel</name>
 			<description>Music for two pianos and large orchestra</description>
 			<length>34:12</length>
