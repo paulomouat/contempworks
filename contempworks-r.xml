@@ -1863,6 +1863,17 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Klavierstück Nr. 7</name>
+			<length>10:29</length>
+			<instrument name="piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>Col Legno WWE 1CD 20508</release>
+			<released>2000</released>
+		</composition>
+		<composition>
 			<name>Erster Doppelgesang</name>
 			<description>Musik für Viola, Violoncello und Orchester</description>
 			<length>14:04</length>
@@ -2090,6 +2101,20 @@
 			<recorded start="2002"/>
 			<release>hänssler Classic CD 93.069</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Wölfli-Lieder</name>
+			<description>for baritone and orchestra</description>
+			<length>14:26</length>
+			<instrument name="baritone">
+				<player name="Richard Salter"/>
+			</instrument>
+			<player name="Leningrad Philharmonic Orchestra"/>
+			<conductor>Alexander Dmitriyev</conductor>
+			<composed start="1981" end="1982"/>
+			<recorded start="1988"/>
+			<release>Col Legno WWE 1CD 20508</release>
+			<released>2000</released>
 		</composition>
 		<composition>
 			<name>Chiffre I</name>
@@ -2524,7 +2549,7 @@
 		</composition>
 		<composition>
 			<name>Frau/Stimme</name>
-			<description>für Sopranund Orchester mit Sopran</description>
+			<description>für Sopran und Orchester mit Sopran</description>
 			<description>Wörter von Heiner Müller</description>
 			<length>19:56</length>
 			<instrument name="Sopran">
@@ -2552,6 +2577,21 @@
 			<recorded start="1989"/>
 			<release>hänssler Classic CD 93.236</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Frau/Stimme</name>
+			<description>for soprano and orchestra with soprano</description>
+			<length>19:55</length>
+			<instrument name="soprano">
+				<player name="Isolde Siebert"/>
+				<player name="Carmen Fuggiss"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Michael Gielen</conductor>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>Col Legno WWE 1CD 20508</release>
+			<released>2000</released>
 		</composition>
 		<composition>
 			<name>Das Rot</name>
@@ -2935,6 +2975,17 @@
 			<recorded start="1994"/>
 			<release>hänssler Classic CD 93.236</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>In-Schrift</name>
+			<description>Orchesterkomposition</description>
+			<length>21:11</length>
+			<player name="Bamberger Symphoniker"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1995"/>
+			<recorded start="1998"/>
+			<release>Col Legno WWE 1CD 20508</release>
+			<released>2000</released>
 		</composition>
 		<composition>
 			<name>Gejagte Form</name>

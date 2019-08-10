@@ -2111,6 +2111,39 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>dt 31,6</name>
+			<description>für 15 Solostimmen</description>
+			<length>4:21</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1956" end="1958"/>
+			<recorded start="1965"/>
+			<release>Cadenza CAD 800 891</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>AMN</name>
+			<description>Version für 16 Solostimmen</description>
+			<length>16:08</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1958" end="1966"/>
+			<recorded start="1969"/>
+			<release>Cadenza CAD 800 891</release>
+			<released>1993</released>
+		</composition>
+		<composition>
+			<name>:!(madresha 2)</name>
+			<description>für 18 Solostimmen</description>
+			<length>11:32</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1958" end="1970"/>
+			<recorded start="1970"/>
+			<release>Cadenza CAD 800 891</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>DIAPASON, Kanon à 13 für ungleichartige Instrumentalgruppen</name>
 			<length>18:55</length>
 			<instrument name="Kontrabaß">

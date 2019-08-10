@@ -1788,6 +1788,17 @@
 			<released>1983</released>
 		</composition>
 		<composition>
+			<name>Lux aeterna</name>
+			<description>Motette für 16 Solostimmen</description>
+			<length>9:45</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1966"/>
+			<recorded start="1990"/>
+			<release>Cadenza CAD 800 891</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Concerto for cello and orchestra</name>
 			<length>11:37</length>
 			<instrument name="cello">

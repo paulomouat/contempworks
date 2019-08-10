@@ -3204,6 +3204,44 @@
 			<released>1993</released>
 		</composition>
 	</composer>
+	<composer name="Benjamin" surname="Britten" born="1913" died="1976">
+		<composition>
+			<name>Suite nº1 op. 72</name>
+			<description>for solo cello</description>
+			<length>22:45</length>
+			<instrument name="Violoncello">
+				<player name="Jean-Guihen Queyras"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="1998"/>
+			<release>Harmonia Mundi HMA 1951670</release>
+			<released>1998/2013</released>
+		</composition>
+		<composition>
+			<name>Suite nº2 op. 80</name>
+			<description>for solo cello</description>
+			<length>22:07</length>
+			<instrument name="Violoncello">
+				<player name="Jean-Guihen Queyras"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1998"/>
+			<release>Harmonia Mundi HMA 1951670</release>
+			<released>1998/2013</released>
+		</composition>
+		<composition>
+			<name>Suite nº3 op. 87</name>
+			<description>for solo cello</description>
+			<length>20:03</length>
+			<instrument name="Violoncello">
+				<player name="Jean-Guihen Queyras"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1998"/>
+			<release>Harmonia Mundi HMA 1951670</release>
+			<released>1998/2013</released>
+		</composition>
+	</composer>
 	<composer name="Earle" surname="Brown" born="1926" died="2002">
 		<composition>
 			<name>Music for Violin, Cello &amp; Piano</name>

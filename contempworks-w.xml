@@ -315,6 +315,17 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>“Entflieht auf leichten Kähnen” op. 2</name>
+			<description>für gemischten Chor a capella</description>
+			<length>2:21</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1908"/>
+			<recorded start="1966"/>
+			<release>Cadenza CAD 800 891</release>
+			<released>1993</released>
+		</composition>
+		<composition>
 			<name>Fünf Lieder, op. 3</name>
 			<length>5:01</length>
 			<instrument name="Soprano">

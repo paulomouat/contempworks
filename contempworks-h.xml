@@ -1204,6 +1204,17 @@
 			<release>Erdenklang 81032</release>
 			<released>1998</released>
 		</composition>
+		<composition>
+			<name>Messe 1963</name>
+			<description>für gemischten Chor a capella</description>
+			<length>25:48</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1963"/>
+			<recorded start="1964"/>
+			<release>Cadenza CAD 800 891</release>
+			<released>1993</released>
+		</composition>
 	</composer>
 	<composer name="André" surname="Hodeir" born="1921" died="">
 		<composition>

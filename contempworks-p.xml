@@ -1348,6 +1348,83 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Andreas" surname="Pflüger" born="1941" died="">
+		<composition>
+			<name>noch ein Wind</name>
+			<description>for violin and piano</description>
+			<length>7:47</length>
+			<instrument name="violin">
+				<player name="Katharina Schamböck"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Gabriele Lucherini"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2017"/>
+			<release>Neos 11707</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Sonate 1993</name>
+			<description>for violin and piano</description>
+			<length>21:17</length>
+			<instrument name="violin">
+				<player name="Katharina Schamböck"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Gabriele Lucherini"/>
+			</instrument>
+			<composed start="1992" end="1993"/>
+			<recorded start="2017"/>
+			<release>Neos 11707</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>...Steine...</name>
+			<description>for violin</description>
+			<length>6:50</length>
+			<instrument name="violin">
+				<player name="Katharina Schamböck"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="2017"/>
+			<release>Neos 11707</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Incontri</name>
+			<description>for violin and piano</description>
+			<length>12:34</length>
+			<instrument name="violin">
+				<player name="Katharina Schamböck"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Gabriele Lucherini"/>
+			</instrument>
+			<composed start="1998"/>
+			<recorded start="2017"/>
+			<release>Neos 11707</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Fünf Stücke</name>
+			<description>for two violins and piano</description>
+			<length>18:21</length>
+			<instrument name="violin">
+				<player name="Katharina Schamböck"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Nayoung Yoon"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Gabriele Lucherini"/>
+			</instrument>
+			<composed start="2012" end="2013"/>
+			<recorded start="2017"/>
+			<release>Neos 11707</release>
+			<released>2018</released>
+		</composition>
+	</composer>
 	<composer name="Michel" surname="Philippot" born="1925" died="1996">
 		<composition>
 			<name>Étude no. 1</name>
@@ -1601,6 +1678,17 @@
 		</composition>
 	</composer>
 	<composer name="Henri" surname="Pousseur" born="1929" died="2009">
+		<composition>
+			<name>Sept Versets des Psaumes de la Pénitence</name>
+			<description>für vier gemischte Stimmen</description>
+			<length>3:52</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1950"/>
+			<recorded start="1966"/>
+			<release>Cadenza CAD 800 891</release>
+			<released>1993</released>
+		</composition>
 		<composition>
 			<name>Quintette à la mémoire d’Anton Webern</name>
 			<description>für Klarinette, Baßklarinette, Violine, Violoncello und Klavier</description>
