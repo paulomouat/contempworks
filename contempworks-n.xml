@@ -1041,6 +1041,33 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Un volto, e del mare - Musica-Manifesto N. 1</name>
+			<description>per soprano, voce e nastro magnetico</description>
+			<length>16:46</length>
+			<instrument name="soprano">
+				<player name="Liliana Poli"/>
+			</instrument>
+			<instrument name="voce">
+				<player name="Kadigia Bove"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Die Schachtel DS 37/1 BOX</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Non Consumiamo Marx - Musica-Manifesto N. 1</name>
+			<description>per voce e nastro magnetico</description>
+			<length>17:36</length>
+			<instrument name="voce">
+				<player name="Edmonda Aldini"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Die Schachtel DS 37/1 BOX</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Como una ola de fuerza y luz</name>
 			<description>per soprano, pianoforte, orchestra e nastro magnetico</description>
 			<length>29:58</length>

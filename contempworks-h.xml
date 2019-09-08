@@ -1782,6 +1782,29 @@
 	</composer>
 	<composer name="Toshio" surname="Hosokawa" born="1955" died="">
 		<composition>
+			<name>Urbilder</name>
+			<description>for string quartet</description>
+			<length>14:56</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="1980"/>
+			<recorded start="2009"/>
+			<release>Neos 11072</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Flute Concerto “Per-Sonare”</name>
+			<length>18:51</length>
+			<instrument name="Flute">
+				<player name="Gunhild Ott"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Robert HP Platz</conductor>
+			<composed start="1988"/>
+			<recorded start="1999"/>
+			<release>Neos 10716</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Fragmente II</name>
 			<description>for alto flute and string quartet</description>
 			<length>10:05</length>
@@ -1805,6 +1828,16 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Landscape I</name>
+			<description>for string quartet</description>
+			<length>11:17</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="1992"/>
+			<recorded start="2009"/>
+			<release>Neos 11072</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Landscape II</name>
 			<description>for harp and string quartet</description>
 			<length>14:56</length>
@@ -1816,6 +1849,20 @@
 			<recorded start="1995"/>
 			<release>Montaigne 782078</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Landscape III</name>
+			<description>Concerto for violin and orchestra</description>
+			<length>16:59</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<player name="Deutsches Symphonie-Orchester Berlin"/>
+			<conductor>Robert HP Platz</conductor>
+			<composed start="1993"/>
+			<recorded start="1997"/>
+			<release>Neos 10716</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Landscape V</name>
@@ -1831,6 +1878,19 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Landscape V</name>
+			<description>for shô and string quartet</description>
+			<length>15:31</length>
+			<instrument name="Shô">
+				<player name="Mayumi Miyata"/>
+			</instrument>
+			<player name="Quatuor Diotima"/>
+			<composed start="1993"/>
+			<recorded start="2009"/>
+			<release>Neos 11072</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Vertical Time Study III</name>
 			<description>for violin and piano</description>
 			<length>10:36</length>
@@ -1844,6 +1904,82 @@
 			<recorded start="1995"/>
 			<release>Montaigne 782078</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Cello Concerto</name>
+			<description>In memory of Tōru Takemitsu</description>
+			<length>18:46</length>
+			<instrument name="Cello">
+				<player name="Rohan de Saram"/>
+			</instrument>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Robert HP Platz</conductor>
+			<composed start="1997"/>
+			<recorded start="2010"/>
+			<release>Neos 11028</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Silent Flowers</name>
+			<description>for string quartet</description>
+			<length>13:16</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="1998"/>
+			<recorded start="2009"/>
+			<release>Neos 11072</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Ans Meer</name>
+			<description>Concerto for piano and orchestra</description>
+			<length>14:33</length>
+			<instrument name="Piano">
+				<player name="Bernhard Wambach"/>
+			</instrument>
+			<player name="NDR Radiophilharmonie"/>
+			<conductor>Robert HP Platz</conductor>
+			<composed start="1999"/>
+			<recorded start="2001"/>
+			<release>Neos 10716</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Metamorphosis</name>
+			<description>for clarinet and string orchestra with percussion</description>
+			<length>16:00</length>
+			<instrument name="Clarinet">
+				<player name="Olivier Dartevelle"/>
+			</instrument>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Robert HP Platz</conductor>
+			<composed start="2000"/>
+			<recorded start="2010"/>
+			<release>Neos 11028</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Voyage VII</name>
+			<description>for trumpet and strings with percussion</description>
+			<length>15:29</length>
+			<instrument name="Trumpet">
+				<player name="Jeroen Berwaerts"/>
+			</instrument>
+			<player name="Orchestre Philharmonique du Luxembourg"/>
+			<conductor>Robert HP Platz</conductor>
+			<composed start="2005"/>
+			<recorded start="2010"/>
+			<release>Neos 11028</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Blossoming</name>
+			<description>for string quartet, original version</description>
+			<length>14:04</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2006" end="2007"/>
+			<recorded start="2009"/>
+			<release>Neos 11072</release>
+			<released>2012</released>
 		</composition>
 	</composer>
     <composer name="Klaus" surname="Huber" born="1924" died="">
