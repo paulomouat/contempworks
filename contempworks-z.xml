@@ -316,6 +316,158 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>10 Fränkische Tänze</name>
+			<description>sublimiert für Streichquartett</description>
+			<length>11:53</length>
+			<instrument name="violin">
+				<player name="Konstantin Gockel"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Gerhard Köhn"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Horst Enger"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Manuel Gerstner"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Ländler Topographien</name>
+			<description>für Orchester</description>
+			<length>40:44</length>
+			<player name="Frankfurt Radio Sinfonie Orchester"/>
+			<conductor>Cristobal Halffter</conductor>
+			<composed start="1979"/>
+			<recorded start="1981"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>25 Kärwa-Melodien</name>
+			<description>substituiert für 2 Klarinetten</description>
+			<length>5:53</length>
+			<instrument name="clarinets">
+				<player name="Michael Riessler"/>
+				<player name="John Corbett"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>20 Figuren-Tänze</name>
+			<description>transformiert für 6 Instrumente</description>
+			<length>6:25</length>
+			<instrument name="clarinets">
+				<player name="Michael Riessler"/>
+				<player name="John Corbett"/>
+			</instrument>
+			<instrument name="violins">
+				<player name="Konstantin Gockel"/>
+				<player name="Gerhard Köhn"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Bruno Piroth"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Martin Ingenhütt"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>15 Zwiefache</name>
+			<description>transzendiert für Gitarre</description>
+			<length>6:07</length>
+			<instrument name="guitar">
+				<player name="Huber Machnik"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>15 Zwiefache</name>
+			<description>transzendiert für Gitarre</description>
+			<length>6:07</length>
+			<instrument name="guitar">
+				<player name="Geoffrey Morris"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="2011"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Erd-Wasser-Luft-Töne</name>
+			<description>für Posaune, Klavier und Streichglasspiel</description>
+			<length>8:35</length>
+			<instrument name="trombone">
+				<player name="Stefan Sauvageot"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="John McAlpine"/>
+			</instrument>
+			<instrument name="glasses">
+				<player name="Hubert Machnik"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Erd-Wasser-Luft-Töne</name>
+			<description>für Posaune, Klavier und Streichglasspiel</description>
+			<length>11:07</length>
+			<instrument name="trombone">
+				<player name="Dylan Chmura-Moore"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Stephen Drury"/>
+			</instrument>
+			<instrument name="glasses">
+				<player name="Walter Zimmermann"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="2007"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Riuti (Rodungen und Wüstungen)</name>
+			<description>für Schlagzeug</description>
+			<length>7:30</length>
+			<instrument name="percussion &amp; voice">
+				<player name="Martin Schulz"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Riuti (Rodungen und Wüstungen)</name>
+			<description>für Schlagzeug</description>
+			<length>9:52</length>
+			<instrument name="percussion &amp; voice">
+				<player name="Christian Dierstein"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2006"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
 			<name>Keuper</name>
 			<description>for string quartet</description>
 			<length>6:51</length>
@@ -324,6 +476,93 @@
 			<recorded start="2011"/>
 			<release>Mode 245/246</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Keuper</name>
+			<description>für Schtreichquartett</description>
+			<length>6:14</length>
+			<instrument name="violin">
+				<player name="Konstantin Gockel"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Gerhard Köhn"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Horst Enger"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Manuel Gerstner"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Wolkenorte</name>
+			<description>für Harfe</description>
+			<length>25:06</length>
+			<instrument name="harp &amp; voice">
+				<player name="Gabriele Emde"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Wolkenorte</name>
+			<description>für Harfe</description>
+			<description>original version</description>
+			<length>20:10</length>
+			<instrument name="harp &amp; voice">
+				<player name="Franziska Huhn"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2008"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Der Tanz und der Schmerz</name>
+			<description>für 13 Instrumente</description>
+			<length>8:14</length>
+			<player name="Beginner Pool"/>
+			<conductor>Walter Zimmermann</conductor>
+			<composed start="1981"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Ephemer</name>
+			<description>für Klaviertrio</description>
+			<description>original version</description>
+			<length>16:28</length>
+			<player name="Clementi Trio"/>
+			<composed start="1981"/>
+			<recorded start="1982"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Ephemer</name>
+			<description>für Klaviertrio</description>
+			<description>revised version</description>
+			<length>14:25</length>
+			<instrument name="violin">
+				<player name="Yulia Kopylova"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Reynard Rott"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Yun Qi Wong"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="2010"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
 		</composition>
 		<composition>
 			<name>Wüstenwanderung</name>
@@ -487,6 +726,21 @@
 			<recorded start="2010"/>
 			<release>Mode 245/246</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Seiltänze</name>
+			<description>für Violoncello &amp; Orchester</description>
+			<description>original version</description>
+			<length>19:19</length>
+			<instrument name="cello">
+				<player name="Lukas Fels"/>
+			</instrument>
+			<player name="Stuttgart Radio Sinfonie Orchester"/>
+			<conductor>Erik Nielsen</conductor>
+			<composed start="2002" end="2004"/>
+			<recorded start="2007"/>
+			<release>Mode 307/9</release>
+			<released>2019</released>
 		</composition>
 	</composer>
 	<composer name="Gérard" surname="Zinsstag" born="1941" died="">
