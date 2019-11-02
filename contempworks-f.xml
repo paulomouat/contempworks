@@ -2248,6 +2248,17 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Étude aux sons tendus</name>
+			<length>2:48</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Étude floue</name>
 			<length>2:18</length>
 			<instrument name="Réalisation">
@@ -2257,6 +2268,17 @@
 			<recorded start="1958"/>
 			<release>INA C 1032</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Étude flue</name>
+			<length>2:40</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Étude aux accidents</name>
@@ -2270,6 +2292,100 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Étude aux accidents</name>
+			<length>2:13</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Capricorne</name>
+			<length>1:28</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Chute libre</name>
+			<description>Bande sonore du film de Gérard Patris</description>
+			<length>18:34</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Visage 5</name>
+			<description>Musique concrète</description>
+			<length>10:33</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1958" end="1959"/>
+			<recorded start="1958" end="1959"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Échantillon pour mimes</name>
+			<description>Musique pour le théâtre</description>
+			<length>3:36</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1959"/>
+			<recorded start="1959"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Tête et queue du dragon</name>
+			<description>Musique concrète</description>
+			<length>9:13</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1959" end="1960"/>
+			<recorded start="1958" end="1960"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Tautologos 1</name>
+			<description>Musique électronique</description>
+			<length>4:20</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="1961"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Tautologos 2</name>
+			<description>Musique concrète</description>
+			<length>14:53</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="1961"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Hétérozygote</name>
 			<length>26:23</length>
 			<composed start="1963" end="1964"/>
@@ -2278,12 +2394,95 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>Hétérozygote</name>
+			<length>26:19</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1963" end="1964"/>
+			<recorded start="1963" end="1964"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Music Promenade</name>
+			<description>Musique électroacoustique</description>
+			<length>20:29</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1964" end="1969"/>
+			<recorded start="1964" end="1969"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Presque rien nº1, le lever du jour au bord de la mer</name>
+			<description>Bande magnétique stéréo</description>
+			<length>21:11</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1967" end="1970"/>
+			<recorded start="1967" end="1970"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Unheimlich Schön</name>
+			<description>Bande magnétique stéréo</description>
+			<length>15:40</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>J’ai été coupé</name>
+			<description>Musique concrète</description>
+			<length>13:52</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Danses organiques</name>
+			<description>Bande magnétique stéréo</description>
+			<length>50:35</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1971" end="1973"/>
+			<recorded start="1971" end="1973"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
 			<name>Petite Symphonie Intuitive pour un paysage de printemps</name>
 			<length>25:13</length>
 			<composed start="1973" end="1974"/>
 			<recorded start="1974"/>
 			<release>BVHaast 9009</release>
 			<released>?</released>
+		</composition>
+		<composition>
+			<name>Petite symphonie intuitive pour un paysage de printemps</name>
+			<description>Sons mémorisés</description>
+			<length>25:09</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1973" end="1974"/>
+			<recorded start="1973" end="1974"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
 		</composition>
 		<composition>
 			<name>Cellule 75 - Force du rythme et cadence forcée</name>
@@ -2299,7 +2498,43 @@
 			<recorded start="2004"/>
 			<release>hat[now]Art 165</release>
 			<released>2010</released>
-		</composition>		
+		</composition>
+		<composition>
+			<name>Presque rien nº2, ainsi continue la nuit dans ma tête multiple</name>
+			<description>Bande magnétique stéréo</description>
+			<length>21:28</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Dialogue ordinaire avec la machine ou trois fables pour bande doucement philosophiques</name>
+			<description>Bande magnétique stéréo</description>
+			<length>30:41</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Strathoven</name>
+			<description>Bande magnétique stéréo</description>
+			<length>3:19</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="1985"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
 		<composition>
 			<name>Strathoven</name>
 			<length>3:20</length>
@@ -2330,6 +2565,133 @@
 			<recorded start="1989"/>
 			<release>BVHaast 9009</release>
 			<released>?</released>
+		</composition>
+		<composition>
+			<name>Presque rien avec filles</name>
+			<description>Bande magnétique stéréo</description>
+			<length>13:54</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>L’escalier des aveugles</name>
+			<description>Recueil de nouvelles</description>
+			<length>34:20</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Ouvert-Fermé</name>
+			<description>Bande magnétique stéréo</description>
+			<length>8:11</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Presque rien nº4, la remontée du village</name>
+			<description>Sons mémorisés</description>
+			<length>16:00</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="1990" end="1998"/>
+			<recorded start="1990" end="1998"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Far-West News</name>
+			<description>Pièce radiophonique en 3 parties</description>
+			<length>1:27:21</length>
+			<part>
+				<number>1</number>
+				<name>de Santa Fe à Monument Valley</name>
+				<length>29:35</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>de Page à Grand Canyon</name>
+				<length>29:45</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>de Prescott à Los Angeles</name>
+				<length>28:01</length>
+			</part>
+			<instrument name="Réalisation">
+				<player name="Atelier post-billig"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="1999"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Archives génériquement modifiées</name>
+			<description>exploitation des Concepts 3 pour sons mémorisés, solo</description>
+			<length>25:23</length>
+			<instrument name="Réalisation">
+				<player name="Atelier post-billig"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Les Anecdotiques</name>
+			<description>exploitation des Concepts 6</description>
+			<description>Pièce radiophonique</description>
+			<length>54:28</length>
+			<instrument name="Voix">
+				<player name="Brunhild Meyer-Ferrari"/>
+			</instrument>
+			<instrument name="Réalisation">
+				<player name="Atelier post-billig"/>
+			</instrument>
+			<composed start="2001" end="2002"/>
+			<recorded start="2001" end="2002"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Les Arythmiques</name>
+			<length>40:25</length>
+			<instrument name="Réalisation">
+				<player name="Atelier post-billig"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2003"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Dérivatif</name>
+			<description>par Brunhild Meyer-Ferrari</description>
+			<description>avec 93 éléments sonores des archives de Luc Ferrari</description>
+			<length>27:11</length>
+			<instrument name="Réalisation">
+				<player name="GRM, Paris"/>
+			</instrument>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>INA G 6017/6026</release>
+			<released>2009</released>
 		</composition>
 	</composer>
 	<composer name="Beatriz" surname="Ferreyra" born="1937" died="">
