@@ -830,6 +830,21 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Kafka-Fragmente op. 24</name>
+			<description>for soprano and violin</description>
+			<length>59:17</length>
+			<instrument name="soprano">
+				<player name="Juliane Banse"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="András Keller"/>
+			</instrument>
+			<composed start="1985" end="1987"/>
+			<recorded start="2005"/>
+			<release>ECM 1965</release>
+			<released>2006</released>
+		</composition>
+		<composition>
 			<name>János Pilinszky: Gérard de Nerval</name>
 			<description>für Violoncello</description>
 			<length>1:18</length>
