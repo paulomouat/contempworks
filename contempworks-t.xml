@@ -295,6 +295,62 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Todor" surname="Todoroff" born="1963" died="">
+		<composition>
+			<name>Obsession</name>
+			<length>11:10</length>
+			<player name="ARTeM Studio, Brussels"/>
+			<composed start="1991"/>
+			<recorded start="1991"/>
+			<release>empreintes DIGITALes IMED 19160</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Rupture d’équilibre</name>
+			<length>10:16</length>
+			<player name="ARTeM Studio, Brussels"/>
+			<composed start="1993" end="1997"/>
+			<recorded start="1993" end="1997"/>
+			<release>empreintes DIGITALes IMED 19160</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Solo feu</name>
+			<length>4:36</length>
+			<player name="ARTeM Studio, Brussels"/>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>empreintes DIGITALes IMED 19160</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Matières</name>
+			<length>9:50</length>
+			<player name="ARTeM Studio, Brussels"/>
+			<composed start="2003"/>
+			<recorded start="2003"/>
+			<release>empreintes DIGITALes IMED 19160</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Dédales</name>
+			<length>16:08</length>
+			<player name="ARTeM Studio, Brussels"/>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>empreintes DIGITALes IMED 19160</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Requiem for a City</name>
+			<length>15:02</length>
+			<player name="ARTeM Studio, Brussels"/>
+			<composed start="2015" end="2017"/>
+			<recorded start="2015" end="2017"/>
+			<release>empreintes DIGITALes IMED 19160</release>
+			<released>2019</released>
+		</composition>
+	</composer>	
 	<composer name="Jesús" surname="Torres" born="1965" died="">
 		<composition>
 			<name>Trio</name>

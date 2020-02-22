@@ -173,6 +173,19 @@
 			<release>Audiobulb AB035</release>
 			<released>2011</released>
 		</composition>
+		<composition>
+			<name>Lepidoptera</name>
+			<description>for recorder, system and fixed medium</description>
+			<length>42:14</length>
+			<instrument name="Recorder">
+				<player name="Terri Hron"/>
+			</instrument>
+			<player name="CeReNeM Studio, University of Huddersfield"/>
+			<composed start="2014" end="2015"/>
+			<recorded start="2014" end="2015"/>
+			<release>empreintes DIGITALes IMED 16136</release>
+			<released>2016</released>
+		</composition>
 	</composer>
 	<composer name="Claude Loyola" surname="Allgén" born="1920" died="1990">
 		<composition>

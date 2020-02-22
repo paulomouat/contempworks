@@ -28,6 +28,18 @@
 			<released>2004</released>
 		</composition>
 	</composer>
+	<composer name="Annette" surname="Vande Gorne" born="1946" died="">
+		<composition>
+			<name>Tao</name>
+			<length>1:17:33</length>
+			<player name="Métamorphoses d’Orphée studio, Ohain"/>
+			<player name="GRM, SYTER and 123 studios, Paris"/>
+			<composed start="1983" end="1991"/>
+			<recorded start="1983" end="1991"/>
+			<release>empreintes DIGITALes IMED 1811</release>
+			<released>2018</released>
+		</composition>
+	</composer>	
 	<composer name="Edgar" surname="Varèse" born="1883" died="1965">
 		<composition>
 			<name>Un grand sommeil noir</name>
