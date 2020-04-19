@@ -541,6 +541,18 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Intermission 6</name>
+			<length>3:05</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+			</instrument>
+			<composed start="1953"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Intermission 6a</name>
 			<description>for 1 piano</description>
 			<length>4:37</length>
@@ -737,6 +749,69 @@
 			<recorded start="1996" end="1997"/>
 			<release>Mode 103</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Two Pianos</name>
+			<length>10:00</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Two Pianos</name>
+			<description>second version</description>
+			<length>9:23</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Piece for Four Pianos</name>
+			<length>14:37</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+				<player name="Catherine Laws"/>
+				<player name="Mark Knoop"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Piano Three Hands</name>
+			<length>11:06</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Piano Four Hands</name>
+			<length>7:43</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+			</instrument>
+			<composed start="1958"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Last Pieces</name>
@@ -966,6 +1041,18 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Vertical Thoughts I</name>
+			<length>7:58</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Vertical Thoughts II</name>
 			<length>3:04</length>
 			<instrument name="Violin">
@@ -998,6 +1085,29 @@
 			<recorded start="1995"/>
 			<release>Wergo WER 6273-2</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>De Kooning</name>
+			<length>12:51</length>
+			<instrument name="Piano">
+				<player name="Philip Thomas"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Anton Lukoszevieze"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Mira Benjamin"/>
+			</instrument>
+			<instrument name="Percussion">
+				<player name="Taneli Clarke"/>
+			</instrument>
+			<instrument name="Horn">
+				<player name="Naomi Atherton"/>
+			</instrument>
+			<composed start="1963"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Piano Piece</name>
@@ -1043,6 +1153,39 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Four Instruments</name>
+			<length>11:58</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Anton Lukoszevieze"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Mira Benjamin"/>
+			</instrument>
+			<instrument name="Chimes">
+				<player name="Rodrigo Constanzo"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Two Pieces for Three Pianos</name>
+			<length>17:56</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+				<player name="Catherine Laws"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>In Search of an Orchestration</name>
 			<length>7:44</length>
 			<player name="The Barton Workshop"/>
@@ -1074,6 +1217,31 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>False Relationships and the Extended Ending</name>
+			<length>16:25</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+				<player name="Catherine Laws"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Anton Lukoszevieze"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Mira Benjamin"/>
+			</instrument>
+			<instrument name="Chimes">
+				<player name="Rodrigo Constanzo"/>
+			</instrument>
+			<instrument name="Trombone">
+				<player name="Bernie Webb"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Between Categories</name>
 			<description>for 2 chimes, 2 pianos, 2 violins, 2 cellos</description>
 			<length>12:29</length>
@@ -1083,6 +1251,30 @@
 			<recorded start="1998" end="2000"/>
 			<release>Mode 107</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Between Categories</name>
+			<length>11:44</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Anton Lukoszevieze"/>
+				<player name="Seth Woods"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Mira Benjamin"/>
+				<player name="Linda Jankowska"/>
+			</instrument>
+			<instrument name="Chimes">
+				<player name="Rodrigo Constanzo"/>
+				<player name="Taneli Clarke"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="2014"/>
+			<release>another timbre at81x2</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>On Time and the Instrumental Factor</name>
