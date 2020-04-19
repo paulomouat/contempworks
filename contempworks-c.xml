@@ -1402,6 +1402,21 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Winter Music</name>
+			<description>realisation for four pianos</description>
+			<length>40:16</length>
+			<instrument name="Piano">
+				<player name="John Tilbury"/>
+				<player name="Philip Thomas"/>
+				<player name="Mark Knoop"/>
+				<player name="Catherine Laws"/>
+			</instrument>
+			<composed start="1957"/>
+			<recorded start="2014"/>
+			<release>another timbre at118</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Concert for Piano</name>
 			<length>30:05</length>
 			<instrument name="Piano &amp; live electronics">
@@ -2697,6 +2712,19 @@
 			<recorded start="2001"/>
 			<release>Mode 193</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Two2</name>
+			<description>for 2 pianos</description>
+			<length>2:07:55</length>
+			<instrument name="Piano">
+				<player name="Philip Thomas"/>
+				<player name="Mark Knoop"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2017"/>
+			<release>another timbre at124x2</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>101</name>
