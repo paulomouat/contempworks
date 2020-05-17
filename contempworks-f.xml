@@ -1350,6 +1350,19 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Cello and Orchestra</name>
+			<length>18:52</length>
+			<instrument name="Cello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<player name="Rundfunk-Sinfonieorchester Saarbrücken"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1972"/>
+			<recorded start="1973"/>
+			<release>CPO 999 483-2</release>
+			<released>1997</released>
+		</composition>
+		<composition>
 			<name>For Frank O’Hara</name>
 			<description>for ensemble</description>
 			<length>15:49</length>
@@ -1374,6 +1387,19 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Piano and Orchestra</name>
+			<length>26:47</length>
+			<instrument name="Piano">
+				<player name="Roger Woodward"/>
+			</instrument>
+			<player name="Rundfunk-Sinfonieorchester Saarbrücken"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>CPO 999 483-2</release>
+			<released>1997</released>
+		</composition>
+		<composition>
 			<name>Neither</name>
 			<description>Opera in one act for soprano and orchestra with words by Samuel Beckett</description>
 			<length>56:41</length>
@@ -1386,6 +1412,19 @@
 			<recorded start="1998"/>
 			<release>Col Legno WWE 1CD 20081</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Oboe and Orchestra</name>
+			<length>21:10</length>
+			<instrument name="Oboe">
+				<player name="Armin Aussen"/>
+			</instrument>
+			<player name="Rundfunk-Sinfonieorchester Saarbrücken"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1976"/>
+			<recorded start="1977"/>
+			<release>CPO 999 483-2</release>
+			<released>1997</released>
 		</composition>
 		<composition>
 			<name>Piano</name>
@@ -1422,6 +1461,19 @@
 			<recorded start="1998"/>
 			<release>Mode 82/83</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Flute and Orchestra</name>
+			<length>32:35</length>
+			<instrument name="Flute">
+				<player name="Roswitha Staege"/>
+			</instrument>
+			<player name="Rundfunk-Sinfonieorchester Saarbrücken"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1977" end="1978"/>
+			<recorded start="1978"/>
+			<release>CPO 999 483-2</release>
+			<released>1997</released>
 		</composition>
 		<composition>
 			<name>Why Patterns?</name>

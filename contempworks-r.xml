@@ -408,17 +408,6 @@
 	</composer>
 	<composer name="Horatiu" surname="Radulescu" born="1942" died="2008">
 		<composition>
-			<name>Inner Time II</name>
-			<description>Homage to Calder</description>
-			<description>for 7 b-flat clarinets</description>
-			<length>56:02</length>
-			<player name="Armand Angster Clarinet System"/>
-			<composed start="1993"/>
-			<recorded start="1993"/>
-			<release>Montaigne 782030</release>
-			<released>1994</released>
-		</composition>
-		<composition>
 			<name>Das Andere</name>
 			<length>18:16</length>
 			<instrument name="viola">
@@ -430,8 +419,8 @@
 			<released>2002</released>
 		</composition>
 		<composition>
-			<name>Streichquartett nr. 4 opus 33</name>
-			<description>"Infinite to be cannot be infinite, infinite anti-be could be infinite", Hommage à Leonardo da Vinci</description>
+			<name>Streichquartett nr. 4 op. 33</name>
+			<description>“Infinite to be cannot be infinite, infinite anti-be could be infinite”, Hommage à Leonardo da Vinci</description>
 			<description>for nine string quartets or a string quartet surrounded by an imaginary 128-string viola da gamba</description>
 			<length>49:00</length>
 			<player name="Arditti String Quartet"/>
@@ -439,6 +428,51 @@
 			<recorded start="1989" end="1996"/>
 			<release>RZ 4002</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Piano Sonata No. 2, op. 82</name>
+			<description>“being and non-being create each other”</description>
+			<length>15:10</length>
+			<instrument name="piano">
+				<player name="Stephen Clarke"/>
+			</instrument>
+			<composed start="1991"/>
+			<recorded start="2012"/>
+			<release>Mode 290</release>
+			<released>2016</released>
+		</composition>
+		<composition>
+			<name>Inner Time II</name>
+			<description>Homage to Calder</description>
+			<description>for 7 b-flat clarinets</description>
+			<length>56:02</length>
+			<player name="Armand Angster Clarinet System"/>
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Montaigne 782030</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>String Quartet No. 5, op. 89</name>
+			<description>“before the universe was born”</description>
+			<length>29:20</length>
+			<player name="The JACK Quartet"/>
+			<composed start="1990" end="1995"/>
+			<recorded start="2012"/>
+			<release>Mode 290</release>
+			<released>2016</released>
+		</composition>
+		<composition>
+			<name>Piano Sonata No. 5, op. 106</name>
+			<description>“settle your dust, this is the primal identity”</description>
+			<length>18:31</length>
+			<instrument name="piano">
+				<player name="Stephen Clarke"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2012"/>
+			<release>Mode 290</release>
+			<released>2016</released>
 		</composition>
 	</composer>
 	<composer name="Andreas" surname="Raseghi" born="1964" died="">
