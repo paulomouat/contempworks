@@ -1108,6 +1108,328 @@
 			<released>2011</released>
 		</composition>
 	</composer>
+	<composer name="Lionel" surname="Marchetti" born="1967" died="">
+		<composition>
+			<name>Inferno</name>
+			<length>56:45</length>
+			<part>
+				<number>1</number>
+				<name>Psychopompos (piège à fantômes)</name>
+				<length>13:16</length>
+				<composed>1990 (rev. 2016)</composed>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Nuit, insectes, orage...</name>
+				<length>12:53</length>
+				<composed>2015</composed>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Near death experience</name>
+				<length>17:47</length>
+				<composed>2018</composed>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Inferno</name>
+				<length>12:49</length>
+				<composed>2003</composed>
+			</part>
+			<instrument name="présence vocale [1]">
+				<player name="Kyo Marchetti Higashi"/>
+				<player name="Yoko Higashi"/>
+			</instrument>
+			<instrument name="voix, chant, personnage et percussions [1]">
+				<player name="Seijiro Murayama"/>
+			</instrument>
+			<instrument name="chant additif [2]">
+				<player name="Yoko Higashi"/>
+			</instrument>
+			<instrument name="piano préparé, percussions [4]">
+				<player name="Viktor Randrianasoloson"/>
+			</instrument>
+			<instrument name="saxophones [4]">
+				<player name="Michel Stawicki"/>
+			</instrument>
+			<instrument name="quelques fragments sonores diaphanes [4]">
+				<player name="Pierre Henry"/>
+				<player name="Whitehouse"/>
+			</instrument>
+			<instrument name="présence vocale [4]">
+				<player name="Isabelle Duthoit"/>
+			</instrument>
+			<composed start="1990" end="2018"/>
+			<recorded start="1990" end="2018"/>
+			<release>Sonoris SNS-15</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Le temps qui est là</name>
+			<length>58:42</length>
+			<part>
+				<number>1</number>
+				<name>Mohave desert</name>
+				<length>12:52</length>
+				<composed>2001-2016</composed>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Une série de reflets</name>
+				<length>16:28</length>
+				<composed>2013</composed>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Vents et racines</name>
+				<length>3:39</length>
+				<composed>2017</composed>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Hr osiris 7c</name>
+				<length>14:16</length>
+				<composed>1998 (rev. 2015)</composed>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Time is time...</name>
+				<length>11:27</length>
+				<composed>2016</composed>
+			</part>
+			<instrument name="trompes enfouies dans la terre, corps sonores divers [3]">
+				<player name="Patrick Charbonnier"/>
+			</instrument>
+			<instrument name="tournages sonores, synthétiseurs [3]">
+				<player name="Lionel Marchetti"/>
+			</instrument>
+			<composed start="1998" end="2017"/>
+			<recorded start="1998" end="2017"/>
+			<release>Sonoris SNS-15</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Le cerveau</name>
+			<length>57:46</length>
+			<part>
+				<number>1</number>
+				<name>Pétrole 42</name>
+				<length>8:59</length>
+				<composed>2006</composed>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Proteus</name>
+				<length>16:13</length>
+				<composed>2018</composed>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Le cerveau</name>
+				<length>5:11</length>
+				<composed>2017</composed>
+			</part>
+			<part>
+				<number>4</number>
+				<name>L’infini</name>
+				<length>19:25</length>
+				<composed>2018</composed>
+			</part>
+			<part>
+				<number>5</number>
+				<name>L’incendie...</name>
+				<length>7:58</length>
+				<composed>2004</composed>
+			</part>
+			<instrument name="instrumentarium, synthétiseurs [1]">
+				<player name="Lionel Marchetti"/>
+			</instrument>
+			<instrument name="voix, chants [1]">
+				<player name="Yoko Higashi"/>
+			</instrument>
+			<instrument name="archives de cire [5]">
+				<player name="Alain de Filippis"/>
+			</instrument>
+			<instrument name="voix additive [5]">
+				<player name="Yoko Higashi"/>
+			</instrument>
+			<composed start="2004" end="2018"/>
+			<recorded start="2004" end="2018"/>
+			<release>Sonoris SNS-15</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Natura morta</name>
+			<length>57:22</length>
+			<part>
+				<number>1</number>
+				<name>Psalmus (omnis spiritus laudet dominum)</name>
+				<length>17:03</length>
+				<composed>2012</composed>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Natura morta</name>
+				<length>16:43</length>
+				<composed>2008</composed>
+			</part>
+			<part>
+				<number>3</number>
+				<name>La jetée...</name>
+				<length>14:10</length>
+				<composed>2012</composed>
+			</part>
+			<part>
+				<number>4</number>
+				<name>A short story</name>
+				<length>9:26</length>
+				<composed>2009</composed>
+			</part>
+			<instrument name="présence vocale (psaume 150) [1]">
+				<player name="Yoko Higashi"/>
+			</instrument>
+			<instrument name="présence vocale [1]">
+				<player name="Isabelle Duthoit"/>
+			</instrument>
+			<instrument name="tournages sonores du feu [2]">
+				<player name="Bertrand Louis"/>
+				<player name="Christophe Cardoen"/>
+				<player name="Dominique Lechec"/>
+				<player name="Emmanuelle Rozier"/>
+				<player name="Lionel Marchetti"/>
+			</instrument>
+			<instrument name="Steinway, main droite [2]">
+				<player name="Dominique Lechec"/>
+			</instrument>
+			<instrument name="Steinway, main gauche [2]">
+				<player name="Bertrand Louis"/>
+			</instrument>
+			<instrument name="le chien [2]">
+				<player name="Janus"/>
+			</instrument>
+			<instrument name="le fantôme [2]">
+				<player name="René Farabet"/>
+			</instrument>
+			<instrument name="la famme (chant final) [2]">
+				<player name="Yoko Higashi"/>
+			</instrument>
+			<instrument name="violon [3]">
+				<player name="Sébastien Églème"/>
+			</instrument>
+			<instrument name="instrumentarium, synthétiseurs [4]">
+				<player name="Lionel Marchetti"/>
+			</instrument>
+			<instrument name="voix additive [4]">
+				<player name="Kyo Marchetti Higashi"/>
+			</instrument>
+			<instrument name="synthétiseur, voix [4]">
+				<player name="Yoko Higashi"/>
+			</instrument>
+			<composed start="2008" end="2012"/>
+			<recorded start="2008" end="2012"/>
+			<release>Sonoris SNS-15</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Éole (vents solaires eu nuit du sujet)</name>
+			<length>1:10:46</length>
+			<part>
+				<number>1</number>
+				<name>TSF radio study</name>
+				<length>14:34</length>
+				<composed>2011</composed>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Labyrinthe, serpent...</name>
+				<length>3:53</length>
+				<composed>2018</composed>
+			</part>
+			<part>
+				<number>3</number>
+				<name>11 têtes</name>
+				<length>22:31</length>
+				<composed>2010-2015</composed>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Space abstraction</name>
+				<length>11:21</length>
+				<composed>2016</composed>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Éole (vents solaires)</name>
+				<length>18:27</length>
+				<composed>2015</composed>
+			</part>
+			<instrument name="présence vocale diaphane via Revox A77 [2]">
+				<player name="Yoko Higashi"/>
+			</instrument>
+			<composed start="2010" end="2018"/>
+			<recorded start="2010" end="2018"/>
+			<release>Sonoris SNS-15</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Océan (de la fertilité)</name>
+			<length>58:09</length>
+			<part>
+				<number>1</number>
+				<name>Penombra</name>
+				<length>13:16</length>
+				<composed>2005</composed>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Surface, support</name>
+				<length>2:49</length>
+				<composed>2011</composed>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Contact</name>
+				<length>8:20</length>
+				<composed>2011</composed>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Bouillard électromagnétique</name>
+				<length>2:39</length>
+				<composed>2011</composed>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Océan (de la fertilité)</name>
+				<length>31:05</length>
+				<composed>2011</composed>
+			</part>
+			<instrument name="guitare électrique [1]">
+				<player name="Florent Dichampt"/>
+			</instrument>
+			<instrument name="instrumentarium, synthétiseurs [1]">
+				<player name="Lionel Marchetti"/>
+			</instrument>
+			<instrument name="percussions additives [1]">
+				<player name="Jon Mueller"/>
+			</instrument>
+			<instrument name="archives de cire [1]">
+				<player name="Alain de Filippis"/>
+			</instrument>
+			<instrument name="voix [1]">
+				<player name="Bruno Roche"/>
+				<player name="Lionel Marchetti"/>
+				<player name="Yoko Higashi"/>
+			</instrument>
+			<instrument name="percussions frottés originales [3]">
+				<player name="Seijiro Murayama"/>
+			</instrument>
+			<composed start="2005" end="2011"/>
+			<recorded start="2005" end="2011"/>
+			<release>Sonoris SNS-15</release>
+			<released>2018</released>
+		</composition>
+	</composer>
 	<composer name="Tomás" surname="Marco" born="1942" died="">
 		<composition>
 			<name>Transfiguración</name>
