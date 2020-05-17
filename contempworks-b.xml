@@ -1052,6 +1052,20 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Chemins I</name>
+			<description>per arpa e orchestra, su Sequenza II</description>
+			<length>12:54</length>
+			<instrument name="harp">
+				<player name="Andreas Mildner"/>
+			</instrument>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Peter Eötvös</conductor>
+			<composed start="1965"/>
+			<recorded start="2016" end="2017"/>
+			<release>bastille musique bm 11</release>
+			<released>2019</released>
+		</composition>
+		<composition>
 			<name>Sequenza IV</name>
 			<description>for piano</description>
 			<length>11:06</length>
@@ -1146,6 +1160,20 @@
 			<released>1990</released>
 		</composition>
 		<composition>
+			<name>Chemins II</name>
+			<description>per viola e nove strumenti, su Sequenza VI</description>
+			<length>14:01</length>
+			<instrument name="viola">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="1967"/>
+			<recorded start="2016" end="2017"/>
+			<release>bastille musique bm 11</release>
+			<released>2019</released>
+		</composition>
+		<composition>
 			<name>O King</name>
 			<description>for voice and 5 instruments</description>
 			<length>4:33</length>
@@ -1203,6 +1231,31 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Chemins IIb</name>
+			<description>per orchestra</description>
+			<length>8:58</length>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Mariano Chiacchiarini</conductor>
+			<composed start="1970"/>
+			<recorded start="2016" end="2017"/>
+			<release>bastille musique bm 11</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Chemins IIc</name>
+			<description>per clarinetto basso e orchestra</description>
+			<length>8:58</length>
+			<instrument name="bass clarinet">
+				<player name="Andreas Langenbuch"/>
+			</instrument>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Manuel Nawri</conductor>
+			<composed start="1972"/>
+			<recorded start="2016" end="2017"/>
+			<release>bastille musique bm 11</release>
+			<released>2019</released>
+		</composition>
+		<composition>
 			<name>Concerto</name>
 			<description>for two pianos and orchestra</description>
 			<length>25:38</length>
@@ -1215,6 +1268,20 @@
 			<recorded start="2007"/>
 			<release>Col Legno WWE 1CD 20281</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Chemins III</name>
+			<description>per viola e orchestra</description>
+			<length>15:18</length>
+			<instrument name="viola">
+				<player name="Christophe Desjardins"/>
+			</instrument>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Manuel Nawri</conductor>
+			<composed start="1968" end="1973"/>
+			<recorded start="2016" end="2017"/>
+			<release>bastille musique bm 11</release>
+			<released>2019</released>
 		</composition>
 		<composition>
 			<name>Linea</name>
@@ -1244,6 +1311,20 @@
 			<recorded start="1989"/>
 			<release>Sony SK 45 862</release>
 			<released>1990</released>
+		</composition>
+		<composition>
+			<name>Chemins IV</name>
+			<description>per oboe e undici archi, su Sequenza VII</description>
+			<length>9:49</length>
+			<instrument name="oboe">
+				<player name="Maarten Dekkers"/>
+			</instrument>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Bas Wiegers</conductor>
+			<composed start="1975"/>
+			<recorded start="2016" end="2017"/>
+			<release>bastille musique bm 11</release>
+			<released>2019</released>
 		</composition>
 		<composition>
 			<name><q>Points on the curve to find...</q></name>
@@ -1542,6 +1623,20 @@
 			<released>1994</released>
 		</composition>
 		<composition>
+			<name>Chemins V</name>
+			<description>per chitarra e orchestra da camera, su Sequenza XI</description>
+			<length>19:41</length>
+			<instrument name="guitar">
+				<player name="Pablo Márquez"/>
+			</instrument>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Jean-Michaël Lavoie</conductor>
+			<composed start="1992"/>
+			<recorded start="2016" end="2017"/>
+			<release>bastille musique bm 11</release>
+			<released>2019</released>
+		</composition>
+		<composition>
 			<name>Notturno</name>
 			<description>for string quartet</description>
 			<length>25:01</length>
@@ -1610,6 +1705,34 @@
 			<recorded start="2000"/>
 			<release>Mode 161/3</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Kol od (Chemins VI)</name>
+			<description>per tromba e grupo strumentale, su Sequenza X</description>
+			<length>14:34</length>
+			<instrument name="trumpet">
+				<player name="Martin Griebl"/>
+			</instrument>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Jean-Michaël Lavoie</conductor>
+			<composed start="1996"/>
+			<recorded start="2016" end="2017"/>
+			<release>bastille musique bm 11</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Récit (Chemins VII)</name>
+			<description>per saxofono alto e orchestra, su Sequenza IX</description>
+			<length>13:56</length>
+			<instrument name="alto saxophone">
+				<player name="Lutz Koppesch"/>
+			</instrument>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Brad Lubman</conductor>
+			<composed start="1996"/>
+			<recorded start="2016" end="2017"/>
+			<release>bastille musique bm 11</release>
+			<released>2019</released>
 		</composition>
 		<composition>
 			<name>Glosse</name>
