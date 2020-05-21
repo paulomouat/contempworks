@@ -1288,6 +1288,26 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>The Viola in My Life I</name>
+			<description>for solo viola, flute, percussion, piano, violin, cello</description>
+			<length>11:47</length>
+			<player name="ensemble recherche"/>
+			<composed start="1970"/>
+			<recorded start="1991" end="1993"/>
+			<release>Montaigne MO 782018</release>
+			<released>1994</released>
+		</composition>
+		<composition>
+			<name>The Viola in My Life II</name>
+			<description>for solo viola, flute, clarinet, percussion, celesta, violin, cello</description>
+			<length>11:22</length>
+			<player name="ensemble recherche"/>
+			<composed start="1970"/>
+			<recorded start="1991" end="1993"/>
+			<release>Montaigne MO 782018</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Three Clarinets, Cello and Piano</name>
 			<length>9:33</length>
 			<instrument name="Clarinet">
@@ -1336,6 +1356,19 @@
 			<released>1991</released>
 		</composition>
 		<composition>
+			<name>I met Heine on the Rue Fürstenberg</name>
+			<description>for flute (also piccolo), clarinet (also bass), percussion, piano, mezzo-soprano, violin, cello</description>
+			<length>11:32</length>
+			<instrument name="voice">
+				<player name="Annette Nödinger"/>
+			</instrument>
+			<player name="ensemble recherche"/>
+			<composed start="1971"/>
+			<recorded start="1991" end="1993"/>
+			<release>Montaigne MO 782018</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Voice and Instruments</name>
 			<description>for soprano and orchestra</description>
 			<length>16:18</length>
@@ -1374,6 +1407,16 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>For Frank O’Hara</name>
+			<description>for flute (also piccolo and alt), clarinet, 2 percussionists, piano, violin, cello</description>
+			<length>17:32</length>
+			<player name="ensemble recherche"/>
+			<composed start="1973"/>
+			<recorded start="1991" end="1993"/>
+			<release>Montaigne MO 782018</release>
+			<released>1994</released>
+		</composition>
+		<composition>
 			<name>Piano and Orchestra</name>
 			<length>19:13</length>
 			<instrument name="Piano">
@@ -1398,6 +1441,16 @@
 			<recorded start="1975"/>
 			<release>CPO 999 483-2</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>Routine Investigations</name>
+			<description>for oboe, trumpet, piano, viola, cello, double bass</description>
+			<length>7:25</length>
+			<player name="ensemble recherche"/>
+			<composed start="1976"/>
+			<recorded start="1991" end="1993"/>
+			<release>Montaigne MO 782018</release>
+			<released>1994</released>
 		</composition>
 		<composition>
 			<name>Neither</name>
