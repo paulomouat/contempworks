@@ -429,6 +429,34 @@
 			<released>2019</released>
 		</composition>
 	</composer>	
+	<composer name="Rafael" surname="Toral" born="1967" died="">
+		<composition>
+			<name>AER 7 G</name>
+			<length>72:35</length>
+			<instrument name="harp">
+				<player name="Angélica V. Salvi"/>
+			</instrument>
+			<instrument name="clavinet">
+				<player name="Joana Bagulho"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Joana Gama"/>
+			</instrument>
+			<instrument name="vibraphone">
+				<player name="Luís Bittencourt"/>
+			</instrument>
+			<instrument name="computer sinewaves">
+				<player name="Rafael Toral"/>
+			</instrument>
+			<instrument name="rhodes piano">
+				<player name="Riccardo Dillon Wanke"/>
+			</instrument>
+			<composed start="1992"/>
+			<recorded start="2019"/>
+			<release>Room40 RM4115</release>
+			<released>2019</released>
+		</composition>
+	</composer>
 	<composer name="Jesús" surname="Torres" born="1965" died="">
 		<composition>
 			<name>Trio</name>
