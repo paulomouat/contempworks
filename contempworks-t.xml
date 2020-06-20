@@ -255,6 +255,84 @@
 			<released>1993</released>
 		</composition>
 	</composer>
+	<composer name="Anna" surname="Thorvaldsdottir" born="1977" died="">
+		<composition>
+			<name>Aeriality</name>
+			<description>for orchestra</description>
+			<length>13:33</length>
+			<player name="Iceland Symphony Orchestra"/>
+			<conductor>Ilan Volkov</conductor>
+			<composed start="2011"/>
+			<recorded start="2013"/>
+			<release>Deutsche Grammophon ‎B0022217-02</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Shades of Silence</name>
+			<description>for violin, viola, cello and harpsichord</description>
+			<length>7:42</length>
+			<player name="Nordic Affect"/>
+			<composed start="2012"/>
+			<recorded start="2013"/>
+			<release>Deutsche Grammophon ‎B0022217-02</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Into - Second Self</name>
+			<description>for 4 horns, 3 trombones and 4 percussionists</description>
+			<length>7:39</length>
+			<instrument name="percussion">
+				<player name="Frank Aarnink"/>
+			</instrument>
+			<instrument name="horn">
+				<player name="Stefán Jón Bernharðsson"/>
+			</instrument>
+			<instrument name="trombone">
+				<player name="Sigurður Þorbergsson"/>
+			</instrument>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>Deutsche Grammophon ‎B0022217-02</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Tactility</name>
+			<description>movements III, I &amp; II</description>
+			<description>for harp and percussion</description>
+			<length>7:38</length>
+			<player name="Duo Harpverk"/>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>Deutsche Grammophon ‎B0022217-02</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Ró</name>
+			<description>for flute, bass clarinet, piano, percussion, violin I, violin II, viola and cello</description>
+			<length>10:40</length>
+			<player name="CAPUT Ensemble"/>
+			<conductor>Guðni Franzson</conductor>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>Deutsche Grammophon ‎B0022217-02</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Trajectories</name>
+			<description>for piano and electronics</description>
+			<length>14:32</length>
+			<instrument name="piano">
+				<player name="Tinna Þorsteinsdottir"/>
+			</instrument>
+			<instrument name="electronics">
+				<player name="Anna Thorvaldsdottir"/>
+			</instrument>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>Deutsche Grammophon ‎B0022217-02</release>
+			<released>2014</released>
+		</composition>
+	</composer>
 	<composer name="Jukka" surname="Tiensuu" born="1948" died="">
 		<composition>
 			<name>Arsenic and Old Lace</name>
