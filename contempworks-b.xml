@@ -1745,6 +1745,26 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Altra voce</name>
+			<description>for alto flute, mezzo-soprano and live electronics</description>
+			<instrument name="alto flute">
+				<player name="Michele Marasco"/>
+			</instrument>
+			<instrument name="mezzo-soprano">
+				<player name="Monica Bacelli"/>
+			</instrument>
+			<instrument name="live electronics">
+				<player name="Francesco Giomi"/>
+				<player name="Damiano Meacci"/>
+				<player name="Kilian Schwoon"/>
+			</instrument>
+			<length>14:30</length>
+			<composed start="1999"/>
+			<recorded start="2001"/>
+			<release>Col Legno WWE 2SACD 40003</release>
+			<released>2020</released>
+		</composition>
+		<composition>
 			<name>Chanson pour Pierre Boulez</name>
 			<description>for cello</description>
 			<length>2:46</length>

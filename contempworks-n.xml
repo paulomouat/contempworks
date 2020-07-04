@@ -815,6 +815,15 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Omaggio a Emilio Vedova</name>
+			<description>for 4-channel tape</description>
+			<length>4:59</length>
+			<composed start="1960"/>
+			<recorded start="1960"/>
+			<release>Col Legno WWE 2SACD 40003</release>
+			<released>2020</released>
+		</composition>
+		<composition>
 			<name>Canti di vita e d’amore</name>
 			<description>Sul Ponte di Hiroshima</description>
 			<description>für Sopran- und Tenor-solo und Orchester</description>
@@ -911,6 +920,18 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>La fabbrica illuminata</name>
+			<description>for female voice and tape</description>
+			<instrument name="soprano">
+				<player name="Sarah Maria Sun"/>
+			</instrument>
+			<length>17:02</length>
+			<composed start="1964"/>
+			<recorded start="2018"/>
+			<release>Col Legno WWE 2SACD 40003</release>
+			<released>2020</released>
+		</composition>
+		<composition>
 			<name>Musiche di scena per Ermittlung</name>
 			<length>22:12</length>
 			<composed start="1965"/>
@@ -970,6 +991,24 @@
 			<recorded start=""/>
 			<release>Mode 87</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>A floresta é jovem e cheja de vida</name>
+			<description>for soprano, three actors’ voices B flat clarinet, copper plates and two 4-channel tapes</description>
+			<length>40:26</length>
+			<instrument name="voice">
+				<player name="Liliana Poli"/>
+				<player name="Kadigia Bove"/>
+				<player name="Elena Vicini"/>
+				<player name="Berto Troni"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="William O. Smith"/>
+			</instrument>
+			<composed start="1965" end="1966"/>
+			<recorded start="2018"/>
+			<release>Col Legno WWE 2SACD 40003</release>
+			<released>2020</released>
 		</composition>
 		<composition>
 			<name>Per Bastiana: Tai-Yang Cheng</name>

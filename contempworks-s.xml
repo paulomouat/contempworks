@@ -6134,6 +6134,24 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Kontakte</name>
+			<description>for electronic sounds, piano and percussion</description>
+			<length>34:47</length>
+			<instrument name="piano">
+				<player name="Johannes Herrmann"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Lucía Carro Veiga"/>
+			</instrument>
+			<instrument name="sound projection">
+				<player name="Carlos Hidalgo"/>
+			</instrument>
+			<composed start="1958" end="1960"/>
+			<recorded start="2018"/>
+			<release>Col Legno WWE 2SACD 40003</release>
+			<released>2020</released>
+		</composition>
+		<composition>
 			<name>Carré</name>
 			<description>für 4 Orchester und 4 Chöre</description>
 			<length>30:50</length>

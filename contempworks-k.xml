@@ -477,6 +477,15 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>Klangfiguren II</name>
+			<description>for 4-channel tape</description>
+			<length>10:23</length>
+			<composed start="1955" end="1956"/>
+			<recorded start="1956"/>
+			<release>Col Legno WWE 2SACD 40003</release>
+			<released>2020</released>
+		</composition>
+		<composition>
 			<name>Zwei Klavierstücke</name>
 			<length>14:13</length>
 			<part>
@@ -549,6 +558,19 @@
 			<recorded start="1967"/>
 			<release>RZ 2003-4</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Terminus X</name>
+			<description>for 2-channel tape</description>
+			<description>8-channel version by Kees Tazelaar</description>
+			<length>11:43</length>
+			<instrument name="sound projection">
+				<player name="Kees Tazelaar"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Col Legno WWE 2SACD 40003</release>
+			<released>2020</released>
 		</composition>
 		<composition>
 			<name>Funktion Grün</name>
