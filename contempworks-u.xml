@@ -47,6 +47,18 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Solo II</name>
+			<description>Neufassung für Fagott, 2010</description>
+			<length>51:56</length>
+			<instrument name="bassoon">
+				<player name="Dafne Vicente-Sandoval"/>
+			</instrument>
+			<composed start="1992" end="2010"/>
+			<recorded start="2016"/>
+			<release>Edition RZ 1038-1039</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Solo III</name>
 			<description>für Orgel</description>
 			<length>1:06:03</length>
@@ -129,6 +141,31 @@
 			<recorded start="2008"/>
 			<release>Edition RZ 1026-1028</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Solo V</name>
+			<description>für Klavier</description>
+			<length>1:00:10</length>
+			<instrument name="elaboration">
+				<player name="Lukas Rickli"/>
+				<player name="Zora Marti"/>
+			</instrument>
+			<composed start="2013" end="2014"/>
+			<recorded start="2018"/>
+			<release>Edition RZ 1030</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Müntzers Stern</name>
+			<description>für Fagott solo</description>
+			<length>54:20</length>
+			<instrument name="bassoon">
+				<player name="Dafne Vicente-Sandoval"/>
+			</instrument>
+			<composed start="2014" end="2015"/>
+			<recorded start="2016"/>
+			<release>Edition RZ 1038-1039</release>
+			<released>2018</released>
 		</composition>
 	</composer>
 	<composer name="Vladimir" surname="Ussachevsky" born="1911" died="">
