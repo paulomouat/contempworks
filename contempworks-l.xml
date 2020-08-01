@@ -1811,6 +1811,20 @@
 			<release>Alpha 217</release>
 			<released>2015</released>
 		</composition>
+		<composition>
+			<name>Cello Concerto</name>
+			<length>14:22</length>
+			<instrument name="cello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<player name="Asko Ensemble"/>
+			<player name="Schönberg Ensemble"/>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1966"/>
+			<recorded start="2001"/>
+			<release>Teldec 8573-87631-2</release>
+			<released>2002</released>
+		</composition>
 		<composition score="Y">
 			<name>Lontano</name>
 			<description>für großes Orchester</description>
@@ -2047,6 +2061,18 @@
 			<recorded start="2002"/>
 			<release>Teldec 8573-88263-2</release>
 			<released>2003</released>
+		</composition>
+		<composition>
+			<name>Clocks and Clouds</name>
+			<description>for 12 female voices</description>
+			<length>14:23</length>
+			<player name="Capella Amsterdam"/>
+			<conductor>Daniel Reuss</conductor>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1973"/>
+			<recorded start="2001"/>
+			<release>Teldec 8573-87631-2</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>San Francisco Polyphony</name>
@@ -2347,6 +2373,20 @@
 			<released>2015</released>
 		</composition>
 		<composition>
+			<name>Violin Concerto</name>
+			<length>26:30</length>
+			<instrument name="violin">
+				<player name="Frank Peter Zimmermann"/>
+			</instrument>
+			<player name="Asko Ensemble"/>
+			<player name="Schönberg Ensemble"/>
+			<conductor>Reinbert de Leeuw</conductor>
+			<composed start="1992"/>
+			<recorded start="2001"/>
+			<release>Teldec 8573-87631-2</release>
+			<released>2002</released>
+		</composition>
+		<composition>
 			<name>Loop</name>
 			<description>for viola solo</description>
 			<length>2:32</length>
@@ -2396,6 +2436,19 @@
 			<recorded start="1997"/>
 			<release>Col Legno WWE 3CD 20026</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Síppal, Dobbal, Nádihegedűvel</name>
+			<description>Weöres Sándor Verseire</description>
+			<length>12:00</length>
+			<instrument name="mezzo-soprano">
+				<player name="Katalin Károlyi"/>
+			</instrument>
+			<player name="Amadinda Percussion Group"/>
+			<composed start="2000"/>
+			<recorded start="2001"/>
+			<release>Teldec 8573-87631-2</release>
+			<released>2002</released>
 		</composition>
 		<composition>
 			<name>Hamburg Concerto</name>
