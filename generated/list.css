@@ -1,6 +1,6 @@
 p {
     font-family: Verdana, Arial, Helvetica;
-    font-size: 8pt;
+    font-size: 12pt;
 }
 q {
     quotes: "“" "”" "‘" "’";
@@ -13,21 +13,21 @@ q:after {
 }
 th {
     font-family: Verdana, Arial, Helvetica;
-    font-size: 8pt;
+    font-size: 12pt;
     text-align: center;
 }
 td {
     font-family: Verdana, Arial, Helvetica;
-    font-size: 8pt;
+    font-size: 12pt;
     text-align: top;
 }
 span.bold {
     font-family: Verdana, Arial, Helvetica;
-    font-size: 8pt;
+    font-size: 12pt;
     font-weight: bold;
 }
 span.name_initial {
     font-family: Verdana, Arial, Helvetica;
-    font-size: 10pt;
+    font-size: 16pt;
     font-weight: bold;
 }
