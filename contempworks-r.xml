@@ -624,6 +624,89 @@
 			<released>1997</released>
 		</composition>
 	</composer>
+	<composer name="Eva" surname="Reiter" born="1976" died="">
+		<composition>
+			<name>Konter</name>
+			<description>for contrabass flute and electronics</description>
+			<length>8:26</length>
+			<instrument name="contrabass flute">
+				<player name="Michael Schmid"/>
+			</instrument>
+			<composed start="2009"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015031KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Irrlicht</name>
+			<description>for flute, trumpet, trombone, percussion, violin, viola, violoncello, double bass and electronics</description>
+			<length>10:26</length>
+			<player name="Multiple Me"/>
+			<composed start="2012"/>
+			<recorded start="2012"/>
+			<release>Kairos 0015031KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>In groben Zügen</name>
+			<description>for string quartet and transducer</description>
+			<length>7:08</length>
+			<instrument name="violin">
+				<player name="Annette Bik"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Sophie Schafleitner"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Dimitrios Polisoidis"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Andreas Lindenbaum"/>
+			</instrument>
+			<composed start="2014"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015031KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Noch Sind Wir Ein Wort...</name>
+			<description>for contrabass recorder, double bass, musicians’ choir and electronics</description>
+			<length>12:40</length>
+			<instrument name="contrabass recorder">
+				<player name="Eva Reiter"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Uli Fussenegger"/>
+			</instrument>
+			<player name="Musicians’ choir of the Klangforum Wien"/>
+			<composed start="2016"/>
+			<recorded start="2016"/>
+			<release>Kairos 0015031KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Masque de Fer</name>
+			<description>for voice, flute, dan bao, viola and percussion</description>
+			<length>3:32</length>
+			<player name="Multiple Me"/>
+			<composed start="2017"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015031KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Allemande multipliée</name>
+			<description>for violin and pedal board</description>
+			<length>8:30</length>
+			<instrument name="violin">
+				<player name="Annette Bik"/>
+			</instrument>
+			<composed start="2017"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015031KAI</release>
+			<released>2018</released>
+		</composition>
+	</composer>
 	<composer name="Roger" surname="Reynolds" born="1934" died="">
 		<composition>
 			<name>Transfigured Wind IV</name>
