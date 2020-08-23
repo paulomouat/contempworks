@@ -7,6 +7,286 @@
   single quote: ’
 -->
 <list>
+	<composer name="Gerald" surname="Eckert" born="1960" died="">
+		<composition>
+			<name>erinnerte Zeit, gebrochen</name>
+			<description>for clarinet/bass clarinet, violin and piano</description>
+			<length>19:04</length>
+			<instrument name="bass clarinet">
+				<player name="Walter Ifrim"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Friedemann Treiber"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Florian Hoelscher"/>
+			</instrument>
+			<composed start="1996"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20231</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>wie Wolken um die Zeiten legt</name>
+			<description>for soprano, flute, accordion and percussion</description>
+			<length>11:51</length>
+			<instrument name="soprano">
+				<player name="Sarah Maria Sun"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Beatrix Wagner"/>
+			</instrument>
+			<instrument name="accordion">
+				<player name="Eva Zöllner"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Guillaume Chastel"/>
+			</instrument>
+			<composed start="1996" end="1997"/>
+			<recorded start="2008"/>
+			<release>Neos 10811</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Bruchstücke... erstarrtes Lot</name>
+			<description>for ensemble</description>
+			<length>24:39</length>
+			<player name="ensemble reflexion K"/>
+			<conductor>Gerald Eckert</conductor>
+			<composed start="1998" end="1999"/>
+			<recorded start="2015"/>
+			<release>Mode 288</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Klangräume II</name>
+			<description>for piccolo and tape</description>
+			<length>5:29</length>
+			<instrument name="piccolo">
+				<player name="Beatrix Wagner"/>
+			</instrument>
+			<composed start="1991" end="2000"/>
+			<recorded start="2008"/>
+			<release>Neos 10811</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>des Nichts, verlorene Schatten</name>
+			<description>for ensemble</description>
+			<length>15:19</length>
+			<player name="Ensemble Aventure"/>
+			<conductor>James Avery</conductor>
+			<composed start="1999" end="2000"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20231</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>l’étendue des fins éclats, éparse</name>
+			<description>for solo violin</description>
+			<length>12:58</length>
+			<instrument name="violin">
+				<player name="Friedemann Treiber"/>
+			</instrument>
+			<composed start="1997" end="2002"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20231</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>offen – fin des terres</name>
+			<description>for ensemble and tape</description>
+			<length>16:24</length>
+			<player name="Ensemble Aventure"/>
+			<instrument name="electronic realisation">
+				<player name="Experimentalstudio der Heinrich-Strobel-Stiftung des SWR, Freiburg"/>
+			</instrument>
+			<conductor>James Avery</conductor>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>Col Legno WWE 1CD 20231</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Schächte - les nuages d’automne</name>
+			<description>for flute, viola and harp</description>
+			<length>15:04</length>
+			<instrument name="flute">
+				<player name="Beatrix Wagner"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Kirstin Maria Pientka"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Eva Ignatjeva"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2008"/>
+			<release>Neos 10811</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Vom Innen - Körnung</name>
+			<description>for viola solo</description>
+			<length>7:59</length>
+			<instrument name="viola">
+				<player name="Kirstin Maria Pientka"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2008"/>
+			<release>Neos 10811</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Sopra di noi... (niente)</name>
+			<description>for small orchestra</description>
+			<length>24:54</length>
+			<player name="ensemble reflexion K"/>
+			<conductor>Gerald Eckert</conductor>
+			<composed start="2004"/>
+			<recorded start="2015"/>
+			<release>Mode 288</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Feld 3</name>
+			<description>for flute and harp</description>
+			<length>8:21</length>
+			<instrument name="flute">
+				<player name="Beatrix Wagner"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Eva Ignatjeva"/>
+			</instrument>
+			<composed start="2005"/>
+			<recorded start="2008"/>
+			<release>Neos 10811</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Annäherung an Petrarca</name>
+			<description>for 4 voices, flute and violoncello</description>
+			<length>13:39</length>
+			<player name="Auditivvokal Ensemble"/>
+			<player name="ensemble reflexion K"/>
+			<conductor>Olaf Katzer</conductor>
+			<composed start="2006"/>
+			<recorded start="2018"/>
+			<release>Mode 320</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Fäden</name>
+			<description>1st part</description>
+			<description>for flute, violoncello, accordion and harp</description>
+			<length>7:18</length>
+			<instrument name="flute">
+				<player name="Beatrix Wagner"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Gerald Eckert"/>
+			</instrument>
+			<instrument name="accordion">
+				<player name="Eva Zöllner"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Eva Ignatjeva"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2008"/>
+			<release>Neos 10811</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>absence - traces éloignées</name>
+			<description>for 4 piccolos and 2 percussionists</description>
+			<length>12:04</length>
+			<player name="ensemble l’Art pour l’Art"/>
+			<player name="ensemble reflexion K"/>
+			<conductor>Gerald Eckert</conductor>
+			<composed start="2007"/>
+			<recorded start="2017"/>
+			<release>Mode 320</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Nen VII</name>
+			<description>for flute, violoncello and tape</description>
+			<length>10:30</length>
+			<instrument name="flute">
+				<player name="Beatrix Wagner"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Gerald Eckert"/>
+			</instrument>
+			<composed start="2007"/>
+			<recorded start="2008"/>
+			<release>Neos 10811</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Studie über Nelly Sachs</name>
+			<description>for soprano, flute, harp, accordion, percussion, violin and contrabass</description>
+			<length>11:05</length>
+			<instrument name="soprano">
+				<player name="Sarah Maria Sun"/>
+			</instrument>
+			<instrument name="flute">
+				<player name="Beatrix Wagner"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Eva Ignatjeva"/>
+			</instrument>
+			<instrument name="accordion">
+				<player name="Eva Zöllner"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Guillaume Chastel"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Lenka Zupkova"/>
+			</instrument>
+			<instrument name="contrabass">
+				<player name="Kristján Sigurleifsson"/>
+			</instrument>
+			<conductor>Gerald Eckert</conductor>
+			<composed start="2004" end="2008"/>
+			<recorded start="2008"/>
+			<release>Neos 10811</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>An den Rändern des Maßes</name>
+			<description>for two instrumental groups</description>
+			<length>26:54</length>
+			<player name="ensemble reflexion K"/>
+			<conductor>Gerald Eckert</conductor>
+			<composed start="2005" end="2011"/>
+			<recorded start="2014"/>
+			<release>Mode 288</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>den angestoßenenen Augen der Stein</name>
+			<description>for contrabass clarinet, violin, live-electronics and tape</description>
+			<length>24:04</length>
+			<player name="ensemble reflexion K"/>
+			<composed start="2014"/>
+			<recorded start="2017"/>
+			<release>Mode 320</release>
+			<released>2020</released>																											sed>
+		</composition>
+		<composition>
+			<name>außen, von tief innen</name>
+			<description>for bass flute, contrabass clarinet and violoncello</description>
+			<length>21:00</length>
+			<player name="ensemble reflexion K"/>
+			<composed start="2015"/>
+			<recorded start="2017"/>
+			<release>Mode 320</release>
+			<released>2020</released>
+		</composition>
+	</composer>
 	<composer name="Herbert" surname="Eimert" born="1897" died="1972">
 		<composition>
 			<name>Klang im unbegrenzten Raum</name>
