@@ -1792,6 +1792,16 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Urbilder</name>
+			<description>for string quartet</description>
+			<length>14:27</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1980" end="1984"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 6761 2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Flute Concerto “Per-Sonare”</name>
 			<length>18:51</length>
 			<instrument name="Flute">
@@ -1818,6 +1828,19 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Fragmente II</name>
+			<description>version for recorder and string quartet</description>
+			<length>9:33</length>
+			<instrument name="Recorder">
+				<player name="Tosiya Suzuki"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1989"/>
+			<recorded start="2013"/>
+			<release>Wergo WER 67692</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Landscape I</name>
 			<description>for string quartet</description>
 			<length>12:18</length>
@@ -1826,6 +1849,16 @@
 			<recorded start="1995"/>
 			<release>Montaigne 782078</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Landscape I</name>
+			<description>for string quartet</description>
+			<length>12:30</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1992"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 6761 2</release>
+			<released>2013</released>
 		</composition>
 		<composition>
 			<name>Landscape I</name>
@@ -1849,6 +1882,19 @@
 			<recorded start="1995"/>
 			<release>Montaigne 782078</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Landscape II</name>
+			<description>for harp and string quartet</description>
+			<length>13:52</length>
+			<instrument name="Harp">
+				<player name="Naoko Yoshino"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1992"/>
+			<recorded start="2013"/>
+			<release>Wergo WER 67692</release>
+			<released>2014</released>
 		</composition>
 		<composition>
 			<name>Landscape III</name>
@@ -1891,6 +1937,19 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Landscape V</name>
+			<description>for shô and string quartet</description>
+			<length>15:28</length>
+			<instrument name="Shô">
+				<player name="Mayumi Miyata"/>
+			</instrument>
+			<player name="Arditti String Quartet"/>
+			<composed start="1993"/>
+			<recorded start="2013"/>
+			<release>Wergo WER 67692</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Vertical Time Study III</name>
 			<description>for violin and piano</description>
 			<length>10:36</length>
@@ -1930,6 +1989,16 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Silent Flowers</name>
+			<description>for string quartet</description>
+			<length>13:29</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="1998"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 6761 2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Ans Meer</name>
 			<description>Concerto for piano and orchestra</description>
 			<length>14:33</length>
@@ -1958,6 +2027,16 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Floral fairy</name>
+			<description>for string quartet</description>
+			<length>6:29</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2003"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 6761 2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Voyage VII</name>
 			<description>for trumpet and strings with percussion</description>
 			<length>15:29</length>
@@ -1972,6 +2051,18 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Elegy</name>
+			<description>for violin</description>
+			<length>5:33</length>
+			<instrument name="Violin">
+				<player name="Irvine Arditti"/>
+			</instrument>
+			<composed start="2007" end="2008"/>
+			<recorded start="2013"/>
+			<release>Wergo WER 67692</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Blossoming</name>
 			<description>for string quartet, original version</description>
 			<length>14:04</length>
@@ -1980,6 +2071,51 @@
 			<recorded start="2009"/>
 			<release>Neos 11072</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Blossoming</name>
+			<description>for string quartet</description>
+			<length>13:35</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2007" end="2009"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 6761 2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Kalligraphie</name>
+			<description>6 pieces for string quartet</description>
+			<length>14:49</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2007" end="2009"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 6761 2</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Threnody</name>
+			<description>to the victims of Tohoku Earthquake 3.11</description>
+			<description>for viola</description>
+			<length>9:30</length>
+			<instrument name="Viola">
+				<player name="Ralf Ehlers"/>
+			</instrument>
+			<composed start="2011"/>
+			<recorded start="2013"/>
+			<release>Wergo WER 67692</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Small Chant</name>
+			<description>for violoncello</description>
+			<length>4:27</length>
+			<instrument name="Violoncello">
+				<player name="Lucas Fels"/>
+			</instrument>
+			<composed start="2012"/>
+			<recorded start="2013"/>
+			<release>Wergo WER 67692</release>
+			<released>2014</released>
 		</composition>
 	</composer>
     <composer name="Klaus" surname="Huber" born="1924" died="">
