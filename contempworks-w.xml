@@ -2147,6 +2147,26 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>For Jill</name>
+			<description>from “Prose Collection”</description>
+			<description>for several players</description>
+			<length>4:07</length>
+			<instrument name="specially-consructed and found instruments">
+				<player name="Richard Bernas"/>
+				<player name="Hugh Davies"/>
+				<player name="Graham Hearn"/>
+				<player name="Stuart Jones"/>
+				<player name="Michael Robinson"/>
+			</instrument>
+			<instrument name="vocals">
+				<player name="Richard Orton"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1970"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+		<composition>
 			<name>Lines</name>
 			<description>for string quartet</description>
 			<length>6:54</length>

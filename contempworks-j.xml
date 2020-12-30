@@ -80,4 +80,23 @@
 			<released>1993</released>
 		</composition>
 	</composer>
+	<composer name="Stuart" surname="Jones" born="" died="">
+		<composition>
+			<name>Ruthie’s Piece</name>
+			<description>for 2 cellos, 2 pianos and 2 ring modulators</description>
+			<length>9:45</length>
+			<instrument name="cello">
+				<player name="Michael Robinson"/>
+				<player name="Stuart Jones"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Richard Bernas"/>
+				<player name="Hugh Davies"/>
+			</instrument>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+	</composer>
 </list>

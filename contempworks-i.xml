@@ -2,6 +2,33 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+	<composer name="Toshi" surname="Ichiyanagi" born="1933" died="">
+		<composition>
+			<name>Appearance</name>
+			<description>for 3 players and 2 operators</description>
+			<length>16:05</length>
+			<instrument name="Hammond organ">
+				<player name="Richard Bernas"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Stuart Jones"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Michael Robinson"/>
+			</instrument>
+			<instrument name="sine-wave oscillators">
+				<player name="Graham Hearn"/>
+				<player name="Richard Orton"/>
+			</instrument>
+			<instrument name="ring modulation, switching unit">
+				<player name="Hugh Davies"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1970"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+	</composer>
 	<composer name="Márton" surname="Illés" born="1975" died="">
 		<composition>
 			<name>Ez-tér (Es-Raum)</name>

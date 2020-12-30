@@ -6708,6 +6708,59 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Aufwärts</name>
+			<description>from “Aus den Sieben Tagen”</description>
+			<description>for ensemble</description>
+			<length>17:51</length>
+			<instrument name="piano">
+				<player name="Richard Bernas"/>
+			</instrument>
+			<instrument name="electronics and springs">
+				<player name="Hugh Davies"/>
+			</instrument>
+			<instrument name="recorder">
+				<player name="Graham Hearn"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Stuart Jones"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Michael Robinson"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1970"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Treffpunkt</name>
+			<description>from “Aus den Sieben Tagen”</description>
+			<description>for ensemble</description>
+			<length>12:52</length>
+			<instrument name="tabla">
+				<player name="Richard Bernas"/>
+			</instrument>
+			<instrument name="springboard">
+				<player name="Hugh Davies"/>
+			</instrument>
+			<instrument name="electric guitar">
+				<player name="Graham Hearn"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Stuart Jones"/>
+			</instrument>
+			<instrument name="VCS3 synthesizer">
+				<player name="Richard Orton"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Michael Robinson"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1970"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+		<composition>
 			<name>Für Kommende Zeiten</name>
 			<length>1:04:00</length>
 			<part>

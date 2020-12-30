@@ -1671,6 +1671,22 @@
 			<released>2018</released>
 		</composition>
 		<composition>
+			<name>Cartridge Music</name>
+			<description>for amplified small sounds</description>
+			<length>9:53</length>
+			<instrument name="amplified found objects and materials">
+				<player name="Richard Bernas"/>
+				<player name="Hugh Davies"/>
+				<player name="Stuart Jones"/>
+				<player name="Graham Hearn"/>
+				<player name="Michael Robinson"/>
+			</instrument>
+			<composed start="1960"/>
+			<recorded start="1970"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+		<composition>
 			<name>WBAI</name>
 			<description>Sine wave oscillator, record player, synthesizer, radio</description>
 			<length>7:00</length>
@@ -4684,6 +4700,202 @@
 			<recorded start="1970"/>
 			<release>NEEMC 05</release>
 			<released>2006</released>
+		</composition>
+	</composer>
+	<composer name="Osvaldo" surname="Coluccino" born="1963" died="">
+		<composition>
+			<name>Realtà</name>
+			<description>Electroacoustic work</description>
+			<length>12:04</length>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>Die Schachtel DSCZ14</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Dimensioni</name>
+			<description>for Francis Bacon and Jacques Lacan</description>
+			<description>Electroacoustic work</description>
+			<length>12:08</length>
+			<composed start="1998" end="1999"/>
+			<recorded start="1998" end="1999"/>
+			<release>Die Schachtel DSCZ14</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Differenza</name>
+			<description>for piano and processed piano</description>
+			<length>6:24</length>
+			<instrument name="piano, electronics">
+				<player name="Osvaldo Coluccino"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="1999"/>
+			<release>Die Schachtel DSCZ14</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Nell’attimo</name>
+			<description>for percussion and processed percussion</description>
+			<length>6:10</length>
+			<instrument name="percussion, electronics">
+				<player name="Osvaldo Coluccino"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="1999"/>
+			<release>Die Schachtel DSCZ14</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Dal margine</name>
+			<description>Electroacoustic work</description>
+			<length>2:06</length>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Die Schachtel DSCZ14</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Chimica rem</name>
+			<description>Electroacoustic work</description>
+			<length>1:53</length>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Die Schachtel DSCZ14</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Altro</name>
+			<description>Electroacoustic work</description>
+			<length>1:57</length>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Die Schachtel DSCZ14</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Aion</name>
+			<description>for string quartet</description>
+			<length>18:26</length>
+			<player name="Quartetto d’Archi del Teatro La Fenice"/>
+			<composed start="2002"/>
+			<recorded start="2010"/>
+			<release>Neos 11130</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Eco immobile</name>
+			<description>for piano quartet</description>
+			<length>8:11</length>
+			<instrument name="piano">
+				<player name="Achille Gallo"/>
+			</instrument>
+			<player name="Quartetto d’Archi del Teatro La Fenice"/>
+			<composed start="2002"/>
+			<recorded start="2010"/>
+			<release>Neos 11130</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Neuma Q</name>
+			<description>Musica elettroacustica</description>
+			<length>42:05</length>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Die Schachtel ZEIT C04</release>
+			<released>2010</released>
+		</composition>
+		<composition>
+			<name>After</name>
+			<description>Electroacoustic work</description>
+			<length>6:27</length>
+			<composed start="2006" end="2007"/>
+			<recorded start="2006" end="2007"/>
+			<release>Die Schachtel DSCZ14</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Eea</name>
+			<description>Electroacoustic work</description>
+			<length>14:12</length>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>Die Schachtel DSCZ14</release>
+			<released>2015</released>
+		</composition>
+		<composition>
+			<name>Attimo</name>
+			<description>for string quartet</description>
+			<length>17:10</length>
+			<player name="Quartetto d’Archi del Teatro La Fenice"/>
+			<composed start="2007"/>
+			<recorded start="2010"/>
+			<release>Neos 11130</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Talea</name>
+			<description>for violin and cello</description>
+			<description>full version</description>
+			<length>11:24</length>
+			<instrument name="violin">
+				<player name="Roberto Baraldi"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Emanuele Silvestri"/>
+			</instrument>
+			<composed start="2008"/>
+			<recorded start="2010"/>
+			<release>Neos 11130</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Interni</name>
+			<description>for flute</description>
+			<length>48:23</length>
+			<part>
+				<number>1</number>
+				<name>Primo Interno</name>
+				<description>for C flute</description>
+				<length>7:41</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Secondo Interno</name>
+				<description>for bass flute</description>
+				<length>7:54</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Terzo Interno</name>
+				<description>for alto flute</description>
+				<length>6:00</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Quarto Interno</name>
+				<description>for bass flute</description>
+				<length>4:44</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Quinto Interno</name>
+				<description>for bass flute and C flute</description>
+				<length>9:49</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Sesto Interno</name>
+				<description>for contrabass flute, bass flute and electronics</description>
+				<length>12:10</length>
+			</part>
+			<instrument name="flutes">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="2017" end="2018"/>
+			<recorded start="2018"/>
+			<release>Kairos 0015062KAI</release>
+			<released>2019</released>
 		</composition>
 	</composer>
 	<composer name="Ruth" surname="Crawford-Seeger" born="1901" died="1953">

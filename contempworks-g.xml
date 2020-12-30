@@ -19,6 +19,55 @@
 			<released>1991</released>
 		</composition>
 	</composer>
+	<composer name="" surname="Gentle Fire" born="" died="">
+		<composition>
+			<name>Group Composition IV</name>
+			<description>for gHong and mixed instruments</description>
+			<length>1:04:28</length>
+			<instrument name="gHong">
+				<player name="Richard Bernas"/>
+				<player name="Hugh Davies"/>
+				<player name="Stuart Jones"/>
+				<player name="Graham Hearn"/>
+				<player name="Michael Robinson"/>
+			</instrument>
+			<instrument name="tabla">
+				<player name="Richard Bernas"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Michael Robinson"/>
+			</instrument>
+			<instrument name="recorder, VCS3 synthesizer">
+				<player name="Graham Hearn"/>
+			</instrument>
+			<instrument name="springboard">
+				<player name="Hugh Davies"/>
+			</instrument>
+			<instrument name="trumpet, cello">
+				<player name="Stuart Jones"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1972"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Group Composition VI (unfixed parities)</name>
+			<description>for voices, modified telephones and live electronics</description>
+			<length>23:15</length>
+			<instrument name="voice, manipulation of modified GPO telephone dials, electronics">
+				<player name="Richard Bernas"/>
+				<player name="Hugh Davies"/>
+				<player name="Stuart Jones"/>
+				<player name="Graham Hearn"/>
+				<player name="Michael Robinson"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1973"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+	</composer>
 	<composer name="Roberto" surname="Gerhard" born="1896" died="1970">
 		<composition>
 			<name>String Quartet No. 1</name>

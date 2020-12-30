@@ -1054,6 +1054,26 @@
 			<released>2016</released>
 		</composition>
 	</composer>
+	<composer name="Graham" surname="Hearn" born="1942" died="">
+		<composition>
+			<name>Centrepiece</name>
+			<description>for tape loops and Hammond organ</description>
+			<length>12:41</length>
+			<instrument name="Hammond organ">
+				<player name="Graham Hearn"/>
+			</instrument>
+			<instrument name="tape loops">
+				<player name="Richard Bernas"/>
+				<player name="Hugh Davies"/>
+				<player name="Stuart Jones"/>
+				<player name="Michael Robinson"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1973"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+	</composer>
 	<composer name="Pierre" surname="Henry" born="1927" died="">
 		<composition>
 			<name>Voile d’Orphée</name>

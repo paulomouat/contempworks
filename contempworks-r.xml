@@ -4794,6 +4794,21 @@
 			<released>2001</released>
 		</composition>
 	</composer>
+	<composer name="Michael" surname="Robinson" born="1948" died="">
+		<composition>
+			<name>2 Pianos Piece</name>
+			<description>for 2 pianos</description>
+			<length>16:25</length>
+			<instrument name="piano">
+				<player name="Michael Robinson"/>
+				<player name="Richard Bernas"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="1973"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+	</composer>
 	<composer name="Eugénio Manuel" surname="Rodrigues" born="1961" died="">
 		<composition>
 			<name>Mata Hari</name>

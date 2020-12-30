@@ -1801,6 +1801,24 @@
 			<released>2006</released>
 		</composition>
 	</composer>
+	<composer name="Richard" surname="Bernas" born="1950" died="">
+		<composition>
+			<name>Almanac for September</name>
+			<description>for piano and 2 cellos</description>
+			<length>14:39</length>
+			<instrument name="cello">
+				<player name="Michael Robinson"/>
+				<player name="Stuart Jones"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Richard Bernas"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1973"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
+		</composition>
+	</composer>
 	<composer name="Christophe" surname="Bertrand" born="1981" died="2010">
 		<composition>
 			<name>Dikha</name>
@@ -3712,6 +3730,29 @@
 			<recorded start="1993"/>
 			<release>hat ART CD 6146</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Four Systems</name>
+			<description>for variable instrumentation</description>
+			<length>8:25</length>
+			<instrument name="violin">
+				<player name="Graham Hearn"/>
+				<player name="Richard Orton"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Richard Bernas"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Michael Robinson"/>
+				<player name="Stuart Jones"/>
+			</instrument>
+			<instrument name="variable band pass filter, pulsing unit">
+				<player name="Hugh Davies"/>
+			</instrument>
+			<composed start="1954"/>
+			<recorded start="1970"/>
+			<release>Paradigm Discs PD 35</release>
+			<released>2020</released>
 		</composition>
 		<composition>
 			<name>Music for cello and piano</name>
