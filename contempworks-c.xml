@@ -4850,6 +4850,30 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Atto</name>
+			<description>for acoustic objects</description>
+			<length>38:38</length>
+			<instrument name="acoustic objects">
+				<player name="Osvaldo Coluccino"/>
+			</instrument>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>another timbre at50</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Oltreorme</name>
+			<description>for acoustic objects</description>
+			<length>53:10</length>
+			<instrument name="acoustic objects">
+				<player name="Osvaldo Coluccino"/>
+			</instrument>
+			<composed start="2012"/>
+			<recorded start="2012"/>
+			<release>another timbre at61</release>
+			<released>2013</released>
+		</composition>
+		<composition>
 			<name>Interni</name>
 			<description>for flute</description>
 			<length>48:23</length>

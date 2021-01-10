@@ -115,6 +115,69 @@
 			<released>1991</released>
 		</composition>
 	</composer>
+	<composer name="Hugh" surname="Davies" born="1943" died="2005">
+		<composition>
+			<name>Shozyg I &amp; II</name>
+			<length>8:52</length>
+			<instrument name="shozygs">
+				<player name="Hugh Davies"/>
+				<player name="Richard Orton"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>another timbre ar-r01</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Music for bowed diaphragms</name>
+			<length>10:05</length>
+			<player name="Hugh Davies"/>
+			<composed start="1973"/>
+			<recorded start="1973"/>
+			<release>another timbre ar-r01</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Solo at Ronnie Scott’s</name>
+			<length>24:20</length>
+			<player name="Hugh Davies"/>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>another timbre ar-r01</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Music for 2 springs</name>
+			<length>7:52</length>
+			<instrument name="springs">
+				<player name="Hugh Davies"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>another timbre ar-r01</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Music for 3 springs</name>
+			<length>13:04</length>
+			<instrument name="springs">
+				<player name="Hugh Davies"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>another timbre ar-r01</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Salad</name>
+			<length>13:54</length>
+			<player name="Hugh Davies"/>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>another timbre ar-r01</release>
+			<released>2008</released>
+		</composition>
+	</composer>
 	<composer name="Claude" surname="Debussy" born="1862" died="1918">
 		<composition>
 			<name>Printemps</name>
