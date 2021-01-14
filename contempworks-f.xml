@@ -1502,6 +1502,17 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Piano</name>
+			<length>25:22</length>
+			<instrument name="Piano">
+				<player name="John Snijders"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="2000"/>
+			<release>hat[now]ART 2051/2</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Spring of Chosroes</name>
 			<length>15:27</length>
 			<instrument name="Violin">
@@ -1601,6 +1612,24 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Trio</name>
+			<length>1:16:04</length>
+			<instrument name="Violin">
+				<player name="Josje Ter Haar"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Job Ter Haar"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="John Snijders"/>
+			</instrument>
+			<player name="Ives Ensemble"/>
+			<composed start="1980"/>
+			<recorded start="1996"/>
+			<release>hat[now]ART 155</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Triadic Memories</name>
 			<length>1:33:48</length>
 			<instrument name="Piano">
@@ -1610,6 +1639,17 @@
 			<recorded start="2003"/>
 			<release>Mode 136</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Triadic Memories</name>
+			<length>1:29:47</length>
+			<instrument name="Piano">
+				<player name="John Snijders"/>
+			</instrument>
+			<composed start="1981"/>
+			<recorded start="2000"/>
+			<release>hat[now]ART 2051/2</release>
+			<released>2017</released>
 		</composition>
 		<composition>
 			<name>Patterns in a chromatic field</name>
