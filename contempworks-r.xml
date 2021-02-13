@@ -624,6 +624,159 @@
 			<released>1997</released>
 		</composition>
 	</composer>
+	<composer name="Jaime" surname="Reis" born="1983" died="">
+		<composition>
+			<name>Lysozyme Synthesis</name>
+			<description>for piano</description>
+			<length>7:06</length>
+			<instrument name="piano">
+				<player name="Ana Telles"/>
+			</instrument>
+			<composed start="2003"/>
+			<recorded start="2014"/>
+			<release>Neos 12022</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Fluxus, Lift</name>
+			<description>for electronics</description>
+			<length>5:09</length>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>Kairos 0015080KAI</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Fluxus, Transitional Flow</name>
+			<description>for viola and electronics</description>
+			<length>9:26</length>
+			<instrument name="viola">
+				<player name="Pinar Dinçer"/>
+			</instrument>
+			<composed start="2013"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015080KAI</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Fluxus, Drag</name>
+			<description>for cello, double bass and electronics</description>
+			<length>5:31</length>
+			<instrument name="cello, double bass">
+				<player name="Duo Contracello"/>
+			</instrument>
+			<composed start="2015"/>
+			<recorded start="2019"/>
+			<release>Kairos 0015080KAI</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Fluxus, Dimensional Sound (B)</name>
+			<description>for flute and electronics</description>
+			<length>9:32</length>
+			<instrument name="flute">
+				<player name="Clara Saleiro"/>
+			</instrument>
+			<composed start="2012" end="2017"/>
+			<recorded start="2018"/>
+			<release>Kairos 0015080KAI</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Fluxus, pas trop haut dans le ciel</name>
+			<description>for electronics</description>
+			<length>9:18</length>
+			<composed start="2017"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015080KAI</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Sangue Inverso - Inverso Sangue</name>
+			<length>33:26</length>
+			<part>
+				<number>Sangue Inverso I</number>
+				<name>Magnetite</name>
+				<description>for piano</description>
+				<length>1:29</length>
+			</part>
+			<part>
+				<number>Sangue Inverso II</number>
+				<name>Ametista</name>
+				<description>for flute and piano</description>
+				<length>3:53</length>
+			</part>
+			<part>
+				<number>Sangue Inverso III</number>
+				<name>Obsidiana</name>
+				<description>for flute, clarinet and piano</description>
+				<length>5:29</length>
+			</part>
+			<part>
+				<number>Inverso Sangue I</number>
+				<name>Âmbar</name>
+				<description>for clarinet</description>
+				<length>1:26</length>
+			</part>
+			<part>
+				<number>Inverso Sangue II</number>
+				<name>Granito</name>
+				<description>for clarinet, violin and cello</description>
+				<length>3:58</length>
+			</part>
+			<part>
+				<number>Inverso Sangue III</number>
+				<name>Cinábrio</name>
+				<description>for violin, viola and cello</description>
+				<length>5:36</length>
+			</part>
+			<part>
+				<number>Sangue Inverso I - Inverso Sangue I</number>
+				<description>for clarinet and piano</description>
+				<length>1:29</length>
+			</part>
+			<part>
+				<number>Sangue Inverso II - Inverso Sangue II</number>
+				<description>for flute, clarinet, violin, cello and piano</description>
+				<length>4:02</length>
+			</part>
+			<part>
+				<number>Sangue Inverso III - Inverso Sangue III</number>
+				<description>for flute, clarinet, violin, viola, cello and piano</description>
+				<length>5:35</length>
+			</part>
+			<player name="Ensemble Fractales"/>
+			<composed start="2015" end="2019"/>
+			<recorded start="2019"/>
+			<release>Neos 12022</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Fluxus, Vortex - Schubkraft</name>
+			<description>for guitar and electronics</description>
+			<length>11:17</length>
+			<instrument name="guitar">
+				<player name="Aleph Gitarrenquartett"/>
+			</instrument>
+			<composed start="2018" end="2019"/>
+			<recorded start="2019"/>
+			<release>Kairos 0015080KAI</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Fluxus, Vortex - Schubkraft</name>
+			<description>Akustische Fassung</description>
+			<description>for guitar quartet</description>
+			<length>10:30</length>
+			<instrument name="guitar">
+				<player name="Aleph Gitarrenquartett"/>
+			</instrument>
+			<composed start="2018" end="2019"/>
+			<recorded start="2019"/>
+			<release>Neos 12022</release>
+			<released>2020</released>
+		</composition>
+	</composer>
 	<composer name="Eva" surname="Reiter" born="1976" died="">
 		<composition>
 			<name>Konter</name>
