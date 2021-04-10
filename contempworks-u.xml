@@ -4,6 +4,55 @@
 <list>
 	<composer name="Jakob" surname="Ullmann" born="1958" died="">
 		<composition>
+			<name>Komposition für Streichquartett</name>
+			<length>28:47</length>
+			<player name="Streichquartett des Ensemble UnitedBerlin"/>
+			<composed start="1985"/>
+			<recorded start="1992"/>
+			<release>Wergo WER 6532-2</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Komposition für Violine</name>
+			<description>Symmetries on Aleph Zero 2</description>
+			<length>13:43</length>
+			<instrument name="Violine">
+				<player name="Nicolaus Richter de Vroe"/>
+			</instrument>
+			<composed start="1986" end="1987"/>
+			<recorded start="1990"/>
+			<release>Wergo WER 6532-2</release>
+			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Disappearing Musics</name>
+			<description>for six players (more or less)</description>
+			<length>34:19</length>
+			<instrument name="Flöte">
+				<player name="Martin Fahlenblock"/>
+			</instrument>
+			<instrument name="Klarinette">
+				<player name="Uwe Möckel"/>
+			</instrument>
+			<instrument name="Oboe">
+				<player name="Peter Veale"/>
+			</instrument>
+			<instrument name="Violine">
+				<player name="Melise Mehlinger"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Barbara Maurer"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="James Avery"/>
+				<player name="Sven Thomas Kiebler"/>
+			</instrument>
+			<composed start="1989" end="1991"/>
+			<recorded start="1992"/>
+			<release>Wergo WER 6532-2</release>
+			<released>1996</released>
+		</composition>
+		<composition>
 			<name>Disappearing Musics</name>
 			<description>for six players (more or less)</description>
 			<length>34:14</length>
