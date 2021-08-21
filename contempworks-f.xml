@@ -3043,6 +3043,70 @@
 			<release>INA C 1032</release>
 			<released>2004</released>
 		</composition>
+		<composition>
+			<name>Étude aux sons flegmatiques</name>
+			<length>10:49</length>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>Room40 RM4136</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Canto del Loco</name>
+			<length>12:27</length>
+			<composed start="1974"/>
+			<recorded start="1974"/>
+			<release>Room40 RM4136</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>La Baballe du Chien Chien à la Mé-Mère</name>
+			<length>11:10</length>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Persistence of Sound PS004</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Deux Dents Dehors</name>
+			<length>4:40</length>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>Persistence of Sound PS004</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Pas de 3 ... ou plus</name>
+			<length>8:52</length>
+			<composed start="2009"/>
+			<recorded start="2010"/>
+			<release>Room40 RM4136</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Jingle Bayle’s</name>
+			<length>4:29</length>
+			<composed start="2012"/>
+			<recorded start="2012"/>
+			<release>Room40 RM4136</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Au revoir l’Ami</name>
+			<length>4:08</length>
+			<composed start="?"/>
+			<recorded start="?"/>
+			<release>Room40 RM4136</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Huellas Entreveradas</name>
+			<length>14:40</length>
+			<composed start="2018"/>
+			<recorded start="2018"/>
+			<release>Persistence of Sound PS004</release>
+			<released>2020</released>
+		</composition>
 	</composer>
 	<composer name="Joshua" surname="Fineberg" born="1969" died="">
 		<composition>
