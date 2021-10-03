@@ -3877,6 +3877,54 @@
 			<released>2017</released>
 		</composition>
 		<composition>
+			<name>Quintettino n. 1</name>
+			<description>per clarinetto e quartetto d’archi</description>
+			<length>2:55</length>
+			<instrument name="clarinetto">
+				<player name="Michel Lethiec"/> 
+			</instrument>
+			<instrument name="violino">
+				<player name="Daniel Garlitsky"/>
+			</instrument>
+			<instrument name="violino">
+				<player name="Sabine Lethiec"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Wladimir Mendelssohn"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Alain Meunier"/>
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2005"/>
+			<release>Arion ARN 68689</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Quintettino n. 2</name>
+			<description>per flauto, oboe, clarinetto, fagotto e corno</description>
+			<length>3:23</length>
+			<instrument name="flauto">
+				<player name="Benoît Fromanger"/> 
+			</instrument>
+			<instrument name="clarinetto">
+				<player name="Michel Lethiec"/> 
+			</instrument>
+			<instrument name="oboe">
+				<player name="Jean-Louis Capezzali"/> 
+			</instrument>
+			<instrument name="corno">
+				<player name="Hervé Joulain"/> 
+			</instrument>
+			<instrument name="fagotto">			
+				<player name="Amaury Wallez"/> 
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="2005"/>
+			<release>Arion ARN 68689</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Fauno che fischia a un merlo</name>
 			<description>per flauto e arpa</description>
 			<length>5:46</length>
@@ -3905,6 +3953,21 @@
 			<recorded start="2007"/>
 			<release>Attacca CD 28118</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>La malinconia</name>
+			<description>per violino e viola</description>
+			<length>5:32</length>
+			<instrument name="violino">
+				<player name="Daniel Garlitsky"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Wladimir Mendelssohn"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2005"/>
+			<release>Arion ARN 68689</release>
+			<released>2005</released>
 		</composition>
 		<composition>
 			<name>Introduzione all’oscuro</name>
@@ -4090,6 +4153,24 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Codex purpureus</name>
+			<description>per trio d’archi</description>
+			<length>9:03</length>
+			<instrument name="violino">
+				<player name="Daniel Garlitsky"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Wladimir Mendelssohn"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Alain Meunier"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="2005"/>
+			<release>Arion ARN 68689</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Lohengrin</name>
 			<description>Azione invisibile per solista, strumenti e voci</description>
 			<length>43:48</length>
@@ -4102,6 +4183,30 @@
 			<recorded start="2005"/>
 			<release>Col Legno WWE 1CD 20264</release>
 			<released>2008</released>
+		</composition>
+		<composition>
+			<name>Centauro marino</name>
+			<description>per clarinetto, violino, viola, violoncello e pianoforte</description>
+			<length>5:40</length>
+			<instrument name="violino">
+				<player name="Daniel Garlitsky"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Wladimir Mendelssohn"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Alain Meunier"/>
+			</instrument>
+			<instrument name="pianoforte">
+				<player name="Claire Desert"/> 
+			</instrument>
+			<instrument name="clarinetto">
+				<player name="Michel Lethiec"/> 
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2005"/>
+			<release>Arion ARN 68689</release>
+			<released>2005</released>
 		</composition>
 		<composition>
 			<name>Allegoria della notte</name>
@@ -4157,6 +4262,33 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Il tempo con l’obelisco</name>
+			<description>per 6 strumenti</description>
+			<length>7:09</length>
+			<instrument name="violino">
+				<player name="Daniel Garlitsky"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Wladimir Mendelssohn"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Alain Meunier"/>
+			</instrument>
+			<instrument name="flauto">
+				<player name="Benoît Fromanger"/> 
+			</instrument>
+			<instrument name="clarinetto">
+				<player name="Michel Lethiec"/> 
+			</instrument>
+			<instrument name="fagotto">			
+				<player name="Amaury Wallez"/> 
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="2005"/>
+			<release>Arion ARN 68689</release>
+			<released>2005</released>
+		</composition>
+		<composition>
 			<name>Esplorazione del bianco II</name>
 			<description>per flauto, clarinetto basso, violino e chitarra</description>
 			<length>7:38</length>
@@ -4165,6 +4297,30 @@
 			<recorded start="1996"/>
 			<release>Stradivarius STR 33539</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Le ragioni delle conchiglie</name>
+			<description>per quintetto</description>
+			<length>11:56</length>
+			<instrument name="violino">
+				<player name="Daniel Garlitsky"/>
+			</instrument>
+			<instrument name="violino">
+				<player name="Sabine Lethiec"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Wladimir Mendelssohn"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Alain Meunier"/>
+			</instrument>
+			<instrument name="pianoforte">
+				<player name="Claire Desert"/> 
+			</instrument>
+			<composed start="1976"/>
+			<recorded start="2005"/>
+			<release>Arion ARN 68689</release>
+			<released>2005</released>
 		</composition>
 		<composition>
 			<name>Trio n. 2</name>
@@ -4211,6 +4367,30 @@
 			<recorded start="1996"/>
 			<release>Stradivarius STR 33539</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Il silenzio degli oracoli</name>
+			<description>per quintetto a fiati</description>
+			<length>4:11</length>
+			<instrument name="flauto">
+				<player name="Benoît Fromanger"/> 
+			</instrument>
+			<instrument name="clarinetto">
+				<player name="Michel Lethiec"/> 
+			</instrument>
+			<instrument name="oboe">
+				<player name="Jean-Louis Capezzali"/> 
+			</instrument>
+			<instrument name="corno">
+				<player name="Hervé Joulain"/> 
+			</instrument>
+			<instrument name="fagotto">			
+				<player name="Amaury Wallez"/> 
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2005"/>
+			<release>Arion ARN 68689</release>
+			<released>2005</released>
 		</composition>
 		<composition>
 			<name>L’opera per flauto vol. II</name>
