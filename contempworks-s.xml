@@ -4469,6 +4469,21 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Due Arie marine</name>
+			<description>per mezzosoprano e suoni di sintesi in tempo reale</description>
+			<length>19:23</length>
+			<instrument name="Mezzo-soprano">
+				<player name="Alda Caiello"/>
+			</instrument>
+			<instrument name="Electronics">
+				<player name="Alvise Vidolin"/>
+			</instrument>
+			<composed start="1990"/>
+			<recorded start="2017"/>
+			<release>Stradivarius STR 37091</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Frammento e Adagio</name>
 			<description>for flute and orchestra</description>
 			<length>17:13</length>
@@ -4915,6 +4930,33 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Il giardino di Sara</name>
+			<description>per soprano e strumenti</description>
+			<length>24:10</length>
+			<instrument name="Soprano">
+				<player name="Alda Caiello"/>
+			</instrument>
+			<instrument name="Cello">
+				<player name="Carlo Teodoro"/>
+			</instrument>
+			<instrument name="Clarinet">
+				<player name="Davide Teodoro"/>
+			</instrument>
+			<instrument name="Flute">
+				<player name="Daniele Ruggieri"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Aldo Orvieto"/>
+			</instrument>
+			<instrument name="Violin">
+				<player name="Carlo Lazari"/>
+			</instrument>
+			<composed start="2008"/>
+			<recorded start="2017"/>
+			<release>Stradivarius STR 37091</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>L’altro giardino</name>
 			<description>per voce e strumenti</description>
 			<length>24:37</length>
@@ -4967,6 +5009,36 @@
 			<recorded start="2013"/>
 			<release>Neos 11626</release>
 			<released>2016</released>
+		</composition>
+		<composition>
+			<name>La navigazione notturna</name>
+			<description>per quattro pianoforti</description>
+			<length>15:08</length>
+			<instrument name="piano">
+				<player name="Aldo Orvieto"/>
+				<player name="Alfonso Alberti"/>
+				<player name="Anna D'Errico"/>
+				<player name="Fausto Bongelli"/>
+			</instrument>
+			<composed start="1985" end="2017"/>
+			<recorded start="2017"/>
+			<release>Stradivarius STR 37091</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Altre notti</name>
+			<description>per quattro pianoforti</description>
+			<length>8:48</length>
+			<instrument name="piano">
+				<player name="Aldo Orvieto"/>
+				<player name="Alfonso Alberti"/>
+				<player name="Anna D'Errico"/>
+				<player name="Fausto Bongelli"/>
+			</instrument>
+			<composed start="2017"/>
+			<recorded start="2017"/>
+			<release>Stradivarius STR 37091</release>
+			<released>2018</released>
 		</composition>
 	</composer>
 	<composer name="Agostino di" surname="Scipio" born="1962" died="">
