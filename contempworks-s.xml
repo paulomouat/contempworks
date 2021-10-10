@@ -3901,6 +3901,30 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>All’aure in una lontananza</name>
+			<description>per flauto in Sol (o in Do, o flauto basso)</description>
+			<length>10:13</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1990"/>
+			<release>Col Legno WWE 1CD 31884</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>All’aure in una lontananza</name>
+			<description>per flauto in Sol (o in Do, o flauto basso)</description>
+			<length>17:47</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Quintettino n. 2</name>
 			<description>per flauto, oboe, clarinetto, fagotto e corno</description>
 			<length>3:23</length>
@@ -3992,60 +4016,6 @@
 			<released>2000</released>
 		</composition>
 		<composition>
-			<name>Fabbrica degli incantesimi</name>
-			<description>L’opera per flauto</description>
-			<length>1:07:49</length>
-			<part>
-				<number>1</number>
-				<name>All’aure in una lontananza</name>
-				<composed>1977</composed>
-				<length>10:13</length>
-			</part>
-			<part>
-				<number>2</number>
-				<name>Hermes</name>
-				<composed>1984</composed>
-				<length>11:38</length>
-			</part>
-			<part>
-				<number>3</number>
-				<name>Come vengono prodotti gli incantesimi?</name>
-				<composed>1985</composed>
-				<length>7:52</length>
-			</part>
-			<part>
-				<number>4</number>
-				<name>Canzona di ringraziamento</name>
-				<composed>1985</composed>
-				<length>7:04</length>
-			</part>
-			<part>
-				<number>5</number>
-				<name>Venere che le grazie la fioriscono</name>
-				<composed>1989</composed>
-				<length>8:06</length>
-			</part>
-			<part>
-				<number>6</number>
-				<name>L’orizzonte luminoso di Aton</name>
-				<composed>1989</composed>
-				<length>11:35</length>
-			</part>
-			<part>
-				<number>7</number>
-				<name>Fra i testi dedicati alle nubi</name>
-				<composed>1989</composed>
-				<length>10:36</length>
-			</part>
-			<instrument name="flute">
-				<player name="Roberto Fabbriciani"/>
-			</instrument>
-			<composed start="1977" end="1989"/>
-			<recorded start="1990"/>
-			<release>Col Legno WWE 1CD 31884</release>
-			<released>1995</released>
-		</composition>
-		<composition>
 			<name>Efebo com radio</name>
 			<description>for voice and orchestra</description>
 			<length>11:20</length>
@@ -4130,6 +4100,30 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Hermes</name>
+			<description>per flauto</description>
+			<length>11:38</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1983"/>
+			<recorded start="1990"/>
+			<release>Col Legno WWE 1CD 31884</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Hermes</name>
+			<description>per flauto</description>
+			<length>17:59</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Sonata II</name>
 			<description>per pianoforte</description>
 			<length>9:00</length>
@@ -4209,6 +4203,87 @@
 			<released>2005</released>
 		</composition>
 		<composition>
+			<name>Raffigurar Narciso al fonte</name>
+			<description>per 2 flauti, 2 clarinetti e pianoforte</description>
+			<length>6:46</length>
+			<instrument name="flauti">
+				<player name="Manuel Zurria"/> 
+				<player name="Paolo Fratini"/> 
+			</instrument>
+			<instrument name="clarinetti">
+				<player name="Paolo Ravaglia"/> 
+				<player name="Paolo Marchettini"/> 
+			</instrument>
+			<instrument name="pianoforte">
+				<player name="Oscar Pizzo"/> 
+			</instrument>
+			<player name="Alter Ego"/> 
+			<composed start="1984"/>
+			<recorded start="2003"/>
+			<release>Stradivarius STR 33647</release>
+			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Come vengono prodotti gli incantesimi?</name>
+			<description>per flauto</description>
+			<length>7:52</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="1990"/>
+			<release>Col Legno WWE 1CD 31884</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Come vengono prodotti gli incantesimi?</name>
+			<description>per flauto</description>
+			<length>7:12</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Canzona di ringraziamento</name>
+			<description>per flauto</description>
+			<length>7:04</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="1990"/>
+			<release>Col Legno WWE 1CD 31884</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Canzona di ringraziamento</name>
+			<description>per flauto</description>
+			<length>4:21</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Venere che le grazie la fioriscono</name>
+			<description>per flauto</description>
+			<length>8:06</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1985"/>
+			<recorded start="1990"/>
+			<release>Col Legno WWE 1CD 31884</release>
+			<released>1995</released>
+		</composition>
+		<composition>
 			<name>Allegoria della notte</name>
 			<description>for violin and orchestra</description>
 			<length>17:08</length>
@@ -4260,6 +4335,22 @@
 			<recorded start="2007"/>
 			<release>Attacca CD 28118</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>La perfezione di un spirito sottile</name>
+			<description>per voce e flauto</description>
+			<length>41:23</length>
+			<instrument name="flauto">
+				<player name="Manuel Zurria"/> 
+			</instrument>
+			<instrument name="soprano">
+				<player name="Sonia Turchetta"/> 
+			</instrument>
+			<player name="Alter Ego"/> 
+			<composed start="1987"/>
+			<recorded start="2003"/>
+			<release>Stradivarius STR 33647</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Il tempo con l’obelisco</name>
@@ -4317,7 +4408,7 @@
 			<instrument name="pianoforte">
 				<player name="Claire Desert"/> 
 			</instrument>
-			<composed start="1976"/>
+			<composed start="1986"/>
 			<recorded start="2005"/>
 			<release>Arion ARN 68689</release>
 			<released>2005</released>
@@ -4345,6 +4436,23 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Il motivo degli oggetti di vetro</name>
+			<description>per due flauti e pianoforte</description>
+			<length>6:21</length>
+			<instrument name="flauti">
+				<player name="Manuel Zurria"/> 
+				<player name="Paolo Fratini"/> 
+			</instrument>
+			<instrument name="pianoforte">
+				<player name="Oscar Pizzo"/> 
+			</instrument>
+			<player name="Alter Ego"/> 
+			<composed start="1987"/>
+			<recorded start="2003"/>
+			<release>Stradivarius STR 33647</release>
+			<released>2004</released>
+		</composition>
+		<composition>
 			<name>Morte di Borromini</name>
 			<description>for orchestra and speaker</description>
 			<length>27:09</length>
@@ -4359,6 +4467,78 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>L’orizzonte luminoso di Aton</name>
+			<description>per flauto</description>
+			<length>11:35</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1990"/>
+			<release>Col Legno WWE 1CD 31884</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>L’orizzonte luminoso di Aton</name>
+			<description>per flauto</description>
+			<length>12:18</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2001"/>
+			<release>Stradivarius STR 33599</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>L’orizzonte luminoso di Aton</name>
+			<description>per flauto</description>
+			<length>15:31</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Fra i testi dedicati alle nubi</name>
+			<description>per flauto</description>
+			<length>10:36</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="1990"/>
+			<release>Col Legno WWE 1CD 31884</release>
+			<released>1995</released>
+		</composition>
+		<composition>
+			<name>Fra i testi dedicati alle nubi</name>
+			<description>per flauto</description>
+			<length>9:06</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2001"/>
+			<release>Stradivarius STR 33599</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Fra i testi dedicati alle nubi</name>
+			<description>per flauto</description>
+			<length>11:02</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Venere che le Grazie la fioriscono</name>
 			<description>per flauto</description>
 			<length>7:29</length>
@@ -4367,6 +4547,18 @@
 			<recorded start="1996"/>
 			<release>Stradivarius STR 33539</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Venere che le Grazie la fioriscono</name>
+			<description>per flauto</description>
+			<length>7:02</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1989"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
 		</composition>
 		<composition>
 			<name>Il silenzio degli oracoli</name>
@@ -4393,57 +4585,29 @@
 			<released>2005</released>
 		</composition>
 		<composition>
-			<name>L’opera per flauto vol. II</name>
-			<length>49:26</length>
-			<part>
-				<number>1</number>
-				<name>Fra i testi dedicati alle nubi</name>
-				<composed>1989</composed>
-				<length>9:06</length>
-			</part>
-			<part>
-				<number>2</number>
-				<name>Addio case del vento</name>
-				<composed>1993</composed>
-				<length>2:45</length>
-			</part>
-			<part>
-				<number>3</number>
-				<name>L’orologio di Bergson</name>
-				<composed>1999</composed>
-				<length>8:39</length>
-			</part>
-			<part>
-				<number>4</number>
-				<name>Morte Tamburo</name>
-				<composed>1999</composed>
-				<length>4:26</length>
-			</part>
-			<part>
-				<number>5</number>
-				<name>Immagine fenicia</name>
-				<composed>2000</composed>
-				<length>5:37</length>
-			</part>
-			<part>
-				<number>6</number>
-				<name>Lettera degli antipodi portata dal vento</name>
-				<composed>2000</composed>
-				<length>6:35</length>
-			</part>
-			<part>
-				<number>7</number>
-				<name>L’orizzonte luminoso di Aton</name>
-				<composed>1989</composed>
-				<length>12:18</length>
-			</part>
-			<instrument name="flute">
-				<player name="Mario Caroli"/>
+			<name>Il silenzio degli oracoli</name>
+			<description>per quintetto a fiati</description>
+			<length>5:17</length>
+			<instrument name="flauto">
+				<player name="Manuel Zurria"/> 
 			</instrument>
-			<composed start="1989" end="2000"/>
-			<recorded start="2001"/>
-			<release>Stradivarius STR 33599</release>
-			<released>2001</released>
+			<instrument name="clarinetto">
+				<player name="Paolo Ravaglia"/> 
+			</instrument>
+			<instrument name="oboe">
+				<player name="Stefano Lucentini"/> 
+			</instrument>
+			<instrument name="corno">
+				<player name="Stefano Mastrangelo"/> 
+			</instrument>
+			<instrument name="fagotto">			
+				<player name="Marco Dionette"/> 
+			</instrument>
+			<player name="Alter Ego"/> 
+			<composed start="1989"/>
+			<recorded start="2003"/>
+			<release>Stradivarius STR 33647</release>
+			<released>2004</released>
 		</composition>
 		<composition>
 			<name>Perseo e Andromeda</name>
@@ -4518,6 +4682,30 @@
 			<recorded start="1996"/>
 			<release>Stradivarius STR 33539</release>
 			<released>1999</released>
+		</composition>
+		<composition>
+			<name>Addio case del vento</name>
+			<description>per flauto</description>
+			<length>2:45</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="2001"/>
+			<release>Stradivarius STR 33599</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Addio case del vento</name>
+			<description>per flauto</description>
+			<length>2:55</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
 		</composition>
 		<composition>
 			<name>Sonata V</name>
@@ -4662,6 +4850,54 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>L’orologio di Bergson</name>
+			<description>per flauto</description>
+			<length>8:39</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2001"/>
+			<release>Stradivarius STR 33599</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>L’orologio di Bergson</name>
+			<description>per flauto</description>
+			<length>8:13</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Morte Tamburo</name>
+			<description>per flauto e acustica asciutta</description>
+			<length>4:26</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2001"/>
+			<release>Stradivarius STR 33599</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Morte Tamburo</name>
+			<description>per flauto e acustica asciutta</description>
+			<length>4:02</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="1999"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Le voci sottovetro</name>
 			<description>Elaborazione per voce e strumenti</description>
 			<length>26:06</length>
@@ -4741,6 +4977,54 @@
 			<recorded start="2000"/>
 			<release>Cypres CYP5603</release>
 			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Immagine fenicia</name>
+			<description>per flauto amplificato</description>
+			<length>5:37</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2001"/>
+			<release>Stradivarius STR 33599</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Immagine fenicia</name>
+			<description>per flauto amplificato</description>
+			<length>6:01</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Lettera degli antipodi portata dal vento</name>
+			<description>per flauto aperto in Do</description>
+			<length>6:35</length>
+			<instrument name="flute">
+				<player name="Mario Caroli"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2001"/>
+			<release>Stradivarius STR 33599</release>
+			<released>2001</released>
+		</composition>
+		<composition>
+			<name>Lettera degli antipodi portata dal vento</name>
+			<description>per flauto aperto in Do</description>
+			<length>5:54</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="2000"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
 		</composition>
 		<composition>
 			<name>Studi per l’intonazione del mare</name>
@@ -5011,6 +5295,54 @@
 			<released>2016</released>
 		</composition>
 		<composition>
+			<name>Autostrada prima di Babilonia</name>
+			<description>per flauto</description>
+			<length>10:51</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="2014"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Il pomeriggio di un allarme al parcheggio</name>
+			<description>per flauto</description>
+			<length>12:15</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="2015"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Un capitolo mancante</name>
+			<description>per flauto solo</description>
+			<length>9:14</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="2016"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Cresce veloce un cristallo</name>
+			<description>per flauto e risuonatori naturali</description>
+			<length>7:09</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="2017"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>La navigazione notturna</name>
 			<description>per quattro pianoforti</description>
 			<length>15:08</length>
@@ -5039,6 +5371,30 @@
 			<recorded start="2017"/>
 			<release>Stradivarius STR 37091</release>
 			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Fogli per giovani fauni</name>
+			<description>per flauto aperto</description>
+			<length>14:42</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="2018"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Un Tibetano a Parigi</name>
+			<description>per flauto aperto</description>
+			<length>5:00</length>
+			<instrument name="flute">
+				<player name="Matteo Cesari"/>
+			</instrument>
+			<composed start="2018"/>
+			<recorded start="2013" end="2019"/>
+			<release>Kairos 0015074KAI</release>
+			<released>2021</released>
 		</composition>
 	</composer>
 	<composer name="Agostino di" surname="Scipio" born="1962" died="">
