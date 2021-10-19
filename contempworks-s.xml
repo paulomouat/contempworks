@@ -24,6 +24,17 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Verblendungen</name>
+			<name>for orchestra and tape</name>
+			<length>13:14</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Esa-Pekka Saraste</conductor>
+			<composed start="1982" end="1984"/>
+			<recorded start="1989"/>
+			<release>Finlandia FACD 374</release>
+			<released>1989</released>
+		</composition>
+		<composition>
 			<name>Jardin Secret I</name>
 			<description>for computer-generated tape</description>
 			<length>10:38</length>
@@ -44,6 +55,28 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Lichtbogen</name>
+			<name>for 9 musicians and live electronics</name>
+			<length>15:01</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Esa-Pekka Saraste</conductor>
+			<composed start="1985" end="1986"/>
+			<recorded start="1988"/>
+			<release>Finlandia FACD 374</release>
+			<released>1989</released>
+		</composition>
+		<composition>
+			<name>Io</name>
+			<name>for chamber orchestra, tape and live electronics</name>
+			<length>16:52</length>
+			<player name="Avanti! Chamber Orchestra"/>
+			<conductor>Esa-Pekka Saraste</conductor>
+			<composed start="1986" end="1987"/>
+			<recorded start="1988"/>
+			<release>Finlandia FACD 374</release>
+			<released>1989</released>
+		</composition>
+		<composition>
 			<name>Nymphea (Jardin Secret III)</name>
 			<description>for string quartet and live electronics</description>
 			<length>19:25</length>
@@ -52,6 +85,15 @@
 			<recorded start="1991"/>
 			<release>Montaigne MO 782033</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Stilleben</name>
+			<name>for tape (a radiophonic composition)</name>
+			<length>22:09</length>
+			<composed start="1987" end="1988"/>
+			<recorded start="1989"/>
+			<release>Finlandia FACD 374</release>
+			<released>1989</released>
 		</composition>
 		<composition>
 			<name>Petals</name>
