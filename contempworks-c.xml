@@ -2631,6 +2631,46 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Five</name>
+			<description>for viola, accordion, double bass, bassoon and bass clarinet</description>
+			<length>5:20</length>
+			<player name="Apartment House"/>
+			<composed start="1988"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Five</name>
+			<description>for violin, viola, accordion, double bass and bass clarinet</description>
+			<length>5:30</length>
+			<player name="Apartment House"/>
+			<composed start="1988"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Five</name>
+			<description>for violin, viola, double bass, bassoon and bass clarinet</description>
+			<length>5:18</length>
+			<player name="Apartment House"/>
+			<composed start="1988"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Five</name>
+			<description>for two clarinets, bass clarinet, bassoon and oboe</description>
+			<length>5:15</length>
+			<player name="Apartment House"/>
+			<composed start="1988"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Seven</name>
 			<length>20:00</length>
 			<player name="Essential Music"/>
@@ -2647,8 +2687,18 @@
 			<conductor>Daniel Grossmann</conductor>
 			<composed start="1988"/>
 			<recorded start="2007"/>
-			<release>Neos  10720</release>
+			<release>Neos 10720</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Seven</name>
+			<description>for violin, viola, cello, percussion, piano, clarinet and flute</description>
+			<length>20:48</length>
+			<player name="Apartment House"/>
+			<composed start="1988"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
 		</composition>
 		<composition>
 			<name>Art is either a complaint or do something else</name>
@@ -2821,6 +2871,15 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Fourteen</name>
+			<length>20:25</length>
+			<player name="Apartment House"/>
+			<composed start="1990"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>One4</name>
 			<description>for solo drummer</description>
 			<length>6:56</length>
@@ -2977,6 +3036,16 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Seven2</name>
+			<description>for two percussionists, cello, double bass, bass clarinet, bass flute and bass trombone</description>
+			<length>52:10</length>
+			<player name="Apartment House"/>
+			<composed start="1990"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Two4</name>
 			<description>for violin and sho</description>
 			<length>30:16</length>
@@ -3072,6 +3141,16 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Four5</name>
+			<description>for three clarinets and bassoon</description>
+			<length>12:05</length>
+			<player name="Apartment House"/>
+			<composed start="1991"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>One5</name>
 			<description>for piano solo</description>
 			<length>20:40</length>
@@ -3154,6 +3233,16 @@
 			<released>2017</released>
 		</composition>
 		<composition>
+			<name>Five2</name>
+			<description>for clarinet, bass clarinet, timpani, cor anglais and clarinet</description>
+			<length>5:21</length>
+			<player name="Apartment House"/>
+			<composed start="1991"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Five3</name>
 			<description>for trombone &amp; string quartet</description>
 			<length>39:59</length>
@@ -3167,6 +3256,16 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Five3</name>
+			<description>for viola, cello, two violins and trombone</description>
+			<length>40:10</length>
+			<player name="Apartment House"/>
+			<composed start="1991"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Five4</name>
 			<description>for 2 saxophones and 3 percussions</description>
 			<length>5:01</length>
@@ -3175,6 +3274,55 @@
 			<recorded start="1999"/>
 			<release>Mode 104</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Five4</name>
+			<description>for two percussionists and clarinets</description>
+			<length>5:21</length>
+			<player name="Apartment House"/>
+			<composed start="1991"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Five5</name>
+			<description>for clarinet, bass clarinet, percussion, clarinet and flute</description>
+			<length>5:20</length>
+			<player name="Apartment House"/>
+			<composed start="1991"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Six</name>
+			<description>for percussion</description>
+			<length>3:25</length>
+			<player name="Apartment House"/>
+			<composed start="1991"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Eight</name>
+			<description>for trumpet, tuba, bassoon, oboe, clarinet, flute, horn and trombone</description>
+			<length>1:00:27</length>
+			<player name="Apartment House"/>
+			<composed start="1991"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Ten</name>
+			<length>30:12</length>
+			<player name="Apartment House"/>
+			<composed start="1991"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
 		</composition>
 		<composition>
 			<name>Europera 5</name>
@@ -3268,6 +3416,15 @@
 			<recorded start="1993" end="1994"/>
 			<release>Mode 239</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Thirteen</name>
+			<length>30:29</length>
+			<player name="Apartment House"/>
+			<composed start="1992"/>
+			<recorded start="2020" end="2021"/>
+			<release>another timbre at178x4</release>
+			<released>2021</released>
 		</composition>
 		<composition>
 			<name>Four6</name>
@@ -4850,6 +5007,84 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Emblema 1</name>
+			<description>for flute/bass flute, bass clarinet, violin, viola and cello</description>
+			<length>8:55</length>
+			<instrument name="flute, bass flute">
+				<player name="Daniele Ruggieri"/>
+			</instrument>
+			<instrument name="bass clarinet">
+				<player name="Davide Teodoro"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Carlo Lazari"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Mario Paladin"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Carlo Teodoro"/>
+			</instrument>
+			<composed start="2009" end="2010"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015049KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Emblema 3</name>
+			<description>for flute and violin</description>
+			<length>9:36</length>
+			<instrument name="flute">
+				<player name="Daniele Ruggieri"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Carlo Lazari"/>
+			</instrument>
+			<composed start="2009" end="2010"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015049KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Emblema 4</name>
+			<description>for violin, viola and cello</description>
+			<length>9:20</length>
+			<instrument name="violin">
+				<player name="Carlo Lazari"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Mario Paladin"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Carlo Teodoro"/>
+			</instrument>
+			<composed start="2011"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015049KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
+			<name>Emblema 5</name>
+			<description>for clarinet, violin, cello and piano</description>
+			<length>8:56</length>
+			<instrument name="clarinet">
+				<player name="Davide Teodoro"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Carlo Lazari"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Carlo Teodoro"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Aldo Orvieto"/>
+			</instrument>
+			<composed start="2011"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015049KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Atto</name>
 			<description>for acoustic objects</description>
 			<length>38:38</length>
@@ -4862,6 +5097,24 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Emblema 6</name>
+			<description>for bass flute, bass clarinet and cello</description>
+			<length>8:54</length>
+			<instrument name="bass flute">
+				<player name="Daniele Ruggieri"/>
+			</instrument>
+			<instrument name="bass clarinet">
+				<player name="Davide Teodoro"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Carlo Teodoro"/>
+			</instrument>
+			<composed start="2012"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015049KAI</release>
+			<released>2018</released>
+		</composition>
+		<composition>
 			<name>Oltreorme</name>
 			<description>for acoustic objects</description>
 			<length>53:10</length>
@@ -4872,6 +5125,27 @@
 			<recorded start="2012"/>
 			<release>another timbre at61</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Emblema 7</name>
+			<description>for flute, clarinet, violin and cello</description>
+			<length>7:12</length>
+			<instrument name="flute">
+				<player name="Daniele Ruggieri"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Davide Teodoro"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Carlo Lazari"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Carlo Teodoro"/>
+			</instrument>
+			<composed start="2015"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015049KAI</release>
+			<released>2018</released>
 		</composition>
 		<composition>
 			<name>Interni</name>
