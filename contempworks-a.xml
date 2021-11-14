@@ -340,7 +340,19 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="Marc" surname="André" born="1964" died="">
+	<composer name="Mark" surname="André" born="1964" died="">
+		<composition>
+			<name>Un-fini III</name>
+			<description>für Klavier</description>
+			<length>20:51</length>
+			<instrument name="piano">
+				<player name="Tomoko Hemmi"/>
+			</instrument>
+			<composed start="1993" end="1995"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 67832</release>
+			<released>2013</released>
+		</composition>
 		<composition>
 			<name>AB II</name>
 			<description>für Kontrabaßklarinette, Violoncello, Cymbalon, Schlagzeug, Klavier und Live-Elektronik</description>
@@ -354,6 +366,215 @@
 			<recorded start="1997"/>
 			<release>Col Legno WWE 3CD 20025</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Contrapunctus</name>
+			<description>für Klavier</description>
+			<length>8:39</length>
+			<instrument name="piano">
+				<player name="Tomoko Hemmi"/>
+			</instrument>
+			<composed start="1998" end="1999"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 67832</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>...als... II</name>
+			<description>für Bassklarinette, Violoncello und Klavier mit Live-Elektronik</description>
+			<length>18:03</length>
+			<instrument name="bass clarinet">
+				<player name="Shizuyo Oka"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Åsa Åkerberg"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Klaus Steffes-Holländer"/>
+			</instrument>
+			<player name="Experimentalstudio des SWR"/>
+			<composed start="2001"/>
+			<recorded start="2007"/>
+			<release>Kairos 0012732KAI</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>...in</name>
+			<description>für Bassklarinette</description>
+			<length>10:46</length>
+			<instrument name="bass clarinet">
+				<player name="Shizuyo Oka"/>
+			</instrument>
+			<composed start="2002"/>
+			<recorded start="2003"/>
+			<release>Kairos 0012732KAI</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>...zu...</name>
+			<description>für Streichtrio</description>
+			<length>9:36</length>
+			<player name="Trio Accanto"/>
+			<composed start="2004"/>
+			<recorded start="2006"/>
+			<release>Kairos 0012732KAI</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>durch</name>
+			<description>für Saxophon, Schlagzeug und Klavier</description>
+			<length>16:32</length>
+			<instrument name="saxophone">
+				<player name="Marcus Weiss"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Christian Dierstein"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Yukiko Sugawara"/>
+			</instrument>
+			<composed start="2004" end="2005"/>
+			<recorded start="2006"/>
+			<release>Kairos 0012732KAI</release>
+			<released>2008</released>
+		</composition>
+		<composition>
+			<name>hij 1</name>
+			<description>für Orchester</description>
+			<length>22:33</length>
+			<player name="WDR Sinfonieorchester"/>
+			<conductor>Mariano Chiacchiarini</conductor>
+			<composed start="2008" end="2010"/>
+			<recorded start="2015"/>
+			<release>Wergo WER 73792</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>iv 1</name>
+			<description>für Klavier</description>
+			<length>21:42</length>
+			<instrument name="piano">
+				<player name="Yukiko Sugawara"/>
+			</instrument>
+			<composed start="2010"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 67832</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>iv 11a</name>
+			<description>für Klavier</description>
+			<length>2:21</length>
+			<instrument name="piano">
+				<player name="Tomoko Hemmi"/>
+			</instrument>
+			<composed start="2011"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 67832</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>iv 11b</name>
+			<description>für Klavier</description>
+			<length>1:07</length>
+			<instrument name="piano">
+				<player name="Tomoko Hemmi"/>
+			</instrument>
+			<composed start="2011"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 67832</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>hij 2</name>
+			<description>für 24 Stimmen und Elektronik</description>
+			<length>36:47</length>
+			<player name="SWR Vokalensemble"/>
+			<conductor>Marcus Creed</conductor>
+			<player name="SWR Experimentalstudio"/>
+			<composed start="2010" end="2012"/>
+			<recorded start="2013"/>
+			<release>Wergo WER 73792</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>s1</name>
+			<description>für zwei Klaviere</description>
+			<length>24:37</length>
+			<instrument name="piano">
+				<player name="Tomoko Hemmi"/>
+				<player name="Yukiko Sugawara"/>
+			</instrument>
+			<composed start="2009" end="2013"/>
+			<recorded start="2012"/>
+			<release>Wergo WER 67832</release>
+			<released>2013</released>
+		</composition>
+		<composition>
+			<name>riss 2</name>
+			<description>für Ensemble</description>
+			<length>19:45</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Ingo Metzmacher</conductor>
+			<composed start="2014"/>
+			<recorded start="2019"/>
+			<release>Ensemble Modern Medien EMCD 045</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>riss 3</name>
+			<description>für Ensemble</description>
+			<length>17:28</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Ingo Metzmacher</conductor>
+			<composed start="2014" end="2016"/>
+			<recorded start="2019"/>
+			<release>Ensemble Modern Medien EMCD 045</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>iv 13 (Miniaturen)</name>
+			<description>für Streichquartett</description>
+			<length>24:23</length>
+			<player name="Arditti String Quartet"/>
+			<composed start="2014" end="2017"/>
+			<recorded start="2017"/>
+			<release>BR Klassik musica viva 37</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>woher... wohin</name>
+			<description>für Orchester</description>
+			<length>23:20</length>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Matthias Pintscher</conductor>
+			<composed start="2015" end="2017"/>
+			<recorded start="2017"/>
+			<release>BR Klassik musica viva 37</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>riss 1</name>
+			<description>für Ensemble</description>
+			<length>10:07</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Ingo Metzmacher</conductor>
+			<composed start="2015" end="2017"/>
+			<recorded start="2019"/>
+			<release>Ensemble Modern Medien EMCD 045</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>iv 15 (Himmelfahrt)</name>
+			<description>für Orgel</description>
+			<length>10:12</length>
+			<instrument name="organ">
+				<player name="Stephan Heuberger"/>
+			</instrument>
+			<composed start="2018"/>
+			<recorded start="2018"/>
+			<release>BR Klassik musica viva 37</release>
+			<released>2021</released>
 		</composition>
 	</composer>
 	<composer name="Georges" surname="Aperghis" born="1945" died="">
