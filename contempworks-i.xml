@@ -2,6 +2,48 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+	<composer name="Clara" surname="Iannotta" born="1983" died="">
+		<composition>
+			<name>A Failed Entertainment</name>
+			<description>für Streichquartett</description>
+			<length>16:25</length>
+			<player name="JACK Quartet"/>
+			<composed start="2013"/>
+			<recorded start="2020"/>
+			<release>Wergo WER 6433 2</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>dead wasps in the jam-jar (iii)</name>
+			<description>für präpariertes Streichquartett und Sinuswellen</description>
+			<length>12:22</length>
+			<player name="JACK Quartet"/>
+			<composed start="2017" end="2018"/>
+			<recorded start="2020"/>
+			<release>Wergo WER 6433 2</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Earthing - dead wasps (obituary)</name>
+			<description>für präpariertes Streichquartett, Transducer und Elektronik</description>
+			<length>13:00</length>
+			<player name="JACK Quartet"/>
+			<composed start="2019"/>
+			<recorded start="2020"/>
+			<release>Wergo WER 6433 2</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>You crawl over seas of granite</name>
+			<description>für verstärktes Streichquartett in veränderter Stimmung</description>
+			<length>16:00</length>
+			<player name="JACK Quartet"/>
+			<composed start="2019" end="2020"/>
+			<recorded start="2020"/>
+			<release>Wergo WER 6433 2</release>
+			<released>2020</released>
+		</composition>
+	</composer>
 	<composer name="Toshi" surname="Ichiyanagi" born="1933" died="">
 		<composition>
 			<name>Appearance</name>

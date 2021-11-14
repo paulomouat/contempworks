@@ -2047,6 +2047,21 @@
 			<released>1992</released>
 		</composition>
 		<composition score="Y">
+			<name>La lontananza nostalgica utopica futura</name>
+			<description>per violino solo, 8 nastri magnetici, da 8 a 10 leggii</description>
+			<length>61:12</length>
+			<instrument name="violin">
+				<player name="Marco Fusi"/>
+			</instrument>
+			<instrument name="sound direction">
+				<player name="Pierluigi Billone"/>
+			</instrument>
+			<composed start="1988"/>
+			<recorded start="2020"/>
+			<release>Kairos 0015086KAI</release>
+			<released>2020</released>
+		</composition>
+		<composition score="Y">
 			<name>"Hay que caminar" sognando</name>
 			<description>für zwei Violinen</description>
 			<length>27:40</length>

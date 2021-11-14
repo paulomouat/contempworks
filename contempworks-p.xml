@@ -587,6 +587,20 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>Stries</name>
+			<description>for 3 synthesizers and tape</description>
+			<length>44:59</length>
+			<instrument name="synthesizers">
+				<player name="Colette Broeckaert"/>
+				<player name="Sébastien Berweck"/>
+				<player name="Martin Lorenz"/>
+			</instrument>
+			<composed start="1980"/>
+			<recorded start="2021"/>
+			<release>Mode 328</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>La Création du monde</name>
 			<length>1:12:44</length>
 			<part>
