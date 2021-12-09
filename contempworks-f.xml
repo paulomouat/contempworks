@@ -1801,6 +1801,28 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Piano and string quartet</name>
+			<length>1:19:50</length>
+			<instrument name="piano">
+				<player name="Mark Knoop"/>
+			</instrument>
+			<instrument name="violins">
+				<player name="Mira Benjamin"/>
+				<player name="Gordon Mackay"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Bridget Carey"/>
+			</instrument>
+			<instrument name="cello">
+				<player name="Anton Lukoszevieze"/>
+			</instrument>
+			<player name="Apartment House"/>
+			<composed start="1985"/>
+			<recorded start="2021"/>
+			<release>another timbre at182</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>For Bunita Marcus</name>
 			<length>1:12:46</length>
 			<instrument name="Piano">
