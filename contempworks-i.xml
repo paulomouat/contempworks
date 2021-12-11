@@ -71,6 +71,61 @@
 			<released>2020</released>
 		</composition>
 	</composer>
+	<composer name="Martin" surname="Iddon" born="1975" died="">
+		<composition>
+			<name>Head down among the stems and bells</name>
+			<description>for piano</description>
+			<length>13:23</length>
+			<instrument name="piano">
+				<player name="Catherine Laws"/>
+			</instrument>
+			<composed start="2009"/>
+			<recorded start="2013"/>
+			<release>another timbre at72</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Danaë</name>
+			<description>for string trio</description>
+			<length>16:10</length>
+			<player name="Distractfold"/>
+			<composed start="2009" end="2010"/>
+			<recorded start="2013"/>
+			<release>another timbre at72</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Hamadryads</name>
+			<description>Ἁμαδρυάδες</description>
+			<description>for live voices and glass harmonica</description>
+			<length>17:00</length>
+			<player name="Ekmeles"/>
+			<composed start="2010"/>
+			<recorded start="2013"/>
+			<release>another timbre at72</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Pneuma.sarx</name>
+			<description>for voice, flute, violoncello</description>
+			<length>13:09</length>
+			<player name="Trio Atem"/>
+			<composed start="2012"/>
+			<recorded start="2013"/>
+			<release>another timbre at72</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Pneuma.kharis</name>
+			<description>for voice, bass clarinet, slide trumpet/soprano trombone, tenor trombone</description>
+			<length>11:13</length>
+			<player name="loadbang"/>
+			<composed start="2012" end="2013"/>
+			<recorded start="2013"/>
+			<release>another timbre at72</release>
+			<released>2014</released>
+		</composition>
+	</composer>
 	<composer name="Márton" surname="Illés" born="1975" died="">
 		<composition>
 			<name>Ez-tér (Es-Raum)</name>
