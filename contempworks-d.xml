@@ -781,6 +781,109 @@
 			<release>Edition RZ 3006 DVD</release>
 			<released>2012</released>
 		</composition>
+		<composition>
+			<name>Machin de machine</name>
+			<description>Images nomades</description>
+			<length>8:40</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2012"/>
+			<recorded start="2012"/>
+			<release>empreintes DIGITALes IMED 20167</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Perpetuum mobile (Pluies fantômes)</name>
+			<description>Images nomades</description>
+			<length>15:05</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2019"/>
+			<recorded start="2019"/>
+			<release>empreintes DIGITALes IMED 20167</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Ami-versaires</name>
+			<description>Images nomades</description>
+			<length>38:18</length>
+			<part>
+				<number>1</number>
+				<name>Quelques éclats</name>
+				<description>À Miguel Azguime</description>
+				<length>2:39</length>
+				<composed start="2010"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Dénaturé Parmé sons</name>
+				<description>À Bernard Parmegiani</description>
+				<length>3:29</length>
+				<composed start="2007"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Happy New Half-Century, Adrian</name>
+				<description>À Adrian Moore</description>
+				<length>5:50</length>
+				<composed start="2019" end="2020"/>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Glank-50</name>
+				<description>À Jonty Harrison</description>
+				<length>1:02</length>
+				<composed start="2002"/>
+			</part>
+			<part>
+				<number>5</number>
+				<name>forte-piano</name>
+				<description>À Orcar Wiggli</description>
+				<length>8:41</length>
+				<composed start="2008" end="2010"/>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Tintamarre!</name>
+				<description>À Pete Stollery</description>
+				<length>1:00</length>
+				<composed start="2020"/>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Petit souper magazine</name>
+				<description>À Beatriz Ferreyra</description>
+				<length>3:23</length>
+				<composed start="2017"/>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Le flux des sons</name>
+				<description>À Annette Vande Gorne</description>
+				<length>5:44</length>
+				<composed start="2010"/>
+			</part>
+			<part>
+				<number>9</number>
+				<name>La Bayle Music</name>
+				<description>À François Bayle</description>
+				<length>6:10</length>
+				<composed start="2012"/>
+			</part>
+			<player name="Private studio of the composer"/>
+			<composed start="2002" end="2020"/>
+			<recorded start="2002" end="2020"/>
+			<release>empreintes DIGITALes IMED 20167</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Phoenix XXI</name>
+			<description>Images nomades</description>
+			<length>14:59</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2016" end="2020"/>
+			<recorded start="2020"/>
+			<release>empreintes DIGITALes IMED 20167</release>
+			<released>2020</released>
+		</composition>
 	</composer>
 	<composer name="James" surname="Dillon" born="1950" died="">
 		<composition>
