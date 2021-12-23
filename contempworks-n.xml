@@ -2404,6 +2404,60 @@
 			<release>empreintes DIGITALes IMED 14128</release>
 			<released>2014</released>
 		</composition>
+		<composition>
+			<name>L’engloutissement</name>
+			<description>Fixed medium</description>
+			<length>16:25</length>
+			<composed start="2013" end="2019"/>
+			<recorded start="2013" end="2019"/>
+			<release>empreintes DIGITALes IMED 21174</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Melancholia</name>
+			<description>Fixed medium</description>
+			<length>14:42</length>
+			<composed start="2015" end="2018"/>
+			<recorded start="2015" end="2018"/>
+			<release>empreintes DIGITALes IMED 21174</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Tunnel azur</name>
+			<description>Fixed medium</description>
+			<length>12:39</length>
+			<composed start="2016" end="2018"/>
+			<recorded start="2016" end="2018"/>
+			<release>empreintes DIGITALes IMED 21174</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>L’engloutissement</name>
+			<description>Fixed medium</description>
+			<length>16:25</length>
+			<composed start="2013" end="2019"/>
+			<recorded start="2013" end="2019"/>
+			<release>empreintes DIGITALes IMED 21174</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Raíl</name>
+			<description>Fixed medium</description>
+			<length>10:25</length>
+			<composed start="2018" end="2021"/>
+			<recorded start="2018" end="2021"/>
+			<release>empreintes DIGITALes IMED 21174</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Le ravissement</name>
+			<description>Fixed medium</description>
+			<length>15:21</length>
+			<composed start="2019" end="2021"/>
+			<recorded start="2019" end="2021"/>
+			<release>empreintes DIGITALes IMED 21174</release>
+			<released>2021</released>
+		</composition>
 	</composer>
 	<composer name="Emmanuel" surname="Nunes" born="1941" died="2012">
 		<composition>
