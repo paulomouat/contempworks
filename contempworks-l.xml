@@ -703,6 +703,50 @@
 			<released>2003</released>
 		</composition>		
 	</composer>
+	<composer name="Lecours" surname="Pierre-Luc" born="1983" died="">
+		<composition>
+			<name>Impacts discrets</name>
+			<description>Fixed medium, stereo</description>
+			<length>9:12</length>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>empreintes DIGITALes IMED 21170</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Éclats</name>
+			<description>Fixed medium, stereo</description>
+			<length>48:23</length>
+			<part>
+				<number>1</number>
+				<name>Rouge</name>
+				<length>11:07</length>
+				<composed start="2014"/>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Noir</name>
+				<length>15:20</length>
+				<composed start="2018"/>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Blanc</name>
+				<length>10:06</length>
+				<composed start="2015"/>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Violet</name>
+				<length>11:41</length>
+				<composed start="2020"/>
+			</part>
+			<composed start="2014" end="2020"/>
+			<recorded start="2014" end="2020"/>
+			<release>empreintes DIGITALes IMED 21170</release>
+			<released>2021</released>
+		</composition>
+	</composer>
 	<composer name="René" surname="Leibowitz" born="1913" died="1972">
 		<composition>
 			<name>Kammersymphonie für zwölf Instrumente, op. 16</name>
