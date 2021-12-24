@@ -703,7 +703,7 @@
 			<released>2003</released>
 		</composition>		
 	</composer>
-	<composer name="Lecours" surname="Pierre-Luc" born="1983" died="">
+	<composer name="Pierre-Luc" surname="Lecours" born="1983" died="">
 		<composition>
 			<name>Impacts discrets</name>
 			<description>Fixed medium, stereo</description>
