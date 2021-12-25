@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Peter" surname="Ablinger" born="1959" died="">
 		<composition>
@@ -642,6 +647,58 @@
 			<recorded start="1955"/>
 			<release>INA C 1032</release>
 			<released>2004</released>
+		</composition>
+	</composer>
+	<composer name="Patrick" surname="Ascione" born="1953" died="">
+		<composition>
+			<name>Et puis l’oubli</name>
+			<description>Fixed medium, stereo</description>
+			<length>10:06</length>
+			<player name="IMEB, Bourges"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>empreintes DIGITALes IMED 21171</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Divertissement</name>
+			<description>Fixed medium, stereo</description>
+			<length>13:46</length>
+			<player name="IMEB, Bourges"/>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>empreintes DIGITALes IMED 21171</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Danse de l’aube</name>
+			<description>8-channel fixed medium</description>
+			<length>18:21</length>
+			<player name="Ina-GRM"/>
+			<composed start="2000" end="2002"/>
+			<recorded start="2000" end="2002"/>
+			<release>empreintes DIGITALes IMED 21171</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Enième</name>
+			<description>8-channel fixed medium</description>
+			<length>10:11</length>
+			<player name="IMEB, Bourges"/>
+			<composed start="2004"/>
+			<recorded start="2004"/>
+			<release>empreintes DIGITALes IMED 21171</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Ascione no 6: Fantaisie diabolique</name>
+			<description>Fixed medium</description>
+			<length>11:40</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2011" end="2012"/>
+			<recorded start="2011" end="2012"/>
+			<release>empreintes DIGITALes IMED 21171</release>
+			<released>2021</released>
 		</composition>
 	</composer>
 	<composer name="Paulo" surname="Assis" born="1969" died="">
