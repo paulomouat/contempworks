@@ -39,6 +39,50 @@
 			<release>empreintes DIGITALes IMED 1811</release>
 			<released>2018</released>
 		</composition>
+		<composition>
+			<name>Faisceaux</name>
+			<description>Stereo fixed medium</description>
+			<length>8:16</length>
+			<player name="Métamorphoses d’Orphée studio, Ohain"/>
+			<composed start="1985" end="2020"/>
+			<recorded start="1985" end="2020"/>
+			<release>empreintes DIGITALes IMED 20165</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Faisceaux</name>
+			<description>For piano and spatialized stereo fixed medium</description>
+			<length>9:49</length>
+			<instrument name="piano">
+				<player name="Ana Cláudia de Assis"/>
+			</instrument>
+			<player name="Métamorphoses d’Orphée studio, Ohain"/>
+			<composed start="1985" end="2020"/>
+			<recorded start="1985" end="2020"/>
+			<release>empreintes DIGITALes IMED 20165</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Au-delà du réel</name>
+			<description>16-channel fixed medium</description>
+			<length>11:06</length>
+			<player name="Métamorphoses d’Orphée studio, Ohain"/>
+			<composed start="2013" end="2020"/>
+			<recorded start="2013" end="2020"/>
+			<release>empreintes DIGITALes IMED 20165</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Déluges et autres péripéties</name>
+			<description>16-channel fixed medium</description>
+			<length>28:00</length>
+			<player name="Métamorphoses d’Orphée studio, Ohain"/>
+			<player name="Studio PANaroma de Música Eletroacústica da Unesp, São Paulo"/>
+			<composed start="2014" end="2015"/>
+			<recorded start="2014" end="2015"/>
+			<release>empreintes DIGITALes IMED 20165</release>
+			<released>2020</released>
+		</composition>
 	</composer>	
 	<composer name="Edgar" surname="Varèse" born="1883" died="1965">
 		<composition>
