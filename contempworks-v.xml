@@ -9,6 +9,16 @@
 <list>
 	<composer name="Horacio" surname="Vaggione" born="1943" died="">
 		<composition>
+			<name>Fractal C</name>
+			<description>16-channel fixed medium</description>
+			<length>10:35</length>
+			<player>IRCAM</player>
+			<composed start="1983" end="1984"/>
+			<recorded start="1983" end="1984"/>
+			<release>empreintes DIGITALes IMED 17145</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Ash</name>
 			<length>7:34</length>
 			<instrument name="Réalisation">
@@ -26,6 +36,46 @@
 			<recorded start="2002"/>
 			<release>EMF CD 053</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Préludes suspendus III</name>
+			<description>Stereo fixed medium</description>
+			<length>8:48</length>
+			<player>IMEB</player>
+			<composed start="2009" end="2010"/>
+			<recorded start="2009" end="2010"/>
+			<release>empreintes DIGITALes IMED 17145</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Consort for Convolved Violins</name>
+			<description>Stereo fixed medium</description>
+			<length>7:12</length>
+			<player>CICM</player>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>empreintes DIGITALes IMED 17145</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>PianoHertz</name>
+			<description>Multichannel fixed medium</description>
+			<length>18:29</length>
+			<player>ZKM</player>
+			<composed start="2012"/>
+			<recorded start="2012"/>
+			<release>empreintes DIGITALes IMED 17145</release>
+			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Mécanique des fluides</name>
+			<description>8-channel fixed medium</description>
+			<length>19:17</length>
+			<player>Ina-GRM</player>
+			<composed start="2014" end="2015"/>
+			<recorded start="2014" end="2015"/>
+			<release>empreintes DIGITALes IMED 17145</release>
+			<released>2017</released>
 		</composition>
 	</composer>
 	<composer name="Annette" surname="Vande Gorne" born="1946" died="">
