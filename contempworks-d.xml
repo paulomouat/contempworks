@@ -1359,6 +1359,25 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Notre besoin de consolation est impossible à rassasier</name>
+			<description>Acousmatique, support audio 2 pistes</description>
+			<length>1:07:22</length>
+			<instrument name="Jeu sur les carburateurs d’une Rolls Royce Silver Shadow">
+				<player name="Alain Gonnard"/>
+			</instrument>
+			<instrument name="Voix">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Stig Dagerman"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="1989"/>
+			<recorded start="1989"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Chrysalide</name>
 			<length>28:45</length>
 			<part>
@@ -1380,6 +1399,190 @@
 			<recorded start="1993"/>
 			<release>Musidisc 247 512</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Sotto voce</name>
+			<description>Acousmatique, support audio 2 pistes</description>
+			<length>15:22</length>
+			<instrument name="Voix">
+				<player name="Manon Jomain"/>
+				<player name="Stéphane Géraud"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2003"/>
+			<recorded start="2003"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Les Invasions fantômes</name>
+			<description>Acousmatique, support audio 2 pistes</description>
+			<length>32:50</length>
+			<instrument name="Guitare">
+				<player name="Denis Dufour"/>
+			</instrument>
+			<instrument name="Flûte à bec et cloche">
+				<player name="Quentin Morton"/>
+			</instrument>
+			<instrument name="Voix">
+				<player name="Gilian Petrovski"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Hentai</name>
+			<description>Acousmatique, support audio 2 pistes</description>
+			<length>10:32</length>
+			<instrument name="Voix">
+				<player name="Kasumi Handa"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Blue Rocket on a Rocky Shore</name>
+			<description>Acousmatique, support audio 2 pistes</description>
+			<length>31:31</length>
+			<part>
+			<number>1</number>
+				<name>Introduction</name>
+				<length>6:39</length>
+			</part>
+			<part>
+			<number>2</number>
+				<name>Métamorphose des nuages</name>
+				<length>2:17</length>
+			</part>
+			<part>
+			<number>3</number>
+				<name>Égarement</name>
+				<length>1:43</length>
+			</part>
+			<part>
+			<number>4</number>
+				<name>Solitude</name>
+				<length>1:42</length>
+			</part>
+			<part>
+			<number>5</number>
+				<name>Secours ou anéantissement</name>
+				<length>1:50</length>
+			</part>
+			<part>
+			<number>6</number>
+				<name>Massacre ou fraternité</name>
+				<length>2:07</length>
+			</part>
+			<part>
+			<number>7</number>
+				<name>Acier glacé de l’ogive</name>
+				<length>2:00</length>
+			</part>
+			<part>
+			<number>8</number>
+				<name>Tôles déchirées</name>
+				<length>1:47</length>
+			</part>
+			<part>
+			<number>9</number>
+				<name>Traces de corrosion</name>
+				<length>1:33</length>
+			</part>
+			<part>
+			<number>10</number>
+				<name>Dérive</name>
+				<length>1:42</length>
+			</part>
+			<part>
+			<number>11</number>
+				<name>Parfum de cadavre</name>
+				<length>1:57</length>
+			</part>
+			<part>
+			<number>12</number>
+				<name>Lente apparition de l’aube</name>
+				<length>2:09</length>
+			</part>
+			<part>
+			<number>13</number>
+				<name>Vers une lande inconnue</name>
+				<length>4:05</length>
+			</part>
+			<instrument name="Voix">
+				<player name="Nissim Schaul"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Tapovan</name>
+			<description>Acousmatique, support audio 2 pistes</description>
+			<length>18:18</length>
+			<instrument name="Voix">
+				<player name="Tomonari Higaki"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2016"/>
+			<recorded start="2016"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>BlindPoint</name>
+			<description>Acousmatique, support audio 2 pistes</description>
+			<length>30:30</length>
+			<instrument name="Flûte">
+				<player name="Shao-Wei Chou"/>
+				<player name="Diego Uribe"/>
+			</instrument>
+			<instrument name="Hautbois">
+				<player name="Antoine Sebillotte"/>
+			</instrument>
+			<instrument name="Alto">
+				<player name="Gildas Guillon"/>
+			</instrument>
+			<instrument name="Contrebasse">
+				<player name="Anne Vauchelet"/>
+			</instrument>
+			<instrument name="Voix">
+				<player name="Margaret Thatcher"/>
+				<player name="Hamish Hossain"/>
+				<player name="Paul Willenbrock"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+				<player name="William Shakespeare"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2018"/>
+			<recorded start="2018"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
 		</composition>
 	</composer>
 	<composer name="Hugues" surname="Dufourt" born="1943" died="">
