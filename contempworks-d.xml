@@ -1340,6 +1340,135 @@
 	</composer>
 	<composer name="Denis" surname="Dufour" born="1953" died="">
 		<composition>
+			<name>Bocalises, petite suite</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>19:02</length>
+			<part>
+				<number>1</number>
+				<name>Introduction</name>
+				<length>0:46</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Prélude</name>
+				<length>1:13</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Hésitation 1</name>
+				<length>2:33</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Bris</name>
+				<length>3:26</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Interlude</name>
+				<length>0:29</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Fragmentation</name>
+				<length>3:26</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Coulée</name>
+				<length>1:14</length>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Hésitation 2</name>
+				<length>2:12</length>
+			</part>
+			<part>
+				<number>9</number>
+				<name>Interlude</name>
+				<length>0:47</length>
+			</part>
+			<part>
+				<number>10</number>
+				<name>Final</name>
+				<length>2:22</length>
+			</part>
+			<player name="Ina-GRM"/>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Suite en trois mouvements</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>21:13</length>
+			<part>
+				<number>1</number>
+				<name>Rondo</name>
+				<length>14:00</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Ritournelle</name>
+				<length>2:39</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Final</name>
+				<length>4:25</length>
+			</part>
+			<player name="Ina-GRM"/>
+			<composed start="1981"/>
+			<recorded start="1981"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Le Lis vert</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>36:38</length>
+			<part>
+				<number>1</number>
+				<name>Nuage d'émeraude</name>
+				<length>8:45</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Parfum de nacre et d'opale</name>
+				<length>9:37</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Couleur des rêves et des ombres</name>
+				<length>7:47</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Celui qui vient</name>
+				<length>10:08</length>
+			</part>
+			<player name="Ina-GRM"/>
+			<composed start="1983"/>
+			<recorded start="1983"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Suite bleue</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>19:20</length>
+			<instrument name="Voix">
+				<player name="Michel Chion"/>
+				<player name="Denis Dufour"/>
+			</instrument>
+			<player name="Ina-GRM"/>
+			<composed start="1983"/>
+			<recorded start="1983"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Pli de perversion 2</name>
 			<description>pour trio instrumental électroacoustique</description>
 			<length>7:12</length>
@@ -1360,7 +1489,7 @@
 		</composition>
 		<composition>
 			<name>Notre besoin de consolation est impossible à rassasier</name>
-			<description>Acousmatique, support audio 2 pistes</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>1:07:22</length>
 			<instrument name="Jeu sur les carburateurs d’une Rolls Royce Silver Shadow">
 				<player name="Alain Gonnard"/>
@@ -1401,8 +1530,137 @@
 			<released>1996</released>
 		</composition>
 		<composition>
+			<name>Allégorie</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>1:09:30</length>
+			<part>
+				<number>1</number>
+				<name>Lumière captive</name>
+				<length>7:53</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Perdue de vue</name>
+				<length>8:02</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Lumière des étoiles mortes</name>
+				<length>7:53</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Incendie de l’amour</name>
+				<length>7:01</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Lumière des yeux</name>
+				<length>7:04</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Lumière des ténèbres</name>
+				<length>6:54</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Inversion de la lumière</name>
+				<length>8:26</length>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Lumière inouïe</name>
+				<length>5:42</length>
+			</part>
+			<part>
+				<number>9</number>
+				<name>Lumière évanouie</name>
+				<length>8:27</length>
+			</part>			
+			<player name="Private studio of the composer"/>
+			<composed start="1995"/>
+			<recorded start="1995"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Piano dans le ciel</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>37:37</length>
+			<part>
+				<number>1</number>
+				<name>Prélude, Maestoso</name>
+				<length>6:44</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Interlude 1</name>
+				<length>0:12</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Fantaisie, Andante</name>
+				<length>5:24</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Improvisation 1</name>
+				<length>3:19</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Interlude 2</name>
+				<length>0:10</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Interlude 3</name>
+				<length>0:14</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Sarabande, Lento</name>
+				<length>5:02</length>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Improvisation 2</name>
+				<length>4:00</length>
+			</part>
+			<part>
+				<number>9</number>
+				<name>Interlude 4</name>
+				<length>0:17</length>
+			</part>
+			<part>
+				<number>10</number>
+				<name>Largo sostenuto</name>
+				<length>6:54</length>
+			</part>
+			<part>
+				<number>11</number>
+				<name>Improvisation 3</name>
+				<length>3:30</length>
+			</part>
+			<part>
+				<number>12</number>
+				<name>Postlude</name>
+				<length>0:30</length>
+			</part>
+			<instrument name="Voix">
+				<player name="Jay Gottlieb"/>
+				<player name="Jonathan Prager"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Sotto voce</name>
-			<description>Acousmatique, support audio 2 pistes</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>15:22</length>
 			<instrument name="Voix">
 				<player name="Manon Jomain"/>
@@ -1419,7 +1677,7 @@
 		</composition>
 		<composition>
 			<name>Les Invasions fantômes</name>
-			<description>Acousmatique, support audio 2 pistes</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>32:50</length>
 			<instrument name="Guitare">
 				<player name="Denis Dufour"/>
@@ -1441,7 +1699,7 @@
 		</composition>
 		<composition>
 			<name>Hentai</name>
-			<description>Acousmatique, support audio 2 pistes</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>10:32</length>
 			<instrument name="Voix">
 				<player name="Kasumi Handa"/>
@@ -1456,8 +1714,18 @@
 			<released>2021</released>
 		</composition>
 		<composition>
+			<name>Variations acousmatiques</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>14:26</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Blue Rocket on a Rocky Shore</name>
-			<description>Acousmatique, support audio 2 pistes</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>31:31</length>
 			<part>
 			<number>1</number>
@@ -1538,7 +1806,7 @@
 		</composition>
 		<composition>
 			<name>Tapovan</name>
-			<description>Acousmatique, support audio 2 pistes</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>18:18</length>
 			<instrument name="Voix">
 				<player name="Tomonari Higaki"/>
@@ -1553,8 +1821,24 @@
 			<released>2021</released>
 		</composition>
 		<composition>
+			<name>Les cris de Tatibagan</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>1:55:00</length>
+			<instrument name="Voix">
+				<player name="Hamish Hossain"/>
+			</instrument>
+			<instrument name="Performances vocales">
+				<player name="Hém-Ish"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2017"/>
+			<recorded start="2017"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>BlindPoint</name>
-			<description>Acousmatique, support audio 2 pistes</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>30:30</length>
 			<instrument name="Flûte">
 				<player name="Shao-Wei Chou"/>
