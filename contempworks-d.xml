@@ -1488,6 +1488,136 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Dix portraits</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>38:20</length>
+			<part>
+				<number>1</number>
+				<name>Jean-Luc Saulnier</name>
+				<length>3:30</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Patrice Motte</name>
+				<length>3:11</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Thomas Brando</name>
+				<length>4:32</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Alain Duband</name>
+				<length>3:28</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Philippe Kapp</name>
+				<length>3:40</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Philippe Mion</name>
+				<length>3:46</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Jean-Christophe Thomas</name>
+				<length>3:23</length>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Didier Peigné</name>
+				<length>3:35</length>
+			</part>
+			<part>
+				<number>9</number>
+				<name>André Yagan</name>
+				<length>4:13</length>
+			</part>
+			<part>
+				<number>10</number>
+				<name>Alain Gonnard</name>
+				<length>3:49</length>
+			</part>
+			<player name="Ina-GRM"/>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Douze mélodies acousmatiques</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>25:41</length>
+			<part>
+				<number>1</number>
+				<name>Des mains insomniaques conduiront le coupé rouge</name>
+				<length>3:36</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Courant dans l’air noir</name>
+				<length>2:47</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>La Lune agrippée dans les platanes</name>
+				<length>2:22</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Sur un lit d’orchidées sauvages</name>
+				<length>1:34</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Des sifflets malicieux ou tyranniques</name>
+				<length>1:40</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Les Génies et les singes</name>
+				<length>1:00</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>Les Lys voluptueux de la route</name>
+				<length>2:54</length>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Des gifles de tilleul et des claques de pin</name>
+				<length>0:53</length>
+			</part>
+			<part>
+				<number>9</number>
+				<name>Ton corps est une surprise</name>
+				<length>1:57</length>
+			</part>
+			<part>
+				<number>10</number>
+				<name>Entre les troncs impassibles aux grands bras balancés de vent qui songent</name>
+				<length>2:40</length>
+			</part>
+			<part>
+				<number>11</number>
+				<name>Croquant dans une cerise</name>
+				<length>1:43</length>
+			</part>
+			<part>
+				<number>12</number>
+				<name>Le Frais refrain de ta bouche</name>
+				<length>1:50</length>
+			</part>
+			<player name="Private studio of the composer"/>
+			<composed start="1988"/>
+			<recorded start="1988"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Notre besoin de consolation est impossible à rassasier</name>
 			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>1:07:22</length>
@@ -1581,6 +1711,67 @@
 			<player name="Private studio of the composer"/>
 			<composed start="1995"/>
 			<recorded start="1995"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Chanson de la plus haute tour</name>
+			<description>Musique acousmatique, support audio 4 pistes</description>
+			<length>1:12:00</length>
+			<part>
+				<number>1</number>
+				<name>De toutes les formes</name>
+				<length>4:48</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Des millions de signes</name>
+				<length>9:35</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Entendant ce flot</name>
+				<length>9:07</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Sont-ce les sons</name>
+				<length>8:42</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Quelle route</name>
+				<length>15:45</length>
+			</part>
+			<part>
+				<number>6</number>
+				<name>Petite fée</name>
+				<length>8:49</length>
+			</part>
+			<part>
+				<number>7</number>
+				<name>C’est lui</name>
+				<length>4:16</length>
+			</part>
+			<part>
+				<number>8</number>
+				<name>Ne pas penser</name>
+				<length>6:28</length>
+			</part>
+			<part>
+				<number>9</number>
+				<name>L’invisible</name>
+				<length>3:30</length>
+			</part>			
+			<instrument name="Voix">
+				<player name="Pierre Henry"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2000"/>
+			<recorded start="2000"/>
 			<release>Kairos 0015076KAI</release>
 			<released>2021</released>
 		</composition>
