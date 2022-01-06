@@ -1400,6 +1400,23 @@
 			<released>2021</released>
 		</composition>
 		<composition>
+			<name>Rond de jambe</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>8:05</length>
+			<instrument name="Synthétiseur">
+				<player name="Denis Dufour"/>
+			</instrument>
+			<instrument name="Séquences de percussion">
+				<player name="Jean-Christophe Thomas"/>
+				<player name="Denis Dufour"/>
+			</instrument>
+			<player name="Ina-GRM"/>
+			<composed start="1979"/>
+			<recorded start="1979"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>L’Apocalypse d’Angers</name>
 			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>50:30</length>
@@ -1557,6 +1574,16 @@
 				<name>Alain Gonnard</name>
 				<length>3:49</length>
 			</part>
+			<player name="Ina-GRM"/>
+			<composed start="1984"/>
+			<recorded start="1984"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Le Labyrinthe de l’amour 1</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>3:35</length>
 			<player name="Ina-GRM"/>
 			<composed start="1984"/>
 			<recorded start="1984"/>
@@ -1766,6 +1793,16 @@
 			<released>2021</released>
 		</composition>
 		<composition>
+			<name>Lux tenebrae</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>22:14</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Terra incognita</name>
 			<description>Musique acousmatique, support audio 4 pistes</description>
 			<length>25:42</length>
@@ -1867,6 +1904,16 @@
 			<instrument name="Texte">
 				<player name="Thomas Brando"/>
 			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Organa</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>9:00</length>
 			<player name="Private studio of the composer"/>
 			<composed start="2000"/>
 			<recorded start="2000"/>
@@ -1982,6 +2029,17 @@
 			<released>2021</released>
 		</composition>
 		<composition>
+			<name>Berechit</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>6:00</length>
+			<player name="Studio Charybde, IMEB, Bourges"/>
+			<player name="Private studio of the composer"/>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Géométrie mystique</name>
 			<description>Cycle Les Acousmalides</description>
 			<description>Musique acousmatique, support audio 2 pistes</description>
@@ -2012,6 +2070,62 @@
 			<player name="Private studio of the composer"/>
 			<composed start="2003"/>
 			<recorded start="2003"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Le Tango de l’oubli</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>4:02</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2003"/>
+			<recorded start="2003"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>L’Esprit en étoile</name>
+			<description>Cycle Le Livre des désordres</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>14:44</length>
+			<instrument name="Ken, harpe, cymbale">
+				<player name="Denis Dufour"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Dionaea</name>
+			<description>Cycle Le Livre des désordres</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>10:10</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>The Blob</name>
+			<description>Cycle Le Livre des désordres</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>10:11</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2009"/>
+			<recorded start="2009"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Augen Licht</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>25:00</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2009"/>
+			<recorded start="2009"/>
 			<release>Kairos 0015076KAI</release>
 			<released>2021</released>
 		</composition>
@@ -2067,6 +2181,16 @@
 			<name>Variations acousmatiques</name>
 			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>14:26</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>The Wall</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>28:40</length>
 			<player name="Private studio of the composer"/>
 			<composed start="2011"/>
 			<recorded start="2011"/>
@@ -2161,6 +2285,36 @@
 			<player name="Private studio of the composer"/>
 			<composed start="2013"/>
 			<recorded start="2013"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Aristée et Eurydice</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>4:00</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Si tendre, si funeste</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>5:17</length>
+			<part>
+				<number>1</number>
+				<name>Lieux funestes</name>
+				<length>3:00</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>D'un amour sans espoir</name>
+				<length>2:17</length>
+			</part>
+			<player name="Private studio of the composer"/>
+			<composed start="2014"/>
+			<recorded start="2014"/>
 			<release>Kairos 0015076KAI</release>
 			<released>2021</released>
 		</composition>
