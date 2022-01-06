@@ -1400,6 +1400,22 @@
 			<released>2021</released>
 		</composition>
 		<composition>
+			<name>L’Apocalypse d’Angers</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>50:30</length>
+			<instrument name="Voix">
+				<player name="Benjamin Duvshani"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Saint-Jean, découpage par Benjamin Duvshani"/>
+			</instrument>
+			<player name="Ina-GRM"/>
+			<composed start="1980"/>
+			<recorded start="1980"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Suite en trois mouvements</name>
 			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>21:13</length>
@@ -1544,6 +1560,21 @@
 			<player name="Ina-GRM"/>
 			<composed start="1984"/>
 			<recorded start="1984"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Psaume d’Adam</name>
+			<description>Cycle Les Acousmalides</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>10:45</length>
+			<instrument name="Voix">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Ina-GRM"/>
+			<player name="Private studio of the composer"/>
+			<composed start="1986"/>
+			<recorded start="1986"/>
 			<release>Kairos 0015076KAI</release>
 			<released>2021</released>
 		</composition>
@@ -1715,6 +1746,56 @@
 			<released>2021</released>
 		</composition>
 		<composition>
+			<name>Nuage de Pierre</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>5:05</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1996"/>
+			<recorded start="1996"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Ebene Sieben</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>25:44</length>
+			<player name="Private studio of the composer"/>
+			<composed start="1997"/>
+			<recorded start="1997"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Terra incognita</name>
+			<description>Musique acousmatique, support audio 4 pistes</description>
+			<length>25:42</length>
+			<part>
+				<number>1</number>
+				<name>De Inventione</name>
+				<length>5:32</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>De Quaestione</name>
+				<length>8:30</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>De Imperio</name>
+				<length>7:13</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>De servitute</name>
+				<length>3:59</length>
+			</part>
+			<player name="Private studio of the composer"/>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Chanson de la plus haute tour</name>
 			<description>Musique acousmatique, support audio 4 pistes</description>
 			<length>1:12:00</length>
@@ -1765,6 +1846,23 @@
 			</part>			
 			<instrument name="Voix">
 				<player name="Pierre Henry"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2000"/>
+			<recorded start="2000"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Caravaggio</name>
+			<description>Cycle Les Acousmalides</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>10:00</length>
+			<instrument name="Voix">
+				<player name="Denis Dufour"/>
 			</instrument>
 			<instrument name="Texte">
 				<player name="Thomas Brando"/>
@@ -1850,6 +1948,57 @@
 			<released>2021</released>
 		</composition>
 		<composition>
+			<name>La malédiction des flammes</name>
+			<description>Cycle Les Acousmalides</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>6:11</length>
+			<instrument name="Voix">
+				<player name="Denis Dufour"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Panique au bord de l’eau</name>
+			<description>Cycle Les Acousmalides</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>6:05</length>
+			<instrument name="Voix">
+				<player name="Florence Gonot"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Géométrie mystique</name>
+			<description>Cycle Les Acousmalides</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>4:28</length>
+			<instrument name="Voix">
+				<player name="Florence Gonot"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2002"/>
+			<recorded start="2002"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Sotto voce</name>
 			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>15:22</length>
@@ -1863,6 +2012,16 @@
 			<player name="Private studio of the composer"/>
 			<composed start="2003"/>
 			<recorded start="2003"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Ryoan-Ji (Le jardin de pierre de Kyoto)</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>10:19</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2010"/>
+			<recorded start="2010"/>
 			<release>Kairos 0015076KAI</release>
 			<released>2021</released>
 		</composition>
@@ -1979,7 +2138,7 @@
 				<length>2:09</length>
 			</part>
 			<part>
-			<number>13</number>
+				<number>13</number>
 				<name>Vers une lande inconnue</name>
 				<length>4:05</length>
 			</part>
@@ -1989,6 +2148,16 @@
 			<instrument name="Texte">
 				<player name="Thomas Brando"/>
 			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2013"/>
+			<recorded start="2013"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>In Paradisum</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>6:49</length>
 			<player name="Private studio of the composer"/>
 			<composed start="2013"/>
 			<recorded start="2013"/>
@@ -2056,6 +2225,113 @@
 			<player name="Private studio of the composer"/>
 			<composed start="2018"/>
 			<recorded start="2018"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Missa pro pueris</name>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>47:47</length>
+			<part>
+				<number>1</number>
+				<name>Kyrie - Toi qui riais</name>
+				<length>7:50</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Gloria - Lève, lève-toi</name>
+				<length>6:00</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Credo</name>
+				<length>14:12</length>
+			</part>
+			<part>
+				<number>3.1</number>
+				<name>La route n’est pas longue</name>
+				<length>3:25</length>
+			</part>
+			<part>
+				<number>3.2</number>
+				<name>Je crains que tu ne sois là</name>
+				<length>3:00</length>
+			</part>
+			<part>
+				<number>3.3</number>
+				<name>Sur ton sein frileux de granit</name>
+				<length>3:05</length>
+			</part>
+			<part>
+				<number>3.4</number>
+				<name>Sentiras-tu l’étreinte</name>
+				<length>1:30</length>
+			</part>
+			<part>
+				<number>3.5</number>
+				<name>Je crois</name>
+				<length>2:42</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Sanctus</name>
+				<length>9:55</length>
+			</part>
+			<part>
+				<number>4.1</number>
+				<name>Règnes-tu sur un volcan de mépris</name>
+				<length>7:21</length>
+			</part>
+			<part>
+				<number>4.2</number>
+				<name>Béni sois-tu</name>
+				<length>2:28</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Agnus Dei</name>
+				<length>8:57</length>
+			</part>
+			<part>
+				<number>5.1</number>
+				<name>Agneau de toi messe de roi</name>
+				<length>6:10</length>
+			</part>
+			<part>
+				<number>5.2</number>
+				<name>Gloire à toi</name>
+				<length>2:43</length>
+			</part>
+			<instrument name="Chant diphonique, chant de gorge">
+				<player name="Hém-Ish"/>
+			</instrument>
+			<instrument name="Voix">
+				<player name="Paul Willenbrock"/>
+				<player name="Raphael Willenbrock"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2019"/>
+			<recorded start="2019"/>
+			<release>Kairos 0015076KAI</release>
+			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Air</name>
+			<description>Cycle Les Acousmalides</description>
+			<description>Musique acousmatique, support audio 2 pistes</description>
+			<length>9:09</length>
+			<instrument name="Voix">
+				<player name="Arthur Lévy"/>
+			</instrument>
+			<instrument name="Texte">
+				<player name="Thomas Brando"/>
+			</instrument>
+			<player name="Private studio of the composer"/>
+			<composed start="2020"/>
+			<recorded start="2020"/>
 			<release>Kairos 0015076KAI</release>
 			<released>2021</released>
 		</composition>
