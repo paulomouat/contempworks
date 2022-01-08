@@ -2191,6 +2191,16 @@
 			<name>The Wall</name>
 			<description>Musique acousmatique, support audio 2 pistes</description>
 			<length>28:40</length>
+			<part>
+				<number>1</number>
+				<name>Muro del suono 1</name>
+				<length>14:23</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Muro del suono 2</name>
+				<length>14:18</length>
+			</part>
 			<player name="Private studio of the composer"/>
 			<composed start="2011"/>
 			<recorded start="2011"/>
