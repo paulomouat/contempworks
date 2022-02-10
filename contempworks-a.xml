@@ -292,6 +292,52 @@
 			<released>1994</released>
 		</composition>
 	</composer>
+	<composer name="Dieter" surname="Ammann" born="1962" died="">
+		<composition>
+			<name>Imagination against numbers</name>
+			<description>for violoncello</description>
+			<length>9:20</length>
+			<instrument name="Violoncello">
+				<player name="David Riniker"/>
+			</instrument>
+			<composed start="1994" end="1998"/>
+			<recorded start="2002"/>
+			<release>hat[now]ART 158</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>The Freedom of Speech</name>
+			<description>for flute, clarinet, violin, violoncello, piano and percussion</description>
+			<length>18:43</length>
+			<player name="Ensemble für Neue Musik Zürich"/>
+			<conductor>Jürg Henneberger</conductor>
+			<composed start="1995" end="1996"/>
+			<recorded start="2002"/>
+			<release>hat[now]ART 158</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Violation</name>
+			<description>for violoncello and ensemble</description>
+			<length>15:38</length>
+			<player name="Ensemble für Neue Musik Zürich"/>
+			<conductor>Jürg Henneberger</conductor>
+			<composed start="1998" end="1999"/>
+			<recorded start="2002"/>
+			<release>hat[now]ART 158</release>
+			<released>2005</released>
+		</composition>
+		<composition>
+			<name>Gehörte Form - Hommages</name>
+			<description>for string trio</description>
+			<length>19:41</length>
+			<player name="Philharmonisches Streichtrio, Berlin"/>
+			<composed start="1998"/>
+			<recorded start="2002"/>
+			<release>hat[now]ART 158</release>
+			<released>2005</released>
+		</composition>
+	</composer>
 	<composer name="Gilbert" surname="Amy" born="1936" died="">
 		<composition>
 			<name>Petit Duo</name>
