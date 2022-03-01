@@ -351,6 +351,17 @@
 	</composer>
 	<composer name="Roland" surname="Kayn" born="1933" died="2011">
 		<composition>
+			<name>Tektra</name>
+			<length>4:52:22</length>
+			<instrument name="Realisation">
+				<player name="Instituut voor Sonologie der Rijksuniversiteit, Utrecht"/>
+			</instrument>
+			<composed start="1980" end="1981"/>
+			<recorded start="1980" end="1981"/>
+			<release>Reiger-Records-Reeks KY-CD 2101-05</release>
+			<released>2021</released>
+		</composition>
+		<composition>
 			<name>Scanning</name>
 			<length>10:10:04</length>
 			<instrument name="Realisation">
