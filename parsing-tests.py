@@ -20,7 +20,7 @@ def processDom(dom):
 		for composer in composers:
 			name = composer.attributes["name"].value
 			surname = composer.attributes["surname"].value
-			print strip_accents(name) + " " + strip_accents(surname)	
+			print(strip_accents(name) + " " + strip_accents(surname))	
 
 files = filesToProcess()
 for f in files:

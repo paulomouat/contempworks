@@ -4,7 +4,7 @@ from xml.dom import Node
 
 def selectChildren(node, names):
 	children = []
-	if isinstance(names, (str, unicode)):
+	if isinstance(names, str):
 		children = [child for child in node.childNodes if child.nodeName == names]
 	elif isinstance(names, list):
 		children = [child for child in node.childNodes if child.nodeName in names]
@@ -29,7 +29,7 @@ def getTextValue(node):
 	if node:
 		textNode = node.firstChild
 		if textNode and textNode.nodeType == Node.TEXT_NODE:
-			return textNode.nodeValue
+			return textNode.nodeValue 
 	return None
 
 def getAttributeValue(node, name):
@@ -40,7 +40,7 @@ def getAttributeValue(node, name):
 	return v
 
 def debugNodes(nodes):
-	print "outputting %d nodes..." % len(nodes)
+	print("outputting %d nodes..." % len(nodes))
 	for node in nodes:
-		print node
-		print "node name = %s, value = %s" % (node.nodeName, node.nodeValue)
+		print(node)
+		print("node name = %s, value = %s" % (node.nodeName, node.nodeValue))

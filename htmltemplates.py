@@ -1,6 +1,6 @@
 # coding: utf-8
 
-composerListTemplate = u"""<!DOCTYPE html>
+composerListTemplate = """<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -49,7 +49,7 @@ composerListTemplate = u"""<!DOCTYPE html>
 	</body>
 </html>"""
 
-initialRow = u"""
+initialRow = """
 		<tr>
 			<td>
 				<span class='name_initial'>
@@ -63,14 +63,14 @@ initialRow = u"""
 			</td>
 		</tr>"""
 
-composerListRow = u"""
+composerListRow = """
 		<tr>
 			<td>
 				<a href='{filename}'>{surname}, {name}</a> ({born}-{died})
 			</td>
 		</tr>"""
 
-composerFileTemplate = u"""<!DOCTYPE html>
+composerFileTemplate = """<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -86,7 +86,7 @@ composerFileTemplate = u"""<!DOCTYPE html>
 	</body>
 </html>"""
 		
-composerTitleRow = u"""
+composerTitleRow = """
 	<tr>
 		<td colspan="3" bgcolor="#888888">
 			<span class="composer_name">{name} {surname}</span>
@@ -94,7 +94,7 @@ composerTitleRow = u"""
 		</td>
 	</tr>"""
 
-compositionRow = u"""
+compositionRow = """
 	<tr valign="top">
 		<td width="25%">
 			{name}<br/>
@@ -112,26 +112,26 @@ compositionRow = u"""
 		</td>
 	</tr>"""
 	
-compositionNameRow = u"""
+compositionNameRow = """
 			<span class="composition_name">{name}</span>"""
 
-compositionDescriptionRow = u"""
+compositionDescriptionRow = """
 			<span class="composition_description">{description}</span>
 			<br/>"""
 
-compositionLengthRow = u"""
+compositionLengthRow = """
 			<span class="composition_length">{length}</span>"""
 
-compositionPartRow = u"""
+compositionPartRow = """
 			{number}. <i>{name}</i> {description} {composed} {length}
 			<br/>"""
 
-compositionInstrumentRow = u"""
+compositionInstrumentRow = """
 			{players}<span class="instrument">{name}</span>"""
 
-compositionConductorRow = u"""
+compositionConductorRow = """
 			Dir.: {name}"""
 
-compositionParticipantRow = u"""{participant}<br/>"""
+compositionParticipantRow = """{participant}<br/>"""
 
-compositionComposedRow = u"""({composed})"""
+compositionComposedRow = """({composed})"""

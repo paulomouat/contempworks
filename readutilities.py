@@ -149,7 +149,7 @@ def readAll():
 		try:
 			dom = parseFile(f)
 			composers.extend(readDom(dom))
-		except Exception, e:
-			print "Error in file ", f
+		except Exception as e:
+			print("Error in file ", f)
 			raise e
 	return composers

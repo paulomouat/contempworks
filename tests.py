@@ -2,7 +2,7 @@
 
 from textutilities import *
 
-test = u"ü á é î ò"
+test = "ü á é î ò"
 escaped = htmlEscape(test)
 
-print escaped
+print(escaped)

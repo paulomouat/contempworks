@@ -1460,6 +1460,24 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Streichtrio Nr. 2</name>
+			<description>für Violine, Viola und Violoncello</description>
+			<length>4:00</length>
+			<instrument name="Violin">
+				<player name="Alexandra Greffin-Klein"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Axel Porath"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Friedrich Gauwersky"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="2021"/>
+			<release>Wergo WER 74022</release>
+			<released>2022</released>
+		</composition>
+		<composition>
 			<name>Symphonie op. 3</name>
 			<description>für Orchester</description>
 			<description>in memoriam Karl Amadeus Hartmann</description>
@@ -1560,6 +1578,24 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Streichtrio op. 9</name>
+			<description>für Violine, Viola und Violoncello</description>
+			<length>8:33</length>
+			<instrument name="Violin">
+				<player name="Alexandra Greffin-Klein"/>
+			</instrument>
+			<instrument name="Viola">
+				<player name="Axel Porath"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Friedrich Gauwersky"/>
+			</instrument>
+			<composed start="1971"/>
+			<recorded start="2021"/>
+			<release>Wergo WER 74022</release>
+			<released>2022</released>
+		</composition>
+		<composition>
 			<name>Paraphrase</name>
 			<description>für Violoncello, Percussion und Klavier</description>
 			<length>23:50</length>
@@ -1594,6 +1630,18 @@
 			<recorded start="1974"/>
 			<release>hänssler Classic/SWR Media GmbH CD 93.010</release>
 			<released>2000</released>
+		</composition>
+		<composition>
+			<name>Grat</name>
+			<description>für Violoncello solo</description>
+			<length>8:32</length>
+			<instrument name="Violoncello">
+				<player name="Friedrich Gauwersky"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="2021"/>
+			<release>Wergo WER 74022</release>
+			<released>2022</released>
 		</composition>
 		<composition>
 			<name>Déploration</name>
@@ -2719,6 +2767,21 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>duomonolog</name>
+			<description>für Violine und Violoncello</description>
+			<length>15:06</length>
+			<instrument name="Violin">
+				<player name="Alexandra Greffin-Klein"/>
+			</instrument>
+			<instrument name="Violoncello">
+				<player name="Friedrich Gauwersky"/>
+			</instrument>
+			<composed start="1986" end="1988"/>
+			<recorded start="2021"/>
+			<release>Wergo WER 74022</release>
+			<released>2022</released>
+		</composition>
+		<composition>
 			<name>String Quartet No. 8</name>
 			<length>15:15</length>
 			<player name="Minguet Quartet"/>
@@ -3056,7 +3119,7 @@
 			<released>1997</released>
 		</composition>
 		<composition>
-			<name>von weit.</name>
+			<name>von weit</name>
 			<description>“Antlitz”-Version, umschrieben für Violoncello und Klavier</description>
 			<length>12:51</length>
 			<instrument name="Violoncello">
@@ -3069,6 +3132,21 @@
 			<recorded start="1997"/>
 			<release>Wergo WER 6623-2</release>
 			<released>1997</released>
+		</composition>
+		<composition>
+			<name>von weit</name>
+			<description>“Antlitz”-Version, umschrieben für Violoncello und Klavier</description>
+			<length>12:15</length>
+			<instrument name="Violoncello">
+				<player name="Friedrich Gauwersky"/>
+			</instrument>
+			<instrument name="Piano">
+				<player name="Florian Uhlig"/>
+			</instrument>
+			<composed start="1993"/>
+			<recorded start="2021"/>
+			<release>Wergo WER 74022</release>
+			<released>2022</released>
 		</composition>
 		<composition>
 			<name>Dritte Musik</name>

@@ -2543,6 +2543,16 @@
 			<release>Kairos 0013142KAI</release>
 			<released>2010</released>
 		</composition>
+		<composition>
+			<name>Burning Bright</name>
+			<description>pour six percussions</description>
+			<length>1:04:24</length>
+			<player name="Les Percussions de Strasbourg"/>
+			<composed start="2014"/>
+			<recorded start="2016"/>
+			<release>Les Percussions De Strasbourg PDS116BB</release>
+			<released>2016</released>
+		</composition>
 	</composer>
 	<composer name="Frédéric" surname="Durieux" born="1959" died="">
 		<composition>

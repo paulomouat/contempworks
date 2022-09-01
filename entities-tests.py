@@ -18,12 +18,12 @@ inst2.players.append(pl23)
 instruments = [inst1, inst2]
 
 for instrument in instruments:
-	print instrument.name
+	print(instrument.name)
 	for player in instrument.players:
-		print instrument.name + " " + player.name
+		print(instrument.name + " " + player.name)
 
 for instrument in instruments:
-	print instrument.display()
+	print(instrument.display())
 		
 comp1 = entities.Composer()
 comp1.name = "c1n"
@@ -36,4 +36,4 @@ work1.name = "w1"
 
 comp1.compositions.append(work1)
 
-print comp1.display()
+print(comp1.display())

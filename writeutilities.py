@@ -4,6 +4,7 @@ from textutilities import *
 from htmltemplates import *
 from entities import *
 import codecs
+import functools
 
 def generateComposerList(composers):
     fileName = "generated/composerlist.html"
@@ -36,8 +37,8 @@ def generateComposerTitle(composer):
 	
 def generateCompositions(composer):
 	rows = ""
-	compositions = sorted(composer.compositions, sortCompositionsByEnd)
-	compositions = sorted(compositions, sortCompositionsByStart)
+	compositions = sorted(composer.compositions, key = functools.cmp_to_key(sortCompositionsByEnd))
+	compositions = sorted(compositions, key = functools.cmp_to_key(sortCompositionsByStart))
 	for composition in compositions:
 		rows += generateComposition(composition)
 	return rows
@@ -165,8 +166,13 @@ def sortCompositionsByStart(compositionA, compositionB):
 			yearB = startB
 		elif endB:
 			yearB = endB
-		
-	return cmp(yearA, yearB)
+
+	if yearA < yearB:
+		return -1
+	else:
+		return 1
+
+	#return yearA - yearB
 	
 def sortCompositionsByEnd(compositionA, compositionB):
 	composedA = compositionA.composed
@@ -189,4 +195,9 @@ def sortCompositionsByEnd(compositionA, compositionB):
 		elif startB:
 			yearB = startB
 		
-	return cmp(yearA, yearB)
+	if yearA < yearB:
+		return -1
+	else:
+		return 1
+
+	#return yearA - yearB

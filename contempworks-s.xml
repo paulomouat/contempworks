@@ -6881,6 +6881,18 @@
 			<released>2000</released>
 		</composition>
 		<composition>
+			<name>Carré</name>
+			<description>für 4 Orchester und 4 Chöre (4 Dirigenten)</description>
+			<length>37:24</length>
+			<player name="Bochumer Symphoniker"/>
+			<player name="Chorwerk Ruhr"/>
+			<conductor>Rupert Huber (I), Florian Helgath (II), Matilda Hofman (III), Michael Alber (IV)</conductor>
+			<composed start="1959" end="1960"/>
+			<recorded start="2016"/>
+			<release>Coviello Classics COV92113</release>
+			<released>2022</released>
+		</composition>
+		<composition>
 			<name>Momente</name>
 			<description>für Solosopran, 4 Chorgruppen und 13 Instrumentalisten</description>
 			<description>Europa Version 1972</description>

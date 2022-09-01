@@ -193,6 +193,23 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>Chorbuch</name>
+			<description>für Vokalensemble und Tasteninstrumente</description>
+			<length>28:44</length>
+			<instrument name="Klavier">
+				<player name="Christoph Schnackertz"/>
+			</instrument>
+			<instrument name="Orgel, Harmonium">
+				<player name="Christoph Lehmann"/>
+			</instrument>
+			<player name="Chorwerk Ruhr"/>
+			<conductor>Florian Helgath</conductor>
+			<composed start="1975" end="1978"/>
+			<recorded start="2018"/>
+			<release>Coviello Classics COV92113</release>
+			<released>2022</released>
+		</composition>
+		<composition>
 			<name>Variété</name>
 			<description>Konzertstück für sechs</description>
 			<length>40:22</length>
