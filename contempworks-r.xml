@@ -4755,6 +4755,16 @@
 			<released>2018</released>
 		</composition>
 		<composition>
+			<name>rückbau</name>
+			<description>electroacoustic work</description>
+			<length>4:56</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>Neos 12023</release>
+			<released>2020</released>
+		</composition>
+		<composition>
 			<name>Dry Fiction</name>
 			<description>electroacoustic work</description>
 			<length>12:56</length>
@@ -4763,6 +4773,16 @@
 			<recorded start="2012"/>
 			<release>Neos 11803</release>
 			<released>2018</released>
+		</composition>
+		<composition>
+			<name>de monstris epistola</name>
+			<description>electroacoustic work</description>
+			<length>23:45</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2012"/>
+			<recorded start="2012"/>
+			<release>Neos 12023</release>
+			<released>2020</released>
 		</composition>
 		<composition>
 			<name>Sphären der Untätigkeit</name>
@@ -4813,6 +4833,36 @@
 			<recorded start="2018"/>
 			<release>Neos 11803</release>
 			<released>2018</released>
+		</composition>
+		<composition>
+			<name>play sequence</name>
+			<description>electroacoustic work</description>
+			<length>12:41</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2019"/>
+			<recorded start="2019"/>
+			<release>Neos 12023</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>draught</name>
+			<description>electroacoustic work</description>
+			<length>22:10</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2019"/>
+			<recorded start="2019"/>
+			<release>Neos 12023</release>
+			<released>2020</released>
+		</composition>
+		<composition>
+			<name>Ideale Landschaft Nr. 6</name>
+			<description>electroacoustic work</description>
+			<length>11:12</length>
+			<player name="Private studio of the composer"/>
+			<composed start="2020"/>
+			<recorded start="2020"/>
+			<release>Neos 12023</release>
+			<released>2020</released>
 		</composition>
 	</composer>
 	<composer name="Terry" surname="Riley" born="1935" died="">
