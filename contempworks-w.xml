@@ -7,6 +7,20 @@
   single quote: ’
 -->
 <list>
+    <composer name="Jennifer" surname="Walshe" born="1974" died="">
+		<composition>
+			<name>The Total Mountain</name>
+			<description>for voice and sound (film)</description>
+			<length>41:52</length>
+			<instrument name="performance">
+				<player name="Jennifer Walshe"/>
+			</instrument>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 51501</release>
+			<released>2015</released>
+		</composition>
+	</composer>
 	<composer name="Juan Felipe" surname="Waller" born="1971" died="">
 		<composition>
 			<name>De jaque, sal, gala y luna</name>

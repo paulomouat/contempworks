@@ -1254,6 +1254,17 @@
 			<release>Col Legno CD1 31905</release>
 			<released>1996</released>
 		</composition>
+		<composition>
+			<name>Ibant obscuri</name>
+			<description>for large orchestra</description>
+			<length>16:06</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 11522-24</release>
+			<released>2015</released>
+		</composition>
 	</composer>
 	<composer name="Mireille" surname="Kyrou" born="" died="">
 		<composition>

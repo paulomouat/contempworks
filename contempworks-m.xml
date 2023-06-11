@@ -1108,6 +1108,22 @@
 			<released>2011</released>
 		</composition>
 	</composer>
+	<composer name="Kryštof" surname="Mařatka" born="1972" died="">
+		<composition>
+			<name>Mélodictionnaire</name>
+			<description>Concerto for piano and septet</description>
+			<length>19:41</length>
+			<instrument name="piano">
+				<player name="Hermann Kretzschmar"/>
+			</instrument>
+			<player name="Ensemble Modern"/>
+			<conductor>Jonathan Stockhammer</conductor>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 11522-24</release>
+			<released>2015</released>
+		</composition>
+	</composer>
 	<composer name="Lionel" surname="Marchetti" born="1967" died="">
 		<composition>
 			<name>Inferno</name>

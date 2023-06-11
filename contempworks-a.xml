@@ -33,6 +33,21 @@
 			<release>Col Legno WWE 3CD 20026</release>
 			<released>1998</released>
 		</composition>
+		<composition>
+			<name>points &amp; views</name>
+			<description>aus &quot;Instruments &amp;&quot;</description>
+			<length>28:00</length>
+			<instrument name="pianos">
+				<player name="Hermann Kretschmar"/>
+				<player name="Ueli Wiget"/>
+			</instrument>
+			<player name="Ensemble Modern"/>
+			<conductor>Jonathan Stockhammer</conductor>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 11522-24</release>
+			<released>2015</released>
+		</composition>
 	</composer>
 	<composer name="Hans" surname="Abrahamsen" born="1952" died="">
 		<composition>
@@ -56,6 +71,21 @@
 			<recorded start="2010"/>
 			<release>Neos 11114-17</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Körper und Seele</name>
+			<description>for air machine, choir and orchestra</description>
+			<length>31:18</length>
+			<instrument name="air machine">
+				<player name="Christoph Grund"/>
+			</instrument>
+			<player name="SWR Vokalensemble Stuttgart"/>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>François-Xavier Roth</conductor>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 51501</release>
+			<released>2015</released>
 		</composition>
 	</composer>
 	<composer name="Mathew (Monty)" surname="Adkins" born="1972" died="">

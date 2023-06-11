@@ -7,7 +7,7 @@
   single quote: ’
 -->
 <list>
-	<composer name="Kaija" surname="Saariaho" born="1952" died="">
+	<composer name="Kaija" surname="Saariaho" born="1952" died="2023">
 		<composition>
 			<name>Laconisme de l’aile</name>
 			<description>for solo flute with optional electronics</description>
@@ -629,6 +629,25 @@
 			<release>die Schachtel Zeit C11</release>
 			<released>2014</released>
 		</composition>	
+	</composer>
+	<composer name="François" surname="Sarhan" born="1972" died="">
+		<composition>
+			<name>Zentral Park</name>
+			<description>for 9 musicians, electronics and optional video projection</description>
+			<length>29:23</length>
+			<instrument name="voice">
+				<player name="François Sarhan"/>
+			</instrument>
+			<player name="Jugendensemble für Neue Musik des Landesmusikrats NRW (Studio Musikfabrik)"/>
+			<player name="Experimentalstudio des SWR"/>
+			<instrument name="sound direction">
+				<player name="Dominik Kleinknecht"/>
+			</instrument>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 11522-24</release>
+			<released>2015</released>
+		</composition>
 	</composer>
 	<composer name="Henri" surname="Sauguet" born="1901" died="1989">
 		<composition>
@@ -5310,6 +5329,18 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Carnaval</name>
+			<description>for 5 voices and 10 players</description>
+			<length>32:28</length>
+			<player name="Neue Vocalsolisten Stuttgart"/>
+			<player name="Klangforum Wien"/>
+			<conductor>Han Volkov</conductor>
+			<composed start="2010" end="2011"/>
+			<recorded start="2014"/>
+			<release>Neos 11522-24</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Il cantiere del poema</name>
 			<description>per voce e strumenti</description>
 			<length>22:08</length>
@@ -6191,6 +6222,20 @@
 			<recorded start="2010"/>
 			<release>Neos 11114-17</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Piano Concerto</name>
+			<description>for piano solo, sampler, video and orchestra</description>
+			<length>28:09</length>
+			<instrument name="piano">
+				<player name="Nicholas Hodges"/>
+			</instrument>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>François-Xavier Roth</conductor>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 51501</release>
+			<released>2015</released>
 		</composition>
 	</composer>
 	<composer name="Günter" surname="Steinke" born="1956" died="">
@@ -9860,6 +9905,24 @@
 			<recorded start="2010"/>
 			<release>Edition RZ 3006 DVD</release>
 			<released>2012</released>
+		</composition>
+	</composer>
+	<composer name="Chiyoko" surname="Szlavnics" born="1967" end="">
+		<composition>
+			<name>Inner Voicings</name>
+			<description>for ensemble and sine waves</description>
+			<length>23:47</length>
+			<player name="Experimentalstudio des SWR"/>
+			<instrument name="sound direction">
+				<player name="Michael Acker"/>
+				<player name="Thomas Hummel"/>
+			</instrument>
+			<player name="Klangforum Wien"/>
+			<conductor>Han Volkov</conductor>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 11522-24</release>
+			<released>2015</released>
 		</composition>
 	</composer>
 </list>

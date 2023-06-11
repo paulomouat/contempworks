@@ -2581,6 +2581,17 @@
 			<release>Neos 11501-02</release>
 			<released>2015</released>
 		</composition>
+		<composition>
+			<name>Inconjunctions</name>
+			<description>for ensemble</description>
+			<length>19:15</length>
+			<player name="Ensemble Modern"/>
+			<conductor>Jonathan Stockhammer</conductor>
+			<composed start="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 11522-24</release>
+			<released>2015</released>
+		</composition>
 	</composer>
 	<composer name="Luc" surname="Ferrari" born="1929" died="2005">
 		<composition>

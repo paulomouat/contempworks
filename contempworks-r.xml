@@ -4616,6 +4616,20 @@
 			<released>2019</released>
 		</composition>
 		<composition>
+			<name>Sound as Will</name>
+			<description>for trumpet and ensemble</description>
+			<length>13:52</length>
+			<instrument name="trumpet">
+				<player name="Marco Blaauw"/>
+			</instrument>
+			<player name="Klangforum Wien"/>
+			<conductor>Han Volkov</conductor>
+			<composed start="2011" end="2014"/>
+			<recorded start="2014"/>
+			<release>Neos 11522-24</release>
+			<released>2015</released>
+		</composition>
+		<composition>
 			<name>Sehnsucht und Nachtgesang</name>
 			<length>7:51</length>
 			<part>

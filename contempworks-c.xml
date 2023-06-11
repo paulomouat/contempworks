@@ -4191,7 +4191,7 @@
 			<released>2004</released>
 		</composition>
 	</composer>
-	<composer name="Friedrich" surname="Cerha" born="1926" died="">
+	<composer name="Friedrich" surname="Cerha" born="1926" died="2023">
 		<composition>
 			<name>Ein Buch von der Minne</name>
 			<length>13:41</length>
@@ -4787,6 +4787,17 @@
 			<recorded start="2014"/>
 			<release>Kairos 0015005KAI</release>
 			<released>2016</released>
+		</composition>
+		<composition>
+			<name>Nacht</name>
+			<description>for orchestra</description>
+			<length>20:03</length>
+			<player name="SWR Sinfonieorchester Baden-Baden und Freiburg"/>
+			<conductor>Emilio Pomàrico</conductor>
+			<composed start="2012" end="2013"/>
+			<recorded start="2014"/>
+			<release>Neos 11522-24</release>
+			<released>2015</released>
 		</composition>
 		<composition>
 			<name>Nacht</name>
