@@ -50,6 +50,17 @@
 	</composer>
 	<composer name="Jean" surname="Barraqué" born="1928" died="1973">
 		<composition>
+			<name>Sonate pour piano</name>
+			<length>46:23</length>
+			<instrument name="piano">
+				<player name="Herbert Henck"/>
+			</instrument>
+			<composed start="1950" end="1952"/>
+			<recorded start="1996"/>
+			<release>ECM 1621</release>
+			<released>1999</released>
+		</composition>
+		<composition>
 			<name>Étude</name>
 			<length>5:02</length>
 			<instrument name="Réalisation">

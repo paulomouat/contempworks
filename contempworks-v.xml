@@ -30,12 +30,54 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Ash</name>
+			<description>Stereo fixed medium</description>
+			<length>14:22</length>
+			<composed start="1989" end="1990"/>
+			<recorded start="1990"/>
+			<release>Ina GRM 6032</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Nodal</name>
+			<description>Stereo fixed medium</description>
+			<length>12:57</length>
+			<composed start="1997" end="1998"/>
+			<recorded start="1998"/>
+			<release>Ina GRM 6032</release>
+			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Phases</name>
+			<description>for clarinet, piano and processing</description>
+			<length>10:20</length>
+			<instrument name="clarinet">
+				<player name="Linda Merrick"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Philip Mead"/>
+			</instrument>
+			<composed start="2001"/>
+			<recorded start="2001"/>
+			<release>Ina GRM 6032</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>Harrison Variations</name>
 			<length>10:11</length>
 			<composed start="2002"/>
 			<recorded start="2002"/>
 			<release>EMF CD 053</release>
 			<released>2004</released>
+		</composition>
+		<composition>
+			<name>Arenas</name>
+			<description>Stereo fixed medium</description>
+			<length>14:40</length>
+			<composed start="2007"/>
+			<recorded start="2007"/>
+			<release>Ina GRM 6032</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>Préludes suspendus III</name>
@@ -56,6 +98,15 @@
 			<recorded start="2011"/>
 			<release>empreintes DIGITALes IMED 17145</release>
 			<released>2017</released>
+		</composition>
+		<composition>
+			<name>Points critiques</name>
+			<description>Multichannel fixed medium</description>
+			<length>16:00</length>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>Ina GRM 6032</release>
+			<released>2012</released>
 		</composition>
 		<composition>
 			<name>PianoHertz</name>
