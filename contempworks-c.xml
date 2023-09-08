@@ -3560,6 +3560,17 @@
 			<released>2004</released>
 		</composition>
 		<composition>
+			<name>Octet ’61</name>
+			<length>10:43</length>
+			<instrument name="double bass">
+				<player name="Michael Francis Duch"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="2010"/>
+			<release>+3dB Records +3dB010</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Memories Of You</name>
 			<length>7:03</length>
 			<instrument name="Piano, Performer (Objects)">

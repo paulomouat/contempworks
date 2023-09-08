@@ -111,6 +111,17 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Projection I</name>
+			<length>2:47</length>
+			<instrument name="double bass">
+				<player name="Michael Francis Duch"/>
+			</instrument>
+			<composed start="1950"/>
+			<recorded start="2010"/>
+			<release>+3dB Records +3dB010</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>Two Intermissions</name>
 			<part>
 				<number>I</number>

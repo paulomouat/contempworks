@@ -1896,6 +1896,18 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Stones</name>
+			<description>from the prose collection</description>
+			<length>5:35</length>
+			<player name="Society for New Music of the Leininger High School, Grünstadt"/>
+			<player name="Students of the Robert Schumann High School, Leipzig"/>
+			<conductor>Silke Egeler-Wittmann</conductor>
+			<composed start="1951"/>
+			<recorded start="1963"/>
+			<release>Edition RZ 1023-24</release>
+			<released>2011</released>
+		</composition>
+		<composition>
 			<name>For Piano I</name>
 			<length>7:49</length>
 			<instrument name="piano">
@@ -2086,18 +2098,6 @@
 			<released>1994</released>
 		</composition>
 		<composition>
-			<name>Stones</name>
-			<description>from the prose collection</description>
-			<length>5:35</length>
-			<player name="Society for New Music of the Leininger High School, Grünstadt"/>
-			<player name="Students of the Robert Schumann High School, Leipzig"/>
-			<conductor>Silke Egeler-Wittmann</conductor>
-			<composed start="1951"/>
-			<recorded start="1963"/>
-			<release>Edition RZ 1023-24</release>
-			<released>2011</released>
-		</composition>
-		<composition>
 			<name>Edges</name>
 			<length>12:57</length>
 			<player name="Ensemble Gentle Fire"/>
@@ -2116,6 +2116,17 @@
 			<recorded start="2011"/>
 			<release>Edition RZ 1023-24</release>
 			<released>2011</released>
+		</composition>
+		<composition>
+			<name>Edges</name>
+			<length>13:18</length>
+			<instrument name="double bass">
+				<player name="Michael Francis Duch"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="2010"/>
+			<release>+3dB Records +3dB010</release>
+			<released>2010</released>
 		</composition>
 		<composition>
 			<name>Edges</name>

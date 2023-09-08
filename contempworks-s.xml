@@ -5614,7 +5614,7 @@
 			<released>2010</released>
 		</composition>
 	</composer>
-	<composer name="Abrose" surname="Seddon" born="1971" died="">
+	<composer name="Ambrose" surname="Seddon" born="1971" died="">
 		<composition>
 			<name>Fouram</name>
 			<description>Fixed medium, stereo</description>
@@ -5915,6 +5915,19 @@
 			<release>die Schachtel Zeit C11</release>
 			<released>2014</released>
 		</composition>	
+	</composer>
+	<composer name="Howard" surname="Skempton" born="1947" died="">
+		<composition>
+			<name>For strings</name>
+			<length>9:59</length>
+			<instrument name="double bass">
+				<player name="Michael Francis Duch"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="2010"/>
+			<release>+3dB Records +3dB010</release>
+			<released>2010</released>
+		</composition>
 	</composer>
 	<composer name="Denis" surname="Smalley" born="1946" died="">
 		<composition>

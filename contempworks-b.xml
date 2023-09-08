@@ -3481,6 +3481,17 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>December 1952</name>
+			<length>4:55</length>
+			<instrument name="double bass">
+				<player name="Michael Francis Duch"/>
+			</instrument>
+			<composed start="1952"/>
+			<recorded start="2010"/>
+			<release>+3dB Records +3dB010</release>
+			<released>2010</released>
+		</composition>
+		<composition>
 			<name>1953</name>
 			<length>3:56</length>
 			<instrument name="Violin">
