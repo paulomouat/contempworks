@@ -3367,6 +3367,17 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Jagden und Formen</name>
+			<description>für Orchester</description>
+			<length>1:01:41</length>
+			<player name="Symphonieorchester des Bayerischen Rundfunks"/>
+			<conductor>Franck Ollu</conductor>
+			<composed start="1995" end="2001"/>
+			<recorded start="2021"/>
+			<release>BR-Klassik 900640</release>
+			<released>2022</released>
+		</composition>
+		<composition>
 			<name>Musik für Oboe und Orchester</name>
 			<length>16:09</length>
 			<instrument name="Oboe">
@@ -3924,6 +3935,20 @@
 			<released>2011</released>
 		</composition>
 		<composition>
+			<name>Sphäre nach Studie</name>
+			<description>für 6 Instrumentalisten</description>
+			<length>24:45</length>
+			<instrument name="Klavier">
+				<player name="Tamara Stefanovich" />
+			</instrument>
+			<player name="Mitglieder des Symphonieorchesters des Bayerischen Rundfunks"/>
+			<conductor>Stanley Dodds</conductor>
+			<composed start="1993" end="2002"/>
+			<recorded start="2020"/>
+			<release>BR-Klassik 900639</release>
+			<released>2022</released>
+		</composition>
+		<composition>
 			<name>Interscriptum</name>
 			<description>Duo für Streichquartett und Klavier</description>
 			<length>14:29</length>
@@ -4431,6 +4456,23 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Male über Male 2</name>
+			<description>für Klarinette und 9 Instrumentalisten</description>
+			<length>17:54</length>
+			<instrument name="Klarinette">
+				<player name="Jörg Widmann"/>
+			</instrument>
+			<instrument name="Klavier">
+				<player name="Tamara Stefanovich"/>
+			</instrument>
+			<player name="Mitglieder des Symphonieorchesters des Bayerischen Rundfunks"/>
+			<conductor>Stanley Dodds</conductor>
+			<composed start="2000" end="2008"/>
+			<recorded start="2020"/>
+			<release>BR-Klassik 900639</release>
+			<released>2022</released>
+		</composition>
+		<composition>
 			<name>Verwandlungen I-IV</name>
 			<description>Musik für Orchester</description>
 			<length>1:00:13</length>
@@ -4755,6 +4797,21 @@
 			<recorded start="2015" end="2017"/>
 			<release>bastille musique bm 10</release>
 			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Stabat Mater</name>
+			<description>für Bariton und Viola</description>
+			<length>15:26</length>
+			<instrument name="Bariton">
+				<player name="Christian Gerhaher" />
+			</instrument>
+			<instrument name="Viola">
+				<player name="Tabea Zimmermann" />
+			</instrument>
+			<composed start="2020"/>
+			<recorded start="2020"/>
+			<release>BR-Klassik 900639</release>
+			<released>2022</released>
 		</composition>
 	</composer>
 	<composer name="Clemens von" surname="Reusner" born="1957" died="">
