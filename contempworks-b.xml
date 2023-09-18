@@ -1338,7 +1338,7 @@
 			<released>2019</released>
 		</composition>
 		<composition>
-			<name><q>Points on the curve to find...</q></name>
+			<name>“Points on the curve to find...”</name>
 			<description>for piano and 22 instrumentalists</description>
 			<length>13:33</length>
 			<player name="Ensemble InterContemporain"/>
