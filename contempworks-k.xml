@@ -805,7 +805,118 @@
 			<recorded start="1991"/>
 			<release>Montaigne MO 782027</release>
 			<released>1994</released>
+		</composition>
+	</composer>
+	<composer name="Léo" surname="Küpper" born="1935" died="">
+		<composition>
+			<name>Automatismes sonores</name>
+			<length>26:19</length>
+			<player name="private studio of the composer" />
+			<composed start="1961" end="1967"/>
+			<recorded start="1967"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
 		</composition>		
+		<composition>
+			<name>Électro-poème</name>
+			<description>fixed medium</description>
+			<length>6:04</length>
+			<player name="private studio of the composer" />
+			<composed start="1963" end="1964"/>
+			<recorded start="1964"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>		
+		<composition>
+			<name>Innominé</name>
+			<description>fixed medium</description>
+			<length>25:55</length>
+			<player name="private studio of the composer" />
+			<composed start="1966" end="1974"/>
+			<recorded start="1974"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>
+		<composition>
+			<name>L’enclume des forces</name>
+			<description>fixed medium</description>
+			<length>13:14</length>
+			<player name="private studio of the composer" />
+			<composed start="1967" end="1974"/>
+			<recorded start="1974"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>
+		<composition>
+			<name>Le rêveur au sourire passager</name>
+			<description>fixed medium</description>
+			<length>24:08</length>
+			<player name="private studio of the composer" />
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>
+		<composition>
+			<name>Kouros et Korê</name>
+			<description>fixed medium</description>
+			<length>19:28</length>
+			<player name="private studio of the composer" />
+			<composed start="1979"/>
+			<recorded start="1979"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>
+		<composition>
+			<name>Aérosons</name>
+			<description>fixed medium</description>
+			<length>15:00</length>
+			<player name="private studio of the composer" />
+			<composed start="1982"/>
+			<recorded start="1982"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>
+		<composition>
+			<name>Infléxions vocales</name>
+			<description>fixed medium</description>
+			<length>21:35</length>
+			<player name="private studio of the composer" />
+			<composed start="1982"/>
+			<recorded start="1982"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>
+		<composition>
+			<name>Amkea</name>
+			<description>fixed medium</description>
+			<length>25:00</length>
+			<player name="private studio of the composer" />
+			<composed start="1983" end="1985"/>
+			<recorded start="1985"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>
+		<composition>
+			<name>Litanea</name>
+			<description>fixed medium</description>
+			<length>18:07</length>
+			<player name="private studio of the composer" />
+			<composed start="1987" end="1987"/>
+			<recorded start="1987"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>
+		<composition>
+			<name>Epilogue - Lumière sans ombre</name>
+			<description>fixed medium</description>
+			<length>16:20</length>
+			<player name="private studio of the composer" />
+			<composed start="1993"/>
+			<recorded start="1993"/>
+			<release>Sub Rosa SR 491</release>
+			<released>2022</released>
+		</composition>
 	</composer>
 	<composer name="György" surname="Kurtág" born="1926" died="">
 		<composition>
