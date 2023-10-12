@@ -502,6 +502,20 @@
 			<released>2008</released>
 		</composition>
 		<composition>
+			<name>...22, 13...</name>
+			<description>Opera in three acts</description>
+			<description>for singers, instruments and live electronics</description>
+			<length>1:26:57</length>
+			<player name="Vocalconsort Berlin"/>
+			<player name="work in progress - Berlin"/>
+			<player name="Experimentalstudio des SWR"/>
+			<conductor>Gerhardt Müller-Goldboom</conductor>
+			<composed start="2004"/>
+			<recorded start="2010"/>
+			<release>Neos 11067/68</release>
+			<released>2012</released>
+		</composition>
+		<composition>
 			<name>durch</name>
 			<description>für Saxophon, Schlagzeug und Klavier</description>
 			<length>16:32</length>
