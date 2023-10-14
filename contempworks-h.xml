@@ -159,7 +159,7 @@
 			<released>2007</released>
 		</composition>
 	</composer>
-	<composer name="Cristóbal" surname="Halffter" born="1930" died="">
+	<composer name="Cristóbal" surname="Halffter" born="1930" died="2021">
 		<composition>
 			<name>Tres piezas para cuarteto de cuerda</name>
 			<description>String Quartet No. 1</description>
@@ -1074,7 +1074,7 @@
 			<released>2020</released>
 		</composition>
 	</composer>
-	<composer name="Pierre" surname="Henry" born="1927" died="">
+	<composer name="Pierre" surname="Henry" born="1927" died="2017">
 		<composition>
 			<name>Voile d’Orphée</name>
 			<length>15:35</length>

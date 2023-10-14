@@ -2,7 +2,7 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
-	<composer name="Luis de" surname="Pablo" born="1930" died="">
+	<composer name="Luis de" surname="Pablo" born="1930" died="2021">
 		<composition>
 			<name>Il violino spagnolo</name>
 			<description>Improvisazione, Pensieroso, Scherzo</description>
@@ -1137,7 +1137,7 @@
 			<released>1998</released>
 		</composition>
 	</composer>
-	<composer name="Krzysztof" surname="Penderecki" born="1933" died="">
+	<composer name="Krzysztof" surname="Penderecki" born="1933" died="2020">
 		<composition>
 			<name>Anaklasis</name>
 			<description>für Streicher und Schlagzeuggruppen</description>
@@ -1510,7 +1510,7 @@
 			<released>2007</released>
 		</composition>
 	</composer>
-	<composer name="Filipe" surname="Pires" born="1934" died="">
+	<composer name="Filipe" surname="Pires" born="1934" died="2015">
 		<composition>
 			<name>Akronos</name>
 			<description>for string orchestra</description>

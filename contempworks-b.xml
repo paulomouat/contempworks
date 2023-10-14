@@ -7,7 +7,7 @@
   single quote: ’
 -->
 <list>
-	<composer name="Milton" surname="Babbitt" born="1916" died="">
+	<composer name="Milton" surname="Babbitt" born="1916" died="2011">
 		<composition>
 			<name>Philomel</name>
 			<description>for soprano, recorded soprano and electronically synthesized sound</description>
@@ -1872,7 +1872,7 @@
 			<released>2006</released>
 		</composition>
 	</composer>
-	<composer name="Harrison" surname="Birtwistle" born="1934" died="">
+	<composer name="Harrison" surname="Birtwistle" born="1934" died="2022">
 		<composition>
 			<name>Movement for string quartet</name>
 			<length>3:38</length>
@@ -1901,7 +1901,7 @@
 			<released>2012</released>
 		</composition>
 	</composer>
-	<composer name="Konrad" surname="Boehmer" born="1941" died="">
+	<composer name="Konrad" surname="Boehmer" born="1941" died="2014">
 		<composition>
 			<name>Aspekt</name>
 			<description>for 4-track tape</description>
@@ -4120,7 +4120,7 @@
 			<released>1994</released>
 		</composition>
 	</composer>
-	<composer name="Sylvano" surname="Bussotti" born="1931" died="">
+	<composer name="Sylvano" surname="Bussotti" born="1931" died="2021">
 		<composition>
 			<name>El Carbonero</name>
 			<description>Grottesco a 5 voci miste da Un Motivo Popolare Spagnolo</description>
