@@ -1905,7 +1905,7 @@
 		<composition score="Y">
 			<name>Streichquartett Nr. 2</name>
 			<length>21:00</length>
-			<player name="Lasalle Quartet"/>
+			<player name="LaSalle Quartet"/>
 			<composed start="1967" end="1968"/>
 			<recorded start="1969"/>
 			<release>Deutsche Grammophon 423244-2</release>
@@ -2858,4 +2858,15 @@
 			<released>1991</released>
 		</composition>
 	</composer>
+	<composer name="Witold" surname="Lutosławski" born="1913" died="1994">
+		<composition>
+			<name>String quartet</name>
+			<length>23:38</length>
+			<player name="LaSalle Quartet"/>
+			<composed start="1964"/>
+			<recorded start="1967"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>	
 </list>

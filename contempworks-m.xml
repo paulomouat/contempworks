@@ -1526,6 +1526,17 @@
 			<released>2011</released>
 		</composition>
 	</composer>
+	<composer name="Toshiro" surname="Mayuzumi" born="1929" died="1997">
+		<composition>
+			<name>Prelude for string quartet</name>
+			<length>11:03</length>
+			<player name="Lasalle Quartet"/>
+			<composed start="1964"/>
+			<recorded start="1967"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Michael" surname="McNabb" born="1952" died="">
 		<composition>
 			<name>Invisible Cities</name>

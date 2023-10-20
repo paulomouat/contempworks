@@ -1161,6 +1161,15 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>Quartetto per archi</name>
+			<length>6:56</length>
+			<player name="Lasalle Quartet"/>
+			<composed start="1960"/>
+			<recorded start="1967"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Threnody for the victims of Hiroshima</name>
 			<length>9:54</length>
 			<player name="Polish Radio National Symphony Orchestra"/>
