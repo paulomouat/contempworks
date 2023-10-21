@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Helmut" surname="Lachenmann" born="1935" died="">
 		<composition>
@@ -1670,6 +1675,18 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Volumina</name>
+			<description>für Orgel</description>
+			<length>17:23</length>
+			<instrument name="Orgel">
+				<player name="Gerd Zacher"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Poème Symphonique</name>
 			<description>for 100 Metronomes</description>
 			<length>19:56</length>
@@ -1919,6 +1936,18 @@
 			<recorded start="1994"/>
 			<release>Sony SK 62306</release>
 			<released>1996</released>
+		</composition>
+		<composition>
+			<name>Etüde Nr. 1 “Harmonies”</name>
+			<description>für Orgel</description>
+			<length>9:08</length>
+			<instrument name="Orgel">
+				<player name="Gerd Zacher"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Two Studies for Organ</name>

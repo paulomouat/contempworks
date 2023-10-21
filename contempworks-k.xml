@@ -90,6 +90,18 @@
 			<released>2002</released>
 		</composition>
 		<composition>
+			<name>Phantasie</name>
+			<description>für Orgel mit Obbligati</description>
+			<length>14:09</length>
+			<instrument name="Orgel">
+				<player name="Gerd Zacher"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Acustica</name>
 			<description>pour sources sonores expérimentales et haut-parleurs</description>
 			<description>première version</description>

@@ -222,6 +222,20 @@
 			<released>2016</released>
 		</composition>
 	</composer>
+	<composer name="Juan" surname="Allende-Blin" born="1928">
+		<composition>
+			<name>Sonorités</name>
+			<description>für Orgel</description>
+			<length>8:22</length>
+			<instrument name="Orgel">
+				<player name="Gerd Zacher"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Claude Loyola" surname="Allgén" born="1920" died="1990">
 		<composition>
 			<name>Det gar ett tyst och taligt lamm</name>
