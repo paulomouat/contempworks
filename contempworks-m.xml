@@ -1576,7 +1576,18 @@
 			<released>1995</released>
 		</composition>
 	</composer>
-	<composer name="Arne" surname="Mellnäs" born="1933" died="">
+	<composer name="Arne" surname="Mellnäs" born="1933" died="2002">
+		<composition>
+			<name>Succsim</name>
+			<description>for a capella mixed chorus</description>
+			<length>6:51</length>
+			<player name="Chor des Norddeutschen Rundfunks Hamburg"/>
+			<conductor>Helmut Franz</conductor>
+			<composed start="1964"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
 		<composition>
 			<name>Fragile</name>
 			<description>version for piano</description>

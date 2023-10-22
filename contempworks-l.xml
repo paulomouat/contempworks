@@ -1860,6 +1860,17 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Lux aererna</name>
+			<description>for 16-voice a capella mixed chorus</description>
+			<length>7:59</length>
+			<player name="Chor des Norddeutschen Rundfunks Hamburg"/>
+			<conductor>Helmut Franz</conductor>
+			<composed start="1966"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Concerto for cello and orchestra</name>
 			<length>11:37</length>
 			<instrument name="cello">

@@ -681,6 +681,29 @@
 			<released>2012</released>
 		</composition>
 	</composer>
+	<composer name="David" surname="Bedford" born="1937" died="2011">
+		<composition>
+			<name>Two poems</name>
+			<description>for Chorus on words by Kenneth Patchen</description>
+			<length>13:09</length>
+			<part>
+				<number>1</number>
+				<name>O now the drenched land wakes</name>
+				<length>4:32</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>The great birds</name>
+				<length>8:37</length>
+			</part>
+			<player name="Chor des Norddeutschen Rundfunks Hamburg"/>
+			<conductor>Helmut Franz</conductor>
+			<composed start="1963"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Alban" surname="Berg" born="1885" died="1935">
 		<composition>
 			<name>Neun kurze Stücke</name>

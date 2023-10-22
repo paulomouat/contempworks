@@ -222,7 +222,7 @@
 			<released>2016</released>
 		</composition>
 	</composer>
-	<composer name="Juan" surname="Allende-Blin" born="1928">
+	<composer name="Juan" surname="Allende-Blin" born="1928" died="">
 		<composition>
 			<name>Sonorités</name>
 			<description>für Orgel</description>

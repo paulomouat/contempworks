@@ -706,6 +706,22 @@
 			<released>1994</released>
 		</composition>		
 	</composer>
+	<composer name="Marek" surname="Kopelent" born="1932" died="2023">
+		<composition>
+			<name>Matka</name>
+			<description>Fresco for mixed chorus and solo flute</description>
+			<length>10:28</length>
+			<instrument name="flute">
+				<player name="Gerhard Otto" />
+			</instrument>
+			<player name="Chor des Norddeutschen Rundfunks Hamburg"/>
+			<conductor>Helmut Franz</conductor>
+			<composed start="1964"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Patrick" surname="Kosk" born="1951" died="">
 		<composition>
 			<name>IceBice</name>
