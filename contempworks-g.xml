@@ -499,6 +499,18 @@
 	</composer>
 	<composer name="Vinko" surname="Globokar" born="1934" died="">
 		<composition>
+			<name>Discours II</name>
+			<description>pour cinq trombones</description>
+			<length>14:50</length>
+			<instrument name="trombone">
+				<player name="Vinko Globokar"/>
+			</instrument>
+			<composed start="1967" end="1968"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>aus: Laboratorium 1973</name>
 			<description>für 11 Spieler</description>
 			<length>21:54</length>

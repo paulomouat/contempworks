@@ -7175,6 +7175,18 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Solo</name>
+			<description>für Melodie-Instrument mit Rückkopplung</description>
+			<length>17:38</length>
+			<instrument name="trombone">
+				<player name="Vinko Globokar"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Hymnen</name>
 			<description>Elektronische und Konkrete Musik</description>
 			<length>1:53:59</length>

@@ -278,6 +278,20 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Carlos Roqué" surname="Alsina" born="1941" died="">
+		<composition>
+			<name>Consecuenza, op. 17</name>
+			<description>for trombone solo</description>
+			<length>8:58</length>
+			<instrument name="trombone">
+				<player name="Vinko Globokar"/>
+			</instrument>
+			<composed start="1966"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Pedro" surname="Amaral" born="1972" died="">
 		<composition>
 			<name>...Textos, Paráfrases, Perspectivas...</name>

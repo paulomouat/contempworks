@@ -1072,6 +1072,18 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Sequenza V</name>
+			<description>for trombone</description>
+			<length>6:57</length>
+			<instrument name="trombone">
+				<player name="Vinko Globokar"/>
+			</instrument>
+			<composed start="1965"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Chemins I</name>
 			<description>su Sequenza II, for harp and orchestra</description>
 			<length>14:55</length>
