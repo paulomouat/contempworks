@@ -60,6 +60,33 @@
 			<released>1998</released>
 		</composition>
 		<composition>
+			<name>Match</name>
+			<description>für 3 Spieler</description>
+			<length>16:55</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+				<player name="Klaus Storck"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Christoph Caskel"/>
+			</instrument>
+			<composed start="1964"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Musik für Renaissance-Instrumente</name>
+			<description>für 3 Spieler</description>
+			<length>16:55</length>
+			<player name="Collegium Instrumentalis"/>
+			<conductor>Mauricio Kagel</conductor>
+			<composed start="1965" end="1966"/>
+			<recorded start="1967"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>String Quartet I</name>
 			<length>10:52</length>
 			<player name="Arditti String Quartet"/>

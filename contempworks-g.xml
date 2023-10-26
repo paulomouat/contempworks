@@ -1694,6 +1694,112 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>“... e poi?”</name>
+			<length>23:43</length>
+			<instrument name="percussion">
+				<player name="Egisto Macchi"/>
+				<player name="Mario Bertoncini"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Walter Branchi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Franco Evangelisti"/>
+			</instrument>
+			<instrument name="violoncello, trombone">
+				<player name="John Heinemann"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Quasiraga</name>
+			<length>6:32</length>
+			<instrument name="percussion">
+				<player name="Egisto Macchi"/>
+				<player name="Mario Bertoncini"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Walter Branchi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Franco Evangelisti"/>
+			</instrument>
+			<instrument name="violoncello, trombone">
+				<player name="John Heinemann"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Light Music</name>
+			<length>7:02</length>
+			<instrument name="percussion">
+				<player name="Egisto Macchi"/>
+				<player name="Mario Bertoncini"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Walter Branchi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Franco Evangelisti"/>
+			</instrument>
+			<instrument name="violoncello, trombone">
+				<player name="John Heinemann"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Ancora un trio</name>
+			<length>3:26</length>
+			<instrument name="double bass">
+				<player name="Walter Branchi"/>
+			</instrument>
+			<instrument name="trombone">
+				<player name="John Heinemann"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Ennio Morricone"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Credo</name>
+			<length>7:37</length>
+			<instrument name="double bass">
+				<player name="Walter Branchi"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Franco Evangelisti"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Egisto Macchi"/>
+			</instrument>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Zum Schluß</name>
 			<length>6:13</length>
 			<instrument name="Gruppo di Improvvisazione Nuova Consonanza">
