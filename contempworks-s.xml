@@ -2183,6 +2183,30 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>Glossolalie</name>
+			<description>Definition of music for speakers and instrumentalists (version 1961)</description>
+			<length>33:07</length>
+			<instrument name="instrumentalists">
+				<player name="Werner Bärtschi"/>
+				<player name="Thomas Gross"/>
+				<player name="Sava Savoff"/>
+				<player name="Helmut Schumann"/>
+			</instrument>
+			<instrument name="recitation">
+				<player name="Michael Mendl"/>
+				<player name="Rainer Riehn"/>
+				<player name="Doris Sandrock"/>
+				<player name="Dieter Schnebel"/>
+				<player name="Dieter Strobel"/>
+			</instrument>
+			<player name="Ensemble Musica Negativa"/>
+			<conductor>Rainer Riehn</conductor>
+			<composed start="1959" end="1961"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>AMN</name>
 			<description>Version für 16 Solostimmen</description>
 			<length>16:08</length>

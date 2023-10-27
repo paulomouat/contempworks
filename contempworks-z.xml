@@ -229,7 +229,26 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Présence</name>
+			<description>Ballet blanc en cinq scènes pour violon, violoncelle et piano</description>
+			<length>25:48</length>
+			<instrument name="violon">
+				<player name="Saschko Gawriloff"/>
+			</instrument>
+			<instrument name="violoncelle">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1961"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Intercomunicazione</name>
+			<description>for violoncello and piano</description>
 			<length>21:08</length>
 			<instrument name="violoncello">
 				<player name="Siegfried Palm"/>
@@ -241,6 +260,21 @@
 			<recorded start="1969"/>
 			<release>Deutsche Grammophon 471 573-2</release>
 			<released>2002</released>
+		</composition>
+		<composition>
+			<name>Intercomunicazione</name>
+			<description>for violoncello and piano</description>
+			<length>20:58</length>
+			<instrument name="violoncello">
+				<player name="Siegfried Palm"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<composed start="1967"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Requiem für einen jungen dichter</name>
