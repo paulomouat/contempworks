@@ -129,6 +129,17 @@
 			<released>2023</released>
 		</composition>
 		<composition>
+			<name>Hallelujah</name>
+			<description>for 16 solo voices a cappella</description>
+			<length>28:29</length>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1967"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Acustica</name>
 			<description>pour sources sonores expérimentales et haut-parleurs</description>
 			<description>première version</description>

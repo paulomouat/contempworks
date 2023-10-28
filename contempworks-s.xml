@@ -2229,6 +2229,37 @@
 			<released>1993</released>
 		</composition>
 		<composition>
+			<name>für stimmen (...missa est)</name>
+			<length>28:44</length>
+			<part>
+				<number>1</number>
+				<name>dt 31,6</name>
+				<description>für 12 Gruppen von Vokalisten</description>
+				<composed>1956/58</composed>
+				<length>4:52</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>AMN</name>
+				<description>für 7 Gruppen von Vokalisten (Sprechchor)</description>
+				<composed>1958/67</composed>
+				<length>15:09</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>:! (madrasha 2)</name>
+				<description>für 3 Chorgruppen</description>
+				<composed>1964/68</composed>
+				<length>8:43</length>
+			</part>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<composed start="1956" end="1968"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>DIAPASON, Kanon à 13 für ungleichartige Instrumentalgruppen</name>
 			<length>18:55</length>
 			<instrument name="Kontrabaß">
