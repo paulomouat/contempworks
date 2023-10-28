@@ -1582,6 +1582,17 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Zoltán" surname="Pongrácz" born="1912" died="2007">
+		<composition>
+			<name>Phonothese</name>
+			<length>3:34</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1966"/>
+			<recorded start="1966"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Enno" surname="Poppe" born="1969" died="">
 		<composition>
 			<name>Scherben</name>

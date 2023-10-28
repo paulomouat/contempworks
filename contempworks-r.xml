@@ -1344,6 +1344,17 @@
 			<released>1996</released>
 		</composition>
 	</composer>
+	<composer name="Rainer" surname="Riehn" born="1941" died="2015">
+		<composition>
+			<name>Chants de Maldoror</name>
+			<length>26:32</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1965" end="1969"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Vittorio" surname="Rieti" born="1898" died="1994">
 		<composition>
 			<name>Chess Serenade</name>

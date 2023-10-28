@@ -629,6 +629,15 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>Terminus II</name>
+			<length>19:26</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1966" end="1967"/>
+			<recorded start="1967"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Terminus X</name>
 			<length>11:46</length>
 			<player name="Institute of Sonology, Utrecht"/>
@@ -658,6 +667,15 @@
 			<recorded start="1967"/>
 			<release>RZ 2003-4</release>
 			<released>2006</released>
+		</composition>
+		<composition>
+			<name>Funktion Grün</name>
+			<length>8:18</length>
+			<player name="Institute of Sonology, Utrecht"/>
+			<composed start="1967"/>
+			<recorded start="1967"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Funktion Gelb</name>
