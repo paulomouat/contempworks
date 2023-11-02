@@ -140,6 +140,23 @@
 			<released>2023</released>
 		</composition>
 		<composition>
+			<name>Der Schall</name>
+			<description>für 5 Spieler (mit 54 Instrumenten)</description>
+			<length>37:20</length>
+			<instrument name="plucked instruments, percussion and wind instruments">
+				<player name="Christoph Caskel"/>
+				<player name="Edward H. Tarr"/>
+				<player name="Karlheinz Böttner"/>
+				<player name="Vinko Globokar"/>
+				<player name="Wilhelm Bruck"/>
+			</instrument>
+			<player name="Kölner Ensemble für Neue Musik"/>
+			<composed start="1968"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Acustica</name>
 			<description>pour sources sonores expérimentales et haut-parleurs</description>
 			<description>première version</description>
