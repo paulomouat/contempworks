@@ -1940,6 +1940,15 @@
 			<released>1983</released>
 		</composition>
 		<composition>
+			<name>II. Streichquartett</name>
+			<length>20:48</length>
+			<player name="LaSalle Quartet"/>
+			<composed start="1967" end="1968"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>String Quartet No. 2</name>
 			<length>20:02</length>
 			<player name="Arditti String Quartet"/>

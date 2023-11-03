@@ -5226,6 +5226,17 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Wolf" surname="Rosenberg" born="1915" died="1996">
+		<composition>
+			<name>String Quartet No. 3</name>
+			<length>10:46</length>
+			<player name="LaSalle Quartet"/>
+			<composed start="1960" end="1961"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Peter" surname="Ruzicka" born="1948" died="">
 		<composition>
 			<name>Introspezione</name>

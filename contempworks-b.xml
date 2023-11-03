@@ -3896,6 +3896,15 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>String Quartet</name>
+			<length>9:58</length>
+			<player name="LaSalle Quartet"/>
+			<composed start="1965"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Folio II (Version 1)</name>
 			<description>a collection of graphic and concept pieces, realization for flute</description>
 			<length>4:37</length>

@@ -2797,6 +2797,25 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Societé II</name>
+			<description>And if the piano were a female body</description>
+			<description>for piano, 3 percussions and 16 instruments</description>
+			<length>27:32</length>
+			<instrument name="piano">
+				<player name="Gérard Frémy"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Gaston Sylvestre"/>
+				<player name="Jean-Pierre Drouet"/>
+				<player name="Sylvio Gualda"/>
+			</instrument>
+			<player name="Ensemble Instrumental de Musique Contemporaine de Paris"/>
+			<composed start="1967"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Music Promenade</name>
 			<description>Musique électroacoustique</description>
 			<length>20:29</length>
@@ -2819,6 +2838,14 @@
 			<recorded start="1967" end="1970"/>
 			<release>INA G 6017/6026</release>
 			<released>2009</released>
+		</composition>
+		<composition>
+			<name>Presque rien nº1, le lever du jour au bord de la mer</name>
+			<length>20:47</length>
+			<composed start="1967" end="1970"/>
+			<recorded start="1970"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Unheimlich Schön</name>
