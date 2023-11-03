@@ -3374,6 +3374,37 @@
 			<released>2010</released>
 		</composition>
 	</composer>
+	<composer name="Lukas" surname="Foss" born="1922" died="2009">
+		<composition>
+			<name>Paradigm</name>
+			<description>“for my friends”</description>
+			<description>for piano, 3 percussions and 16 instruments</description>
+			<length>17:50</length>
+			<instrument name="violin">
+				<player name="Charles Haupt"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Marijke Verberne"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Jerry Kirkbride"/>
+			</instrument>
+			<instrument name="electric guitar">
+				<player name="Stephen Bell"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Jan Williams"/>
+			</instrument>
+			<instrument name="tape, electronics">
+				<player name="George Ritscher"/>
+			</instrument>
+			<conductor>Jan Williams</conductor>
+			<composed start="1968"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Luca" surname="Francesconi" born="1956" died="">
 		<composition>
 			<name>Plot In Fiction</name>

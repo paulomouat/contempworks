@@ -1155,6 +1155,82 @@
 			<released>1996</released>
 		</composition>
 	</composer>
+	<composer name="Lejaren" surname="Hiller" born="1924" died="1994">
+		<composition>
+			<name>Algorithms I (version I)</name>
+			<length>9:15</length>
+			<instrument name="flute">
+				<player name="Petr Kotik"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Jerry Kirkbride"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Marco Falcão"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Frank Collura"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Charles Haupt"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Marijke Verberne"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="James Kurzdorfer"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Darlene Reynard"/>
+				<player name="Ed Burnham"/>
+			</instrument>
+			<instrument name="tape">
+				<player name="George Ritscher"/>
+			</instrument>
+			<conductor>Lejaren Hiller</conductor>
+			<composed start="1968"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Algorithms I (version IV)</name>
+			<length>9:15</length>
+			<instrument name="flute">
+				<player name="Petr Kotik"/>
+			</instrument>
+			<instrument name="clarinet">
+				<player name="Jerry Kirkbride"/>
+			</instrument>
+			<instrument name="harp">
+				<player name="Marco Falcão"/>
+			</instrument>
+			<instrument name="trumpet">
+				<player name="Frank Collura"/>
+			</instrument>
+			<instrument name="violin">
+				<player name="Charles Haupt"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Marijke Verberne"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="James Kurzdorfer"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Darlene Reynard"/>
+				<player name="Ed Burnham"/>
+			</instrument>
+			<instrument name="tape">
+				<player name="George Ritscher"/>
+			</instrument>
+			<conductor>Lejaren Hiller</conductor>
+			<composed start="1968"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Paul" surname="Hindemith" born="1895" died="1963">
 		<composition>
 			<name>3. Streichquartett, op. 16</name>

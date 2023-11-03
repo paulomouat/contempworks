@@ -3823,6 +3823,22 @@
 			<released>1989</released>
 		</composition>
 	</composer>
+	<composer name="Elliott" surname="Schwartz" born="1936" died="2016">
+		<composition>
+			<name>Signals</name>
+			<length>9:38</length>
+			<instrument name="trombone">
+				<player name="James Fulkerson"/>
+			</instrument>
+			<instrument name="double bass">
+				<player name="Nicholas Molfese"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Jean" surname="Schwarz" born="1939" died="">
 		<composition>
 			<name>Il était une fois</name>
