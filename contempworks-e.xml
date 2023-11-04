@@ -837,5 +837,20 @@
 			<release>RZ 1011-12</release>
 			<released>1998</released>
 		</composition>
+		<composition>
+			<name>Die Schachtel</name>
+			<description>Mimic-scene action (from an idea of Franco Nonnis)</description>
+			<description>for 5-7 mime artists, projector, voice, small orchestra and tape recorder</description>
+			<length>31:45</length>
+			<instrument name="voice">
+				<player name="Anonymous"/>
+			</instrument>
+			<player name="Solistenensemble des Orchesters der Münchener Kammeroper"/>
+			<conductor>Eberhard Schoener</conductor>
+			<composed start="1962" end="1963"/>
+			<recorded start="1968"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
 	</composer>
 </list>

@@ -1050,9 +1050,32 @@
 			<player name="Coro da camera della RAI, Roma"/>
 			<conductor>Nino Antonellini</conductor>
 			<composed start="1968"/>
-			<recorded start="1970??"/>
+			<recorded start="1969"/>
 			<release>Deutsche Grammophon 423248-2</release>
 			<released>1988</released>
+		</composition>
+		<composition>
+			<name>Contrappunto dialettico alla mente</name>
+			<description>per nastro magnetico bicanale</description>
+			<length>19:51</length>
+			<instrument name="soprano">
+				<player name="Liliana Poli"/>
+			</instrument>
+			<instrument name="voices">
+				<player name="Cadigia Bove"/>
+				<player name="Elena Vicini"/>
+				<player name="Marisa Mazzoni"/>
+				<player name="Umberto Troni"/>
+			</instrument>
+			<instrument name="chorus">
+				<player name="Coro da Camera della RAI"/>
+			</instrument>
+			<conductor>Nino Antonellini</conductor>
+			<player name="Studio di Fonologiea, RAI Milano"/>
+			<composed start="1968"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Contrappunto dialettico alla mente</name>

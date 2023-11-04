@@ -435,6 +435,20 @@
 	</composer>
 	<composer name="Roland" surname="Kayn" born="1933" died="2011">
 		<composition>
+			<name>Cybernetics III</name>
+			<description>Elektroakustisches Projekt</description>
+			<length>22:52</length>
+			<instrument name="magnetic tape realisation">
+				<player name="Roland Kayn"/>
+				<player name="Marino Zuccheri"/>
+			</instrument>
+			<player name="Studio di Fonologiea, RAI Milano"/>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Tektra</name>
 			<length>4:52:22</length>
 			<instrument name="Realisation">

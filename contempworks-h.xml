@@ -1516,6 +1516,54 @@
 			<released>1997</released>
 		</composition>
 		<composition>
+			<name>Der magische Tänzer</name>
+			<description>Attempt at an escape for 2 persons and 2 marionettes</description>
+			<description>for 2 singers, 2 dancers, 2 actors, mixed choir, orchestra and tape</description>
+			<length>31:20</length>
+			<instrument name="soprano [Mitbewohnerin]">
+				<player name="Dorothy Dorow"/>
+			</instrument>
+			<instrument name="alto [Marina]">
+				<player name="Eva Gilhofer"/>
+			</instrument>
+			<instrument name="tenor [Der Magische Tänzer]">
+				<player name="Philip Langridge"/>
+			</instrument>
+			<instrument name="bass [David]">
+				<player name="Hans Riediker"/>
+			</instrument>
+			<instrument name="piccolo">
+				<player name="Roland Cavin"/>
+			</instrument>
+			<instrument name="guitar">
+				<player name="Anton Stingl"/>
+			</instrument>
+			<instrument name="cimbalom">
+				<player name="Siegfried Schmid"/>
+			</instrument>
+			<instrument name="harps">
+				<player name="Cathérine Eisenhoffer"/>
+				<player name="Ursula Holliger"/>
+			</instrument>
+			<instrument name="harpsichord, celesta, piano">
+				<player name="Janka Wyttenbach"/>
+				<player name="Jürg Wyttenbach"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Charles Pfyffer"/>
+				<player name="Jean-Claude Forestier"/>
+				<player name="Markus Ernst"/>
+			</instrument>
+			<player name="Schola Cantorum Stuttgart"/>
+			<player name="Chor des Basler Theaters"/>
+			<player name="Basler Sinfonie-Orchester"/>
+			<conductor>Hans Zender</conductor>
+			<composed start="1963" end="1965"/>
+			<recorded start="1970"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Pneuma</name>
 			<description>für Bläser, Schlagzeug, Orgel und Radios</description>
 			<length>15:48</length>
