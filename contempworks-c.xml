@@ -3678,6 +3678,17 @@
 			<release>hat[now]ART 150</release>
 			<released>2004</released>
 		</composition>
+		<composition>
+			<name>The Great Learning</name>
+			<description>(paragraphs 2 and 7)</description>
+			<length>42:20</length>
+			<player name="Scratch Orchestra"/>
+			<conductor>Cornelius Cardew</conductor>
+			<composed start="1968" end="1970"/>
+			<recorded start="1971"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
 	</composer>
 	<composer name="Carmen Maria" surname="Cârneci" born="1957" died="">
 		<composition>

@@ -883,6 +883,16 @@
 			<released>2016</released>
 		</composition>
 		<composition>
+			<name>Symphonie “K”</name>
+			<length>15:30</length>
+			<player name="ORF-Symphonieorchester Wien"/>
+			<conductor>Milan Horvat</conductor>
+			<composed start="1967"/>
+			<recorded start="1970"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Batterie</name>
 			<description>for percussion</description>
 			<length>10:48</length>
