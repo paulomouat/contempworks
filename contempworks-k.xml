@@ -931,7 +931,21 @@
 			<recorded start="1967"/>
 			<release>Sub Rosa SR 491</release>
 			<released>2022</released>
-		</composition>		
+		</composition>
+		<composition>
+			<name>Automatismes sonores</name>
+			<length>25:42</length>
+			<instrument name="automatic programming and performing">
+				<player name="Leo Küpper"/>
+			</instrument>
+			<instrument name="dynamic faders">
+				<player name="Exequiel Virasoro"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1971"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
 		<composition>
 			<name>Électro-poème</name>
 			<description>fixed medium</description>
@@ -941,7 +955,16 @@
 			<recorded start="1964"/>
 			<release>Sub Rosa SR 491</release>
 			<released>2022</released>
-		</composition>		
+		</composition>
+		<composition>
+			<name>Électro-poème</name>
+			<description>Logatomes: douze voix de jeunes filles et garçons</description>
+			<length>8:00</length>
+			<composed start="1971"/>
+			<recorded start="1971"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
 		<composition>
 			<name>Innominé</name>
 			<description>fixed medium</description>
@@ -961,6 +984,26 @@
 			<recorded start="1974"/>
 			<release>Sub Rosa SR 491</release>
 			<released>2022</released>
+		</composition>
+		<composition>
+			<name>L’enclume des forces</name>
+			<length>12:45</length>
+			<instrument name="recitation">
+				<player name="Jean-Claude Frison"/>
+			</instrument>
+			<instrument name="automatic programming and performing">
+				<player name="Leo Küpper"/>
+			</instrument>
+			<instrument name="dynamic faders">
+				<player name="Exequiel Virasoro"/>
+			</instrument>
+			<instrument name="text">
+				<player name="Antonin Artaud"/>
+			</instrument>
+			<composed start="1970"/>
+			<recorded start="1971"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Le rêveur au sourire passager</name>

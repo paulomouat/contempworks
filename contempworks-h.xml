@@ -1574,6 +1574,22 @@
 			<released>2023</released>
 		</composition>
 		<composition>
+			<name>Siebengesang</name>
+			<description>für Oboe, Orchester, Singstimmen und Lautsprecher</description>
+			<length>21:00</length>
+			<instrument name="oboe">
+				<player name="Heinz Holliger"/>
+			</instrument>
+			<player name="Schola Cantorum Stuttgart"/>
+			<conductor>Clytus Gottwald</conductor>
+			<player name="Basler Sinfonie-Orchester"/>
+			<conductor>Francis Travis</conductor>
+			<composed start="1966" end="1967"/>
+			<recorded start="1970"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Pneuma</name>
 			<description>für Bläser, Schlagzeug, Orgel und Radios</description>
 			<length>15:48</length>
@@ -2359,6 +2375,28 @@
 			<recorded start="2009"/>
 			<release>Aeon AECD 1089</release>
 			<released>2010</released>
+		</composition>
+	</composer>
+	<composer name="Nicolaus A." surname="Huber" born="1939" died="">
+		<composition>
+			<name>Versuch über Sprache</name>
+			<description>für 16 Solostimmen, Hammond-Orgel, Kontrabass und zwei obligate Lautsprecher-Kanäle</description>
+			<length>18:00</length>
+			<instrument name="double bass">
+				<player name="Georg Nothdorf"/>
+			</instrument>
+			<instrument name="Hammond organ">
+				<player name="Gerhard Gregor"/>
+			</instrument>
+			<instrument name="percussion">
+				<player name="Max Lindner"/>
+			</instrument>
+			<player name="Chor des Norddeutschen Rundfunks"/>
+			<conductor>Helmut Franz</conductor>
+			<composed start="1969"/>
+			<recorded start="1971"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
 		</composition>
 	</composer>
 </list>

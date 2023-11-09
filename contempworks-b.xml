@@ -4286,8 +4286,67 @@
 			<released>2006</released>
 		</composition>
 		<composition>
+			<name>Cinque frammenti all'Italia</name>
+			<length>26:12</length>
+			<part>
+				<number>1</number>
+				<name>Ancora odono i colli</name>
+				<description>per sestetto vocale misto</description>
+				<length>4:54</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Solo el misterio</name>
+				<description>per coro misto</description>
+				<length>4:28</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>La curva dell’amore</name>
+				<description>per sestetto vocale misto</description>
+				<length>6:33</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Per ventiquattro voci adulte o bianche</name>
+				<length>5:53</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Rar’ancora</name>
+				<description>per sestetto vocale misto</description>
+				<length>4:51</length>
+			</part>
+			<instrument name="baritone">
+				<player name="Hartwig Stuckmann"/>
+			</instrument>
+			<instrument name="bass">
+				<player name="Wilhelm Zimmer"/>
+			</instrument>
+			<instrument name="soprano">
+				<player name="Dorothea Förster-Dürlich"/>
+				<player name="Irmgard Jacobeit"/>
+			</instrument>
+			<instrument name="tenor">
+				<player name="Dieter Lorenz"/>
+				<player name="Günter Genersch"/>
+			</instrument>
+			<instrument name="chimes">
+				<player name="Erich Wauschkuhn"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Günter Hertel"/>
+			</instrument>
+			<player name="Chor des Norddeutschen Rundfunks"/>
+			<conductor>Helmut Franz</conductor>
+			<composed start="1967" end="1968"/>
+			<recorded start="1971"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Ancora odono i colli</name>
-			<description>from "5 Frammenti all’Italia"</description>
+			<description>from “5 Frammenti all’Italia”</description>
 			<description>per sestetto vocale</description>
 			<length>5:23</length>
 			<instrument name="soprano">
@@ -4312,7 +4371,7 @@
 		</composition>
 		<composition>
 			<name>La curva dell’amore</name>
-			<description>from "5 Frammenti all’Italia"</description>
+			<description>from “5 Frammenti all’Italia”</description>
 			<description>per sestetto vocale</description>
 			<length>7:32</length>
 			<instrument name="soprano">
@@ -4337,7 +4396,7 @@
 		</composition>
 		<composition>
 			<name>Rar’ancora</name>
-			<description>from "5 Frammenti all’Italia"</description>
+			<description>from “5 Frammenti all’Italia”</description>
 			<description>per sestetto vocale</description>
 			<length>3:52</length>
 			<instrument name="soprano">

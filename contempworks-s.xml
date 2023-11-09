@@ -7495,6 +7495,18 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Spiral</name>
+			<description>für einen Solisten</description>
+			<length>16:05</length>
+			<instrument name="Oboe, Kurzwellenempfänger">
+				<player name="Heinz Holliger"/>
+			</instrument>
+			<composed start="1968"/>
+			<recorded start="1969"/>
+			<release>Deutsche Grammophon 4835677</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Aus den Sieben Tagen</name>
 			<length>6:57:32</length>
 			<part>
