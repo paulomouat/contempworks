@@ -84,6 +84,7 @@ def readPart(node):
 	part.name = readValue(node, "name")
 	part.description = readValue(node, "description")
 	part.length = readValue(node, "length")
+	part.participants = readParticipants(node)
 	part.composed = readComposed(node)
 	part.recorded = readRecorded(node)
 	return part

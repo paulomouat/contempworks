@@ -5006,96 +5006,105 @@
 				<name>Gemina</name>
 				<description>per violino e pianoforte</description>
 				<length>3:24</length>
-				<composed>2002</composed>
+				<composed start="2002"/>
+				<instrument name="violino">
+					<player name="Gianluca Turconi"/>
+				</instrument>
+				<instrument name="pianoforte">
+					<player name="Marco Sala"/>
+				</instrument>
 			</part>
 			<part>
 				<number>2</number>
 				<name>Cenere</name>
 				<description>per flauto e pianoforte</description>
 				<length>5:23</length>
-				<composed>2005</composed>
+				<composed start="2005"/>
+				<instrument name="flauto">
+					<player name="Giampaolo Pretto"/>
+				</instrument>
+				<instrument name="pianoforte">
+					<player name="Marino Nicolini"/>
+				</instrument>
 			</part>
 			<part>
 				<number>3</number>
 				<name>Giano</name>
 				<description>per violino e viola</description>
 				<length>2:12</length>
-				<composed>2009</composed>
+				<composed start="2009"/>
+				<instrument name="viola">
+					<player name="Andrea Repetto"/>
+				</instrument>
+				<instrument name="violino">
+					<player name="Gianluca Turconi"/>
+				</instrument>
 			</part>
 			<part>
 				<number>4</number>
 				<name>Stati</name>
 				<description>per flauto contralto e chitarra</description>
 				<length>5:45</length>
-				<composed>2006</composed>
+				<composed start="2006"/>
+				<instrument name="flauto contralto">
+					<player name="Daniela Cima"/>
+				</instrument>
+				<instrument name="chitarra">
+					<player name="Leopoldo Saracino"/>
+				</instrument>
 			</part>
 			<part>
 				<number>5</number>
 				<name>Talea</name>
 				<description>per violino e violoncello</description>
 				<length>4:51</length>
-				<composed>2008</composed>
+				<composed start="2008"/>
+				<instrument name="violino">
+					<player name="Umberto Fantini"/>
+				</instrument>
+				<instrument name="violoncello">
+					<player name="Manuel Zigante"/>
+				</instrument>
 			</part>
 			<part>
 				<number>6</number>
 				<name>Appulso</name>
 				<description>per clarinetto in si b e saxofono tenore</description>
 				<length>6:22</length>
-				<composed>2008</composed>
+				<composed start="2008"/>
+				<instrument name="clarinetto">
+					<player name="Enrico Maria Baroni"/>
+				</instrument>
+				<instrument name="saxofono tenore">
+					<player name="Mario Marzi"/>
+				</instrument>
 			</part>
 			<part>
 				<number>7</number>
 				<name>Specchio</name>
 				<description>per violoncello e pianoforte</description>
 				<length>3:52</length>
-				<composed>2008</composed>
+				<composed start="2008"/>
+				<instrument name="violoncello">
+					<player name="Manuel Zigante"/>
+				</instrument>
+				<instrument name="pianoforte">
+					<player name="Marino Nicolini"/>
+				</instrument>
 			</part>
 			<part>
 				<number>8</number>
 				<name>Stigma</name>
 				<description>per trombone ed elettronica</description>
 				<length>3:52</length>
-				<composed>2008</composed>
+				<composed start="2008"/>
+				<instrument name="trombone">
+					<player name="Fabio Sampò"/>
+				</instrument>
+				<instrument name="elettronica">
+					<player name="Osvaldo Coluccino"/>
+				</instrument>
 			</part>
-			<instrument name="violino">
-				<player name="Gianluca Turconi"/>
-			</instrument>
-			<instrument name="pianoforte">
-				<player name="Marco Sala"/>
-			</instrument>
-			<instrument name="flauto">
-				<player name="Giampaolo Pretto"/>
-			</instrument>
-			<instrument name="pianoforte">
-				<player name="Marino Nicolini"/>
-			</instrument>
-			<instrument name="viola">
-				<player name="Andrea Repetto"/>
-			</instrument>
-			<instrument name="flauto contralto">
-				<player name="Daniela Cima"/>
-			</instrument>
-			<instrument name="chitarra">
-				<player name="Leopoldo Saracino"/>
-			</instrument>
-			<instrument name="violino">
-				<player name="Umberto Fantini"/>
-			</instrument>
-			<instrument name="violoncello">
-				<player name="Manuel Zigante"/>
-			</instrument>
-			<instrument name="clarinetto">
-				<player name="Enrico Maria Baroni"/>
-			</instrument>
-			<instrument name="saxofono tenore">
-				<player name="Mario Marzi"/>
-			</instrument>
-			<instrument name="trombone">
-				<player name="Fabio Sampò"/>
-			</instrument>
-			<instrument name="elettronica">
-				<player name="Osvaldo Coluccino"/>
-			</instrument>
 			<composed start="2002" end="2008"/>
 			<recorded start="2008" end="2009"/>
 			<release>Due Punte Edizioni DP1</release>

@@ -66,7 +66,10 @@ def generateComposition(composition):
 		composed = ""
 		if part.composed:
 			composed = generateComposed(part.composed)
-		partsHtml += compositionPartRow.format(number=number, name=name, length=length, description=description, composed=composed)
+		participants = ""
+		if part.participants:
+			participants = generatePartParticipants(part.participants)
+		partsHtml += compositionPartRow.format(number=number, name=name, length=length, description=description, composed=composed, participants=participants)
 	participantsHtml = generateParticipants(composition.participants)
 	composedHtml = generateComposed(composition.composed)
 	if composedHtml == "":
@@ -78,17 +81,23 @@ def generateComposition(composition):
 		participants=participantsHtml, composed=composedHtml, recorded=recordedHtml, release=releaseHtml, released=releasedHtml)
 	return row
 
-def generateParticipants(participants):
+def generatePartParticipants(participants):
+	row = ""
+	partParticipantRows = generateParticipants(participants, indent="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
+	row += partParticipantRow.format(participant=partParticipantRows)
+	return row
+
+def generateParticipants(participants, indent=""):
 	row = ""
 	for participant in participants:
 		if isinstance(participant, Conductor):
 			name = htmlEscape(participant.name)
 			conductorRow = compositionConductorRow.format(name=name)
-			row += compositionParticipantRow.format(participant=conductorRow)
+			row += indent + compositionParticipantRow.format(participant=conductorRow)
 		elif isinstance(participant, Player):
 			name = htmlEscape(participant.name)
 			playerRow = name
-			row += compositionParticipantRow.format(participant=playerRow)
+			row += indent + compositionParticipantRow.format(participant=playerRow)
 		elif isinstance(participant, Instrument):
 			name = htmlEscape(participant.name)
 			players = ""
@@ -96,7 +105,7 @@ def generateParticipants(participants):
 				playerName = htmlEscape(player.name)
 				players += playerName + ", "
 			instrumentRow = compositionInstrumentRow.format(name=name, players=players)
-			row += compositionParticipantRow.format(participant=instrumentRow)
+			row += indent + compositionParticipantRow.format(participant=instrumentRow)
 	return row
 
 def generateComposed(composed):
@@ -104,7 +113,7 @@ def generateComposed(composed):
 	end = composed.end
 	if not composed.start:
 		start = "?"
-	result = start;
+	result = start
 	if composed.end:
 		result += "-" + composed.end
 	row = ""

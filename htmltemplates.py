@@ -123,8 +123,10 @@ compositionLengthRow = """
 			<span class="composition_length">{length}</span>"""
 
 compositionPartRow = """
-			{number}. <i>{name}</i> {description} {composed} {length}
-			<br/>"""
+			{number}. <i>{name}</i> {description} {composed} {length}            
+			<br/>{participants}"""
+
+partParticipantRow = """{participant}"""
 
 compositionInstrumentRow = """
 			{players}<span class="instrument">{name}</span>"""

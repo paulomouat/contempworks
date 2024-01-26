@@ -37,11 +37,12 @@ class RecordedPeriod(object):
 		return indent + "Recorded start = %s, end = %s" % (self.start, self.end)
 
 class Part(object):
-	def __init__(self, number="", name="", length="", description="", composed=None, recorded=None):
+	def __init__(self, number="", name="", length="", description="", participants=None, composed=None, recorded=None):
 		self.number = number
 		self.name = name
 		self.length = length
 		self.description = description
+		self.participants = participants
 		self.composed = composed
 		self.recorded = recorded
 	def display(self, indent=""):
@@ -49,6 +50,8 @@ class Part(object):
 		output += "\n%s  name = %s" % (indent, self.name)
 		output += "\n%s  description = %s" % (indent, self.description)
 		output += "\n%s  length = %s" % (indent, self.length)
+		for participant in self.participants:
+			output += "\n%s  participant = %s" % (indent, participant.display())		
 		output += "\n%s  composed = %s" % (indent, self.composed.display())
 		output += "\n%s  recorded = %s" % (indent, self.recorded.display())
 		return output
