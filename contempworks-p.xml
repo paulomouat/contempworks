@@ -1371,6 +1371,241 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Angelo" surname="Petronella" born="1952" died="">
+		<composition>
+			<name>Chitarra elettrica</name>
+			<description>Electro-acoustic music</description>
+			<length>23:44</length>
+			<part>
+				<number>1</number>
+				<name>Parte 1</name>
+				<length>12:34</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Parte 2</name>
+				<length>11:10</length>
+			</part>
+			<composed start="1981" end="1983"/>
+			<recorded start="1981" end="1983"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Insieme sonoro 1-90</name>
+			<description>Electro-acoustic music</description>
+			<length>7:55</length>
+			<composed start="1990"/>
+			<recorded start="1990"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Piccoli gesti con un materiale omogeneo</name>
+			<description>Electro-acoustic music</description>
+			<length>13:06</length>
+			<composed start="1998"/>
+			<recorded start="1998"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Mescolanza di voci</name>
+			<description>Electro-acoustic music</description>
+			<length>37:14</length>
+			<part>
+				<number>1</number>
+				<name>Parte 1</name>
+				<length>5:15</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Parte 2</name>
+				<length>9:24</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Parte 3</name>
+				<length>22:35</length>
+			</part>
+			<composed start="2001" end="2002"/>
+			<recorded start="2001" end="2002"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Azioni in uno spazio preparato</name>
+			<description>Electro-acoustic music</description>
+			<length>23:25</length>
+			<part>
+				<number>1</number>
+				<name>Parte 1</name>
+				<length>9:43</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Parte 2</name>
+				<length>13:42</length>
+			</part>
+			<composed start="2002" end="2003"/>
+			<recorded start="2002" end="2003"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Da una sequenza sonora in esterno</name>
+			<description>Electro-acoustic music</description>
+			<length>13:22</length>
+			<part>
+				<number>1</number>
+				<name>Parte 1</name>
+				<length>6:49</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Parte 2</name>
+				<length>6:33</length>
+			</part>
+			<composed start="2004"/>
+			<recorded start="2004"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Insieme sonoro 1-05</name>
+			<description>Electro-acoustic music</description>
+			<length>11:05</length>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Insieme sonoro 2-05</name>
+			<description>Electro-acoustic music</description>
+			<length>6:58</length>
+			<composed start="2005"/>
+			<recorded start="2005"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Insieme sonoro 1-08</name>
+			<description>Electro-acoustic music</description>
+			<length>26:13</length>
+			<part>
+				<number>1</number>
+				<name>Parte 1</name>
+				<length>14:00</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Parte 2</name>
+				<length>12:13</length>
+			</part>
+			<composed start="2008"/>
+			<recorded start="2008"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Insieme sonoro 1-10</name>
+			<description>Electro-acoustic music</description>
+			<length>11:35</length>
+			<composed start="2010"/>
+			<recorded start="2010"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Sonagli</name>
+			<description>Electro-acoustic music</description>
+			<length>22:40</length>
+			<part>
+				<number>1</number>
+				<name>Parte 1</name>
+				<length>5:26</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Parte 2</name>
+				<length>6:32</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Parte 3</name>
+				<length>10:42</length>
+			</part>
+			<composed start="2011"/>
+			<recorded start="2011"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Antico presente</name>
+			<description>Electro-acoustic music</description>
+			<length>12:07</length>
+			<composed start="2015"/>
+			<recorded start="2015"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>In memoria di traversate</name>
+			<description>Electro-acoustic music</description>
+			<length>9:11</length>
+			<composed start="2015"/>
+			<recorded start="2015"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Emerge da una voce</name>
+			<description>Electro-acoustic music</description>
+			<length>21:28</length>
+			<composed start="2016"/>
+			<recorded start="2016"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Insieme sonoro 1-17</name>
+			<description>Electro-acoustic music</description>
+			<length>9:25</length>
+			<composed start="2017"/>
+			<recorded start="2017"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Insieme sonoro 2-19</name>
+			<description>Electro-acoustic music</description>
+			<length>23:38</length>
+			<composed start="2019"/>
+			<recorded start="2019"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Esplorando un generatore di suono</name>
+			<description>Electro-acoustic music</description>
+			<length>15:17</length>
+			<part>
+				<number>1</number>
+				<name>Fase 1</name>
+				<length>9:07</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Fase 2</name>
+				<length>6:10</length>
+			</part>
+			<composed start="2022"/>
+			<recorded start="2022"/>
+			<release>Private</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Andreas" surname="Pflüger" born="1941" died="">
 		<composition>
 			<name>noch ein Wind</name>
