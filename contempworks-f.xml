@@ -3023,6 +3023,17 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Porte ouverte sur ville (excerpt)</name>
+			<description>für fünf Instrumente und Tonband</description>
+			<length>9:20</length>
+			<player name="Ensemble Le Banquet"/>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1994"/>
+			<recorded start="1994"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Presque rien nº4, la remontée du village</name>
 			<description>Sons mémorisés</description>
 			<length>16:00</length>

@@ -973,6 +973,20 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>La Légende d’Eer (excerpt)</name>
+			<description>Elektronische Komposition</description>
+			<length>16:43</length>
+			<instrument name="Elektronische Realisation">
+				<player name="James Whitman"/>
+				<player name="Volker Müller"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1977" end="1978"/>
+			<recorded start="1977" end="1978"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Mycenae-Alpha</name>
 			<length>9:39</length>
 			<player name="CEMAMu, Paris"/>

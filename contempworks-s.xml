@@ -9952,6 +9952,23 @@
 			<released>2009</released>
 		</composition>
 		<composition>
+			<name>Zwielicht</name>
+			<description>für Kontrabass, zwei Schlagzeuger, elektronische Klänge</description>
+			<length>36:11</length>
+			<instrument name="Kontrabass">
+				<player name="Stefano Scodanibbio"/>
+			</instrument>
+			<instrument name="Schlagzeug">
+				<player name="Stefan Blum"/>
+				<player name="Thomas Oesterdiekhoff"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1994" end="1999"/>
+			<recorded start="1994" end="1999"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Let me sing into your ear</name>
 			<description>for amplified basset horn and chamber orchestra</description>
 			<length>22:31</length>

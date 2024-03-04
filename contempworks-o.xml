@@ -2,6 +2,35 @@
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <list>
+    <composer name="Michael" surname="Obst" born="1955" died="">
+		<composition>
+			<name>Chansons (excerpt)</name>
+			<description>für Mezzosopran, Bass- und Kontrabassklarinette, Synthesizer, Schlagzeuger, Live-Elektronik und Tonband</description>
+			<length>15:22</length>
+			<instrument name="Bassklarinette, Kontrabassklarinette">
+				<player name="Michael Riessler"/>
+			</instrument>
+			<instrument name="Synthesizer">
+				<player name="Michael Obst"/>
+			</instrument>
+			<instrument name="Schlagzeug">
+				<player name="Gregory Riffel"/>
+				<player name="Isao Nakamura"/>
+			</instrument>
+			<instrument name="Mezzosopran">
+				<player name="Linda Hirst"/>
+			</instrument>			
+			<instrument name="Elektronische Realization">
+				<player name="Bardo Kox"/>
+				<player name="Volker Müller"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1986"/>
+			<recorded start="1986"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="João Pedro" surname="Oliveira" born="1959" died="">
 		<composition>
 			<name>Psalmus</name>

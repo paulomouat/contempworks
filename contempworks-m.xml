@@ -1550,6 +1550,22 @@
 			<released>2023</released>
 		</composition>
 	</composer>
+	<composer name="John" surname="McGuire" born="1942" died="">
+		<composition>
+			<name>Vanishing points</name>
+			<description>Elektronische Komposition</description>
+			<length>25:57</length>
+			<instrument name="Elektronische Realization">
+				<player name="Bardo Kox"/>
+				<player name="Volker Müller"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1988"/>
+			<recorded start="1988"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Michael" surname="McNabb" born="1952" died="">
 		<composition>
 			<name>Invisible Cities</name>

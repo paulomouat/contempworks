@@ -28,6 +28,25 @@
 			<release>Col Legno CD1 31907</release>
 			<released>1996</released>
 		</composition>
+		<composition>
+			<name>Tsi-Shin-Kut</name>
+			<description>für vier Schlagzeuger und elektronische Klänge</description>
+			<length>19:24</length>
+			<instrument name="Flöte">
+				<player name="Carin Levine"/>
+			</instrument>
+			<player name="Schlagquartett Köln"/>
+			<instrument name="Elektronische Realization">
+				<player name="Gertrudt Melcher"/>
+				<player name="Paulo Chagas"/>
+				<player name="Volker Müller"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1991" end="1994"/>
+			<recorded start="1991" end="1994"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
 	</composer>
 	<composer name="Gerard" surname="Pape" born="1955" died="">
 		<composition>

@@ -615,6 +615,28 @@
 			<released>2010</released>
 		</composition>
 		<composition>
+			<name>One evening... (4. Satz)</name>
+			<description>für Sopran, Mezzosopran, Ensemble und Live-Elektronik</description>
+			<length>13:52</length>
+			<instrument name="Sopran">
+				<player name="Sarah Leonard"/>
+			</instrument>			
+			<instrument name="Mezzosopran">
+				<player name="Mary King"/>
+			</instrument>			
+			<player name="Ensemble Intercontemporain"/>
+			<conductor>Stefan Asbury</conductor>
+			<instrument name="Elektronische Realization, Klangregie">
+				<player name="Jonathan Harvey"/>
+				<player name="Gilbert Nuono"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1993" end="1994"/>
+			<recorded start="1993" end="1994"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Tombeau de Messiaen</name>
 			<description>for piano and Digital Audio Tape</description>
 			<length>8:41</length>
@@ -1447,6 +1469,25 @@
 			<recorded start="1982"/>
 			<release>Neos 10829</release>
 			<released>2010</released>
+		</composition>
+		<composition>
+			<name>Schwarze Halbinseln</name>
+			<description>für Orchester, vokale und elektronische Klänge</description>
+			<length>20:53</length>
+			<player name="WDR Sinfonieorchester Köln"/>
+			<player name="WDR Rundfunkchor Köln"/>
+			<conductor>Diego Masson</conductor>
+			<instrument name="Elektronische Realization">
+				<player name="Volker Müller"/>
+			</instrument>
+			<instrument name="Sprechstimme">
+				<player name="Marie-Louise Gilles"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1982"/>
+			<recorded start="1982"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Traumspiel</name>
