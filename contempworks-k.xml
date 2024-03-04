@@ -530,6 +530,35 @@
 			<released>1993</released>
 		</composition>
 	</composer>
+	<composer name="Thomas" surname="Kessler" born="1937" died="">
+		<composition>
+			<name>Dialoge</name>
+			<description>für zwei europäische und zwei außereuropäische Instrumente, Live-Elektronik und Tonband</description>
+			<length>18:16</length>
+			<instrument name="clarinet">
+				<player name="Michel Portal"/>
+			</instrument>
+			<instrument name="oud">
+				<player name="Munir Bashir"/>
+			</instrument>
+			<instrument name="shakuhachi">
+				<player name="Fujiro Yuasa"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Othello Liesmann"/>
+			</instrument>
+			<instrument name="Elektronische Realisation">
+				<player name="James Whitman"/>
+				<player name="Peter Eötvös"/>
+				<player name="Volker Müller"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Giselher" surname="Klebe" born="1925" died="">
 		<composition>
 			<name>Interferenzen</name>

@@ -7213,6 +7213,28 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Mikrophonie II</name>
+			<description>für Chor, Hammondorgel und Ringmodulatoren</description>
+			<length>14:55</length>
+			<instrument name="Hammondorgel">
+				<player name="Aloys Kontarsky"/>
+			</instrument>
+			<instrument name="Zeitgeber">
+				<player name="Johannes Fritsch"/>
+			</instrument>
+			<instrument name="Elektronische Realisation">
+				<player name="Jacob Klaas Spek"/>
+			</instrument>
+			<player name="Studio-Chor für Neue Musik Köln"/>
+			<player name="WDR Rundfunkchor"/>
+			<conductor>Herbert Schernus</conductor>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1965"/>
+			<recorded start="1965"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Telemusik</name>
 			<description>Elektronische Musik</description>
 			<length>17:30</length>

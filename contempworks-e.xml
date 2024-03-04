@@ -552,6 +552,25 @@
 			<released>2012</released>
 		</composition>
 	</composer>
+	<composer name="Peter" surname="Eötvös" born="1944" died="">
+		<composition>
+			<name>Mese</name>
+			<description>Elektronische Komposition</description>
+			<length>12:37</length>
+			<instrument name="Stimme">
+				<player name="Piroska Molnár"/>
+			</instrument>
+			<instrument name="Elektronische Realisation">
+				<player name="Mesias Maiguashca"/>
+				<player name="Werner Scholz"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1968"/>
+			<recorded start="1968"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Julio" surname="Estrada" born="1943" died="">
 		<composition>
 			<name>Canto mnémico</name>

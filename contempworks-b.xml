@@ -1892,6 +1892,21 @@
 			<released>1998</released>
 		</composition>
 	</composer>
+	<composer name="Michael von" surname="Biel" born="1939" died="">
+		<composition>
+			<name>Fassung</name>
+			<description>für fünf Lautsprechergruppen</description>
+			<length>13:55</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Jacob Klaas Spek"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1964"/>
+			<recorded start="1964"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Pierluigi" surname="Billone" born="1960" died="">
 		<composition>
 			<name>1+1=1</name>

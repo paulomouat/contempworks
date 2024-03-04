@@ -839,6 +839,19 @@
 	</composer>
 	<composer name="Mesias" surname="Maiguashca" born="1938" died="">
 		<composition>
+			<name>Hör zu</name>
+			<description>Konkrete und Elektronische Musik</description>
+			<length>20:20</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Mesias Maiguashca"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1969"/>
+			<recorded start="1969"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>FMelodies II</name>
 			<description>for cello, percussion and computer sounds</description>
 			<length>26:52</length>

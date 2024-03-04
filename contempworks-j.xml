@@ -67,6 +67,24 @@
 			<released>2018</released>
 		</composition>
 	</composer>
+	<composer name="Wilfried" surname="Jentzsch" born="1941" died="">
+		<composition>
+			<name>Cellomusik</name>
+			<description>für Violoncello und Tonband</description>
+			<length>12:26</length>
+			<instrument name="Violoncello">
+				<player name="Werner Taube"/>
+			</instrument>
+			<instrument name="Elektronische Realisation">
+				<player name="Volker Müller"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1972" end="1974"/>
+			<recorded start="1972" end="1974"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Tom" surname="Johnson" born="1939" died="">
 		<composition>
 			<name>Rational Melodies</name>

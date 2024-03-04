@@ -19,6 +19,21 @@
 			<released>1991</released>
 		</composition>
 	</composer>
+	<composer name="Rolf" surname="Gehlhaar" born="1943" died="2019">
+		<composition>
+			<name>Fünf Deutsche Tänze (excerpt)</name>
+			<description>Elektronische Komposition</description>
+			<length>15:54</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Volker Müller"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="" surname="Gentle Fire" born="" died="">
 		<composition>
 			<name>Group Composition IV</name>

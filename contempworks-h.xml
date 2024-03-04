@@ -2398,5 +2398,19 @@
 			<release>Deutsche Grammophon 4835677</release>
 			<released>2023</released>
 		</composition>
+		<composition>
+			<name>Aion (excerpt)</name>
+			<description>für vierkanaliges Tonband (und Gerüche)</description>
+			<length>10:30</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Peter Eötvös"/>
+				<player name="Volker Müller"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1968" end="1972"/>
+			<recorded start="1968" end="1972"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
 	</composer>
 </list>
