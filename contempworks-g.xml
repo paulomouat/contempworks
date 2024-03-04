@@ -847,6 +847,20 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>Compositie Nr. 5</name>
+			<description>met zuivere tonen</description>
+			<description>Elektronische Komposition</description>
+			<length>2:30</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Karlheinz Stockhausen"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1953"/>
+			<recorded start="1953"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Compositie Nr. 6</name>
 			<description>met 180 klankvoorwerpen</description>
 			<length>12:34</length>

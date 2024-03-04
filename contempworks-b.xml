@@ -4056,6 +4056,19 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>Anepigraphe</name>
+			<description>Elektronische Komposition</description>
+			<length>4:43</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Gottfried Michael Koenig"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Wayfaring Sounds</name>
 			<length>4:05</length>
 			<instrument name="Realisation">

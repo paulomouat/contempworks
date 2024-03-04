@@ -9,6 +9,19 @@
 <list>
 	<composer name="Mauricio" surname="Kagel" born="1931" died="2008">
 		<composition>
+			<name>Transición</name>
+			<description>Elektronische Komposition</description>
+			<length>13:11</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Gottfried Michael Koenig"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1958" end="1959"/>
+			<recorded start="1958" end="1959"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Sonant</name>
 			<description>for guitar, harp, double bass and membraphone instruments</description>
 			<length>14:42</length>
@@ -529,6 +542,19 @@
 			<release>BVHaast 9106</release>
 			<released>?</released>
 		</composition>
+		<composition>
+			<name>Interferenzen</name>
+			<description>Elektronische Komposition</description>
+			<length>4:43</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Gottfried Michael Koenig"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1955"/>
+			<recorded start="1955"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
 	</composer>
 	<composer name="Alexander" surname="Knaifel" born="1943" died="">
 		<composition>
@@ -562,7 +588,7 @@
 			<released>2002</released>
 		</composition>
 	</composer>
-	<composer name="Gottfried Michael" surname="Koenig" born="1926" died="">
+	<composer name="Gottfried Michael" surname="Koenig" born="1926" died="2021">
 		<composition>
 			<name>Klangfiguren I</name>
 			<length>4:00</length>
@@ -573,6 +599,18 @@
 			<recorded start="1955"/>
 			<release>BVHaast 9106</release>
 			<released>?</released>
+		</composition>
+		<composition>
+			<name>Klangfiguren I</name>
+			<description>Elektronische Komposition</description>
+			<length>4:04</length>
+			<instrument name="Elektronische Realisation">
+				<player name="WDR, Köln"/>
+			</instrument>
+			<composed start="1955"/>
+			<recorded start="1955"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Klangfiguren II</name>

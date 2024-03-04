@@ -1596,6 +1596,20 @@
 			<released>2016</released>
 		</composition>
 		<composition>
+			<name>Artikulation</name>
+			<description>Elektronische Komposition</description>
+			<length>3:51</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Cornelius Cardew"/>
+				<player name="Gottfried Michael Koenig"/>				
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1958"/>
+			<recorded start="1958"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Apparitions</name>
 			<description>for Orchestra</description>
 			<length>8:35</length>

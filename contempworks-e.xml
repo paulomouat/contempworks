@@ -351,6 +351,22 @@
 			<released>2012</released>
 		</composition>
 		<composition>
+			<name>Epitaph für Aikichi Kuboyama</name>
+			<description>für Sprecher und Sprachklänge</description>
+			<length>23:24</length>
+			<instrument name="Stimme">
+				<player name="Richard Münch"/>
+			</instrument>
+			<instrument name="Elektronische Realisation">
+				<player name="Leopold von Knobelsdorff"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1960" end="1962"/>
+			<recorded start="1960" end="1962"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Sechs Studien</name>
 			<description>Elektronische Musik</description>
 			<length>17:53</length>
@@ -700,6 +716,19 @@
 			<recorded start="1957"/>
 			<release>BVHaast 9106</release>
 			<released>?</released>
+		</composition>
+		<composition>
+			<name>Incontri di fasce sonore</name>
+			<description>Elektronische Komposition</description>
+			<length>3:20</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Gottfried Michael Koenig"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1957"/>
+			<recorded start="1957"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Aleatorio</name>

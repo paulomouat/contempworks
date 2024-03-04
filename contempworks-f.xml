@@ -3457,6 +3457,21 @@
 			<released>1996</released>
 		</composition>
 	</composer>
+	<composer name="Johannes" surname="Fritsch" born="1941" died="2010">
+		<composition>
+			<name>Fabula Rasa</name>
+			<description>für vier Lautsprechergruppen</description>
+			<length>17:45</length>
+			<instrument name="Elektronische Realisation">
+				<player name="Jacob Klaas Spek"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1964"/>
+			<recorded start="1964"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Arturo" surname="Fuentes" born="1975" died="">
 		<composition>
 			<name>Liquid crystals</name>

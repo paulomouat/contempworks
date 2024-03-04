@@ -3823,6 +3823,18 @@
 			<released>1989</released>
 		</composition>
 	</composer>
+	<composer name="Heinz" surname="Schütz" born="1926" died="2005">
+		<composition>
+			<name>Morgenröte</name>
+			<description>Elektronische Komposition</description>
+			<length>3:43</length>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1952"/>
+			<recorded start="1952"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
+		</composition>
+	</composer>
 	<composer name="Elliott" surname="Schwartz" born="1936" died="2016">
 		<composition>
 			<name>Signals</name>
@@ -6765,6 +6777,22 @@
 			<recorded start="1955" end="1956"/>
 			<release>Stockhausen-Verlag CD3</release>
 			<released>1992</released>
+		</composition>
+		<composition>
+			<name>Gesang der Jünglinge</name>
+			<description>Elektronische Komposition</description>
+			<length>13:00</length>
+			<instrument name="Stimme">
+				<player name="Josef Protschka"/>
+			</instrument>
+			<instrument name="Elektronische Realisation">
+				<player name="Gottfried Michael Koenig"/>
+			</instrument>
+			<player name="Studio für Elektronische Musik des WDR"/>
+			<composed start="1955" end="1956"/>
+			<recorded start="1955" end="1956"/>
+			<release>Wolke Verlag ISBN 978-3-95593-259-6</release>
+			<released>2023</released>
 		</composition>
 		<composition>
 			<name>Klavierstücke XI</name>
