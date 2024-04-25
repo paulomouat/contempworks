@@ -411,6 +411,18 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>The Wonderful Widow of Eighteen Springs</name>
+			<description>for voice and closed piano</description>
+			<length>3:52</length>
+			<instrument name="voice, piano">
+				<player name="Bonnie Whiting"/>
+			</instrument>
+			<composed start="1942"/>
+			<recorded start="2011"/>
+			<release>Mode 296</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Our Spring Will Come</name>
 			<description>for prepared piano</description>
 			<length>4:30</length>
@@ -941,6 +953,18 @@
 			<released>2001</released>
 		</composition>
 		<composition>
+			<name>A flower</name>
+			<description>for voice and closed piano</description>
+			<length>3:40</length>
+			<instrument name="voice, piano">
+				<player name="Bonnie Whiting"/>
+			</instrument>
+			<composed start="1950"/>
+			<recorded start="2011"/>
+			<release>Mode 296</release>
+			<released>2017</released>
+		</composition>
+		<composition>
 			<name>Haiku</name>
 			<length>4:43</length>
 			<instrument name="Piano">
@@ -1389,6 +1413,19 @@
 			<recorded start="2011"/>
 			<release>Brilliant Classics 9284</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>51'15.657&quot;</name>
+			<description>solo-simultaneous realization of 45' for a speaker (1954) and 27'10.554&quot; for a percussionist (1956)</description>
+			<description>Realization by Bonnie Whiting (2010)</description>
+			<length>51:22</length>
+			<instrument name="voice, piano">
+				<player name="Bonnie Whiting"/>
+			</instrument>
+			<composed start="1954" end="1956"/>
+			<recorded start="2011"/>
+			<release>Mode 296</release>
+			<released>2017</released>
 		</composition>
 		<composition>
 			<name>Winter Music</name>
@@ -2581,6 +2618,19 @@
 			<recorded start="1993"/>
 			<release>hat ART CD 6146</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Music for Two (by One)</name>
+			<description>solo-simultaneous realization of Music for ___ (1984-1987) for solo voice and solo percussion</description>
+			<description>Realization by Bonnie Whiting (2011)</description>
+			<length>13:38</length>
+			<instrument name="voice, piano">
+				<player name="Bonnie Whiting"/>
+			</instrument>
+			<composed start="1954" end="1956"/>
+			<recorded start="2011"/>
+			<release>Mode 296</release>
+			<released>2017</released>
 		</composition>
 		<composition>
 			<name>Music for Four</name>

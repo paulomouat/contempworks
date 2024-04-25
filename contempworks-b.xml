@@ -680,6 +680,40 @@
 			<release>INA G 6033/6047</release>
 			<released>2012</released>
 		</composition>
+		<composition>
+			<name>Le Projet “Ouïr”</name>
+			<description>Scène de la vie de l’écoute...</description>
+			<length>1:01:32</length>
+			<part>
+				<number>1</number>
+				<name>Qui?</name>
+				<length>13:10</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Comme...</name>
+				<length>12:12</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>...Sans...</name>
+				<length>8:45</length>
+			</part>
+			<part>
+				<number>4</number>
+				<name>Vers...</name>
+				<length>12:25</length>
+			</part>
+			<part>
+				<number>5</number>
+				<name>Où?</name>
+				<length>15:00</length>
+			</part>
+			<composed start="2015" end="2019"/>
+			<recorded start="2015" end="2019"/>
+			<release>INA C 2023/1</release>
+			<released>2023</released>
+		</composition>
 	</composer>
 	<composer name="David" surname="Bedford" born="1937" died="2011">
 		<composition>
