@@ -1717,9 +1717,46 @@
 	</composer>
 	<composer name="Matthias" surname="Pintscher" born="1971" died="">
 		<composition>
+			<name>Sieben Bagatellen mit Apotheose der Glasharmonika</name>
+			<description>for bass clarinet in B flat</description>
+			<length>18:33</length>
+			<instrument name="bass clarinet">
+				<player name="Ernesto Molinari"/>
+			</instrument>
+			<composed start="1993" end="2001"/>
+			<recorded start="2006"/>
+			<release>Neos 11302</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>A Twilight's Song</name>
+			<description>for soprano and seven instruments</description>
+			<length>9:46</length>
+			<instrument name="soprano">
+				<player name="Sylvia Nopper"/>
+			</instrument>
+			<player name="Ensemble Contrechamps"/>
+			<conductor>Matthias Pintscher</conductor>
+			<composed start="1997"/>
+			<recorded start="2006"/>
+			<release>Neos 11302</release>
+			<released>2014</released>
+		</composition>
+		<composition>
+			<name>Monumento V</name>
+			<description>for eight female voices, three violoncellos and ensemble</description>
+			<length>14:45</length>
+			<player name="Ensemble Contrechamps"/>
+			<conductor>Matthias Pintscher</conductor>
+			<composed start="1998"/>
+			<recorded start="2006"/>
+			<release>Neos 11302</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Hérodiade-Fragmente</name>
 			<description>Dramatic scenes for soprano and orchestra</description>
-			<length>1946</length>
+			<length>19:46</length>
 			<instrument name="soprano">
 				<player name="Marisol Montalvo"/>
 			</instrument>
@@ -1745,6 +1782,21 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>Janusgesicht</name>
+			<description>for viola and violoncello</description>
+			<length>9:03</length>
+			<instrument name="viola">
+				<player name="Geneviève Strosser"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Daniel Haefliger"/>
+			</instrument>
+			<composed start="2001"/>
+			<recorded start="2006"/>
+			<release>Neos 11302</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>en sourdine</name>
 			<description>Musik für Violine und Orchester</description>
 			<length>26:33</length>
@@ -1759,6 +1811,18 @@
 			<released>2007</released>
 		</composition>
 		<composition>
+			<name>on a clear day</name>
+			<description>for piano solo</description>
+			<length>7:18</length>
+			<instrument name="piano">
+				<player name="Bahar Dördüncü"/>
+			</instrument>
+			<composed start="2004"/>
+			<recorded start="2006"/>
+			<release>Neos 11302</release>
+			<released>2014</released>
+		</composition>
+		<composition>
 			<name>Reflections on Narcissus</name>
 			<description>for violoncello and orchestra</description>
 			<length>35:21</length>
@@ -1771,6 +1835,24 @@
 			<recorded start="2006"/>
 			<release>Kairos 0012582 KAI</release>
 			<released>2007</released>
+		</composition>
+		<composition>
+			<name>Study II for Treatise on the Veil</name>
+			<description>for violin, viola and violoncello</description>
+			<length>13:54</length>
+			<instrument name="violin">
+				<player name="Daniel Rowland"/>
+			</instrument>
+			<instrument name="viola">
+				<player name="Geneviève Strosser"/>
+			</instrument>
+			<instrument name="violoncello">
+				<player name="Daniel Haefliger"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2006"/>
+			<release>Neos 11302</release>
+			<released>2014</released>
 		</composition>
 	</composer>
 	<composer name="Filipe" surname="Pires" born="1934" died="2015">
