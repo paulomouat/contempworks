@@ -462,6 +462,19 @@
 			<released>2023</released>
 		</composition>
 		<composition>
+			<name>Simultan</name>
+			<description>Elektroakustisch-Kybernetisches Projekt für 1-5 Räume</description>
+			<length>2:28:00</length>
+			<instrument name="Realisation">
+				<player name="Instituut voor Sonologie der Rijksuniversiteit, Utrecht"/>
+				<player name="Studio de Recherches et de Structurations Électroniques Auditives, Brussels"/>
+			</instrument>
+			<composed start="1970" end="1972"/>
+			<recorded start="1970" end="1972"/>
+			<release>Die Schachtel DS36/1</release>
+			<released>2024</released>
+		</composition>
+		<composition>
 			<name>Tektra</name>
 			<length>4:52:22</length>
 			<instrument name="Realisation">
