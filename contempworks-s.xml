@@ -4534,6 +4534,17 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Esplorazione del bianco II</name>
+			<description>for ensemble</description>
+			<length>3:52</length>
+			<player name="Icarus vs Muzak"/>
+			<conductor>Marco Angius</conductor>
+			<composed start="1986"/>
+			<recorded start="2022"/>
+			<release>Kairos 0022022KAI</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Le ragioni delle conchiglie</name>
 			<description>per quintetto</description>
 			<length>11:56</length>
@@ -5058,6 +5069,20 @@
 			<released>1999</released>
 		</composition>
 		<composition>
+			<name>Le voci sottovetro</name>
+			<description>for voice and ensemble</description>
+			<length>15:01</length>
+			<instrument name="soprano">
+				<player name="Monica Bacelli"/>
+			</instrument>
+			<player name="Icarus vs Muzak"/>
+			<conductor>Marco Angius</conductor>
+			<composed start="1999"/>
+			<recorded start="2020"/>
+			<release>Kairos 0022022KAI</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Recitativo oscuro</name>
 			<description>for piano and orchestra</description>
 			<length>16:44</length>
@@ -5451,6 +5476,17 @@
 			<released>2016</released>
 		</composition>
 		<composition>
+			<name>Gesualdo senza parole</name>
+			<description>for ensemble</description>
+			<length>13:45</length>
+			<player name="Icarus vs Muzak"/>
+			<conductor>Marco Angius</conductor>
+			<composed start="2013"/>
+			<recorded start="2022"/>
+			<release>Kairos 0022022KAI</release>
+			<released>2023</released>
+		</composition>
+		<composition>
 			<name>Autostrada prima di Babilonia</name>
 			<description>per flauto</description>
 			<length>10:51</length>
@@ -5551,6 +5587,17 @@
 			<recorded start="2013" end="2019"/>
 			<release>Kairos 0015074KAI</release>
 			<released>2021</released>
+		</composition>
+		<composition>
+			<name>Paesaggi con macerie</name>
+			<description>for ensemble</description>
+			<length>18:15</length>
+			<player name="Icarus vs Muzak"/>
+			<conductor>Marco Angius</conductor>
+			<composed start="2022"/>
+			<recorded start="2022"/>
+			<release>Kairos 0022022KAI</release>
+			<released>2023</released>
 		</composition>
 	</composer>
 	<composer name="Agostino di" surname="Scipio" born="1962" died="">

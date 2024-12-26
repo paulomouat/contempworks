@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE list SYSTEM "contempworks.dtd">
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!--
+  opening quotes: “
+  closing quotes: ”
+  single quote: ’
+-->
 <list>
 	<composer name="Luis de" surname="Pablo" born="1930" died="2021">
 		<composition>
@@ -2116,6 +2121,15 @@
 			<released>?</released>
 		</composition>
 		<composition>
+			<name>Scambi</name>	
+  			<length>6:35</length>
+			<player name="Studio di fonologia, RAI"/>
+			<composed start="1957"/>
+			<recorded start="2014"/>
+			<release>Mode 318</release>
+			<released>2019</released>
+		</composition>		
+		<composition>
 			<name>Répons pour sept musiciens</name>
 			<length>23:31</length>
 			<instrument name="flute">
@@ -2226,6 +2240,54 @@
 			<released>2023</released>
 		</composition>
 		<composition>
+			<name>Flexions I</name>	
+			<description>for flute</description>
+  			<length>3:28</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1979"/>
+			<recorded start="2014"/>
+			<release>Mode 318</release>
+			<released>2019</released>
+		</composition>		
+		<composition>
+			<name>Litanie du miel matinal</name>
+			<description>for flute</description>
+			<length>8:41</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2014"/>
+			<release>Mode 318</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Litanie du miel vesperal</name>
+			<description>for bass flute</description>
+			<length>8:55</length>
+			<instrument name="bass flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2014"/>
+			<release>Mode 318</release>
+			<released>2019</released>
+		</composition>		
+		<composition>
+			<name>Vers l’île di mont pourpre</name>	
+			<description>for flute</description>
+  			<length>8:02</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="1984"/>
+			<recorded start="2014"/>
+			<release>Mode 318</release>
+			<released>2019</released>
+		</composition>		
+		<composition>
 			<name>U- oder E-Musik?</name>
 			<description>Variation über das Lied “Dem lieben Schlee noch viele Jahre”</description>
 			<description>for string quartet</description>
@@ -2235,6 +2297,44 @@
 			<recorded start="1991"/>
 			<release>Montaigne MO 782027</release>
 			<released>1994</released>
+		</composition>
+		<composition>
+			<name>Éclipticaire ou les Périples Constellés</name>			
+			<description>for one, two or three instruments, surrounded or not, each, of a “Consort”</description>
+  			<length>8:08</length>
+			<part>
+				<number>1</number>
+				<name>Version for three flutes</name>
+				<length>4:04</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Version for three bass flutes</name>
+				<length>4:04</length>
+			</part>
+			<instrument name="flutes">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<composed start="2001"/>
+			<recorded start="2014"/>
+			<release>Mode 318</release>
+			<released>2019</released>
+		</composition>
+		<composition>
+			<name>Zeus joueur de flûtes, célébrant les dix octannies d’Orphée étoilé (Michel Butor)</name>
+			<description>for flute, tape and live electronics</description>
+			<description>(arranged by R. Fabbriciani)</description>
+			<length>28:00</length>
+			<instrument name="flute">
+				<player name="Roberto Fabbriciani"/>
+			</instrument>
+			<instrument name="live electronics">
+				<player name="Alvise Vidolin"/>
+			</instrument>
+			<composed start="2006"/>
+			<recorded start="2014"/>
+			<release>Mode 318</release>
+			<released>2019</released>
 		</composition>		
 	</composer>
 	<composer name="Bernfried" surname="Pröve" born="1963" died="">
