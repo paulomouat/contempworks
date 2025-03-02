@@ -3527,6 +3527,15 @@
 	</composer>
 	<composer name="Beat" surname="Furrer" born="1954" died="">
 		<composition>
+			<name>Streichquartett No. 1</name>
+			<length>34:32</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="1984"/>
+			<recorded start="2022"/>
+			<release>bastille musique 32</release>
+			<released>2024</released>
+		</composition>		
+		<composition>
 			<name>Gaspra</name>
 			<description>for ensemble</description>
 			<length>15:45</length>
@@ -3536,6 +3545,15 @@
 			<release>Kairos 0012322KAI</release>
 			<released>2003</released>
 		</composition>
+		<composition>
+			<name>Streichquartett No. 2</name>
+			<length>10:23</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="1988"/>
+			<recorded start="2022"/>
+			<release>bastille musique 32</release>
+			<released>2024</released>
+		</composition>		
 		<composition>
 			<name>à un moment de terre perdu</name>
 			<description>for chamber ensemble</description>
@@ -3604,6 +3622,19 @@
 			<released>2014</released>
 		</composition>
 		<composition>
+			<name>Spur</name>
+			<description>für Klavier und Streichquartett</description>
+			<length>13:19</length>
+			<instrument name="Klavier">
+				<player name="Claudia Chan"/>
+			</instrument>
+			<player name="Quatuor Diotima"/>
+			<composed start="1998"/>
+			<recorded start="2022"/>
+			<release>bastille musique 32</release>
+			<released>2024</released>
+		</composition>
+		<composition>
 			<name>Aria</name>
 			<description>for soprano and ensemble</description>
 			<length>13:54</length>
@@ -3658,6 +3689,15 @@
 			<release>Kairos 0013132KAI</release>
 			<released>2010</released>
 		</composition>
+		<composition>
+			<name>Streichquartett No. 3</name>
+			<length>42:50</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2004"/>
+			<recorded start="2022"/>
+			<release>bastille musique 32</release>
+			<released>2024</released>
+		</composition>		
 		<composition>
 			<name>Fama</name>
 			<description>Hörtheater für großes Ensemble, acht Stimmen, Schauspielerin und Klanggebäude</description>
@@ -3728,5 +3768,27 @@
 			<release>Kairos 0013312KAI</release>
 			<released>2014</released>
 		</composition>
+		<composition>
+			<name>intorno al bianco</name>
+			<description>für Klarinette und Streichquartett</description>
+			<length>26:57</length>
+			<instrument name="Klarinette">
+				<player name="Thorsten Johanns"/>
+			</instrument>
+			<player name="Quatuor Diotima"/>
+			<composed start="2016"/>
+			<recorded start="2022"/>
+			<release>bastille musique 32</release>
+			<released>2024</released>
+		</composition>
+		<composition>
+			<name>Streichquartett No. 4</name>
+			<length>20:16</length>
+			<player name="Quatuor Diotima"/>
+			<composed start="2021"/>
+			<recorded start="2022"/>
+			<release>bastille musique 32</release>
+			<released>2024</released>
+		</composition>		
 	</composer>
 </list>
