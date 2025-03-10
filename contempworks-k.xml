@@ -448,6 +448,18 @@
 	</composer>
 	<composer name="Roland" surname="Kayn" born="1933" died="2011">
 		<composition>
+			<name>Cybernetics I-III</name>
+			<description>Elektroakustische Projekte</description>
+			<length>59:38</length>
+			<instrument name="Realisation">
+				<player name="Studio di Fonologia, RAI Milano"/>
+			</instrument>
+			<composed start="1966" end="1969"/>
+			<recorded start="1966" end="1969"/>
+			<release>Reiger-Records-Reeks KY-CD2501-05</release>
+			<released>2025</released>
+		</composition>
+		<composition>
 			<name>Cybernetics III</name>
 			<description>Elektroakustisches Projekt</description>
 			<length>22:52</length>
@@ -455,11 +467,24 @@
 				<player name="Roland Kayn"/>
 				<player name="Marino Zuccheri"/>
 			</instrument>
-			<player name="Studio di Fonologiea, RAI Milano"/>
+			<player name="Studio di Fonologia, RAI Milano"/>
 			<composed start="1969"/>
 			<recorded start="1969"/>
 			<release>Deutsche Grammophon 4835677</release>
 			<released>2023</released>
+		</composition>
+		<composition>
+			<name>Entropy PE 31</name>
+			<description>Part 1-2</description>
+			<description>Elektroakustisches Projekt</description>
+			<length>51:45</length>
+			<instrument name="Realisation">
+				<player name="Instituut voor Sonologie der Rijksuniversiteit, Utrecht"/>
+			</instrument>
+			<composed start="1967" end="1970"/>
+			<recorded start="1967" end="1970"/>
+			<release>Reiger-Records-Reeks KY-CD2501-05</release>
+			<released>2025</released>
 		</composition>
 		<composition>
 			<name>Simultan</name>
@@ -473,6 +498,42 @@
 			<recorded start="1970" end="1972"/>
 			<release>Die Schachtel DS36/1</release>
 			<released>2024</released>
+		</composition>
+		<composition>
+			<name>Monades</name>
+			<description>Elektroakustisches Projekt</description>
+			<length>31:50</length>
+			<instrument name="Realisation">
+				<player name="Instituut voor Sonologie der Rijksuniversiteit, Utrecht"/>
+			</instrument>
+			<composed start="1972"/>
+			<recorded start="1972"/>
+			<release>Reiger-Records-Reeks KY-CD2501-05</release>
+			<released>2025</released>
+		</composition>
+		<composition>
+			<name>Eon</name>
+			<description>Elektroakustisches Projekt</description>
+			<length>28:27</length>
+			<instrument name="Realisation">
+				<player name="Instituut voor Sonologie der Rijksuniversiteit, Utrecht"/>
+			</instrument>
+			<composed start="1975"/>
+			<recorded start="1975"/>
+			<release>Reiger-Records-Reeks KY-CD2501-05</release>
+			<released>2025</released>
+		</composition>
+		<composition>
+			<name>Makro I-III</name>
+			<description>Elektroakustisches Projekt</description>
+			<length>2:13:42</length>
+			<instrument name="Realisation">
+				<player name="Instituut voor Sonologie der Rijksuniversiteit, Utrecht"/>
+			</instrument>
+			<composed start="1977"/>
+			<recorded start="1977"/>
+			<release>Reiger-Records-Reeks KY-CD2501-05</release>
+			<released>2025</released>
 		</composition>
 		<composition>
 			<name>Tektra</name>
