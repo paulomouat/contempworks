@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
 <!DOCTYPE list SYSTEM "contempworks.dtd">
+-->
 <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
 <!--
   opening quotes: “
@@ -1649,6 +1651,18 @@
 			<released>1992</released>
 		</composition>
 		<composition>
+			<name>Variations I</name>
+			<description>Parts to be prepared from the score, with or without the extra materials, for any number of players, using any sound producing means</description>
+			<description>Released as part of Actions-Remarks, The Complete John Cage Variations Project</description>
+			<description>Realization for bass clarinet, bass flute, and cello</description>
+			<length>7:15</length>
+			<player name="Decibel"/>
+			<composed start="1958"/>
+			<recorded start="?"/>
+			<release>Mode 342</release>
+			<released>2024</released>
+		</composition>
+		<composition>
 			<name>Indeterminacy</name>
 			<description>Ninety Stories by John Cage, with Music</description>
 			<length>1:30:22</length>
@@ -1838,6 +1852,18 @@
 			<released>2003</released>
 		</composition>
 		<composition>
+			<name>Variations II</name>
+			<description>Parts to be prepared from the score, for any number of players, using any sound-producing means</description>
+			<description>Released as part of Actions-Remarks, The Complete John Cage Variations Project</description>
+			<description>Realization for alto saxophone, flute, viola, piano, and cello</description>
+			<length>5:22</length>
+			<player name="Decibel"/>
+			<composed start="1961"/>
+			<recorded start="?"/>
+			<release>Mode 342</release>
+			<released>2024</released>
+		</composition>
+		<composition>
 			<name>Atlas Eclipticalis with Winter Music</name>
 			<description>Performance II, Dec/11/83 8:30 pm</description>
 			<length>1:19:59</length>
@@ -1950,6 +1976,30 @@
 			<released>1995</released>
 		</composition>
 		<composition>
+			<name>Variations III</name>
+			<description>For any one or any number of people performing any actions</description>
+			<description>Released as part of Actions-Remarks, The Complete John Cage Variations Project</description>
+			<description>Realization for drum set and AM radio</description>
+			<length>3:17</length>
+			<player name="Decibel"/>
+			<composed start="1962" end="1963"/>
+			<recorded start="?"/>
+			<release>Mode 342</release>
+			<released>2024</released>
+		</composition>
+		<composition>
+			<name>Variations IV</name>
+			<description>For any number of players, any sounds or combinations of sounds produced by any means, with or without other activities</description>
+			<description>Released as part of Actions-Remarks, The Complete John Cage Variations Project</description>
+			<description>Realization for cello, flute, viola, bass clarinet, and environmental sounds</description>
+			<length>5:20</length>
+			<player name="Decibel"/>
+			<composed start="1963"/>
+			<recorded start="?"/>
+			<release>Mode 342</release>
+			<released>2024</released>
+		</composition>
+		<composition>
 			<name>Electronic music for piano</name>
 			<description></description>
 			<length>55:25</length>
@@ -2018,6 +2068,30 @@
 			<released>2013</released>
 		</composition>
 		<composition>
+			<name>Variations V</name>
+			<description>For any number of performers using photo-electric cells and electronic sound sources</description>
+			<description>Released as part of Actions-Remarks, The Complete John Cage Variations Project</description>
+			<description>Realization for reel to reel tapes and oscillators</description>
+			<length>12:41</length>
+			<player name="Decibel"/>
+			<composed start="1965"/>
+			<recorded start="?"/>
+			<release>Mode 342</release>
+			<released>2024</released>
+		</composition>
+		<composition>
+			<name>Variations VI</name>
+			<description>For a plurality of sound systems, for any number of performers using photo-electric cells and electronic sound sources</description>
+			<description>Released as part of Actions-Remarks, The Complete John Cage Variations Project</description>
+			<description>Realization for electric bass guitar and analog effects, electric cello, and digital effects</description>
+			<length>4:31</length>
+			<player name="Decibel"/>
+			<composed start="1966"/>
+			<recorded start="?"/>
+			<release>Mode 342</release>
+			<released>2024</released>
+		</composition>
+		<composition>
 			<name>Variations VII</name>
 			<description>9 Evenings: Theatre &amp; Engineering</description>
 			<length>1:25:00</length>
@@ -2051,6 +2125,18 @@
 			<recorded start="1993"/>
 			<release>Mode 63</release>
 			<released>1998</released>
+		</composition>
+		<composition>
+			<name>Variations VII</name>
+			<description>For any number of musicians using photo-electric cells and electronic equipment</description>
+			<description>Released as part of Actions-Remarks, The Complete John Cage Variations Project</description>
+			<description>Realization for mobile phones, tablet computers, and laptops</description>
+			<length>12:39</length>
+			<player name="Decibel"/>
+			<composed start="1966" end="1972"/>
+			<recorded start="?"/>
+			<release>Mode 342</release>
+			<released>2024</released>
 		</composition>
 		<composition>
 			<name>Mesostics re Merce Cunningham/Untitled</name>
@@ -2197,6 +2283,18 @@
 			<recorded start="2011"/>
 			<release>Brilliant Classics 9284</release>
 			<released>2012</released>
+		</composition>
+		<composition>
+			<name>Variations VIII</name>
+			<description>For no music or recordings</description>
+			<description>Released as part of Actions-Remarks, The Complete John Cage Variations Project</description>
+			<description>Realization for no input feedback bass clarinet</description>
+			<length>11:32</length>
+			<player name="Decibel"/>
+			<composed start="1976" end="1978"/>
+			<recorded start="?"/>
+			<release>Mode 342</release>
+			<released>2024</released>
 		</composition>
 		<composition>
 			<name>Some of “The Harmony of Maine” (Supply Belcher)</name>
