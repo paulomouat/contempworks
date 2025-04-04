@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE list SYSTEM "contempworks.dtd">
-<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!-- <!DOCTYPE list SYSTEM "contempworks.dtd"> -->
+<!-- <?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?> -->
 <!--
   opening quotes: “
   closing quotes: ”
@@ -2813,6 +2813,17 @@
 			<released>2017</released>
 		</composition>
 		<composition>
+			<name>Éclat</name>
+			<description>pour quinze instruments</description>
+			<length>9:07</length>
+			<player name="Ensemble Contrechamps"/>
+			<conductor>Michael Wendeberg</conductor>
+			<composed start="1964" end="1965"/>
+			<recorded start="2021"/>
+			<release>bastille musique 34</release>
+			<released>2025</released>
+		</composition>
+		<composition>
 			<name>Livre pour cordes</name>
 			<length>10:34</length>
 			<player name="Strings of the New Philharmonia Orchestra"/>
@@ -3039,6 +3050,35 @@
 			<recorded start="1981"/>
 			<release>Deutsche Grammophon 480 6829</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Éclat-Multiples</name>
+			<description>pour vingt-cinq instruments</description>
+			<length>32:31</length>
+			<part>
+				<number>1</number>
+				<name>Eclat (version alternative)</name>
+				<description>pour quinze instruments</description>
+				<length>9:20</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Multiples</name>
+				<description>pour vingt-cinq instruments</description>
+				<length>19:09</length>
+			</part>
+			<part>
+				<number>3</number>
+				<name>Multiples (fragment d’expression)</name>
+				<description>pour vingt-cinq instruments</description>
+				<length>4:02</length>
+			</part>
+			<player name="Ensemble Contrechamps"/>
+			<conductor>Michael Wendeberg</conductor>
+			<composed start="1964" end="1970"/>
+			<recorded start="2021"/>
+			<release>bastille musique 34</release>
+			<released>2025</released>
 		</composition>
 		<composition>
 			<name>Mémoriale (...explosante-fixe... originel)</name>
@@ -3391,6 +3431,41 @@
 			<recorded start="1999"/>
 			<release>Deutsche Grammophon 480 6833</release>
 			<released>2013</released>
+		</composition>
+		<composition>
+			<name>Sur incises</name>
+			<description>pour trois pianos, trois harpes et trois percussions-claviers</description>
+			<length>37:31</length>
+			<part>
+				<number>1</number>
+				<name>Moment I</name>
+				<length>14:56</length>
+			</part>
+			<part>
+				<number>2</number>
+				<name>Moment II</name>
+				<length>22:35</length>
+			</part>
+			<instrument name="harp">
+				<player name="Manon Pierrehumbert"/>
+				<player name="Anne Bassand"/>
+				<player name="Julie Sicre"/>
+			</instrument>
+			<instrument name="percussion">			
+				<player name="Brian Archinal"/>
+				<player name="Julien Mégroz"/>
+				<player name="Sébastien Cordier"/>
+			</instrument>
+			<instrument name="piano">
+				<player name="Stefan Wirth"/>
+				<player name="Antoine Françoise"/>
+				<player name="Gilles Grimaître"/>
+			</instrument>
+			<conductor>Michael Wendeberg</conductor>
+			<composed start="1996" end="1998"/>
+			<recorded start="2021"/>
+			<release>bastille musique 34</release>
+			<released>2025</released>
 		</composition>
 		<composition>
 			<name>Anthèmes II</name>
