@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE list SYSTEM "contempworks.dtd">
-<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?>
+<!-- <!DOCTYPE list SYSTEM "contempworks.dtd">
+<?xml-stylesheet type="text/xsl" href="contempworks.xsl" encoding="iso-8859-1"?> -->
 <!--
   opening quotes: “
   closing quotes: ”
   single quote: ’
 -->
 <list>
-	<composer name="Peter" surname="Ablinger" born="1959" died="">
+	<composer name="Peter" surname="Ablinger" born="1959" died="2025">
 		<composition>
 			<name>IEAOV Instrumente und ElektroAkustisch Ortsbezogene Verdichtung</name>
 			<description>für 2 Posaunen und 2 Violoncelli</description>
